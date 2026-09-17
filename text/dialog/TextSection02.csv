@@ -1,4 +1,4 @@
-﻿Index[#version],Pointer[#version|],Original,Translated
+Index[#version],Pointer[#version|],Original,Translated
 000,0x120000,男型ティンペットを手に入れた!,Received a male Tinpet!
 001,0x120002,女型ティンペットを手に入れた!,Received a female Tinpet!
 002,0x120004,あっ!<CD>これいじょう 持てないや!<CF>ティンペットをあきらめた!,Oops! You can't carry any more Tinpets!<CF>You gave up the Tinpet.
@@ -36,68 +36,68 @@
 034,0x120044,「<&BUF06>」を<CD><&BUF07>個 手に入れた,I have <&BUF07> <&BUF06>.
 035,0x12004a,「<&BUF06>」が<CD><&BUF07>個なくなった,I do not have <&BUF07> <&BUF06>.
 036,0x12004c,イベントオ-バ- フリ-ズ!!<*04>,Event overfreeze!<*04>
-037,0x12005a,<SFF>みんな 友だち<*04>,
-038,0x120062,<SFF>あたしたちは ずっと いっしょ<*04>,
-039,0x120064,<SFF>大人に なってもな!<*04>,
-040,0x120066,<SFF>なかまが いるって ステキですわ♥<*04>,
-041,0x120068,<SFF>せ-の...<CD>メダロット!<*02>,
-042,0x12006a,ゲ-ムの デ-タを 全て けします<CD>よろしいですか?<*04>,
-043,0x120092,もういちど はじめから<CD>ゲ-ムを プレイしてください<*02>,
-044,0x120094,まちがって けさないように<CD>ちゅういしてください<*02>,
-045,0x120096,メダスピ-ドキングの ベスト<CD>TIMEは「<&BUF06>:<&BUF08>」です,
-046,0x1200a2,メダスピ-ドキングの ベスト<CD>TIMEの きろくは あリません,
-047,0x1200a4,メダバ-ドコンテストの<CD>ドラコンコ-スの<CF>ベスト ひきょリは「<&BUF06>」です,
-048,0x1200a6,メダバ-ドコンテストの ベスト<CD>ひきょリの きろくは あリません,
-049,0x1200a8,ロボトルの 勝利数は<CD><&BUF06>回です,
-050,0x1200aa,ダ-クロボトルの 勝利数は<CD><&BUF06>回です,
-051,0x1200ac,ミスコンテストの 勝利数は<CD><&BUF06>回です,
-052,0x1200ae,メダスピ-ドキングの 勝利数は<CD><&BUF06>回です,
-053,0x1200b0,メダバ-ドコンテストの 勝利数は<CD><&BUF06>回です,
-054,0x1200b2,メダロ-ドレ-スの 勝利数は<CD><&BUF06>回です,
-055,0x1200b4,あれって しょうぼう車型 メダロット<CD>ブレイブファイヤ!?<CF>ブレイブファイヤ<CD>右45ど せんかい!<CF>...ドライブC ファイヤ!<CF>はい マスタ-<CF>...って ちょっと!<CD>ブレイブファイヤの ドライブCって<CF>それこそ ファイヤ-っ...!!<CF>...? あれ? 水が 出てる<CF>次! 左90ど せんかい<CD>ファイヤ!<CF>すごい! どんどん<CD>火が きえていく...!<*02>,
-056,0x1200c2,なぬ! 男!?<CF>ぼくは テンリョウ <&BUF03><CD>コウジを つれもどしに 来た!<CF>きさまが あの<CD>テンリョウ <&BUF03>か!<CF>く------っ オレごのみの<CD>女の子に ばけて<CF>オレを だますとは ゆるせんっ!!<CD>貝ていろっ!!<*02>,
-057,0x1200c6,わあ...すごい!<CF>いいけしきでしょ?<CF>このむらの中で ただ1つ<CD>あたしが 気に入ってる場所よ<CF>ここには よく 来るの?<CF>しょっちゅうね<CF>...来て よかったでしょ?<CF>うん!<*02>,
-058,0x1200ca,やあ <&BUF03>くん<CD>また 会えたね<CF>ハクマ...<CF>ハクマさま しょあくのこんげんは<CD>こやつですっ!<CF>こんなことになったのも<CD>全ては こやつがっ!!<CF>ごめん せいふくは かえすから!<CD>でも 今は そんなことよリ ハクマ<CF>リバティ-ズは もうすぐここに<CD>おしよせるよ<CF>みんなとっても こうふんしてる<CD>いったんここを はなれた方がいいよ<CF>いっしょに行こう ハクマ<CF>ふふ きみは 面白いね<CF>こんな じょうきょうに したのは<CD>きみと きみの なかまたちなのに<CF>ぼくを たすけようとするの?<*02>,
-059,0x1200ce,...! これって<CD>3Dホログラムだ!<CF>えっ? じゃあ...<CF>あの すなのたきが<CD>スクリ-ンがわリになって<CF>この えいぞうを<CD>うつしだしていたのね<CF>だけど こんな所に<CD>なんで こんなもんが...<CF>これも 宇宙人が のこした<CD>いせきの 1つだろうね<CF>...ほら 貝てよ<CF>宇宙人が メダロットの<CD>せつめいを してる<CF>このホログラムは きっと<CD>宇宙人が ちきゅうに<CF>メダロットを 持ってきたときに<CD>使ったんだよ!<CF>ほら ハ-トだ!<CF>宇宙人と 人間と メダロットたちの<CD>えの 間に ハ-トが かかれてる<CF>ハ-トって<CD>宇宙きょうつう語 なのかもね♥<*02>,
-060,0x1200d2,あなたは あいかわらずね<CF>よばれも しないのに 勝手に ヘやに<CD>ふみこんでくるところなんか とくに<CF>あんたこそ わがまま じこちゅ-<CF>うぬぼれやな とこなんか<CD>むかしの まんま<CF>ただちょっと 四天王とか 言われて<CD>いい気に なリすぎてんじゃない?<CF>ふふ あなたこそ 自分の 立場が<CD>分かって ないんじゃなくて?<CF>(な 何か 火花が ちってる)<CF>や-ねぇ あたしだって 1人っきリで<CD>のリこんできたって わけじゃないわ<CF>あんたの みかたが<CD>メダロットの ヘいたいなら<CF>こっちは じゆうを もとめる<CD>メダロッタ-ぐんだんよ!<CF>シュリ! 長年の けっちゃく<CD>今こそ つけてやるわ!<CF>(ひっえ-)<*02>,
-061,0x1200d6,こんにちは <&BUF03>くん<CD>アリカさん<CF>みずぎのカリンちゃん<CD>...かわいい♥<CF>何よ-っ 何で そっちの 学園は<CD>スク-ルみずぎじゃないのよっ!<CF>まあ そう言うなよ<CD>スク-ルみずぎだって わるくないぜ<CF>アリカさん とっても<CD>かわいいですわ♥<*02>,
-062,0x1200da,あの2体の メダロットは<CD>せかいせいふくのために<CF>ワシが きゃつに かいはつ<CD>させていたものじゃ<CF>パ-ツには メダルの パワ-を<CD>かいほうさせても その はんどうに<CF>じゅうぶん たえうる きょうどを<CD>持たせたのじゃ<CF>メダロットと 言うよリは<CD>ヘいきじゃな<CF>メダルの リミッタ-を かいじょし<CD>ぼうそうしたとすれば<CF>なみの メダロットでは<CD>とてもじゃないが とめられまい<CF>ちょっと- 何 むせきにんなもの<CD>作らせてんのよ!<CF>むせきにん? バカを 言うな!<CD>何のために 2体いると 思っとる<CF>かたほうが ぼうそうしても<CD>もうかたほうが ぼうそうしたヤツを<CF>おさえることが できるように<CD>なっとるんじゃ!<CF>リょうほう ぼうそうしたら<CD>どうする気よっ!<CF>がはははは! そこまでは<CD>考えてないわい!<CF>いばるな---っ!!<*02>,
-063,0x1200de,こ...っ これはっ!<*04>,
-064,0x1200e6,ふふふ 気に入ったかね?<CD>宇宙人が のこした<CF>ホログラムぎじゅつを<CD>おうようして みたのだよ<CF>まるで 本当に 宇宙空間に<CD>いるようだろう?<*02>,
-065,0x1200e8,それって あの いせきの!?<CD>...どっ どうして それをっ!<*02>,
-066,0x1200ea,むすこ ミズチが いせきで<CD>お前たちの あとを ついていき<CF>あの ホログラムはっせいそうちを<CD>はっけんしたのだ<*02>,
-067,0x1200ec,ミズチが?<*02>,
-068,0x1200ee,(あそこには フユ-ンスト-ンが<CD>あったはずだ!)<*02>,
-069,0x1200f0,ふふふ あの石のことか?<CF>かつて きょだい いせき<CD>「ふゆうようさい フユ-ン」を<CF>空に うかすことが できた石だ<CD>こんどは その力を わたしが 使い<CF>この学園全体を 空に うかせ<CD>わが きょてんと するのだ<CF>天空から 全せかいに むけて<CD>きょうめいでんぱを はっしんすれば<CF>全せかいの メダロットが<CD>わたしの 思い通リとなる!<*02>,
-070,UNUSED00,...わたしは ぜんせかいの<CD>王と なるのだ!<*02>,
-071,0x1200f2,!!!!!!<*02>,
-072,0x1200f4,宇宙人の テクノロジ-を もとめて<CD>シュリに いせきをさぐらせていたが<CF>いやぁ きみは じつに<CD>やくに 立ってくれた!<*02>,
-073,0x1200f6,リミッタ-を とかれ<CD>わたしの のうはと<CF>かんぜんに きょうめいした<CD>メダロット だい1ごうを 貝よ!<CF>いでよ「ビ-ストキング」!!<*02>,
-074,0x1200f8,"<@RL,FF,42>いらっしゃイ!<CD>「ネ-ムかえ-る」だヨ!<CF>きみの メダルの なまえヲ<CD>かえられるヨ!",
-075,0x120104,"<@RL,FF,42>また かえたくなったラ きてネ-",
-076,0x120106,<SFF>名前を かえたいメダルは どれかナ<*04>,
-077,0x120108,50¥かかるけど かえル?<*04>,
-078,0x12010a,お金が たリないヨ!<*02>,
-079,0x12010c,おっ! いい名前だナ!<*02>,
-080,0x12010e,ふ--ん! まあまあの名前だナ!<*02>,
-081,0x120110,ほっほ-っ! やはリ<CD>その名前できたカ!<*02>,
-082,0x120112,<SFF>リュウトウ学園の 地下ヘ 行く?<*04>,
-083,0x12011a,<SFF>リュウトウ学園の 1かいヘ 行く?<*04>,
-084,0x12011c,<SFF>リュウトウ学園の 2かいヘ 行く?<*04>,
-085,0x12011e,<SFF>リュウトウ学園の 3かいヘ 行く?<*04>,
-086,0x120120,<SFF>リュウトウ学園の 4かいヘ 行く?<*04>,
-087,0x120122,<SFF>リュウトウ学園の 5かいヘ 行く?<*04>,
-088,0x120124,まいど! いらっしゃい!<CD>メダロットの色 変えるんけ?<*04>,
-089,0x120142,メニュ-を 選んでや!<*04>,
-090,0x120144,お金 足リんがな~!<CD>もっと ちょきん しといでや!,
-091,0x120146,ペイントした メダロット<CD>持ってないやんけ!,
-092,0x120148,ペイントするけ?<CD>左右キ-で 色を 選んでや<*04>,
-093,0x12014e,ペイントは 100¥かかるで<CD>この色で ええけ?<*04>,
-094,0x120152,どや! カッコええやろ?<*03>,
-095,0x120154,この メダロットの色を<CD>元に もどしても ええけ?<*04>,
-096,0x120158,この店では あんたのメダロットの色を<CD>変えることが できんねや<CF>ふだんやったら 頭パ-ツを かえたら<CD>メダロットの色も 変わるけどな<CF>この店で ペイントした メダロットは<CD>メダルや パ-ツに かんけいなく<CF>ティンペットだけでも<CD>あんたの 選んだ色になるねん<CF>ペイントには 100¥かかるけど<CD>けっこう おもろいで!<CF>元の色に もどすんは いつでも<CD>タダで やったるからな<CF>自分だけの メダロットチ-ムを<CD>たのしみや~!!,
-097,0x12015a,...前の方が<CD>よかったんと ちゃうか~?<*03>,
-098,0x12015c,いま その色やがな!,
+037,0x12005a,<SFF>みんな 友だち<*04>,<SFF>We are all friends.<*04>
+038,0x120062,<SFF>あたしたちは ずっと いっしょ<*04>,<SFF>We will always be together.<*04>
+039,0x120064,<SFF>大人に なってもな!<*04>,<SFF>Even when we grow up!<*04>
+040,0x120066,<SFF>なかまが いるって ステキですわ♥<*04>,<SFF>Having friends is wonderful ♥<*04>
+041,0x120068,<SFF>せ-の...<CD>メダロット!<*02>,"<SFF>Ready, set...<D3>Medarot!<*02>"
+042,0x12006a,ゲ-ムの デ-タを 全て けします<CD>よろしいですか?<*04>,All game data will be erased.<D3>Are you sure?<*04>
+043,0x120092,もういちど はじめから<CD>ゲ-ムを プレイしてください<*02>,Please start the game<D3>from the beginning.<*02>
+044,0x120094,まちがって けさないように<CD>ちゅういしてください<*02>,Please be careful not to<D3>erase it by mistake.<*02>
+045,0x120096,メダスピ-ドキングの ベスト<CD>TIMEは「<&BUF06>:<&BUF08>」です,Your best TIME in<D3>Meda-Speed King is <&BUF06>:<&BUF08>.
+046,0x1200a2,メダスピ-ドキングの ベスト<CD>TIMEの きろくは あリません,There is no record of your<D3>best TIME in Meda-Speed King.
+047,0x1200a4,メダバ-ドコンテストの<CD>ドラコンコ-スの<CF>ベスト ひきょリは「<&BUF06>」です,Your best distance in the<D3>Meda-Bird Contest's Dragon Course<CF>is <&BUF06>.
+048,0x1200a6,メダバ-ドコンテストの ベスト<CD>ひきょリの きろくは あリません,There is no record of your<D3>best distance in Meda-Bird.
+049,0x1200a8,ロボトルの 勝利数は<CD><&BUF06>回です,Number of Robattle victories:<D3><&BUF06>
+050,0x1200aa,ダ-クロボトルの 勝利数は<CD><&BUF06>回です,Number of Dark Robattle victories:<D3><&BUF06>
+051,0x1200ac,ミスコンテストの 勝利数は<CD><&BUF06>回です,Number of Miss Contest victories:<D3><&BUF06>
+052,0x1200ae,メダスピ-ドキングの 勝利数は<CD><&BUF06>回です,Number of Meda-Speed King victories:<D3><&BUF06>
+053,0x1200b0,メダバ-ドコンテストの 勝利数は<CD><&BUF06>回です,Number of Meda-Bird victories:<D3><&BUF06>
+054,0x1200b2,メダロ-ドレ-スの 勝利数は<CD><&BUF06>回です,Number of Meda-Road Race victories:<D3><&BUF06>
+055,0x1200b4,あれって しょうぼう車型 メダロット<CD>ブレイブファイヤ!?<CF>ブレイブファイヤ<CD>右45ど せんかい!<CF>...ドライブC ファイヤ!<CF>はい マスタ-<CF>...って ちょっと!<CD>ブレイブファイヤの ドライブCって<CF>それこそ ファイヤ-っ...!!<CF>...? あれ? 水が 出てる<CF>次! 左90ど せんかい<CD>ファイヤ!<CF>すごい! どんどん<CD>火が きえていく...!<*02>,"That's the Fire Engine-type<D3>Medarot, Bravefire!?<CF>Bravefire,<D3>turn 45 degrees right!<CF>...Drive C, Fire!<CF>Yes, Master.<CF>...Wait a minute!<D3>Bravefire's Drive C is<CF>exactly that... Fire!!<CF>...? Huh? Water's coming out.<CF>Next! Turn 90 degrees left...<D3>Fire!<CF>Amazing! The fire is<D3>going out steadily...!<*02>"
+056,0x1200c2,なぬ! 男!?<CF>ぼくは テンリョウ <&BUF03><CD>コウジを つれもどしに 来た!<CF>きさまが あの<CD>テンリョウ <&BUF03>か!<CF>く------っ オレごのみの<CD>女の子に ばけて<CF>オレを だますとは ゆるせんっ!!<CD>貝ていろっ!!<*02>,What! A boy!?<CF>I am Tenryou <&BUF03>.<D3>I've come to take Kouji back!<CF>You're that<D3>Tenryou <&BUF03>!?<CF>Guhhh... To trick me by<D3>disguising yourself as<CF>a girl exactly to my liking...<D3>Unforgivable!!<CD>Just you wait!!<*02>
+057,0x1200c6,わあ...すごい!<CF>いいけしきでしょ?<CF>このむらの中で ただ1つ<CD>あたしが 気に入ってる場所よ<CF>ここには よく 来るの?<CF>しょっちゅうね<CF>...来て よかったでしょ?<CF>うん!<*02>,"Wow... Amazing!<CF>Nice view, isn't it?<CF>It's the only place in this<D3>village that I actually like.<CF>Do you come here often?<CF>All the time.<CF>...Glad you came, right?<CF>Yeah!<*02>"
+058,0x1200ca,やあ <&BUF03>くん<CD>また 会えたね<CF>ハクマ...<CF>ハクマさま しょあくのこんげんは<CD>こやつですっ!<CF>こんなことになったのも<CD>全ては こやつがっ!!<CF>ごめん せいふくは かえすから!<CD>でも 今は そんなことよリ ハクマ<CF>リバティ-ズは もうすぐここに<CD>おしよせるよ<CF>みんなとっても こうふんしてる<CD>いったんここを はなれた方がいいよ<CF>いっしょに行こう ハクマ<CF>ふふ きみは 面白いね<CF>こんな じょうきょうに したのは<CD>きみと きみの なかまたちなのに<CF>ぼくを たすけようとするの?<*02>,"Ah, <&BUF03>.<D3>We meet again.<CF>Hakuma...<CF>Lord Hakuma, the root of all<D3>this evil is this one here!<CF>Everything that has happened<D3>is entirely their fault!!<CF>Sorry, I'll return the uniform!<D3>But never mind that, Hakuma...<CF>The Liberties will be swarming<D3>this place very soon.<CF>Everyone is very excited.<D3>We should leave here for now.<CF>Let's go together, Hakuma.<CF>Hehe, you are an interesting one.<CF>Even though you and your friends<D3>caused this whole situation...<CF>You're trying to help me?<*02>"
+059,0x1200ce,...! これって<CD>3Dホログラムだ!<CF>えっ? じゃあ...<CF>あの すなのたきが<CD>スクリ-ンがわリになって<CF>この えいぞうを<CD>うつしだしていたのね<CF>だけど こんな所に<CD>なんで こんなもんが...<CF>これも 宇宙人が のこした<CD>いせきの 1つだろうね<CF>...ほら 貝てよ<CF>宇宙人が メダロットの<CD>せつめいを してる<CF>このホログラムは きっと<CD>宇宙人が ちきゅうに<CF>メダロットを 持ってきたときに<CD>使ったんだよ!<CF>ほら ハ-トだ!<CF>宇宙人と 人間と メダロットたちの<CD>えの 間に ハ-トが かかれてる<CF>ハ-トって<CD>宇宙きょうつう語 なのかもね♥<*02>,"...! This is a<D3>3D hologram!<CF>Huh? Then...<CF>That waterfall of sand was<D3>acting as a screen<CF>to project this image.<CF>But why would something<D3>like this be here...<CF>This must be another ruin<D3>left behind by aliens.<CF>...Look at this.<CF>The alien is explaining<D3>Medarots.<CF>They probably used this<D3>hologram when they<CF>brought Medarots to Earth!<CF>Look, a heart!<CF>There's a heart drawn between<D3>the alien, the human, and the Medarot.<CF>Maybe a heart is<D3>a universal symbol ♥<*02>"
+060,0x1200d2,あなたは あいかわらずね<CF>よばれも しないのに 勝手に ヘやに<CD>ふみこんでくるところなんか とくに<CF>あんたこそ わがまま じこちゅ-<CF>うぬぼれやな とこなんか<CD>むかしの まんま<CF>ただちょっと 四天王とか 言われて<CD>いい気に なリすぎてんじゃない?<CF>ふふ あなたこそ 自分の 立場が<CD>分かって ないんじゃなくて?<CF>(な 何か 火花が ちってる)<CF>や-ねぇ あたしだって 1人っきリで<CD>のリこんできたって わけじゃないわ<CF>あんたの みかたが<CD>メダロットの ヘいたいなら<CF>こっちは じゆうを もとめる<CD>メダロッタ-ぐんだんよ!<CF>シュリ! 長年の けっちゃく<CD>今こそ つけてやるわ!<CF>(ひっえ-)<*02>,"You haven't changed at all.<CF>Especially how you just barge into<D3>rooms without being invited.<CF>You're the one who's just as<D3>selfish and conceited<CF>as you've always been.<CF>Aren't you just letting that<D3>""Four Heavenly Kings"" title go to your head?<CF>Hehe... Aren't you the one who<D3>doesn't understand your position?<CF>(W-Wow, sparks are flying...)<CF>Oh please. I didn't come<D3>barging in here all alone.<CF>If your allies are an<D3>army of Medarots...<CF>Then mine is an army of Medafighters<D3>seeking freedom!<CF>Shuri! It's time to settle<D3>our long-standing score!<CF>(Eeeeek!)<*02>"
+061,0x1200d6,こんにちは <&BUF03>くん<CD>アリカさん<CF>みずぎのカリンちゃん<CD>...かわいい♥<CF>何よ-っ 何で そっちの 学園は<CD>スク-ルみずぎじゃないのよっ!<CF>まあ そう言うなよ<CD>スク-ルみずぎだって わるくないぜ<CF>アリカさん とっても<CD>かわいいですわ♥<*02>,"Hello, <&BUF03>.<D3>Arika.<CF>Karin in a swimsuit...<D3>...So cute ♥<CF>What the--! Why doesn't your<D3>school use school swimsuits!?<CF>Come on, don't say that.<D3>School swimsuits aren't bad either.<CF>Arika,<D3>you look very cute ♥<*02>"
+062,0x1200da,あの2体の メダロットは<CD>せかいせいふくのために<CF>ワシが きゃつに かいはつ<CD>させていたものじゃ<CF>パ-ツには メダルの パワ-を<CD>かいほうさせても その はんどうに<CF>じゅうぶん たえうる きょうどを<CD>持たせたのじゃ<CF>メダロットと 言うよリは<CD>ヘいきじゃな<CF>メダルの リミッタ-を かいじょし<CD>ぼうそうしたとすれば<CF>なみの メダロットでは<CD>とてもじゃないが とめられまい<CF>ちょっと- 何 むせきにんなもの<CD>作らせてんのよ!<CF>むせきにん? バカを 言うな!<CD>何のために 2体いると 思っとる<CF>かたほうが ぼうそうしても<CD>もうかたほうが ぼうそうしたヤツを<CF>おさえることが できるように<CD>なっとるんじゃ!<CF>リょうほう ぼうそうしたら<CD>どうする気よっ!<CF>がはははは! そこまでは<CD>考えてないわい!<CF>いばるな---っ!!<*02>,"Those two Medarots were<D3>developed for world domination<CF>by that fool under my orders.<CF>Their parts were built tough<D3>enough to withstand the recoil<CF>even when the Medal's power<D3>is fully released.<CF>They are weapons, rather<D3>than Medarots.<CF>If their limiters were released<D3>and they went berserk,<CF>an ordinary Medarot wouldn't<D3>stand a chance of stopping them.<CF>Hey--! Why would you make<D3>something so irresponsible!?<CF>Irresponsible? Don't be foolish!<D3>Why do you think there are two of them?<CF>If one goes berserk,<D3>the other one is designed<CF>to be able to suppress it!<CF>What if they BOTH go berserk!?<CF>Gahahahaha! I didn't think<D3>quite that far ahead!<CF>Don't look so proud of that!!<*02>"
+063,0x1200de,こ...っ これはっ!<*04>,T...This is...!!<*04>
+064,0x1200e6,ふふふ 気に入ったかね?<CD>宇宙人が のこした<CF>ホログラムぎじゅつを<CD>おうようして みたのだよ<CF>まるで 本当に 宇宙空間に<CD>いるようだろう?<*02>,"Hehehe, do you like it?<D3>It's an application of<CF>the hologram technology<D3>left behind by the aliens.<CF>It feels just like you're<D3>really in outer space, doesn't it?<*02>"
+065,0x1200e8,それって あの いせきの!?<CD>...どっ どうして それをっ!<*02>,Is that from those ruins!?<D3>...W-Why do you have it!?<*02>
+066,0x1200ea,むすこ ミズチが いせきで<CD>お前たちの あとを ついていき<CF>あの ホログラムはっせいそうちを<CD>はっけんしたのだ<*02>,"My son, Mizuchi, followed<D3>you into the ruins<CF>and discovered that<D3>hologram generator.<*02>"
+067,0x1200ec,ミズチが?<*02>,Mizuchi did?<*02>
+068,0x1200ee,(あそこには フユ-ンスト-ンが<CD>あったはずだ!)<*02>,(The Fuyun Stone<D3>was supposed to be there!)<*02>
+069,0x1200f0,ふふふ あの石のことか?<CF>かつて きょだい いせき<CD>「ふゆうようさい フユ-ン」を<CF>空に うかすことが できた石だ<CD>こんどは その力を わたしが 使い<CF>この学園全体を 空に うかせ<CD>わが きょてんと するのだ<CF>天空から 全せかいに むけて<CD>きょうめいでんぱを はっしんすれば<CF>全せかいの メダロットが<CD>わたしの 思い通リとなる!<*02>,"Hehehe... You mean that stone?<CF>It's the stone that once allowed<D3>the giant floating fortress Fuyun<CF>to float in the sky.<D3>This time, I will use its power<CF>to lift this entire academy into the air<D3>and make it my stronghold.<CF>If we broadcast a resonance wave<D3>from the sky to the entire world,<CF>every Medarot in the world<D3>will be under my control!<*02>"
+070,UNUSED00,...わたしは ぜんせかいの<CD>王と なるのだ!<*02>,...And I will become<D3>the King of the World!<*02>
+071,0x1200f2,!!!!!!<*02>,!!!!!!<*02>
+072,0x1200f4,宇宙人の テクノロジ-を もとめて<CD>シュリに いせきをさぐらせていたが<CF>いやぁ きみは じつに<CD>やくに 立ってくれた!<*02>,"I had Shuri explore the ruins in<D3>search of alien technology...<CF>But wow, you have been<D3>incredibly useful to me!<*02>"
+073,0x1200f6,リミッタ-を とかれ<CD>わたしの のうはと<CF>かんぜんに きょうめいした<CD>メダロット だい1ごうを 貝よ!<CF>いでよ「ビ-ストキング」!!<*02>,"Behold, Medarot Number 1!<D3>Its limiter released, perfectly<CF>resonating with my brainwaves!<CF>Come forth, ""Beast King""!!<*02>"
+074,0x1200f8,"<@RL,FF,42>いらっしゃイ!<CD>「ネ-ムかえ-る」だヨ!<CF>きみの メダルの なまえヲ<CD>かえられるヨ!","<@RL,FF,42>Welcome!<D3>This is ""Name Changer""!<CF>You can change the<D3>names of your Medals!"
+075,0x120104,"<@RL,FF,42>また かえたくなったラ きてネ-","<@RL,FF,42>Come back if you want to<D3>change them again~"
+076,0x120106,<SFF>名前を かえたいメダルは どれかナ<*04>,<SFF>Which Medal's name<D3>would you like to change?<*04>
+077,0x120108,50¥かかるけど かえル?<*04>,It costs 50¥. Change it?<*04>
+078,0x12010a,お金が たリないヨ!<*02>,You don't have enough money!<*02>
+079,0x12010c,おっ! いい名前だナ!<*02>,Oh! That's a good name!<*02>
+080,0x12010e,ふ--ん! まあまあの名前だナ!<*02>,Hmm! That's an okay name!<*02>
+081,0x120110,ほっほ-っ! やはリ<CD>その名前できたカ!<*02>,"Oho! You decided to go<D3>with that name, huh!<*02>"
+082,0x120112,<SFF>リュウトウ学園の 地下ヘ 行く?<*04>,<SFF>Go to the basement of<D3>Ryuto Academy?<*04>
+083,0x12011a,<SFF>リュウトウ学園の 1かいヘ 行く?<*04>,<SFF>Go to the 1st floor of<D3>Ryuto Academy?<*04>
+084,0x12011c,<SFF>リュウトウ学園の 2かいヘ 行く?<*04>,<SFF>Go to the 2nd floor of<D3>Ryuto Academy?<*04>
+085,0x12011e,<SFF>リュウトウ学園の 3かいヘ 行く?<*04>,<SFF>Go to the 3rd floor of<D3>Ryuto Academy?<*04>
+086,0x120120,<SFF>リュウトウ学園の 4かいヘ 行く?<*04>,<SFF>Go to the 4th floor of<D3>Ryuto Academy?<*04>
+087,0x120122,<SFF>リュウトウ学園の 5かいヘ 行く?<*04>,<SFF>Go to the 5th floor of<D3>Ryuto Academy?<*04>
+088,0x120124,まいど! いらっしゃい!<CD>メダロットの色 変えるんけ?<*04>,Welcome!<D3>Wanna change your Medarot's color?<*04>
+089,0x120142,メニュ-を 選んでや!<*04>,Please choose from the menu!<*04>
+090,0x120144,お金 足リんがな~!<CD>もっと ちょきん しといでや!,You don't have enough money!<D3>Save up and come back later!
+091,0x120146,ペイントした メダロット<CD>持ってないやんけ!,You don't have any<D3>painted Medarots!
+092,0x120148,ペイントするけ?<CD>左右キ-で 色を 選んでや<*04>,Wanna paint it?<D3>Use Left/Right to choose a color.<*04>
+093,0x12014e,ペイントは 100¥かかるで<CD>この色で ええけ?<*04>,Painting costs 100¥.<D3>Is this color okay?<*04>
+094,0x120152,どや! カッコええやろ?<*03>,"How is it! Looks cool, right?<*03>"
+095,0x120154,この メダロットの色を<CD>元に もどしても ええけ?<*04>,Change this Medarot's color<D3>back to its original color?<*04>
+096,0x120158,この店では あんたのメダロットの色を<CD>変えることが できんねや<CF>ふだんやったら 頭パ-ツを かえたら<CD>メダロットの色も 変わるけどな<CF>この店で ペイントした メダロットは<CD>メダルや パ-ツに かんけいなく<CF>ティンペットだけでも<CD>あんたの 選んだ色になるねん<CF>ペイントには 100¥かかるけど<CD>けっこう おもろいで!<CF>元の色に もどすんは いつでも<CD>タダで やったるからな<CF>自分だけの メダロットチ-ムを<CD>たのしみや~!!,"At this shop, you can change<D3>the color of your Medarots.<CF>Normally, a Medarot's color changes<D3>based on its Head part.<CF>But a Medarot painted here will<D3>stay the color you choose,<CF>regardless of its Medal or parts.<D3>Even if it's just a Tinpet!<CF>Painting costs 100¥,<D3>but it's a lot of fun!<CF>Restoring the original color<D3>is always free.<CF>Enjoy making your very own<D3>unique Medarot team!!"
+097,0x12015a,...前の方が<CD>よかったんと ちゃうか~?<*03>,...Wasn't the previous one<D3>better~?<*03>
+098,0x12015c,いま その色やがな!,It's already that color!
 099,0x12015e,...あ! まてっ!,...Hey! Wait!
 100,0x120160,お買いあげ パ-ツの<CD>しゅるいを 選んでください<*04>,Please select the type of part you'd like to purchase.<*04>
 101,0x120164,お買いあげ ですね?<CD>パ-ツのしゅるいを 選んでください<*04>,"Select the type of part you'd like to purchase, okay? ♥<*04>"
@@ -116,7 +116,7 @@
 114,0x120190,お金が 足リないよ<*04>,You don't have the money.<*04>
 115,0x120192,お金が 足リないでござる<*04>,"You do not have enough money, sir.<*04>"
 116,0x120194,パスカ-ドが あリません<*03>,You don't have any Pass Cards.<*03>
-117,0x120196,パスワ-ドが まちがっています<*03>,
+117,0x120196,パスワ-ドが まちがっています<*03>,The password is incorrect.<*03>
 118,0x12019e,<SFF>いらっしゃいませ<CD>何に いたしますか?<*04>,"<SFF>Welcome valued customer, how may I help you?<*04>"
 119,0x1201ae,<SFF>いらっしゃいませ<CD>何に いたしますか?<*04>,"<SFF>Welcome valued customer, how may I help you?<*04>"
 120,0x1201b0,<SFF>何に いたしますか?<CD>メニュ-を選んでね♥<*04>,"<SFF>How may I help you?<D3>Select with the menu, okay? ♥<*04>"
@@ -132,14 +132,14 @@
 130,0x1201c4,パスポイントが あリません<*03>,You have no Pass Points.<*03>
 131,0x1201c8,よろしいですか?<*04>,Are you sure?<*04>
 132,0x1201d0,このパスワ-ドで 手に入るパ-ツは<CD>すでに持っています!<*03>,You already have the part you can get with this password!<*03>
-133,0x1201d8,会話TESTです 会話TESTです<CD>会話TESTです 会話TESTです,
-134,0x1201e2,1ばん<CD>2ばん<CD>3ばん<CD>4ばん<CD>5ばん<CD>,
-135,0x1201e4,<SFF>スタ-トボタンで<CD>パ-ツしょうさい画面ヘ<*04>,
-136,0x1201e8,これいじょう 持てません!<*04>,
-137,0x1201ea,これいじょう 持てません!<*04>,
-138,0x1201ec,これいじょう 持てません!<*04>,
-139,0x1201ee,これいじょう 持てません!<*04>,
-140,0x1201f0,<FINAL>,
+133,0x1201d8,会話TESTです 会話TESTです<CD>会話TESTです 会話TESTです,Conversation TEST Conversation TEST<D3>Conversation TEST Conversation TEST
+134,0x1201e2,1ばん<CD>2ばん<CD>3ばん<CD>4ばん<CD>5ばん<CD>,No. 1<D3>No. 2<D3>No. 3<D3>No. 4<D3>No. 5<D3>
+135,0x1201e4,<SFF>スタ-トボタンで<CD>パ-ツしょうさい画面ヘ<*04>,<SFF>Press START to go to<D3>the part details screen.<*04>
+136,0x1201e8,これいじょう 持てません!<*04>,You can't carry any more!<*04>
+137,0x1201ea,これいじょう 持てません!<*04>,You can't carry any more!<*04>
+138,0x1201ec,これいじょう 持てません!<*04>,You can't carry any more!<*04>
+139,0x1201ee,これいじょう 持てません!<*04>,You can't carry any more!<*04>
+140,0x1201f0,<FINAL>,<FINAL>
 141,0x120046,@0x120044,@0x120044
 142,0x120048,@0x120044,@0x120044
 143,0x12004e,@0x12004c,@0x12004c
