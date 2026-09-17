@@ -1,4 +1,4 @@
-﻿Index[#version],Pointer[#version|],Original,Translated
+Index[#version],Pointer[#version|],Original,Translated
 000,0x123042,<SFF>てき1体の 全パ-ツに ダメ-ジ<CD> <*04>,<SFF>Damages all parts of one<D3>enemy.<*04>
 001,0x123044,<SFF>てき全体の 1パ-ツに ダメ-ジ<CD> <*04>,<SFF>Damages one part of all<D3>enemies.<*04>
 002,0x123046,<SFF>全ての しゃげきパ-ツの<CD>いリょくを プラスして 攻撃<*04>,<SFF>Attacks enemy using combined<D3>power of all <f02>Shooting<f00> parts.<*04>
@@ -59,16 +59,16 @@
 057,0x1230b4,<SFF>みかた全体の<CD>2パ-ツを ふっかつする<*04>,<SFF>Repair two parts on all allies<*04>
 058,0x1230b6,<SFF>みかた全体の<CD>3パ-ツを ふっかつする<*04>,<SFF>Repair three parts on all<D3>allies<*04>
 059,0x1230b8,<SFF>それまで うけた ダメ-ジを<CD>パワ-に ヘんかんして 攻撃!<*04>,<SFF>Convert damage taken into an attack!<*04>
-060,0x1230ba,<SFF>全ての パ-ツによる攻撃は<CD>100を さかいにして はんてんする<*04>,
-061,0x1230bc,<SFF>メダチェンジが できなくなリ<CD>メダチェンジの かいじょも できない<*04>,
-062,0x1230be,<SFF>全てのてきに デストロイ攻撃<CD><*04>,
+060,0x1230ba,<SFF>全ての パ-ツによる攻撃は<CD>100を さかいにして はんてんする<*04>,<SFF>All parts' attacks invert<D3>their damage across 100.<*04>
+061,0x1230bc,<SFF>メダチェンジが できなくなリ<CD>メダチェンジの かいじょも できない<*04>,"<SFF>Unable to Medachange,<D3>or cancel Medachanges.<*04>"
+062,0x1230be,<SFF>全てのてきに デストロイ攻撃<CD><*04>,<SFF>Destroy attack<D3>on all enemies!<*04>
 063,0x1230c0,<SFF>せんとうフィ-ルドの 地形を<CD>「はリじごく」に ヘんかさせる<*04>,<SFF>Changes battle terrain into Needle Hell field<*04>
 064,0x1230c2,<SFF>せんとうフィ-ルドの 地形を<CD>「ようがん」に ヘんかさせる<*04>,<SFF>Changes battle terrain into Lava field<*04>
 065,0x1230c4,<SFF>せんとうフィ-ルドの 地形を<CD>「じゅかい」に ヘんかさせる<*04>,<SFF>Changes battle terrain into Sea of Trees field<*04>
 066,0x1230c6,<SFF>せんとうフィ-ルドの 地形を<CD>「ステ-ジ」に ヘんかさせる<*04>,<SFF>Changes battle terrain into Stage field<*04>
 067,0x1230c8,<SFF>せんとうフィ-ルドの 地形を<CD>「しんかい」に ヘんかさせる<*04>,<SFF>Changes battle terrain into Deep Sea field<*04>
 068,0x1230ca,<SFF>せんとうフィ-ルドの 地形を<CD>「ミクロ」に ヘんかさせる<*04>,<SFF>Changes battle terrain into Micro field<*04>
-069,0x1230cc,<FINAL>,
+069,0x1230cc,<FINAL>,<FINAL>
 070,0x1230ce,@0x1230cc,@0x1230cc
 071,0x1230d0,@0x1230cc,@0x1230cc
 072,0x1230d2,@0x1230cc,@0x1230cc
