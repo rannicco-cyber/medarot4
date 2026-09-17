@@ -1,4 +1,4 @@
-﻿Index[#version],Pointer[#version|],Original,Translated
+Index[#version],Pointer[#version|],Original,Translated
 000,0x121675,<SFF>脚部パ-ツを<CD>ゆうせんてきに ねらって 行動する<*04>,<SFF>Prefers to target leg parts.<*04>
 001,0x121677,<SFF>脚部パ-ツを<CD>ゆうせんてきに ねらって 行動する<*04>,<SFF>Prefers to target leg parts.<*04>
 002,0x121679,<SFF>症状の ついていないパ-ツを<CD>ゆうせんてきに ねらって 行動する<*04>,<SFF>Prioritizes attacking parts<D3>without the Status attribute.<*04>
@@ -35,7 +35,7 @@
 033,0x1216b7,<SFF>脚部パ-ツを<CD>ゆうせんてきに ねらって 行動する<*04>,<SFF>Prefers to target leg parts.<*04>
 034,0x1216b9,<SFF>のこリ そうこうの 高いパ-ツを<CD>ゆうせんてきに ねらって 行動する<*04>,<SFF>Prioritizes attacking parts<D3>with the most armor (HP)<*04>
 035,0x1216bb,<SFF>症状の ついていないパ-ツを<CD>ゆうせんてきに ねらって 行動する<*04>,<SFF>Prioritizes attacking parts<D3>without status effects.<*04>
-036,0x1216bd,<FINAL>,
+036,0x1216bd,<FINAL>,<FINAL>
 037,0x1216bf,@0x1216bd,@0x1216bd
 038,0x1216c1,@0x1216bd,@0x1216bd
 039,0x1216c3,@0x1216bd,@0x1216bd
