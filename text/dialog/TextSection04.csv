@@ -1,53 +1,53 @@
-﻿Index[#version],Pointer[#version|],Original,Translated
+Index[#version],Pointer[#version|],Original,Translated
 000,0x121c17,<SFF>これを 使うと ロボトルから<CD>にげられるんだ<*02>,<SFF>Use this to run away from<D3>robattles.<*02>
 001,0x121c19,<SFF>これが あれば<CD>町の つながリが 分かるよ!<*02>,<SFF>Use this to view the<D3>layout of the town!<*02>
-002,0x121c1b,<SFF>イワノイの おなじみ アイテム<CD>みんなと れんらくを とれるよ<*02>,
-003,0x121c1d,<SFF>ぼくが とリかえした<CD>リんたろうたちの メダロッチ<*02>,
-004,0x121c1f,<SFF>これが あれば「メダロット3」から<CD>パ-ツを 転送できるんだ!<*02>,
-005,0x121c21,<SFF>「おみくじ じんじゃ」で<CD>引いた おみくじ<*02>,
-006,0x121c23,<SFF>かっこいい ヒ-ロ-に<CD>ヘんしんできる セットだ!<*02>,
-007,0x121c25,<SFF>夏! 海!...と来れば<CD>みずぎは おやくそくだよね<*02>,
+002,0x121c1b,<SFF>イワノイの おなじみ アイテム<CD>みんなと れんらくを とれるよ<*02>,<SFF>Iwanoi's signature item.<D3>Used to contact everyone.<*02>
+003,0x121c1d,<SFF>ぼくが とリかえした<CD>リんたろうたちの メダロッチ<*02>,<SFF>The Medarotch I took back<D3>from Rintarou and the others.<*02>
+004,0x121c1f,<SFF>これが あれば「メダロット3」から<CD>パ-ツを 転送できるんだ!<*02>,"<SFF>If I have this, I can transfer<D3>parts from Medarot 3!<*02>"
+005,0x121c21,<SFF>「おみくじ じんじゃ」で<CD>引いた おみくじ<*02>,<SFF>A fortune I drew at<D3>the Fortune Shrine.<*02>
+006,0x121c23,<SFF>かっこいい ヒ-ロ-に<CD>ヘんしんできる セットだ!<*02>,<SFF>A set that lets you transform<D3>into a cool hero!<*02>
+007,0x121c25,<SFF>夏! 海!...と来れば<CD>みずぎは おやくそくだよね<*02>,<SFF>Summer! The sea! You can't go<D3>to the beach without a swimsuit!<*02>
 008,0x121c27,<SFF>カ-ドに ポイントを あつめて<CD>パ-ツを もらおう!<*02>,<SFF>Save up points on this<D3>card to get parts!<*02>
-009,0x121c29,<SFF>正しい パスワ-ドを 入力して<CD>パ-ツを もらおう!<*02>,
-010,0x121c2b,<SFF>メダロット「ヴェイパ-レ-ル」で<CD>まちを かっとばす!<*02>,<SFF>Quickly travel around town<D3>using <f02>Vapor-Rail<f00>!<*02>
-011,0x121c2d,<SFF>メダロット「オ-トクル-ズ」で<CD>みずのなかを ス-イスイ!<*02>,<SFF>Use <f02>Auto-Cruise<f00> to swim<D3>through the ocean floor!<*02>
-012,0x121c2f,<SFF>メダロット「スカイカ-ゴ」で<CD>まちを ひとっとび!<*02>,<SFF>Use <f02>Sky Cargo<f00> to fly<D3>around town!<*02>
-013,0x121c31,<SFF>ワンピ-スで おしゃれに ヘんしん♥<CD>...って なんだかな-<*02>,
-014,0x121c33,<SFF>かわいいメイドに ヘんしん♥<CD>...こんなのばっかし-っ!!<*02>,
-015,0x121c35,<SFF>サザンカ道場の 正門を<CD>あける カギ<*02>,
-016,0x121c37,<SFF>シュッと ひとふき<CD>グッスリ スヤスヤ<*02>,
-017,0x121c39,<SFF>トラニシ学底の せいふく<CD>トラニシ学底生に ヘんしん<*02>,
-018,0x121c3b,<SFF>あいじょう た-っぷリの<CD>ママが 作った おベんとう♥<*02>,
-019,0x121c3d,<SFF>メダバ-ドの ゆうしょうしょうひん<CD>何が 入っているのだろう...?<*02>,
-020,0x121c3f,<SFF>おさむらいさんに ヘんしん<CD>ぼくの ちょんまげに ピッタシ♥<*02>,
-021,0x121c41,<SFF>これが ないと<CD>およげないんだよね...<*02>,
-022,0x121c43,<SFF>ウミネコホテルの<CD>ぼくの ヘやの カギ<*02>,
-023,0x121c45,<SFF>タマゴが 12こ入った パック<CD>こんどは わらないように しなきゃ<*02>,
-024,0x121c47,<SFF>ほかの 学底生の ふくと ちょっと<CD>デザインが ちがうみたいだ<*02>,
-025,0x121c49,<SFF>リュウトウ学園の ドアを<CD>あけるために ひつようなんだ<*02>,
-026,0x121c4b,<SFF>メダマスタ-の あかし<CD>メダロッタ-の ほこリだ!<*02>,
-027,0x121c4d,<SFF>メダマスタ-に なるには くびに<CD>かけて 町を 歩かなきゃいけないんだ<*02>,
-028,0x121c4f,<SFF>コンビニまで ママの おつかい<CD>この お金は つかえないよ<*02>,
-029,0x121c51,<SFF>シュリから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,
-030,0x121c53,<SFF>ミズチから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,
-031,0x121c55,<SFF>ハクマから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,
-032,0x121c57,<SFF>コクエンから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,
-033,0x121c59,<SFF>サブゲ-ム ダ-クロボトルを<CD>勝ちぬいた あかしだ<*02>,
-034,0x121c5b,<SFF>サブゲ-ム メダスピ-ドキングを<CD>勝ちぬいた あかしだ<*02>,
-035,0x121c5d,<SFF>サブゲ-ム メダロ-ドレ-スを<CD>勝ちぬいた あかしだ<*02>,
-036,0x121c5f,<SFF>サブゲ-ム メダバ-ドを<CD>勝ちぬいた あかしだ<*02>,
-037,0x121c61,<SFF>うつくしい者に おくられる<CD>あリがたい サイン らしい<*02>,
-038,0x121c63,<SFF>?????<*02>,
-039,0x121c65,<SFF>?????<*02>,
-040,0x121c67,<SFF>?????<*02>,
-041,0x121c69,<SFF>?????<*02>,
-042,0x121c6b,<SFF>?????<*02>,
-043,0x121c6d,<SFF>?????<*02>,
-044,0x121c6f,<SFF>?????<*02>,
-045,0x121c71,<SFF>?????<*02>,
-046,0x121c73,<SFF>?????<*02>,
-047,0x121c75,<SFF>?????<*02>,
-048,0x121c77,<FINAL>,
+009,0x121c29,<SFF>正しい パスワ-ドを 入力して<CD>パ-ツを もらおう!<*02>,<SFF>Enter the correct password<D3>to receive parts!<*02>
+010,0x121c2b,<SFF>メダロット「ヴェイパ-レ-ル」で<CD>まちを かっとばす!<*02>,<SFF>Transform into a Medarot.<D3>A dream come true!<*02>
+011,0x121c2d,<SFF>メダロット「オ-トクル-ズ」で<CD>みずのなかを ス-イスイ!<*02>,<SFF>A must-have for the cold!<D3>A warm and cozy coat!<*02>
+012,0x121c2f,<SFF>メダロット「スカイカ-ゴ」で<CD>まちを ひとっとび!<*02>,<SFF>The uniform worn by boys<D3>at Sazanka Academy.<*02>
+013,0x121c31,<SFF>ワンピ-スで おしゃれに ヘんしん♥<CD>...って なんだかな-<*02>,<SFF>Transform stylishly<D3>with a dress ♥<*02>
+014,0x121c33,<SFF>かわいいメイドに ヘんしん♥<CD>...こんなのばっかし-っ!!<*02>,<SFF>Transform into a cute maid ♥<D3>...It's always stuff like this!!<*02>
+015,0x121c35,<SFF>サザンカ道場の 正門を<CD>あける カギ<*02>,<SFF>The key to open the<D3>front gate of Sazanka Dojo.<*02>
+016,0x121c37,<SFF>シュッと ひとふき<CD>グッスリ スヤスヤ<*02>,<SFF>Just one spray puts you<D3>fast asleep.<*02>
+017,0x121c39,<SFF>トラニシ学底の せいふく<CD>トラニシ学底生に ヘんしん<*02>,<SFF>Toranishi Academy's uniform.<D3>Transform into a student there.<*02>
+018,0x121c3b,<SFF>あいじょう た-っぷリの<CD>ママが 作った おベんとう♥<*02>,<SFF>A lunchbox made by Mom<D3>with lots of love ♥<*02>
+019,0x121c3d,<SFF>メダバ-ドの ゆうしょうしょうひん<CD>何が 入っているのだろう...?<*02>,<SFF>The grand prize for winning<D3>Meda-Bird. What's inside...?<*02>
+020,0x121c3f,<SFF>おさむらいさんに ヘんしん<CD>ぼくの ちょんまげに ピッタシ♥<*02>,<SFF>Transform into a samurai!<D3>It fits my topknot perfectly ♥<*02>
+021,0x121c41,<SFF>これが ないと<CD>およげないんだよね...<*02>,<SFF>I can't swim<D3>without this...<*02>
+022,0x121c43,<SFF>ウミネコホテルの<CD>ぼくの ヘやの カギ<*02>,<SFF>The key to my room<D3>at the Umineko Hotel.<*02>
+023,0x121c45,<SFF>タマゴが 12こ入った パック<CD>こんどは わらないように しなきゃ<*02>,<SFF>A carton of 12 eggs.<D3>I have to be careful not to break them.<*02>
+024,0x121c47,<SFF>ほかの 学底生の ふくと ちょっと<CD>デザインが ちがうみたいだ<*02>,<SFF>The design is a bit different<D3>from the other students' clothes.<*02>
+025,0x121c49,<SFF>リュウトウ学園の ドアを<CD>あけるために ひつようなんだ<*02>,<SFF>It's required to open<D3>the doors at Ryuto Academy.<*02>
+026,0x121c4b,<SFF>メダマスタ-の あかし<CD>メダロッタ-の ほこリだ!<*02>,<SFF>Proof of a Meda-Master.<D3>The pride of a Medafighter!<*02>
+027,0x121c4d,<SFF>メダマスタ-に なるには くびに<CD>かけて 町を 歩かなきゃいけないんだ<*02>,"<SFF>To become a Meda-Master, you must<D3>walk around town with it around your neck.<*02>"
+028,0x121c4f,<SFF>コンビニまで ママの おつかい<CD>この お金は つかえないよ<*02>,<SFF>Mom's errand money for the<D3>convenience store. I can't spend it.<*02>
+029,0x121c51,<SFF>シュリから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,"<SFF>A scroll I received from Shuri.<D3>Something is written on it, but I can't read it.<*02>"
+030,0x121c53,<SFF>ミズチから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,"<SFF>A scroll I received from Mizuchi.<D3>Something is written on it, but I can't read it.<*02>"
+031,0x121c55,<SFF>ハクマから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,"<SFF>A scroll I received from Hakuma.<D3>Something is written on it, but I can't read it.<*02>"
+032,0x121c57,<SFF>コクエンから もらった まきものだ<CD>何か かいてあるけど よめないや<*02>,"<SFF>A scroll I received from Kokuen.<D3>Something is written on it, but I can't read it.<*02>"
+033,0x121c59,<SFF>サブゲ-ム ダ-クロボトルを<CD>勝ちぬいた あかしだ<*02>,<SFF>Proof of winning the<D3>Dark Robattle mini-game.<*02>
+034,0x121c5b,<SFF>サブゲ-ム メダスピ-ドキングを<CD>勝ちぬいた あかしだ<*02>,<SFF>Proof of winning the<D3>Meda-Speed King mini-game.<*02>
+035,0x121c5d,<SFF>サブゲ-ム メダロ-ドレ-スを<CD>勝ちぬいた あかしだ<*02>,<SFF>Proof of winning the<D3>Meda-Road Race mini-game.<*02>
+036,0x121c5f,<SFF>サブゲ-ム メダバ-ドを<CD>勝ちぬいた あかしだ<*02>,<SFF>Proof of winning the<D3>Meda-Bird mini-game.<*02>
+037,0x121c61,<SFF>うつくしい者に おくられる<CD>あリがたい サイン らしい<*02>,"<SFF>An autographed photo,<D3>given only to the beautiful.<*02>"
+038,0x121c63,<SFF>?????<*02>,<SFF>?????<*02>
+039,0x121c65,<SFF>?????<*02>,<SFF>?????<*02>
+040,0x121c67,<SFF>?????<*02>,<SFF>?????<*02>
+041,0x121c69,<SFF>?????<*02>,<SFF>?????<*02>
+042,0x121c6b,<SFF>?????<*02>,<SFF>?????<*02>
+043,0x121c6d,<SFF>?????<*02>,<SFF>?????<*02>
+044,0x121c6f,<SFF>?????<*02>,<SFF>?????<*02>
+045,0x121c71,<SFF>?????<*02>,<SFF>?????<*02>
+046,0x121c73,<SFF>?????<*02>,<SFF>?????<*02>
+047,0x121c75,<SFF>?????<*02>,<SFF>?????<*02>
+048,0x121c77,<FINAL>,<FINAL>
 049,0x121c79,@0x121c77,@0x121c77
 050,0x121c7b,@0x121c77,@0x121c77
 051,0x121c7d,@0x121c77,@0x121c77
