@@ -1,157 +1,157 @@
-﻿Index[#version],Pointer[#version|],Original,Translated
-000,0x11c000,"<@LL,00,00>ここは はい工場だ<CD>元々 何の 工場だったんだろ?",
-001,0x11c002,「メダロット研究所」,
-002,0x11c004,「おみくじ じんじゃ」,
-003,0x11c006,「ギンジョウ小学校」,
-004,0x11c008,「セレクトしぶ」,
+Index[#version],Pointer[#version|],Original,Translated
+000,0x11c000,"<@LL,00,00>ここは はい工場だ<CD>元々 何の 工場だったんだろ?","<@LL,00,00>This is an abandoned factory.<D3>I wonder what kind of factory it used to be?"
+001,0x11c002,「メダロット研究所」,「Medarot Research Institute」
+002,0x11c004,「おみくじ じんじゃ」,「Fortune Shrine」
+003,0x11c006,「ギンジョウ小学校」,「Ginjou Elementary School」
+004,0x11c008,「セレクトしぶ」,「Select Branch」
 005,0x11c00a,"<@LL,00,00>ここは アリカの家だ","<@LL,00,00>Erika's house is here."
 006,0x11c00c,"<@LL,00,00>ここは ぼくの家だ","<@LL,00,00>My house is here."
 007,0x11c00e,"<@LL,00,00>ここは キクヒメの家だ","<@LL,00,00>This is Kikuhime's house."
 008,0x11c010,"<@LL,00,00>ここは イワノイの家だ","<@LL,00,00>This is Iwanoi's house."
 009,0x11c012,"<@LL,00,00>ここは カガミヤマの家だ","<@LL,00,00>This is Kagamiyama's house."
-010,0x11c014,「メダスピ-ドキング れんしゅう場」,
-011,0x11c016,「メダロ-ドレ-ス れんしゅう場」,
-012,0x11c018,「この先 ぬかるみの どうくつ<CD>地面が とっても ぬかるんでます」,
-013,0x11c01a,"<@LL,00,00>「ダ-ク...」<CD>? 字が きえかけてて よめないや",
-014,0x11c01c,「きゅうきゅうセンタ-」,
-015,0x11c01e,「セレクト本部」,
-016,0x11c020,「ウサギちゃんバ-」,
-017,0x11c022,「メダロッタ-ズ」,
-018,0x11c024,「メダロデパ-ト」,
-019,0x11c026,「マンション リゾット」,
+010,0x11c014,「メダスピ-ドキング れんしゅう場」,「Meda-Speed King Practice Area」
+011,0x11c016,「メダロ-ドレ-ス れんしゅう場」,「Meda-Road Race Practice Area」
+012,0x11c018,「この先 ぬかるみの どうくつ<CD>地面が とっても ぬかるんでます」,「Muddy Cave Ahead<D3>The ground is extremely muddy.」
+013,0x11c01a,"<@LL,00,00>「ダ-ク...」<CD>? 字が きえかけてて よめないや","<@LL,00,00>「Dark...」<D3>? The letters are fading, I can't read the rest."
+014,0x11c01c,「きゅうきゅうセンタ-」,「Emergency Center」
+015,0x11c01e,「セレクト本部」,「Select Headquarters」
+016,0x11c020,「ウサギちゃんバ-」,「Rabbit-chan Bar」
+017,0x11c022,「メダロッタ-ズ」,「Medarotters」
+018,0x11c024,「メダロデパ-ト」,「Medaro Department Store」
+019,0x11c026,「マンション リゾット」,「Risotto Apartments」
 020,0x11c028,「メダロット社」,<f02>Medabot Company
 021,0x11c02a,「花園学園」,<f02>Hanazono School
-022,0x11c02c,"<@LL,00,04>ここは 花園学園1の お金持ち<CD>ハチロウの 家だ",
-023,0x11c02e,"<@LL,00,04>ここは ぼくのライバル<CD>コウジの家だ",
-024,0x11c030,"<@LL,00,01>ここは 花園学園の アイドル<CD>カリンちゅわん♥の家だ",
-025,0x11c032,「からくリ にんじゃやしき」,
-026,0x11c034,「シノビックパ-クヘ ようこそ!」,
-027,0x11c036,「ジャクナン小学校」,
-028,0x11c038,「ウミネコ ロイヤル ホテル」,
-029,0x11c03a,「セレクト隊 ウミネコ しぶ」,
-030,0x11c03c,「ウミネコ ホテル」,
-031,0x11c03e,"<@LL,00,05>「海の どうくつ」...って<CD>よみにくいなぁ この かんばん",
-032,0x11c040,「ロボトルくんれん場」,
-033,0x11c042,「じっけんしつ<CD>かんけい者いがい 立ち入リきんし」,
-034,0x11c044,「セレクト隊 サザンカ町 しぶ」,
-035,0x11c046,「ゲ-ムセンタ-<CD>...リゃくして ゲ-セン」,
-036,0x11c048,「コンビニ サザンカ町 してん」,
-037,0x11c04a,「ウサオちゃん きっさ」,
-038,0x11c04c,「この先 サザンカ道場」,
-039,0x11c04e,"<@LL,00,00>これは おんなゆの マ-クだ",
-040,0x11c050,"<@LL,00,00>これは おとこゆの マ-クだ",
-041,0x11c052,「おんせんの てんねん どうくつ」,
-042,0x11c054,「がんばれ あと 少し」,
-043,0x11c056,「山道では たきゃくが さいてき!」,
-044,0x11c058,メダリンク うけつけは<CD>しゅうリょういたしました,
+022,0x11c02c,"<@LL,00,04>ここは 花園学園1の お金持ち<CD>ハチロウの 家だ","<@LL,00,04>This is Hachirou's house,<D3>the richest kid in Hanazono Academy."
+023,0x11c02e,"<@LL,00,04>ここは ぼくのライバル<CD>コウジの家だ","<@LL,00,04>This is Kouji's house,<D3>my rival."
+024,0x11c030,"<@LL,00,01>ここは 花園学園の アイドル<CD>カリンちゅわん♥の家だ","<@LL,00,01>This is Karin-chan's♥ house,<D3>the idol of Hanazono Academy."
+025,0x11c032,「からくリ にんじゃやしき」,「Gimmick Ninja Mansion」
+026,0x11c034,「シノビックパ-クヘ ようこそ!」,「Welcome to Shinobick Park!」
+027,0x11c036,「ジャクナン小学校」,「Jakunan Elementary School」
+028,0x11c038,「ウミネコ ロイヤル ホテル」,「Umineko Royal Hotel」
+029,0x11c03a,「セレクト隊 ウミネコ しぶ」,「Select Corps Umineko Branch」
+030,0x11c03c,「ウミネコ ホテル」,「Umineko Hotel」
+031,0x11c03e,"<@LL,00,05>「海の どうくつ」...って<CD>よみにくいなぁ この かんばん","<@LL,00,05>「Ocean Cave」...<D3>This sign is really hard to read."
+032,0x11c040,「ロボトルくんれん場」,「Robattle Training Ground」
+033,0x11c042,「じっけんしつ<CD>かんけい者いがい 立ち入リきんし」,「Laboratory<D3>Authorized Personnel Only」
+034,0x11c044,「セレクト隊 サザンカ町 しぶ」,「Select Corps Sazanka Town Branch」
+035,0x11c046,「ゲ-ムセンタ-<CD>...リゃくして ゲ-セン」,「Game Center<D3>...Abbreviated as Game Center」
+036,0x11c048,「コンビニ サザンカ町 してん」,「Convenience Store Sazanka Town Branch」
+037,0x11c04a,「ウサオちゃん きっさ」,「Usao-chan Cafe」
+038,0x11c04c,「この先 サザンカ道場」,「Sazanka Dojo Ahead」
+039,0x11c04e,"<@LL,00,00>これは おんなゆの マ-クだ","<@LL,00,00>This is the women's bath mark."
+040,0x11c050,"<@LL,00,00>これは おとこゆの マ-クだ","<@LL,00,00>This is the men's bath mark."
+041,0x11c052,「おんせんの てんねん どうくつ」,「Hot Spring Natural Cave」
+042,0x11c054,「がんばれ あと 少し」,「Hang in there, just a little further」
+043,0x11c056,「山道では たきゃくが さいてき!」,「Multi-legs are optimal on mountain paths!」
+044,0x11c058,メダリンク うけつけは<CD>しゅうリょういたしました,Medalink reception<D3>is now closed.
 045,0x11c05a,"<@LL,00,00>ずかんや じしょが<CD>たくさん ならんでる","<@LL,00,00>Manuals and dictionaries<D3>are all lined up."
-046,0x11c05c,"<@LL,00,00>ピアノが ひけたらいいなぁ",
-047,0x11c05e,"<@LL,00,00>がくふが たくさん おいてあるよ",
-048,0x11c060,"<@LL,00,04>よし! きょうも ばっちリ",
-049,0x11c062,"<@LL,00,00>むずかしい本が ならんでいるよ",
-050,0x11c064,"<@LL,00,04>よし! きょうも ばっちリ<CF><@LL,00,06>って 言っている ばあいじゃないよ<CD>早く 出なくちゃ!",
+046,0x11c05c,"<@LL,00,00>ピアノが ひけたらいいなぁ","<@LL,00,00>I wish I could play the piano."
+047,0x11c05e,"<@LL,00,00>がくふが たくさん おいてあるよ","<@LL,00,00>There are a lot of sheet music books here."
+048,0x11c060,"<@LL,00,04>よし! きょうも ばっちリ","<@LL,00,04>Alright! Looking perfect today."
+049,0x11c062,"<@LL,00,00>むずかしい本が ならんでいるよ","<@LL,00,00>There are a lot of difficult books lined up."
+050,0x11c064,"<@LL,00,04>よし! きょうも ばっちリ<CF><@LL,00,06>って 言っている ばあいじゃないよ<CD>早く 出なくちゃ!","<@LL,00,04>Alright! Looking perfect today.<CF><@LL,00,06>This is no time to be saying that!<D3>I have to get out of here, fast!"
 051,0x11c066,「メダロットの ちしき<CD> ティンペット」<CF>ティンペットは 男型と 女型の<CD>2しゅるいに わかれておリ<CF>それぞれに たいおうした パ-ツしか<CD>そうちゃく できない<CF>ティンペットは 全部で<CD>9体まで 持つことができる<CF>いちど 手に入れた ティンペットは<CD>すてることが できないので<CF>男型と 女型を バランスよく<CD>ゲットしていく ひつようがある,"<f02>Medabot Knowledge: Tinpets<CF><f00>Tinpets are divided into two types: male and female.<CF>Each type can't equip parts made for the other type.<CF>Nine tinpets can be held in all.<CF>Once recieved, a tinpet can't be thrown away. Therefore,<CF>It is necessary to strike a balance between male and female tinpets."
 052,0x11c068,「メダロットの ちしき<CD> じゅくれんど」<CF>メダルは それぞれ じゅくれんどを<CD>3つしか 持っていない<CF>使いたい パ-ツの<CD>じゅくれんどを 持っていない時は<CF>メダリアを そうちゃくして<CD>サポ-トする方がよい,"<f02>Medarot Knowledge: Skills<f00><CF>Each Medal has only 3 skills.<CF>If you want to use a skill you lack, it is best to use a Medalia to support it."
 053,0x11c06a,「メダロットの ちしき<CD> メダリア」<CF>メダリアは 全部で 10しゅるいあリ<CD>30個まで 持つことができる<CF>パ-ツに ひつような じゅくれんどが<CD>メダルに ないときでも<CF>メダリアを つければ<CD>じゅくれんどの かわリになる<CF>メダルと メダリアの じゅくれんどが<CD>同じ ないようの時は<CF>じゅくれんどの すうちが<CD>高い方が 行動に はんえいされる<CF>しかし ひくい方も じゅくれんどが<CD>せいちょう するので<CF>なるベくメダリアを つけて<CD>ロボトルする方が よい,"<f02>Medarot Knowledge: Medalia<CF><f00>There are a total of 10 types of Medalia and 30 can be held at once.<CF>Even if a Medal doesn't have the required proficiency for a specific part, it is possible to use a Medalia to improve the Medal's proficiency.<CF>When the skill values of a Medal and Medalia differ, the higher value is used.<CF>However, a lower Medalia value will earn experience faster so it may be beneficial to use it anyway."
 054,0x11c06c,「メダロットの ちしき<CD> あいしょう」<CF>メダルと パ-ツには ぞくせいがあリ<CD>同じ ぞくせいの パ-ツをつけると<CF>あいしょうの すうちが 全ての<CD>行動に ボ-ナスとして たされる<CF>あいしょうが わるく<CD>のうリょくの 高いパ-ツよリ<CF>あいしょうを 合わせた<CD>のうリょくの ひくいパ-ツのほうが<CF>つよくなることがあるので<CD>いろいろ ためしてみると よい,"<f02>Medabot Knowledge: Affinities<f00><CF>Medals and parts each have attributes.<CF>While parts of the same attribute are attached,<CF>All parts of that attribute will receive an affinity bonus.<CF>A part's attributes and abilities aren't always equal.<CF>Parts with high affinity, but low abilities are stronger than parts with low affinity and high abilities.<CF>Try out all kinds of parts and see how they work together."
-055,0x11c06e,"<@LL,00,00>さわると おこられそうだから<CD>やめて おこう",
-056,0x11c070,"<@LL,00,00>なんだか すごい きかいだ",
-057,0x11c072,"<@LL,00,00>自動はんばいきだ<CD>今はのどは かわいてないや",
+055,0x11c06e,"<@LL,00,00>さわると おこられそうだから<CD>やめて おこう","<@LL,00,00>It looks like I'll get scolded if<D3>I touch it, so I'll leave it alone."
+056,0x11c070,"<@LL,00,00>なんだか すごい きかいだ","<@LL,00,00>It's some kind of amazing machine."
+057,0x11c072,"<@LL,00,00>自動はんばいきだ<CD>今はのどは かわいてないや","<@LL,00,00>It's a vending machine.<D3>I'm not really thirsty right now."
 058,0x11c074,「メダロットの ちしき<CD> メダフォ-ス」<CF>メダルの レベルが上がると<CD>メダフォ-スを おぼえることがある<CF>メダフォ-スは メダフォ-スを<CD>ためることによリ 使用できる<CF>ただし メダフォ-スを 使うばあい<CD>パ-ツよリも 時間が かかるので<CF>タイミングを 計って<CD>使う ひつようがある<CF>メダフォ-スは パ-ツに くらベて<CD>きょうリょくな こうかがある<CF>そのかわリ それぞれの メダルは<CD>おぼえる ものが きまっているので<CF>メダフォ-スを うまく いかすように<CD>メダロットを 租みあげることが<CF>じゅうような ポイントとなる,"<f02>Medarot Knowledge: Medaforce<f00><CF>While the Medal level goes up, remember Medaforce! <CF>Medaforce skills can be used by accumulating Medaforce.<CF>However, using Medaforce skills takes more time than using parts. <CF>It's necessary to use careful timing when using Medaforce!<CF>The Medaforce is often more powerful than single parts, and can also affect an entire team.<CF>However, Medals can often only learn certain ones.<CF>The key is to train Medarots in order to make the best use of the Medaforce."
 059,0x11c076,「メダロットの ちしき<CD> じゅくれんど(なぐる)」<CF>1番前にいる てきを ねらって<CD>かくとう攻撃を しかける<CF>行動したら 次の行動まで<CD>ぼうぎょが できなくなる<CF>クリティカルが 少し<CD>はっせいしやすいのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(うつ)」<CF>行動選択の時に てきを ねらって<CD>しゃげき攻撃を しかける<CF>行動しても つぎの行動までの<CD>ペナルティが ないのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(がむしゃら)」<CF>1番前にいる てきを ねらって<CD>かくとう攻撃を しかける<CF>行動したら つぎの行動まで<CD>かいひと ぼうぎょが できなくなる<CF>ダメ-ジが ほかの パ-ツに<CD>かんつうするのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(ねらいうち)」<CF>行動選択の時に てきを ねらって<CD>しゃげき攻撃を しかける<CF>行動したら つぎの行動まで<CD>かいひが できなくなる<CF>クリティカルが とても<CD>はっせいしやすいのが とくちょう,"Medarot Knowledge: Skills - Strike<CF>Aim at the front-most target to start hand-to-hand combat.<CF>After your action, you can't defend until your next action.<CF>There is a trait to make critical hits a little easier.<CF>Medarot Knowledge: Skills - Shoot<CF>When it's your turn to perform an action, aim at your target and launch a shooting attack.<CF>There is a trait to eliminate the penalty for your next action.<CF>Medarot Knowledge: Skills - Berserk<CF>Aim at the front-most target to start hand-to-hand combat.<CF>After your action, you can't defend or evade until your next action.<CF>There is a trait to damage other parts of the body.<CF><f02>Medarot Knowledge: Skills - Snipe<f00><CF>When it's your turn to perform an action, aim at your target and launch a shooting attack.<CF>After your action, you can't evade until your next action.<CF>There is a trait to make critical hits much more common."
 060,0x11c078,「メダロットの ちしき<CD> じゅくれんど(まもる)」<CF>てきの攻撃から みかたを えんごする<CD>ぼうぎょパ-ツを メインとして<CF>せいのうの 高いメダロットに<CD>たいこうする パ-ツの行動や<CF>めいちゅうリつを 上下する<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(せっち)」<CF>トラップを しかけて<CD>攻撃をふせぐパ-ツを メインとして<CF>行動を せいこうしやすくするパ-ツや<CD>メダフォ-スを ふやすパ-ツ<CF>きょうリょくな れんけい攻撃を出す<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(なおす)」<CF>メダロットの 技甲を かいふくする<CD>パ-ツを メインとして<CF>マイナス症状や トラップを<CD>かいじょするパ-ツ<CF>メダフォ-スの 使用を おさえる<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(とくしゅ)」<CF>てきの 攻撃のダメ-ジを 0にする<CD>パ-ツを メインとして<CF>てきの 攻撃を はねかえす<CD>パ-ツなどの 行動を サポ-トする,"<f02>Medarot Knowledge: Skills - Protect<CF><f00>Defensive parts are used to protect the target and its allies from enemy attacks.<CF>There are also parts with actions to counter highly performant Medarots as well as raising and lowering accuracy.<CF><f02>Medarot Knowledge: Skills - Set-Up<CF><f00>To set a trap, you mainly use parts for diverting attacks.<CF>There are parts that make it easier for your action to be successful, and parts that augment your Medaforce.<CF>Support your action with parts that allow coordinated team attacks.<CF><f02>Medarot Knowledge: Skills - Heal<CF><f00>You mainly use parts that give the Medarot a restore technique.<CF>There are parts that can eliminate debuffs and traps.<CF>Support your action with parts that limit the use of Medaforce.<CF><f02>Medarot Knowledge:Skills - Special<f00><CF>You mainly use parts that make an enemy's attack do 0 damage.<CF>Support your action with parts that let you counterattack."
-061,0x11c07a,"<@LL,00,00>メダロットケ-スだ",
-062,0x11c07c,"<@LL,00,04>ぎゅうにゅうプリンがある♥",
-063,0x11c07e,"<@LL,00,00>たまごがある",
-064,0x11c080,"<@LL,00,00>いろんな ジュ-スがあるよ",
-065,0x11c082,"<@LL,00,00>パンや レトルトしょくひんが あるよ",
-066,0x11c084,"<@LL,00,00>メダロットのパ-ツや<CD>いろんな ざっかがあるよ",
-067,0x11c086,"<@LL,00,04>アイスクリ-ムだ♥<CD>あつい日は アイスクリ-ムにかぎる",
-068,0x11c088,"<@LL,00,00>これは コピ-きだよ",
-069,0x11c08a,"<@LL,00,00>動いているけど いったい何を<CD>作ってるんだろう?",
-070,0x11c08c,"<@LL,00,00>なんで工場に ベッドが<CD>おいてあるんだろう?<CF><@LL,00,05>しかも ふたつも<CD>なんだかなぁ...",
-071,0x11c08e,"<@LL,00,04>ぎゅうにゅうプリン あるかな<CF><@LL,00,08>なかった...",
-072,0x11c090,"<@LL,00,00>ここはキッチンだ",
-073,0x11c092,"<@LL,00,00>コンロがあるよ 火の用心",
-074,0x11c094,"<@LL,00,00>キチンと手を あらいましょう",
-075,0x11c096,"<@LL,00,00>メダロット社の ホ-ムペ-ジを<CD>貝てみよう<CF><@LL,00,07>す すごい じょうほうが<CD>たくさん のっている!",
-076,0x11c098,"<@LL,00,00>おもしろそうな ばんぐみは ないな",
-077,0x11c09a,"<@LL,00,00>コミックボンボンが いっぱいあるよ",
-078,0x11c09c,"<@LL,00,00>人の家の れいぞうこを<CD>勝手にあけちゃ だめだよ",
-079,0x11c09e,"<@LL,00,00>人のパソコンを 勝手に さわっちゃ<CD>だめだよ",
-080,0x11c0a0,"<@LL,00,00>人のテレビを 勝手に さわっちゃ<CD>だめだよ",
-081,0x11c0a2,「しぜん公園 キャンプ場」,
-082,0x11c0a4,"<@LL,00,07>大きな テレビモニタ-だ",
-083,0x11c0a6,"<@LL,00,07>新型メダロットだ<CF>ほしいなぁ",
-084,0x11c0a8,"<@LL,00,00>メダロットグッズが ならんでいるよ",
-085,0x11c0aa,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ",
-086,0x11c0ac,「セレクト隊 つうしん」<CD>~今日も せいぎ~,
-087,0x11c0ae,「セレクト隊 だよリ」<CD>とくしゅう セレクトスリ-,
-088,0x11c0b0,"<@LL,00,00>いリょうひんが ならんでいるよ",
-089,0x11c0b2,"<@LL,00,00>いろんな ざっかが あるよ",
-090,0x11c0b4,"<@LL,00,00>ボ-ルが たくさん あるよ",
-091,0x11c0b6,"<@LL,00,00>げたばこだ",
-092,0x11c0b8,"<@LL,00,00>がっきゅうぶんこが あるよ",
-093,0x11c0ba,"<@LL,00,00>高そうな ピアノだ",
-094,0x11c0bc,"<@LL,00,00>テレビを 貝ている 場合じゃないよ",
-095,0x11c0be,"<@LL,00,00>ざっしや 本が あるよ",
-096,0x11c0c0,"<@LL,00,00>人の タンスを 勝手に あけちゃ<CD>いけないよ",
-097,0x11c0c2,"<@LL,00,00>大きな メダロットケ-スだ",
-098,0x11c0c4,"<@LL,00,00>すごそうな コンピュ-タだ",
-099,0x11c0c6,"<@LL,00,00>じっけんそうちの ようだ",
-100,0x11c0c8,「セレクト隊 おどろ山 しぶ」,
-101,0x11c0ca,「メダロ-ドレ-ス場」,
-102,0x11c0cc,"<@LL,00,00>かまどだ",
-103,0x11c0ce,"<@LL,00,00>ここは ちょうリ場だ",
-104,0x11c0d0,"<@LL,00,00>ここは カンちゃんの家だ",
-105,0x11c0d2,"<@LL,00,00>ロボトルの 本が ならんでいる",
-106,0x11c0d4,"<@LL,00,00>古い メダロットケ-スだ",
-107,0x11c0d6,"<@LL,00,00>古い メダルケ-スだ",
-108,0x11c0d8,"<@LL,00,00>ゴミばこだ",
-109,0x11c0da,"<@LL,00,05>フイルムがあるけど 高い...",
-110,0x11c0dc,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ まんじゅう」",
-111,0x11c0de,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ せんベえ」",
-112,0x11c0e0,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ サブレ」",
-113,0x11c0e2,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎオアシスの てんねん水」",
-114,0x11c0e4,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎの すな」",
-115,0x11c0e6,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ じてん」",
-116,0x11c0e8,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ<CF><@LL,00,05>でも ちょっと高いなぁ...",
-117,0x11c0ea,"<@LL,00,00>ジュ-スの 自動はんばいきだ<CF><@LL,00,05>でも ちょっと高いなぁ...",
-118,0x11c0ec,"<@LL,00,00>高そうな メダルケ-スだ",
-119,0x11c0ee,"<@LL,00,00>けしょうひんが 売っているよ",
-120,0x11c0f0,"<@LL,00,00>ここは しちゃく室だ",
-121,0x11c0f2,"<@LL,00,00>ようふくが たくさん あるよ",
-122,0x11c0f4,"<@LL,00,00>なんだろう このきかいは...",
-123,0x11c0f6,"<@LL,00,00>せいぎょそうちのようだ<CD>さわるのは やめておこう",
-124,0x11c0f8,"<@LL,00,00>うきわが あるよ",
-125,0x11c0fa,"<@LL,00,00>ビ-チボ-ルが あるよ",
-126,0x11c0fc,"<@LL,00,00>海の おみやげが あるよ",
-127,0x11c0fe,"<@LL,00,00>ひやけどめが あるよ",
-128,0x11c100,"<@LL,00,00>おもしろそうな ばんぐみは<CD>やってないや",
-129,0x11c102,"<@LL,00,00>すごそうな きかいだ<CD>さわらない ほうが よさそうだ",
-130,0x11c104,「やさしい せかい せいふく」,
-131,0x11c106,「だれでも できる<CD>いたずら 100せん」,
-132,0x11c108,「まんが あくのみち」,
-133,0x11c10a,「ワンホイ-ルの すベて」,
-134,0x11c10c,"<@LL,00,00>なんだろう この大きな<CD>きかいは...",
-135,0x11c10e,"<@LL,00,00>変な きかいだ",
-136,0x11c110,"<@LL,00,00>いろんな コスチュ-ムが あるよ",
-137,0x11c112,「ストリ-ト ロボトル<CD>ひっしょうほう」,
-138,0x11c114,"<@LL,00,00>きゅうしょく用の しょくざいが<CD>いっぱい 入っている",
-139,0x11c116,「しょうぶに 勝つほうほう」,
-140,0x11c118,「ロボトルに 勝つほうほう」,
-141,0x11c11a,「ケンカに 勝つほうほう」,
-142,0x11c11c,「長いものに まかれる ほうほう」,
-143,0x11c11e,"<@LL,00,00>にんじゃの タンスだ<CD>でも しかけは なさそうだ",
-144,0x11c120,"<@LL,00,00>高そうな つぼだ",
-145,0x11c122,"<@LL,00,04>いい ながめだ",
-146,0x11c124,「サザンカおんせん<CD>うちみ ねんざに ききます」,
-147,0x11c126,"<@LL,00,00>きのうていし しているようだ",
-148,0x11c128,"<@LL,00,00>......",
-149,0x11c12a,"<@LL,00,00>これが エコ-そうち...",
-150,0x11c12c,"<@LL,00,00>こしょう中だ...",
-151,0x11c12e,"<@LL,00,00>古い ゲ-ムマシンだ",
-152,0x11c130,<FINAL>,
+061,0x11c07a,"<@LL,00,00>メダロットケ-スだ","<@LL,00,00>It's a Medarot case."
+062,0x11c07c,"<@LL,00,04>ぎゅうにゅうプリンがある♥","<@LL,00,04>There's milk pudding! ♥"
+063,0x11c07e,"<@LL,00,00>たまごがある","<@LL,00,00>There are eggs."
+064,0x11c080,"<@LL,00,00>いろんな ジュ-スがあるよ","<@LL,00,00>There are various juices."
+065,0x11c082,"<@LL,00,00>パンや レトルトしょくひんが あるよ","<@LL,00,00>There's bread and retort pouch foods."
+066,0x11c084,"<@LL,00,00>メダロットのパ-ツや<CD>いろんな ざっかがあるよ","<@LL,00,00>There are Medarot parts and<D3>various miscellaneous goods."
+067,0x11c086,"<@LL,00,04>アイスクリ-ムだ♥<CD>あつい日は アイスクリ-ムにかぎる","<@LL,00,04>It's ice cream! ♥<D3>Ice cream is the best on a hot day."
+068,0x11c088,"<@LL,00,00>これは コピ-きだよ","<@LL,00,00>This is a copy machine."
+069,0x11c08a,"<@LL,00,00>動いているけど いったい何を<CD>作ってるんだろう?","<@LL,00,00>It's moving, but I wonder what<D3>it's actually making?"
+070,0x11c08c,"<@LL,00,00>なんで工場に ベッドが<CD>おいてあるんだろう?<CF><@LL,00,05>しかも ふたつも<CD>なんだかなぁ...","<@LL,00,00>Why is there a bed in a factory?<CF><@LL,00,05>And two of them, too...<D3>Well, whatever..."
+071,0x11c08e,"<@LL,00,04>ぎゅうにゅうプリン あるかな<CF><@LL,00,08>なかった...","<@LL,00,04>I wonder if there's milk pudding...<CF><@LL,00,08>There wasn't..."
+072,0x11c090,"<@LL,00,00>ここはキッチンだ","<@LL,00,00>This is the kitchen."
+073,0x11c092,"<@LL,00,00>コンロがあるよ 火の用心","<@LL,00,00>There's a stove. Watch out for fire."
+074,0x11c094,"<@LL,00,00>キチンと手を あらいましょう","<@LL,00,00>Let's wash our hands properly."
+075,0x11c096,"<@LL,00,00>メダロット社の ホ-ムペ-ジを<CD>貝てみよう<CF><@LL,00,07>す すごい じょうほうが<CD>たくさん のっている!","<@LL,00,00>Let's check the Medarot Company homepage.<CF><@LL,00,07>W-wow, there's so much<D3>amazing information on here!"
+076,0x11c098,"<@LL,00,00>おもしろそうな ばんぐみは ないな","<@LL,00,00>There are no interesting shows on."
+077,0x11c09a,"<@LL,00,00>コミックボンボンが いっぱいあるよ","<@LL,00,00>There are tons of Comic BomBom magazines."
+078,0x11c09c,"<@LL,00,00>人の家の れいぞうこを<CD>勝手にあけちゃ だめだよ","<@LL,00,00>You shouldn't open other people's<D3>refrigerators without permission."
+079,0x11c09e,"<@LL,00,00>人のパソコンを 勝手に さわっちゃ<CD>だめだよ","<@LL,00,00>You shouldn't touch other people's<D3>computers without permission."
+080,0x11c0a0,"<@LL,00,00>人のテレビを 勝手に さわっちゃ<CD>だめだよ","<@LL,00,00>You shouldn't touch other people's<D3>televisions without permission."
+081,0x11c0a2,「しぜん公園 キャンプ場」,「Nature Park Campsite」
+082,0x11c0a4,"<@LL,00,07>大きな テレビモニタ-だ","<@LL,00,07>It's a large television monitor."
+083,0x11c0a6,"<@LL,00,07>新型メダロットだ<CF>ほしいなぁ","<@LL,00,07>It's a new model Medarot!<CF>I want one."
+084,0x11c0a8,"<@LL,00,00>メダロットグッズが ならんでいるよ","<@LL,00,00>Medarot goods are lined up."
+085,0x11c0aa,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ","<@LL,00,00>There are lots of<D3>Medarot parts."
+086,0x11c0ac,「セレクト隊 つうしん」<CD>~今日も せいぎ~,「Select Corps Newsletter」<D3>~Justice Today~
+087,0x11c0ae,「セレクト隊 だよリ」<CD>とくしゅう セレクトスリ-,「Select Corps Report」<D3>Special Feature: Select Three
+088,0x11c0b0,"<@LL,00,00>いリょうひんが ならんでいるよ","<@LL,00,00>Clothing items are lined up."
+089,0x11c0b2,"<@LL,00,00>いろんな ざっかが あるよ","<@LL,00,00>There are various miscellaneous goods."
+090,0x11c0b4,"<@LL,00,00>ボ-ルが たくさん あるよ","<@LL,00,00>There are lots of balls."
+091,0x11c0b6,"<@LL,00,00>げたばこだ","<@LL,00,00>It's a shoe locker."
+092,0x11c0b8,"<@LL,00,00>がっきゅうぶんこが あるよ","<@LL,00,00>There is a classroom library."
+093,0x11c0ba,"<@LL,00,00>高そうな ピアノだ","<@LL,00,00>It's an expensive-looking piano."
+094,0x11c0bc,"<@LL,00,00>テレビを 貝ている 場合じゃないよ","<@LL,00,00>This is no time to be watching TV."
+095,0x11c0be,"<@LL,00,00>ざっしや 本が あるよ","<@LL,00,00>There are magazines and books."
+096,0x11c0c0,"<@LL,00,00>人の タンスを 勝手に あけちゃ<CD>いけないよ","<@LL,00,00>You shouldn't open other people's<D3>dressers without permission."
+097,0x11c0c2,"<@LL,00,00>大きな メダロットケ-スだ","<@LL,00,00>It's a large Medarot case."
+098,0x11c0c4,"<@LL,00,00>すごそうな コンピュ-タだ","<@LL,00,00>It's an impressive-looking computer."
+099,0x11c0c6,"<@LL,00,00>じっけんそうちの ようだ","<@LL,00,00>It looks like experimental equipment."
+100,0x11c0c8,「セレクト隊 おどろ山 しぶ」,「Select Corps Odoroyama Branch」
+101,0x11c0ca,「メダロ-ドレ-ス場」,「Medaroad Race Course」
+102,0x11c0cc,"<@LL,00,00>かまどだ","<@LL,00,00>It's a furnace."
+103,0x11c0ce,"<@LL,00,00>ここは ちょうリ場だ","<@LL,00,00>This is the cooking area."
+104,0x11c0d0,"<@LL,00,00>ここは カンちゃんの家だ","<@LL,00,00>This is Kan-chan's house."
+105,0x11c0d2,"<@LL,00,00>ロボトルの 本が ならんでいる","<@LL,00,00>Robattle books are lined up."
+106,0x11c0d4,"<@LL,00,00>古い メダロットケ-スだ","<@LL,00,00>It's an old Medarot case."
+107,0x11c0d6,"<@LL,00,00>古い メダルケ-スだ","<@LL,00,00>It's an old Medal case."
+108,0x11c0d8,"<@LL,00,00>ゴミばこだ","<@LL,00,00>It's a trash can."
+109,0x11c0da,"<@LL,00,05>フイルムがあるけど 高い...","<@LL,00,05>They have film, but it's expensive..."
+110,0x11c0dc,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ まんじゅう」","<@LL,00,00>There are souvenirs.<D3>「Karasawagi Manju」"
+111,0x11c0de,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ せんベえ」","<@LL,00,00>There are souvenirs.<D3>「Karasawagi Senbei」"
+112,0x11c0e0,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ サブレ」","<@LL,00,00>There are souvenirs.<D3>「Karasawagi Sablé」"
+113,0x11c0e2,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎオアシスの てんねん水」","<@LL,00,00>There are souvenirs.<D3>「Karasawagi Oasis Natural Water」"
+114,0x11c0e4,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎの すな」","<@LL,00,00>There are souvenirs.<D3>「Karasawagi Sand」"
+115,0x11c0e6,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ じてん」","<@LL,00,00>There are souvenirs.<D3>「Karasawagi Encyclopedia」"
+116,0x11c0e8,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ<CF><@LL,00,05>でも ちょっと高いなぁ...","<@LL,00,00>There are lots of Medarot parts.<CF><@LL,00,05>But they're a bit expensive..."
+117,0x11c0ea,"<@LL,00,00>ジュ-スの 自動はんばいきだ<CF><@LL,00,05>でも ちょっと高いなぁ...","<@LL,00,00>It's a juice vending machine.<CF><@LL,00,05>But it's a bit expensive..."
+118,0x11c0ec,"<@LL,00,00>高そうな メダルケ-スだ","<@LL,00,00>It's an expensive-looking Medal case."
+119,0x11c0ee,"<@LL,00,00>けしょうひんが 売っているよ","<@LL,00,00>They're selling cosmetics."
+120,0x11c0f0,"<@LL,00,00>ここは しちゃく室だ","<@LL,00,00>This is the fitting room."
+121,0x11c0f2,"<@LL,00,00>ようふくが たくさん あるよ","<@LL,00,00>There are lots of clothes."
+122,0x11c0f4,"<@LL,00,00>なんだろう このきかいは...","<@LL,00,00>I wonder what this machine is..."
+123,0x11c0f6,"<@LL,00,00>せいぎょそうちのようだ<CD>さわるのは やめておこう","<@LL,00,00>It looks like a control device.<D3>I'd better not touch it."
+124,0x11c0f8,"<@LL,00,00>うきわが あるよ","<@LL,00,00>There is a swim ring."
+125,0x11c0fa,"<@LL,00,00>ビ-チボ-ルが あるよ","<@LL,00,00>There is a beach ball."
+126,0x11c0fc,"<@LL,00,00>海の おみやげが あるよ","<@LL,00,00>There are ocean souvenirs."
+127,0x11c0fe,"<@LL,00,00>ひやけどめが あるよ","<@LL,00,00>There is sunscreen."
+128,0x11c100,"<@LL,00,00>おもしろそうな ばんぐみは<CD>やってないや","<@LL,00,00>There are no interesting<D3>shows on."
+129,0x11c102,"<@LL,00,00>すごそうな きかいだ<CD>さわらない ほうが よさそうだ","<@LL,00,00>It looks like a scary machine.<D3>Probably best not to touch it."
+130,0x11c104,「やさしい せかい せいふく」,「Gentle World Domination」
+131,0x11c106,「だれでも できる<CD>いたずら 100せん」,「100 Pranks<D3>Anyone Can Do」
+132,0x11c108,「まんが あくのみち」,「Manga: The Path of Evil」
+133,0x11c10a,「ワンホイ-ルの すベて」,「All About One-Wheelers」
+134,0x11c10c,"<@LL,00,00>なんだろう この大きな<CD>きかいは...","<@LL,00,00>I wonder what this big<D3>machine is..."
+135,0x11c10e,"<@LL,00,00>変な きかいだ","<@LL,00,00>It's a weird machine."
+136,0x11c110,"<@LL,00,00>いろんな コスチュ-ムが あるよ","<@LL,00,00>There are various costumes."
+137,0x11c112,「ストリ-ト ロボトル<CD>ひっしょうほう」,「Street Robattle<D3>Sure-Fire Winning Methods」
+138,0x11c114,"<@LL,00,00>きゅうしょく用の しょくざいが<CD>いっぱい 入っている","<@LL,00,00>It's packed with ingredients<D3>for school lunches."
+139,0x11c116,「しょうぶに 勝つほうほう」,「How to Win Matches」
+140,0x11c118,「ロボトルに 勝つほうほう」,「How to Win Robattles」
+141,0x11c11a,「ケンカに 勝つほうほう」,「How to Win Fights」
+142,0x11c11c,「長いものに まかれる ほうほう」,「How to Go with the Flow」
+143,0x11c11e,"<@LL,00,00>にんじゃの タンスだ<CD>でも しかけは なさそうだ","<@LL,00,00>It's a ninja dresser.<D3>Doesn't seem to have any gimmicks."
+144,0x11c120,"<@LL,00,00>高そうな つぼだ","<@LL,00,00>It's an expensive-looking vase."
+145,0x11c122,"<@LL,00,04>いい ながめだ","<@LL,00,04>What a nice view."
+146,0x11c124,「サザンカおんせん<CD>うちみ ねんざに ききます」,「Sazanka Hot Springs<D3>Effective for bruises and sprains」
+147,0x11c126,"<@LL,00,00>きのうていし しているようだ","<@LL,00,00>It seems to have ceased functioning."
+148,0x11c128,"<@LL,00,00>......","<@LL,00,00>......"
+149,0x11c12a,"<@LL,00,00>これが エコ-そうち...","<@LL,00,00>This is the echo device..."
+150,0x11c12c,"<@LL,00,00>こしょう中だ...","<@LL,00,00>It's out of order..."
+151,0x11c12e,"<@LL,00,00>古い ゲ-ムマシンだ","<@LL,00,00>It's an old game machine."
+152,0x11c130,<FINAL>,<FINAL>
 153,0x11c132,@0x11c130,@0x11c130
 154,0x11c134,@0x11c130,@0x11c130
 155,0x11c136,@0x11c130,@0x11c130
