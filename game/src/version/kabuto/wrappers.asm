@@ -3,9 +3,9 @@ INCLUDE "game/src/common/constants.asm"
  
 SECTION "Cross Bank Functions Table", ROM0[$3871]
 CrossBankFunctionTable::
-	cbpointer DecompressTilemapWTF ; 00
-	cbpointer DecompressTilemap0 ; 01
-	cbpointer DecompressTilemap1 ; 02
+	cbpointerto DecompressTilemapWTF, StaticLabelsTilemapWTF ; 00 (draws the VWF labels after the tilemap)
+	cbpointerto DecompressTilemap0, StaticLabelsTilemap0 ; 01
+	cbpointerto DecompressTilemap1, StaticLabelsTilemap1 ; 02
 	cbpointer DecompressAttribmapWTF ; 03
 	cbpointer DecompressAttribmap0 ; 04
 	cbpointer DecompressAttribmap1 ; 05
@@ -18,7 +18,7 @@ CrossBankFunctionTable::
 	cbpointer ParseTilesetScript ; 0C
 	cbpointer SetupPalswapAnimation ; 0D
 	dbw $00, $1316 ; 0E
-	cbpointer DecompressTilemap0ScrollAdjusted ; 0F
+	cbpointerto DecompressTilemap0ScrollAdjusted, StaticLabelsTilemap0Scroll ; 0F
 	cbpointer DecompressAttribmap0ScrollAdjusted ; 10
 	dbw $00, $14A2 ; 11
 	dbw $00, $15C8 ; 12
@@ -182,7 +182,7 @@ CrossBankFunctionTable::
 	dbw $09, $636E ; B0
 	dbw $00, $339E ; B1
 	dbw $15, $4E8E ; B2
-	dbw $15, $4F76 ; B3
+	dbw $00, StaticLabelsRestoreHook ; B3 (original: bank 15:4F76, then repairs the pause menu panel)
 	dbw $08, $5B7E ; B4
 	dbw $54, $4000 ; B5
 	dbw $15, $671B ; B6

@@ -1,0 +1,1260 @@
+@000
+Millä kentällä "Lento"-tyypin\njalat ovat vahvimmillaan?
+@001
+Aavikko, Hiekkakuoppa
+@002
+Ilma, Avaruus
+@003
+Galaksi, Aavikko
+@004
+Mitä medamuutoksen tilaa\nvoi käyttää pelin aikana?
+@005
+Reclis-tila
+@006
+Relics-tila
+@007
+Raivotila
+@008
+Mihin Medabottiin\n"laser"-osat eivät tehoa?
+@009
+Kirppu
+@010
+Punkki
+@011
+Täi
+@012
+Mihin Medabottiin\n"ohjus"-osat eivät tehoa?
+@016
+Mihin Medabottiin\n"murto"-osat eivät tehoa?
+@020
+Mitä lajia ei ole\nmiestyypin osissa?
+@021
+Jäädytys
+@022
+Uhraus
+@023
+Lähtölaskenta
+@024
+Screws-jengissä ovat Kikuhime\nja Iwanoi. Kuka on kolmas?
+@025
+Kagamiyama
+@026
+Kagamimochi
+@027
+Kubota
+@028
+Kuka Screws-jengistä\non Blues Dogin mestari?
+@029
+Iwanoi
+@030
+Yanma
+@031
+Nanma
+@032
+Montako lajia\nMedalioita on yhteensä?
+@033
+10 lajia
+@034
+12 lajia
+@035
+18 lajia
+@036
+Mikä kyky on\n"kohdeimu"-osalla?
+@037
+Vetää kohteet puoleensa
+@038
+Taivaasta sataa onnea
+@039
+Yhtäkkiä on Tanabata
+@040
+Mitä Medabottia\nKagamiyama käyttää?
+@041
+Brown Bison
+@042
+Dark Panther
+@043
+Stray Wolf
+@044
+Mitä tapahtuu, kun kokoamis-\nruudulla painaa STARTia?
+@045
+Kokoaa sarjan osilla
+@046
+Kokoaa vahvimmilla osilla
+@047
+Siirtyy esineruutuun
+@048
+Mikä Medabotti on\nkuuluisa Odoro-vuorella?
+@049
+Akadaisho
+@050
+Wakadaisho
+@051
+Bakadaisho
+@052
+Kuka istui Medaroad-\nkisan katsomossa?
+@053
+Mizuchi
+@054
+Kan
+@055
+Tokkuri
+@056
+Kuka jätti hattunsa\nKanin taloon?
+@057
+Retort
+@059
+Mutsuki
+@060
+Kuka on mahtikauppias?
+@061
+Bunroku
+@062
+Hikaru
+@063
+Medabottiprofessori
+@064
+Tämä lapsi EI ole\nluokkatoveri!!
+@065
+Yokaichi
+@066
+Kurouma
+@067
+Nayuta
+@068
+Montako jäsentä Kameyaman\nDamebotti-kerhossa on?
+@069
+1 henkilö
+@070
+4 henkilöä
+@071
+100 henkilöä
+@072
+Mikä on nyt suurta muotia\nHanazono-akatemiassa?
+@073
+Medaspeed-kuningas
+@074
+Medaroad-kisa
+@075
+Medabottiviesti
+@076
+Mikä on nyt Sazankan\nkaupungin kuumin huhu?
+@077
+Mystinen piikatyttö
+@078
+Raju Kokuen-kaarti
+@079
+Äänekäs dojomestari
+@080
+Sazankan dojolla on Ume-\nasuntola, Take-asuntola ja...?
+@081
+Matsu-asuntola
+@082
+Sakura-asuntola
+@083
+Sugi-asuntola
+@084
+Mikä on Usao-kahvilan\nisännän nimi?
+@085
+Yukie
+@086
+Usao
+@087
+Ryuuko
+@088
+Kuka on Damebotti-\nkerhon ohjaaja?
+@089
+Tamawo
+@091
+Shimeta
+@092
+Mikä EI ole Retort Ladyn\nGod Emperorin nimi?
+@093
+Voltos
+@094
+Aramis
+@095
+Athos
+@096
+Mihin Sazankan kuumat\nlähteet auttavat?
+@097
+Ruhjeet ja nyrjähdykset
+@098
+Naarmut ja haavat
+@099
+Tyhmyys
+@100
+Mitä söit aamiaiseksi\nMedaroad-kisan päivänä?
+@101
+Eväiden tähteitä
+@102
+Kinkkua ja munia
+@103
+Kiinalaista riisipuuroa
+@104
+Missä voi kätellä\nSelect Threetä?
+@105
+Medaropolis
+@106
+Omikuji
+@107
+Sazanka
+@108
+Hanazono-akatemian\npihalla on...
+@109
+Bonaparte-patsas!
+@110
+Salty-patsas!
+@111
+Retort-patsas!
+@112
+Sazankan kaupungin vahvin\nmedabottaaja on saapunut!
+@113
+Hahahahahahahahaha
+@114
+Ufufufufufufufufu
+@115
+Hohhohhohhohhoo
+@116
+Retort,\nauta minua!
+@117
+Hah, joku kutsuu!
+@118
+Hm? Kuulinko jotain...
+@119
+Eipä ole muuta tekemistä
+@120
+Kuka sieppasi Libertiesin\njohtajan luolasta?
+@121
+Roborobo-jengi
+@122
+Kokuen-kaarti
+@123
+Retort Lady
+@124
+Kiitos odotuksesta! Tässä\non medabottaajien idoli...
+@125
+Neiti Chimaki!!
+@126
+Neiti Uruchi!!
+@127
+Neiti Komachi!!
+@128
+Minä olen Sazankan\ndojon mestari
+@129
+Shioka Raizou!
+@130
+Shimeta Raizou!
+@131
+Shioka Jouzou!
+@132
+Missä huoneessa yövyit\nSazankan dojolla?
+@134
+Take-asuntola
+@135
+Ume-asuntola
+@136
+Minkä Roborobo-pomon kanssa\ntaistelit Sazankassa?
+@137
+Shiokara
+@138
+Sakekasu
+@139
+Salami
+@140
+Mikä Shiokara on?
+@141
+Vanhuspomo
+@142
+Keski-ikäinen pomo
+@143
+Taaperopomo
+@144
+Select-joukot saivat\nsinut kiinni...
+@145
+Kirara tuli apuun
+@146
+Hikaru tuli apuun
+@147
+Mizuchi tuli apuun
+@148
+Medaroad-kisan finaalissa\nArikan lisäksi vastassa oli?
+@150
+Guinomi
+@152
+Usao-kahvilaan saapui\nse henkilö...!!
+@153
+Hikaru
+@154
+Hachirou
+@155
+Kouji
+@156
+Kerhohuoneessa oli vankina\nRintarou. Kuka vartioi?
+@159
+Gracche
+@160
+Vanhassa koulussa olivat\nRintarou ym. Kuka vartioi?
+@164
+Mitä oli Arikan tekemän\nriisipallon sisällä?
+@165
+Takuan-retikkaa
+@166
+Umeboshi-luumua
+@167
+Tonnikalamajoneesia
+@168
+Mikä on Libertiesin\ntunnussana?
+@169
+"Lähdetäänkö kahville?"
+@170
+"Lähdetäänkö leffaan?"
+@171
+"Mennäänkö syömään?"
+@172
+Mikä on Tamawo-\nopettajan sukunimi?
+@173
+Satou
+@174
+Tanaka
+@175
+Yamada
+@176
+Miten Rintarou pääsi\nulos kerhohuoneesta?
+@177
+Kantaros rikkoi oven
+@178
+Kouji avasi oven
+@179
+Arika potkaisi oven
+@180
+Mikä oli Rintaroun ensimmäinen\nrepliikki hänen ilmestyessään?
+@181
+"Tulta, Kantaros!!"
+@182
+"Vihdoin ulkona, jee!"
+@183
+"Pelastuin, jee!"
+@184
+Mikä on Damebotti-kerhon\nentisen johtajan nimi?
+@185
+Samejima Hasuke
+@186
+Shachijima Hasuke
+@187
+Fukajima Hasuke
+@188
+Kuka suojelee\nKameyaman kaupunkia?
+@189
+Hitotsubashi Ruriyo
+@190
+Namishima Rintarou
+@191
+Seigo Kichinosuke
+@192
+Kuka medabottaaja vapautti\nHanazono-akatemian?
+@193
+Kaiba Ryou
+@194
+Karakuchi Kouji
+@195
+Amakuchi Kouji
+@196
+Montako puuta oli paikalla\nKokuen-robottelussa?
+@197
+1 kpl
+@198
+2 kpl
+@199
+3 kpl
+@200
+Mitä Medabottia\nHasuke käyttää?
+@201
+Cyan Dog
+@202
+Purple Collar
+@203
+Blues Dog
+@204
+Mikä on Hasuken\nMedabotin nimi?
+@205
+Doggy
+@206
+Baggy
+@207
+Boogie
+@208
+Kameyaman koulun vapautti\nkuulemma piikatyttö nimeltä
+@209
+Jeanne d'Arc
+@210
+Maria
+@211
+Amatsoni
+@212
+Missä on Kameyaman\nala-asteen rehtori?
+@213
+Itse asiassa lähellä
+@214
+Meren takana
+@215
+Tähtien tuolla puolen
+@216
+Montako tyttöä siepattiin\nKarin mukaan lukien?
+@217
+5 henkilöä
+@219
+6 henkilöä
+@220
+Mitä Medabottia käyttää\nvalmentaja Seigo Kichinosuke?
+@221
+Kitamatsu Ichigou
+@222
+Chikamatsu Ichigou
+@223
+Kitamatsu Shichigou
+@224
+Kuka on Usao-kahvilan\nsuurin tähti?
+@225
+Puputyttö
+@226
+Hostessa
+@227
+Lukiotyttö
+@228
+Mikä Libertiesin Kameyaman\ntukikohta oli ennen?
+@229
+Varasto
+@230
+Musiikkiluokka
+@231
+Opettajainhuone
+@232
+Mitä Yanagi on\nviime aikoina harrastanut?
+@233
+Hapankurkkujen teko
+@234
+Kalastaminen
+@235
+Misokeiton teko
+@236
+Mikä oli nimesi, kun puit\nylle Retortin vaatteet?
+@237
+Mestarivaras X
+@238
+Nutturaprinssi X
+@239
+Naamiomedabottaaja X
+@240
+Mikä on Aodaishon\nMedabotin nimi?
+@241
+Maxsnake
+@242
+McDosnake
+@243
+Maxsneak
+@244
+Kuka teki mestarin ostokset\nSazankan kaupungissa?
+@245
+Ham Enishiin
+@246
+High Giraffe
+@247
+Nin Ninja
+@248
+Millä osalla Rintarou rikkoi\nvanhan koulun vankilan?
+@249
+Glow Blaster
+@250
+Glow Masher
+@251
+Anti-Flyer
+@252
+Mitä söit aamuksi Kameyaman\nkoulun vapautuksen jälkeen?
+@255
+Curryriisiä
+@256
+Kumpi on aito edolainen:\nAkadaisho vai Aodaisho?
+@257
+Aodaisho
+@259
+Itse asiassa Yanagi
+@260
+Kanilta saatu mekko kuului\nalun perin Kanin...
+@261
+tyttärentyttärelle
+@262
+vävylle
+@263
+isosiskolle
+@264
+Minkä Medabotin Hikaru\nmyi kuumilla lähteillä?
+@265
+Vapor Rail
+@266
+Sky Cargo
+@267
+Auto Cruise
+@268
+Mikä Medabotti on\n"taivaan kuljettaja"?
+@269
+Mach Musasabi
+@270
+Jet Hagetaka
+@271
+Speed Penguin
+@272
+Mikä Medabotti oli Mizuchilla\nOdoro-vuoren palolla?
+@273
+Brave Fire
+@274
+Brave Police
+@275
+Brave Rescue
+@276
+Minkä osan Rintarou antaa,\nkun Kokuen on voitettu?
+@277
+Excite
+@278
+Exit
+@279
+Avoid
+@280
+Omikuji-pyhäkön Medabotit\novat Koma Dog ja...
+@281
+Holy Oracle
+@282
+Beat Breath
+@283
+Marche
+@284
+Mikä oli Medaroad-\nkisan voittopalkinto?
+@288
+Mikä on jäsennumerosi pelisalin\nentisen kaartin fanikerhossa?
+@289
+Nro 2
+@290
+Nro 1
+@291
+Nro 3
+@292
+Mitä tehdään, kun kaupungilla\ntapaa toisen medabottaajan?
+@293
+Robotellaan!
+@294
+Kivi-paperi-sakset!
+@295
+Tuijotuskilpailu!
+@296
+Mitä mitali oppii,\nkun sen taso nousee?
+@297
+Medavoima
+@298
+Medamuutos
+@299
+Medabird
+@300
+Montako Medaliaa voi\nkiinnittää yhteen mitaliin?
+@301
+3 kpl
+@302
+Vain 1
+@303
+Kuinka monta vain
+@304
+Kuka on Libertiesin\njohtaja?
+@305
+Kinoko
+@308
+Millainen Hikaru on\ntöissä lähikaupassa?
+@309
+Huono
+@310
+Hyvä
+@311
+Tavallinen
+@312
+Mikä on Roborobo-jengin\ntarhapomo Salamin oikea nimi?
+@313
+Sara Mitsuo
+@314
+Sarariman Mitsuyoshi
+@315
+Sarasara-käräjät
+@316
+Kuka on Hakuman\nlähin apulainen?
+@317
+Byakuya
+@318
+Hyakuya
+@319
+Pyakuya
+@320
+Montako oppilasta mahtuu\nToranishin luokkaan?
+@322
+9 henkilöä
+@323
+48520156783569
+@324
+Mistä Shinran metsäkoulun\npulpetit on tehty?
+@325
+Kannoista
+@326
+Marmorista
+@327
+Pahvista
+@328
+Mitä Hakuma yritti\nhävittää?
+@329
+Medabotin 3 lakia
+@331
+Hapanimelän ananas
+@332
+Mikä on Kinokon\nsuosittelema paikka?
+@333
+Shinran kukkula
+@334
+Hypnoosiluokka
+@335
+Umineko-ranta
+@336
+Mitä Mitsuo yritti\nperustaa?
+@337
+Uusi Hakuman imperiumi
+@338
+Uusi Hakuman tasavalta
+@339
+Uusi Hakuman liittovalta
+@342
+Robottelu alkaa!
+@343
+Kuulutko Libertiesiin?
+@344
+Mitä Toranishin kaupungissa\nei ole?
+@345
+Puisto
+@346
+Lähikauppa
+@347
+Koulu
+@348
+Mikä on Kinokon\nsukunimi?
+@349
+Maitake
+@350
+Matsutake
+@351
+Shiitake
+@352
+Montako kojua Shinran\nostoskadulla on?
+@353
+7 kpl
+@354
+8 kpl
+@355
+9 kpl
+@356
+Mitä seuraavista ei ole\nHakuman huoneessa?
+@357
+Kattokruunu
+@358
+Ruukku
+@359
+Tietokone
+@360
+Minkä värinen on Hakuman\nhuoneen matto?
+@361
+Punainen
+@362
+Sininen
+@363
+Viridiaani
+@364
+Miten Kouji sai Toranishi-\nakatemian koulupuvun?
+@365
+Tosirobottelulla
+@366
+Paneelirobottelulla
+@367
+Huijaamalla
+@368
+Mikä suku johtaa aina\nToranishi-akatemiaa?
+@369
+Shirakabe
+@370
+Kasukabe
+@371
+Skarabe
+@372
+Mikä on Kinokon\nerikoistaito?
+@373
+Naamioituminen
+@374
+Kärrynpyörä
+@375
+Mongolian Chop
+@376
+Ketä Toranishi-akatemian\noppilaat palvovat?
+@377
+Hakumaa
+@380
+Minkä esineen sait\nhypnoosiopetusluokasta?
+@381
+Hypnoosisuihke
+@382
+Radiopuhelin
+@383
+Minimini-kone
+@384
+Mitä veit Byakuyalta\nhänen nukkuessaan?
+@385
+Byakuyan vaatteet
+@386
+Byakuyan turbaanin
+@387
+Sitä en kerro
+@388
+Miten Screws-jengi pääsi\nToranishi-akatemiaan?
+@389
+Tuulen siivillä
+@391
+Kagamiyama tunnettiin
+@392
+Mitä Toranishi-akatemian\nkello aina näyttää?
+@393
+Kello 3
+@394
+Kello 6
+@395
+Kello 9
+@396
+Mikä on Toranishi-akatemian\nvartija-Medabotti?
+@397
+Ansan asettaja
+@398
+Rekan asettaja
+@399
+Pakan asettaja
+@400
+Mikä seuraavista EI ole\nsinun kertomasi vitsi?
+@401
+Kuusessa kuusi kuusta
+@402
+Vuorella on vuoro
+@403
+Jokin joki on outo
+@404
+Mitä "S-R-suunnitelma"\noikeasti tarkoittaa?
+@405
+Omin voimin yksin
+@406
+Kaksi kärpästä kerralla
+@407
+Vahvat syövät heikot
+@408
+Mitä Shinran luomiskylässä\nvalmistetaan?
+@409
+Vihanneksia
+@410
+Leipää
+@411
+Isoja ruokia
+@412
+Iwanoi: "Niin on, niin on!"\nKagamiyama: "???????"
+@413
+Sinne tänne!
+@414
+Näinkö? Entä nyt!
+@415
+Sooda! Sooda!
+@416
+Kuka ei ole koskaan pukenut\nToranishin koulupukua?
+@418
+{BUF03}
+@420
+Minne Shinran metsäkoulun\noppilaat eivät saa mennä?
+@421
+Shinran ostoskatu
+@422
+Toranishi-akatemia
+@423
+Mutaluola
+@424
+Montako peltoa Shinran\nluomiskylässä on yhteensä?
+@425
+11
+@426
+10
+@427
+12
+@428
+Minkä väriset ovat Hakuman\nhuoneen verhot?
+@429
+Vaaleansiniset
+@430
+Punaiset
+@431
+Vihreät
+@432
+Mikä hiekkaputouksen\naave todella oli?
+@433
+3D-hologrammi
+@434
+Roborobo-jengin pila
+@435
+Oikeasti aito
+@436
+Kuka on neljän kuninkaan\nSuzaku Shurin isä?
+@437
+Professori Akagane
+@440
+Montako aavemedabottia\n"hiekkaputouksella" oli?
+@441
+3 kpl
+@442
+2 kpl
+@443
+1 kpl
+@444
+Miksi Retortia luultiin\nFuyuun-raunioilla?
+@445
+Raunioryöstäjäksi
+@446
+Häiriköksi
+@447
+Varkaaksi
+@448
+Kenen oppilaat eivät päässeet\nJakunaniin missikisoissa?
+@449
+Kameyaman
+@450
+Toranishin
+@451
+Sazankan
+@452
+Montako Medabottia on\nMedabird-joukkueessa?
+@454
+4 kpl
+@455
+5 kpl
+@456
+Mikä oli Fuyuun-raunioiden\nkellarin kauniin kiven nimi?
+@457
+Fuyuun-kivi
+@458
+Fuyuun-tähti
+@459
+Timantti
+@460
+Mitä Arika osti Koujille\njuotavaksi Karasawagissa?
+@461
+Oolong-teetä
+@462
+Appelsiinimehua
+@463
+Karakuchi Koujia
+@464
+Milloin Medabirdissa hävinnyt\nBunroku esiintyi ensi kerran?
+@465
+Medaroad-kisassa
+@466
+Hakuma-kaartissa
+@467
+Ei ole vielä esiintynyt
+@468
+Mikä oli Tamaon Medabird-\nkisan Medabotin lempinimi?
+@469
+Drake
+@470
+Tonbi
+@471
+Kamonanban
+@472
+Mitä luki kyltin takana\njuoksuhiekkaluolassa?
+@473
+Medarot 3:n mainos
+@475
+Medarot-kolmiloikka
+@476
+Mikä on Roborobo-jengin\nnaispomo Surumen oikea nimi?
+@477
+Takasu Rumi
+@478
+Nakasu Rumi
+@479
+Takasu Ruri
+@480
+Montako poikaa jahtasi\nKinokoa missikisoissa?
+@481
+3 henkilöä
+@482
+2 henkilöä
+@484
+Paljonko Arikan ostama\nmehu maksoi keitaalla?
+@485
+350¥
+@486
+500¥
+@487
+120¥
+@488
+Mikä on Hummingin\nlempipaikka?
+@489
+Keitaan ranta
+@490
+Hiekkaputous
+@491
+Shinran kukkula
+@492
+Minkä mallinen Medabotti lauloi\nMedabird-laulua kisapaikalla?
+@493
+Haukkamalli
+@494
+Krokotiililintumalli
+@495
+Kotkamalli
+@496
+Mitä Arika puki ylleen\nmissikisoissa?
+@497
+Komachin asun
+@498
+Retortin vaatteet
+@499
+Piikanasun
+@500
+Mitä Roborobo-jengin Surume\npitää kaikkein kauneimpana?
+@501
+Jalokiviä
+@502
+Rahaa
+@503
+Kyyneleitä
+@504
+Paljonko Jakunaniin pääsy\nmaksoi ennen Surumea?
+@505
+500000¥
+@506
+5000000¥
+@507
+500¥
+@508
+Mitä Kouji sanoi Tamaolle\nhävittyään Medabirdissa?
+@509
+"Nenäkäs tyyppi"
+@510
+"Ärsyttävä tyyppi"
+@511
+"Inhottava tyyppi"
+@512
+Mikä on Shiratamon Medabotti,\njoka ei päässyt Jakunaniin?
+@513
+Limbo Mambo
+@514
+Smilodonad
+@515
+Ambiguous
+@516
+Mikä on Retort Ladyn\ntunnuslause poistuessaan?
+@517
+Moikka, bai bai♥
+@518
+Nähdään taas♥
+@519
+Adios amigo♥
+@520
+Mikä palkkio luvattiin\nsiepatusta Karinista?
+@521
+10000000¥
+@522
+100000¥
+@523
+500000¥
+@524
+Minkä ala-asteen oppilas\nKinoko oli ennen?
+@525
+Jakunanin ala-aste
+@526
+Hanazono-akatemia
+@527
+Ginjoun ala-aste
+@528
+Mille Medabotille Kouji\nhävisi missikisoissa?
+@529
+Nurse
+@530
+God Emperor
+@531
+Arc Beetle D
+@532
+Mikä järjestelmä ohjasi\nMedabotteja Jakunanissa?
+@533
+Resonanssijärjestelmä
+@534
+Hebereke-järjestelmä
+@535
+Keittiöjärjestelmä
+@536
+Mitä sanoit voitettuasi\nmissikisan?
+@537
+Olen liikuttunut
+@538
+Ilo vie sanat
+@539
+Olen ylpeä itsestäni
+@540
+Mikä Medabird-rata oli\nopettaja Ryuukon tunnilla?
+@541
+Keskirata
+@542
+Pitkä rata
+@543
+Draivirata
+@544
+Mitä eväitä äiti teki\nFuyuun-matkalle?
+@545
+Voileipiä
+@546
+Inarizushia
+@547
+Makunouchi-eväät
+@548
+Miksi Select-joukot salasivat\nRoborobo-jengin paon?
+@549
+Medabottiyhtiön käsky
+@550
+Totuuden peittely
+@551
+Eivät tienneet
+@552
+Minkä mallinen Medabotti esitti\naavetta hiekkaputouksella?
+@553
+Spectermalli
+@554
+Aavemalli
+@555
+Kuwagatamalli
+@556
+Kummalla puolen hiekka-\nputousta aave kuulemma on?
+@557
+Oikealla
+@558
+Vasemmalla
+@559
+Alhaalla
+@560
+Mikä on Umineko-hotellin\nerikoisuus?
+@561
+Ruoka valmistetaan
+@562
+Vuode pedataan
+@563
+Televisio avataan
+@564
+Mitä Kouji inhoaa?
+@565
+Hyönteisparvia
+@566
+Roborobo-laumoja
+@567
+Ei mitään
+@568
+Mitä Roborobo-jengi varasti\nrantakioskista?
+@569
+Kalmarigrilliä
+@570
+Takoyakia
+@571
+Kokogrilliä
+@572
+Mitä Sakekasu käytti\nloistohotellissa?
+@573
+Hiilihappokylpyä
+@574
+Ulkokylpyä
+@575
+Sähkökylpyä
+@576
+Mistä koulusta\nMizuchi on kotoisin?
+@577
+Ryuutou-akatemia
+@580
+Mikä on Chimakin\nerikoistaito?
+@581
+Varjoklooni
+@582
+Lento
+@583
+Liekinheitto
+@584
+Miksi Screws-jengillä ei ollut\nuimapukuja triathlonissa?
+@585
+Auringonpolttama kirveli
+@586
+Uimapuvut unohtuivat
+@587
+Muuten vain
+@588
+Mikä on Mizuchin\nsukunimi?
+@589
+Yamikumo
+@590
+Yakekuso
+@592
+Kuka on robotteluliiton\nvirallinen tuomari?
+@593
+Mister Uruchi
+@594
+Mister Urochi
+@595
+Mister Orochi
+@596
+Mikä on Mizuchin ja\nOrochin suhde?
+@597
+Vanhempi ja lapsi
+@598
+Sisarukset
+@599
+Pelkät näköiset
+@600
+Kuka Beast King\noikeasti on?
+@601
+Orochi
+@604
+Mikä on kiellettyä\nRyuutou-akatemiassa?
+@605
+Valokuvaus
+@606
+Robottelu
+@607
+Opiskelu
+@608
+Ketä Mizuchi tarkoittaa\n"keltaisella päällä"?
+@609
+Karin
+@612
+Mitä Orochi teki ennen?
+@613
+Hebereken oppilaana
+@614
+Professorin apulaisena
+@615
+Gyozana
+@616
+Mitä tarvitaan Ryuutou-\nakatemian oven avaamiseen?
+@617
+ID-kortti
+@618
+Puhelinkortti
+@619
+Telekinesia
+@620
+Mikä on Mizuchin\nkumppani-Medabotti?
+@621
+Leviathan
+@622
+Behemoth
+@623
+Rintarou
+@624
+Keneltä periskooppi\non saatu lahjaksi?
+@625
+Arika
+@628
+Montako kerrosta\nUmineko-hotellissa on?
+@629
+3 kerrosta
+@630
+4 kerrosta
+@631
+5 kerrosta
+@632
+Mitä Umineko-rannalla\nnähdyt merisiirat olivat?
+@633
+Torakka-Medabotteja
+@634
+Merisiira-Medabotteja
+@635
+Oikeita merisiiroja
+@636
+Mitä Umineko-rannalla\ntodella on?
+@637
+Select-osasto
+@638
+Pyhäkkö
+@639
+Medabottaajat
+@640
+Kuka murtautui Medabotti-\nyhtiön järjestelmään?
+@642
+Professori Hebereke
+@644
+Mitä et ole tehnyt\nUmineko-rannalla?
+@645
+Huutanut merelle
+@646
+Siivonnut roskia
+@647
+Kisannut triathlonissa
+@648
+Mikä on ainoa Medabotti,\njoka pärjää Grainille?
+@649
+Particle
+@651
+A. Gedamar
+@652
+Mitä seuraavista ei ole\nRyuutou-akatemiassa?
+@653
+AV-luokka
+@655
+Robottelusali
+@656
+Mikä minipeli\nesiintyi viimeisenä?
+@657
+Pimeä robottelu
+@660
+Mitä tarvitaan\nmeriluolan tutkimiseen?
+@661
+Periskooppi
+@662
+Miniratti
+@663
+Tuulen siivet
+@664
+Ketä vastaan ei tarvitse\ntaistella Ryuutoussa?
+@666
+Surume
+@668
+Miten ekolaitteet asetellaan,\njotta teho on suurin?
+@669
+Mitalin muotoon
+@670
+Yhteen paikkaan
+@671
+¥-merkin muotoon
+@672
+Kuka ei osallistunut\ntriathlonkisaan?
+@676
+Mitä Screws-jengi tavallisesti\nkäyttää yhteydenpitoon?
+@678
+Kirjekyyhkyä
+@679
+Savumerkkejä
+@680
+Mitä seuraavista ei ole\nToranishin 2. kerroksessa?
+@682
+Valvomo
+@684
+Mitä Arika osti\nShinran ostoskadulta?
+@685
+Avaimenperän
+@686
+Manjun
+@687
+Korvakorut
+@688
+Kuka on oikea\nKawamura?
+@689
+Pitkätukka
+@690
+Kalju
+@691
+Nuttura

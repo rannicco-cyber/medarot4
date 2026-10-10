@@ -1,0 +1,886 @@
+@000
+No niin, tämän päivän tunti päättyy tähän.
+Huomenna alkaa kahden päivän loma, mutta älkää
+leikkikö niin paljon, että läksyt unohtuvat.
+@001
+Hei, {BUF03}, onko sinulla huomenna aikaa?
+@002
+Joo, ei minulla ole mitään erityistä.
+Lähdetkö sitten kanssani Shinobick-puistoon?
+Häh? Eikö Shinobick-puisto ollut suljettu?
+Sinä et tosiaan seuraa uutisia.
+Se korjattiin vihdoin vähän aikaa sitten,
+ja se aukeaa huomenna.
+Sain lippuja, joten ne ovat anteeksipyyntö viimekertaisesta.
+Anteeksipyyntö?
+No, siitä kun pukeuduit piiaksi Sazankaan mennessä.
+Ai, se kerta...
+@003
+Huvipuisto on mukava, mutta älkää riehuko
+liikaa ja unohtako läksyjä.
+@004
+Häh! K-kyllä!
+No, näkemiin.
+Näkemiin, opettaja Ryuuko.
+@005
+Opettaja Ryuuko on ollut sen jälkeen vähän lempeämpi.
+Joo, hänen kanssaan on helpompi puhua kuin ennen.
+Orochi, S-R-suunnitelma... Kaikenlaista sattui. Ovatkohan kaikki kunnossa?
+@006
+Sori, että keskeytän muistelut, mutta lähdetäänkö?
+@007
+Ai, niin. Lähdetään.
+@008
+Salty, hyppää!
+@009
+Salty, tassu.
+@010
+Hau!
+@011
+Salty, pallo!
+@012
+Salty, pyöri!
+@014
+Hyvä, Salty.
+@015
+Äiti, missä on vanukas,
+jonka laitoin jääkaappiin?
+@016
+Hei, äiti?
+@017
+{BUF03}!? Milloin sinä tulit!?
+Ihan äsken.
+Älä sano sitä noin kevyesti! Toisen kotiin
+tunkeutuminen luvatta on rikos!
+Älä pura minuun sitä, että vanukas jäi syömättä.
+Älä pelleile!
+@018
+Nyt pieksen sinut robottelussa!
+@019
+Mene jo pois.
+@020
+Mitä nyt, vieläkö jatketaan?
+@021
+Riittää jo. Mene kotiisi.
+@022
+Kas, tervetuloa.
+On harvinaista, että hänelle tulee ystäviä kylään.
+@023
+Harvinaista, että tulet meille, {BUF03}.
+Iwanoi, sinä näpräät aina tietokonetta
+ja sanot olevasi nerokas hakkeri, mutta mitä sinä oikeasti teet?
+@024
+M-mitä sinä teet!?
+Näy-tä-nyt-vä-hän~
+@025
+Lopeta jo!
+@026
+Olet kyllä outo tyyppi.
+@027
+Iwanoi, näytä tietokonetta~
+@028
+Kun sanon ei, se tarkoittaa ei!
+@029
+Luovu jo.
+@030
+Hmm~ hmm~ pehmeä futon~
+@031
+.....
+@033
+Brown Bisonin laser hoitelee sinut!
+@035
+Hmph, voimasi eivät vielä riitä.
+@036
+Tulen sitten huomenna aamulla hakemaan sinut.
+Shinobick-puisto, vai... Odotan innolla♪
+Into on hyvä, mutta älä nuku pommiin.
+Joo, nähdään huomenna.
+@037
+Muuten, Medabottiprofessori sanoi hiljattain,
+että haluaisi lainata "Particlen".
+Mennään nyt tapaamaan professoria.
+@038
+Kameyaman ala-asteen entinen pomo, nykyinen
+"Piikatytön fanikerhon puheenjohtaja" Kokuenin huone
+Mitä! Se "piikatyttö" menee Shinobick-puistoon?
+@039
+"Piikapoika", puheenjohtaja Kokuen.
+@040
+Kukkuu, vihdoin löysin sinut, piiiiiikaaaaa...
+Selvä, minäkin menen Shinobick-puistoon tapaamaan "piikatyttöä"!
+"Piikapoika", puheenjohtaja Kokuen.
+Hei, "Piikatytön fanikerhon jäsen numero 5"!
+Hanki jollain keinolla
+liput Shinobick-puistoon!
+Selvä, puheenjohtaja!
+@041
+Odota, "piikatyttö". Tulen pian tapaamaan sinua...
+Mmhehehehe....
+Haa-hahahahaha...
+"Piikapoika", puheenjohtaja Kokuen.
+@042
+Shuri, saanko tulla sisään?
+Isä? Kyllä, olkaa hyvä.
+@043
+Mikä on, isä?
+No, sain lippuja huvipuistoon nimeltä
+Shinobick-puisto. Huomenna on vapaata. Mentäisiinkö kahdestaan?
+@044
+Häh? Viettekö minut huvipuistoon?
+Ajattelin viettää välillä perheaikaa. Etkö halua?
+Ei, päinvastoin! Haluan mennä huvipuistoon.
+Hyvä niin. Huomenna on aikainen herätys,
+joten älä valvo liian myöhään.
+Kyllä, selvä.
+@045
+Opettaja Yamikumo.
+@046
+Hyvä, olette vielä täällä.
+Onko jokin vialla?
+Ei mitään erityistä. Sain tuttavalta lippuja
+Shinobick-puisto-nimiseen huvipuistoon, mutta minunlaiseni
+vanhus ei keksi niille käyttöä.
+Muistaakseni teillä on pikkuveli,
+joten ottakaa ne, jos haluatte.
+Kiitos kovasti.
+Ei kestä.
+@047
+Shinobick-puisto... Lähtisiköhän Mizuchi?
+@048
+Mizuchi.
+@049
+Sisko! Miksi olet täällä?
+Haahuilet aina, joten sinut tavoittaa vain koulumatkalla.
+Mitä nyt, tulitko saarnaamaan?
+Ei, ei sitä. Sain itse asiassa tällaisia.
+@050
+Mitä lippuja nämä ovat? Shinobick-puisto?
+Sain ne lahjaksi, ja niitä on kaksi.
+Lähdetkö kanssani?
+Hmph.
+@051
+Mitä sinä teet, Mizuchi!
+Hmph, en minä nyt mihinkään huvipuistoon lähde.
+Ja minä kun kutsuin, koska Tenryoukin menee.
+(Mitä!?)
+Olin hölmö, kun välitin sinusta.
+@052
+Hänkin menee...
+@053
+Hei, sinä!
+@054
+Häh? M-minäkö?
+Onko sinulla teippiä?
+@055
+Viedään "Particle" professorille.
+@056
+Mennään ensin professorin luo antamaan "Particle".
+@057
+Päivää, professori.
+@058
+Oo, {BUF03}. Toit varta vasten
+"Particlen" minulle?
+@059
+No, katsotaanpa sitä.
+@060
+Hmm, ymmärrän. Tällä on tosiaan huikeat kyvyt.
+Jos tämä ja "Grain" olisivat riehuneet,
+maailma olisi voinut todella kadota...
+Että se oli niin vaarallinen...
+{BUF03}, antaisitko tämän Medabotin minun huostaani?
+Kyllä, tehkää niin. "Particlen" voima
+on minulle liian suuri.
+Kiitos, {BUF03}.
+Ai niin, annan sinulle tämän sen sijaan.
+@061
+Mikä tämä on?
+Se on "passikortti". Sillä saa osia
+alakerran huoneessa olevasta koneesta.
+Häh? Saako sillä osia?
+Tosin osien saamiseen tarvitaan passikortin lisäksi
+passipisteitä ja osakohtainen salasana.
+Passipisteitä? Salasana?
+@062
+Tuo on passipiste.
+Yhdellä passipisteellä saa yhden osan.
+Entä salasana?
+Se sinun pitää löytää itse.
+Höh.
+No, älä nyt masennu. Kas, saat tämänkin kaupan päälle.
+@064
+Passipisteitä on siellä täällä, joten
+etsi muistakin paikoista.
+No, minä aloitan heti tämän tutkimisen.
+Taidan minäkin lähteä kotiin.
+Kiitos, professori. Näkemiin.
+Hyvä on, tule milloin vain.
+@065
+Anteeksi, mutta irrottaisitko
+"Particlen" osat Medabotistasi?
+@066
+Professoriii~♪
+Hmm, ymmärrän. Tätä kannattaa tosiaan tutkia.
+Ette kuuntele minua...
+@067
+{BUF03}, älä nuku huomenna pommiin!
+Ei hätää, nythän on vasta keskipäivä.
+Miten se, että on "vasta keskipäivä", auttaa...
+Mutta {BUF03}, jos sinulla on aikaa, robotellaanko?
+@068
+Voi sinua pelkuria!
+@069
+En häviä ikinä!
+@070
+No, älä myöhästy huomenna.
+@071
+Ahahaha, jes!
+@072
+No, {BUF03}, älä nuku huomenna pommiin.
+@073
+Menenhän Shinobick-puistoon huomenna Arikan kanssa.
+@074
+Minulla on nälkä. Menen kotiin syömään.
+@075
+Huomisen takia en lähde tänään kauas.
+@076
+Menetkö jonnekin leikkimään? Hei hei, {BUF03}.
+@077
+Mikä hätänä, {BUF03}? Unohditko jotain?
+@078
+Olen kotona!
+Tervetuloa kotiin, {BUF03}. Laitan heti ruokaa.
+@079
+Nyt syödään!
+Ei, {BUF03}! Pese ensin kädet!
+Ai niin, unohdin.
+@080
+Olen kotona!
+Voi, olet myöhässä, {BUF03}~
+Tekemäni ruoka ehtii jäähtyä.
+Anteeksi, äiti.
+No, olkoon. Pese kädet nopeasti ja tule pöytään.
+Joo!
+@081
+Nyt syödään!
+Ole hyvä.
+@082
+Nams nams... Äidin ruoka on kyllä parasta.
+Jos syöt noin kiireellä, ruoka juuttuu kurkkuun.
+@083
+Ngh-ngh...
+Mitäs minä sanoin.
+@084
+Tässä vettä.
+Kulaus kulaus kulaus
+Puhaah! Se oli tukalaa!
+Ruoka ei karkaa minnekään, joten syö hitaammin.
+@085
+Niin, äiti. Huomenna menen Arikan kanssa
+Shinobick-puistoon leikkimään.
+Kas, niinkö? Sitten pitää tehdä eväät.
+Joo!
+{BUF03}, älä valvo tänään, vaan mene ajoissa nukkumaan.
+Joo, menen. Kiitos ruoasta.
+@086
+No niin, mitähän nyt tekisin?
+@087
+Huomenna on aikainen aamu. Menisinkö jo nukkumaan?
+@088
+{BUF03}! Kauanko aiot nukkua?
+Arika on tullut hakemaan sinua.
+@089
+Huaaah~~~...
+@090
+Taidan valvoa vielä vähän.
+@091
+Oletko valmis lentämään "Tuulen siivillä"?
+@092
+Odota vähän.
+Kokoa se nyt nopeasti!
+@093
+Joo, valmista!
+Mennään sitten.
+@094
+Olkaa varovaisia, molemmat.
+@095
+Ja {BUF03}:n asu silloin oli niin...
+Hihi, olisinpa minäkin nähnyt sen.
+Huomenta, {BUF03}.
+@096
+Huomenta, unikeko-{BUF03}.
+Nnnh~~~...
+Kas niin, et voi olla koko ajan unenpöpperössä.
+Pese kasvot nopeasti ja syö aamupala.
+Joooo~~~
+@097
+Loiskis loiskis...
+@098
+Nyt syödään!
+@099
+Nams nams nams...
+@100
+Huh, kiitos ruoasta!
+@101
+Tässä, {BUF03}, eväät.
+@102
+Kiitos, äiti.
+@103
+Lähdetään mekin sitten.
+Joo.
+Muuten, miten Shinobick-puistoon pääsee?
+Shinobick-puisto on tavallaan ninjakylä, joten
+sinne ei pääse kävellen, mutta kun lentää "Tuulen siivillä"
+Odoro-vuoren vasemman puolen juurelle, sieltä pääsee kävellen.
+Hee~ niin se siis toimii.
+@104
+Mutta minulla ei ole nyt kaikkia "Sky Cargon" osia.
+Häh, et kai!?
+Mitä nyt teen~...
+@105
+Äidillä on "Sky Cargo".
+@106
+Häh, miksi!?
+Ostin eilen riisiä, ja kauppias antoi sen kaupan päälle♥
+Millainen riisikauppa se oikein on?
+@107
+Tässä, {BUF03}.
+@109
+Kerro minulle, kun osat ovat valmiina.
+@110
+Jos menen Shinobick-puistoon, kerron Arikalle.
+@111
+Mennään sitten.
+Joo, Odoro-vuoren vasen puoli, eikö?
+@112
+Medabottisiirto.
+@113
+Medabottisiirto.
+@114
+Kiitos vaivannäöstä.
+Kiitti.
+@115
+No niin, mennään.
+@116
+Tervetuloa Shinobick-puistoon! Pitäkää hauskaa, nin nin.
+@117
+"Kuka on ninja?" -kisan voittaja saa vapaalipun.
+Jes, onnekasta♪
+@118
+Häh? Kouji, Karin!
+@119
+Moi, {BUF03}.
+Hyvää huomenta, {BUF03}.
+Huomenta myös sinulle, Arika.
+Huomenta!
+Huomenta, Karin.
+Mutta miksi te olette täällä?
+Mitä sinä puhut, {BUF03}? Minähän annoin Arikalle
+liput Shinobick-puistoon. Tietysti tulin.
+Niin se on, hihi♥
+@120
+Häh~! Niinkö?
+@121
+Ai? Enkö kertonut?
+Et kertonut~ Ja jos liput olivat Koujilta,
+ei se ollut mikään anteeksipyyntö!
+Voi että, mies ei välitä tuollaisista!
+@122
+Antaa olla. Kun kerran tultiin,
+pidetään kunnolla hauskaa.
+No, {BUF03} ja Arika, näkemiin.
+@123
+Tässä, liput kahdelle.
+Hm, vastaanotettu!
+@124
+Minäkin aion pitää hauskaa!
+@125
+Tässä, liput kahdelle.
+Hm, vastaanotettu!
+@126
+Taidan minäkin mennä.
+@127
+En voi lähteä kotiin muita ennen. Palataan sisään.
+@128
+Häh, "Kuka on ninja?" ei ole vielä ohi.
+@129
+Käydään tapaamassa muita ennen kotiin lähtöä.
+@130
+Robotellaanko? Sanon vain, että neljän kuninkaan
+maine ei ole turha.
+@131
+Aloitin hiljattain Medabotit Shurin suosituksesta.
+Ryhtyisitkö vastustajakseni?
+@132
+Upeaa! Vanha ninjatalo on rakennettu
+näin täydellisesti!
+Voi isä, tulimme tänne kahdestaan,
+ja te pidätte hauskaa yksinänne...
+@133
+Shuri?
+@134
+Tenryou {BUF03}! Sinäkin tulit?
+@135
+Kas, {BUF03}. Pitkästä aikaa.
+@136
+Päivää, professori Akagane. Olette palannut Japaniin?
+Joo, vähän aikaa sitten.
+Taidan kuitenkin lähteä pian taas ulkomaille.
+Oletko yksin?
+@137
+En, tulin Arikan, Koujin ja Karinin kanssa...
+Kas, Karinkin on täällä! Etsin hänet myöhemmin.
+Joo, Karin ilahtuu varmasti.
+No, nähdään.
+@138
+Pitäkää hauskaa, professori.
+Kiitos, samoin, {BUF03}.
+Kiitos.
+@139
+Shuri!!
+Häh?
+@140
+Luulitko voivasi pitää hauskaa salaa minulta!
+Onko hän Shurin tuttu?
+@141
+Ei, en tunne häntä ollenkaan.
+@142
+Mi.tä.sa.noit~~!!
+@143
+Kaksintaistelu, Shuri!
+Voi voi, mikä kiivas ihminen.
+@144
+Uuh~ julmaa, Kinoko...
+Häh, {BUF03}, olitko siinä?
+Sinä olet aika julma.
+Ahaha, sori~♥
+Voi sentään~
+@145
+Vaikka Liberties hajosi, taitoni eivät ole ruostuneet!
+@146
+Tulkaa uudestaan, nin nin.
+@147
+Valmistin tyynyn varta vasten, joten istu tuonne.
+@148
+Löysit tämän paikan, olet taitava.
+Ota tämä palkkioksi.
+@149
+Sillä "Medarot 3 -passilla" voi yhteyskaapelin avulla
+siirtää "Medarot 3:n" osia "Medarot 4:ään".
+Hieno esine.
+"Medarot 3:n" osia!?
+Niin. Eli sen avulla voit palauttaa
+osatiedot, jotka opettaja Ryuuko vei
+sinulta alussa.
+Ymmärrän!
+Joten jos sinulla on "Medarot 3:n" tietoja,
+kokeile sitä.
+Kiitos.
+Ai niin, lennä kotiin samoin kuin tullessa
+"Tuulen siivillä".
+@150
+No, oletko kokeillut "Medarot 3 -passia"?
+@151
+Mitä, sinulta vietiin "Sky Cargon" osat?
+Ei voi mitään.
+Kas tässä!
+@152
+Aaaaaaaaaa....
+@153
+....aaaaaaaAAAAH!!
+@154
+Uuh, päätä huimaa.
+@155
+N-Naen vuoksi...
+(Taitaa olla parempi olla puhumatta hänelle.)
+@156
+Ai, Nae, päivää.
+@157
+Kas, päivää.
+Sinäkin tulit, {BUF03}?
+Kyllä, Kouji antoi minulle lipun.
+Minäkin sain lipun isoisältä,
+joten tulin katsomaan.
+@158
+Shirataman kanssako?
+No, Shiratama näyttää hankkineen lipun
+itse ja tulleen.
+@159
+Missä Nae, siellä Shiratama... hehheh.
+Mutta ei sinun silti tarvitse kantaa tavaroitakin.
+Sanoin hänellekin, ettei
+hänen tarvitse kantaa tavaroitani.
+Kantamusten kantaminen on miehen romantiikkaa!
+@160
+Ah, ah, ah...
+@161
+Häh!
+{BUF03}, pois alta!!
+@162
+Aaaaaaa~~~~~!!
+@163
+{BUF03}, oletko kunnossa?
+U-uuh...
+@164
+Huh, säikähdin.
+Loukkaannuitko mihinkään?
+En, olen kunnossa.
+Huh, hyvä.
+@165
+Shiratama, on mukavaa, että kannatte tavaroitani,
+mutta älkää tehkö mitään hullua.
+K-kyllä... häpeän.
+@166
+Anteeksi, {BUF03}, että säikäytimme sinut.
+Ei se mitään.
+Kiitos♥
+@167
+Kas, robottelua? Jos sinä, {BUF03},
+olet vastustajani, en minäkään säästele.
+@168
+Voititko kilpailun?
+Onnittelut, {BUF03}♥
+@169
+Hehheh... Minäkin olen Medabottilaboratorion
+väkeä. En häviä helposti.
+@170
+Voitit kilpailun? Mikä
+palkinto oli?
+P-pu-pusu Naen kanssa...
+Ei ollut.
+@171
+Ansoja ja jännitystä yllin kyllin! Shinobickin "Ninjatalo"
+@173
+Kas, tervetuloa.
+@174
+..........Miksi?
+@178
+Tervetuloa Shinobick-puiston ninjataloon. Talossa
+on ansoja kaikkialla. Jos tutkitte sitä, olkaa varovaisia.
+@180
+Sanoinhan, että olkaa varovaisia?
+@181
+Olisit sitten kertonut, missä ne ovat.
+@184
+Häh? Vain tämä seinä heiluu vähän.
+Työnnänkö sitä?
+@185
+Ah, ah, ah...
+@186
+Säikähdin~ Se olikin kääntöovi.
+@187
+Tältä puolelta se ei näytä kääntyvän.
+@188
+Opettaja Ryuuko! Miksi olette täällä?
+Kas, onko outoa, että olen täällä?
+Ai, ei outoa, mutta vähän yllättävää.
+Minäkin käyn tällaisissa paikoissa, kun en ole koulussa.
+Niinpä tietysti, hahaha...
+(Mutta yllättävää se silti on.)
+@189
+Ai, opettaja Ryuukokin on täällä?
+Mitä tarkoitat tuolla "-kin"?
+Tuota, näin Mizuchin perällä...
+Tulitteko hänen kanssaan?
+Häh, onko Mizuchi täällä?
+Outoa. Sen lapsen piti repiä
+lippunsa, eikä hänellä pitäisi olla lippua...
+Tenryou, veisitkö minut Mizuchin luo?
+Kyllä, mutta...
+@190
+Heh, ninjatalo ei olekaan hassumpi.
+@191
+Kas? Tämä seinä...
+@192
+Ymmärrän, "kääntöovi".
+@193
+Missähän Mizuchi on?
+Outoa, hänen piti olla tässä huoneessa vielä äsken.
+@194
+(Tuo ääni... sisko!?)
+@195
+Miii-zuuu-chiii!
+@196
+Ai? Tämä seinä...
+@197
+Häh? Mizuchi, milloin sinä tulit?
+Tuota... ihan äsken.
+@198
+Opettaja Ryuuko...
+Häh? Nyt opettaja Ryuuko katosi.
+Tenryou, onko siellä joku?
+@199
+Hitto!
+@200
+Ai, opettaja Ryuuko.
+Tenryou, missä Mizuchi on?
+Tuota, tässä...
+@201
+Häh? Taas hän katosi?
+@202
+Tuolla.
+Tsk!
+@203
+Mizuchi!
+Taas tuolla?
+@204
+Opettaja Ryuuko.
+@205
+Mizuchi.
+@211
+Tenryou, tämä menee ristiin.
+Tästä ei tule loppua. Antaa olla, tapaamme varmasti jossain.
+No, Tenryou, nähdään.
+@212
+Mizuchi... miksi vältät opettaja Ryuukoa niin kovasti?
+On kaikenlaista. Ongelmia, joita ulkopuoliset eivät ymmärrä.
+Vai niin.
+@213
+Haluatko robotella kanssani? Hyvä on, mutta toisin kuin
+koulussa, en säästele!
+@214
+Miksi Mizuchi yrittää niin kovasti
+vältellä minua?
+Hän taitaa ujostella.
+Minusta tuntuu, että hän on vain hankala.
+@215
+Ai, Mizuchikin tuli.
+Joo, sattumaa.
+Luulin, ettet käy juuri tällaisissa paikoissa.
+Heh, yllätyitkö?
+Hmm, vähän.
+Olen täällä vielä hetken. Robotellaan, jos ehdit.
+Joo!
+@216
+Ai, Mizuchikin tuli.
+Joo, sattumaa.
+Luulin, ettet käy juuri tällaisissa paikoissa.
+Heh, yllätyitkö?
+Hmm, vähän.
+Muuten, opettaja Ryuukokin on täällä. Etkö ole hänen kanssaan?
+Mitä! Onko siskokin täällä?
+Joo, äsken sisäänkäynnin luona...
+(Hitto! En uskonut, että hän tulisi yksin.)
+Mizuchi, mikä hätänä?
+Häh? Ei mitään. Vai niin, ehkä minäkin
+etsin siskon myöhemmin.
+@217
+Heh, katsotaanpa taitojasi.
+@218
+Hmm, tämä japanilainen tunnelma on rauhoittava.
+@219
+No! Löytyikö "piikatyttö"?
+Ei löydy, puheenjohtaja!
+Ei täälläkään!
+@220
+Voi "piikatyttö", missä oikein olet...
+Hups, jos he löytävät minut, joudun taas siihen asuun.
+Livahdan hiljaa ulos ennen kuin he huomaavat...
+@221
+Puheenjohtaja, takananne!
+@222
+Hitsi, he huomasivat!
+Löysin sinut, "piikatyttö"!
+@223
+Tulkaa, te! Älkää päästäkö häntä karkuun!
+@224
+Miksi he ovat Shinobick-puistossa?
+"Piikatyttööö"!!
+@225
+Hups, jään kiinni!
+@226
+Kuunnelkaa! "Piikatytön fanikerhon"
+yksinumeroisten jäsenten kunnian nimissä
+kääntäkää jokainen kivi!!
+@227
+Mukava paikka. Kaikki ovat niin eloisia.
+@228
+Herra Hakuma, palataan pian.
+Häh...
+Shinran kylä yrittää nyt tosiaan tulla kyläksi,
+jossa kaikki elävät omin avuin. Mutta
+se on vielä kesken. Ilman teitä, herra Hakuma...
+Hmm...
+@229
+Uwaa!!
+@230
+Oletteko kunnossa, herra Hakuma?
+Joo, minä olen kunnossa... mutta
+@231
+Uuh...
+Ai, {BUF03}!
+@232
+Ai, Hakuma!
+Pitkästä aikaa! Oletko voinut hyvin?
+Joo, hyvin. Mutta {BUF03},
+eikö sinulla ollut jokin kiire?
+@233
+Aivan, unohdin! Minun pitää piiloutua jonnekin äkkiä.
+@234
+Odota!
+@235
+Jos haluat piiloutua, lainaan sinulle takkiani.
+Sillä voi ehkä hämätä edes vähän.
+Ei käy, herra Hakuma! Ei vaatteitanne tuollaiselle!
+@236
+Hei, sinä! Sinullahan on vara-asuni?
+J-joo, taisin unohtaa palauttaa sen?
+Saat pitää sen. Pue se päälle ja piiloudu.
+Kiitos, Byakuya.
+@237
+"Piikatytön" pitäisi olla yhä Shinobick-puistossa!
+Etsikää hänet ja tuokaa minun eteeni!
+@238
+Selvä, minä etsin tältä alueelta.
+Etsi sinä vasemmalta.
+Selvä.
+@239
+Hehheh, "piikatyttö", kun saan sinut kiinni,
+hemmottelen sinua oikein kuuuunnolla~♥
+@240
+(Ei ikiiinä!!)
+@241
+Kuka siellä on!
+@242
+(H-huomasivat! Nyt on loppu...)
+Tuo asu... Toranishin oppilas. Tsk, ei ole "piikatyttö".
+@243
+Pe...
+Pelastuin~ Kiitos, Byakuya~
+@244
+Missä "piikatyttö" on?
+Anteeksi, häntä ei löytynyt.
+Tsk, hyödyttömiä tyyppejä.
+No, olkoon. Äsken hän ujosteli ja pakeni, mutta ehkä
+"piikatyttö" haluaa vielä tavata minut ja
+tulee itse luokseni~♥
+Selvä, palataan!
+@245
+Huh, he lähtivät vihdoin.
+@246
+Pitää kiittää Hakumaa ja Byakuyaa myöhemmin.
+@247
+Ei! En todellakaan halua tavata Kokuenia!
+@248
+Onkohan Kokuen jo lähtenyt jonnekin?
+........
+@249
+........
+@250
+Onkohan hän tosiaan poissa?
+@251
+Hyvä, Kokuen ei ole täällä.
+Mutta... en tiedä, milloin hän palaa, joten
+tutkin kiinnostavat kohdat nopeasti.
+@252
+Onnistuitte, puheenjohtaja Kokuen.
+Joo, kun minulla on tämä kirjakäärö,
+piikatytön on pakko tulla tänne.
+Haa-hahahaha...
+Pelkurimaista!
+@253
+Mitä? Aiotko robotella kanssani?
+Hmph, hyvä on. Saat katua, että haastoit minut.
+@254
+Ai, Hakuma ja Byakuya, täällähän te olette.
+Kiitos äskeisestä, molemmat.
+Ei se mitään.
+Olet vaivalloinen tyyppi.
+Tuota, Byakuya... tämä asu...
+En halua asua, jota sinä olet pitänyt. Saat pitää sen.
+Kiitos, Byakuya.
+Hyvä juttu, {BUF03}.
+@255
+Häh, robotellaanko? Joo, mutta en säästele.
+@256
+Arika, mitä sinä täällä teet?
+Ai, {BUF03}, kuuntele! Halusin tehdä jutun
+ninjatalosta ja julkaista sen "Arikan lehdessä",
+mutta täällä on kuulemma kuvauskielto!
+Ai, tällaisissa paikoissa sitä on usein.
+Voi että, suututtaa!
+@257
+Jos kuvia ei saa ottaa, ajattelin ostaa ainakin
+matkamuistoja ja tehdä lehden niistä. Millaiset olisivat hyviä?
+@258
+Mitä! Keräsitkö sinä kaikki kirjakääröt, {BUF03}?
+Voi ei, minä aioin kerätä ne~
+@259
+"Kuka on ninja?", vai... Kuulostaa hauskalta.
+Selvä! Minä olen ensimmäinen ja saan palkinnon!
+@261
+Outoa~ Minusta tuntui, että tässä lähellä
+oli ninja.
+Ei auta. Etsitään seuraavaksi tuolta!
+@263
+{BUF03}, joko keräsit kirjakääröt?
+En vielä.
+Sitten minulla on vielä mahdollisuus palkintoon.
+Selvä, nyt etsitään innolla!
+@265
+Voi ei, taas kadotin sen! Älä piileskele,
+tule esiin!!
+@266
+Mutta kai se on kilpailu juuri siksi, että ne piileskelevät?
+@267
+{BUF03}, robotellaanko pitkästä aikaa?
+Joo, mielelläni.
+@268
+Mikähän tuo kova ääni oli?
+@269
+Anteeksi, etten voinut auttaa.
+Ei se mitään, Karin.
+Mutta miten erotan Koujin muista?
+Mitä jos näyttäisit Koujille ötökän?
+Kouji inhoaa ötököitä.
+Aivan, se voisi toimia.
+@270
+Jos haluat säikäyttää Koujin, paras keino
+on näyttää hänelle ötökkä, jota hän inhoaa.
+Aivan, olet nokkela, Karin.
+Etsitään heti ötökkä.
+@271
+Kas, {BUF03}, robotellaanko?
+En säästele.
+@272
+{BUF03}, onnittelut voitosta.
+Valmistaudun lähtemään kotiin, joten
+odota sinä edeltä Shinobick-puiston sisäänkäynnillä.
+@273
+Valmistaudun lähtemään kotiin, joten
+odota sinä edeltä Shinobick-puiston sisäänkäynnillä.
+@274
+Ratkaistaanko tämä nyt tosissaan, {BUF03}!
+Sitä minäkin haluan!
+@275
+Huh, robotellaan taas joskus.
+@276
+Hei! Älä tule sisään koputtamatta!
+@277
+Waa, anteeksi!
+@278
+Häh?
+@279
+Miksi Kouji suuttuu minulle?
+Haha, vitsi, vitsi. Älä suutu noin tosissasi.
+Voi sinua, Kouji...
+Muuten, näin äsken Toranishin tyypin,
+ja yritin palauttaa asun, jonka lainasin heidän oppilaaltaan,
+mutta hän sanoi "en tarvitse sitä" ja työnsi sen takaisin.
+Minulle siitä ei ole hyötyä, joten saat sen, {BUF03}.
+@280
+Tuntuu, että se tyrkytettiin minulle?
+@281
+Mi-mi-mi-mitä... mitä nyt?
+@282
+Räjähtääkö jokin ninjatalon suunnalla?
+@285
+Mitä? Onko ninjatalon katolla joku?
+Mennään katsomaan!
+@289
+T-tuo räjähdysääni...
+@290
+Ai, tuo on!
+@291
+Kuulkaa! Olen Ishikawa Shinuemon, mestarivaras!
+Kuunnelkaa tarkkaan, kaikki! Nyt alkaa Shinobick-puiston
+uusi vetonaula "Kuka on ninja?"!

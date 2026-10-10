@@ -1,0 +1,430 @@
+@000
+{BUF09}
+@001
+{BUF0A}
+@002
+{BUF0B}
+@003
+Osaatko vastata tähän kysymykseen?
+@004
+Mikä on tämän Medabotin nimi?
+@005
+Mikä on tämän pääosan nimi?
+@006
+Mikä on tämän oikean\nkäden osan nimi?
+@007
+Mikä on tämän vasemman\nkäden osan nimi?
+@008
+Mikä on tämän jalkaosan nimi?
+@009
+Mikä on tämän kappaleen nimi?
+@010
+Kas! Oikein!
+@011
+Oikein! Taitava olet
+@012
+Hm, oikein!
+@013
+Hienoa, oikein
+@014
+Oikein, olipa täpärällä
+@015
+Harmi, aika loppui!
+@016
+Harmi, väärin!
+@017
+Mistä Medabotti koostuu\nmitalin ja osien lisäksi?
+@018
+Tinpetti
+@019
+Medakello
+@021
+Mikä on Karinin\nsukunimi?
+@022
+Junmai
+@023
+Akihabara
+@024
+Amazake
+@025
+Mitä Kouji inhoaa?
+@026
+Valehtelijoita
+@027
+Tikkoja
+@028
+Mochin tekoa
+@029
+Millainen kamera\nArikalla on?
+@030
+Järjestelmäkamera
+@031
+Digikamera
+@032
+Videokamera
+@033
+Mitä "Unitrisin"\nmallinumero "KLN" tarkoittaa?
+@034
+KING OF LION
+@035
+KILIN
+@036
+KILIKINZAM
+@037
+Montako mitalia Naen\nhuoneessa oli alussa?
+@038
+4 kpl
+@039
+6 kpl
+@040
+3 kpl
+@041
+Montako laukaisuaukkoa on\nSaikachisin vasemmassa?
+@043
+4 kpl
+@044
+6 kpl
+@045
+Mikä ase on Dorcusin\noikeassa kädessä?
+@046
+Selviytymisveitsi
+@047
+Kärkipihdit
+@048
+Konekivääri
+@049
+Minkä väriset ovat\nprofessorin aurinkolasit?
+@050
+Mustat
+@051
+Kultaiset
+@053
+Minkä värinen on\nmiestyypin tinpetti?
+@054
+Sininen ja valkoinen
+@055
+Pinkki ja valkoinen
+@056
+Punainen ja valkoinen
+@057
+Mitä tapahtuu, jos aika\nloppuu kesken robottelun?
+@058
+Mister Uruchi ratkaisee
+@059
+Neiti Chimaki ratkaisee
+@060
+Terakado ampuu nuolen
+@061
+Kuka toimii minipelien\ntuomarina?
+@062
+Neiti Chimaki
+@063
+Mister Uruchi
+@065
+Oikea käsi, vasen käsi,\njalat... mikä on neljäs?
+@066
+Pääosa
+@067
+Vatsaosa
+@068
+Polviosa
+@069
+Millä osalla on sama kyky\nkuin "miekka"-iskulla?
+@070
+Vasara
+@071
+Vulcan
+@073
+Mikä lähi-isku on\n"lyöntiä" riskialttiimpi?
+@074
+Raivo
+@075
+Riehunta
+@076
+Rähinä
+@077
+Mitä tapahtuu\n"raivo"-iskun jälkeen?
+@078
+Ei voi väistää, puolustaa
+@079
+Ei voi lyödä
+@080
+Ei voi ampua
+@081
+Mitä etua\n"tähtäys"-iskusta saa?
+@082
+Kriittinen osuu helpommin
+@083
+Vahinko kasvaa
+@084
+Osuu helpommin
+@085
+Missä lähi-isku on\nampumista parempi?
+@086
+Kohde löytyy aina
+@087
+Iskee kauas
+@088
+Puolustus iskun jälkeen
+@089
+Missä ampuminen on\nlähi-iskua parempi?
+@090
+Voi valita kohteen
+@091
+Iskee kaukaa
+@092
+Vahinko 1,5-kertainen
+@093
+Mikä ruoka on\nnyt muotia?
+@094
+Katsucurry-udon
+@095
+Muhennossoba
+@096
+Karamentai
+@097
+Kuka mestarivaras\nRetort oikeasti on?
+@098
+Toistaiseksi sa-lai-suus
+@099
+Kirara
+@100
+Professori Retort
+@101
+Mikä osa on "nopean"\nluonteen helpoin kohde?
+@102
+Jalkaosa
+@103
+Oikean käden osa
+@105
+Mikä osa on "satunnaisen"\nluonteen helpoin kohde?
+@106
+Ei mikään erityisesti
+@109
+Mitä tapahtuu, kun Medabotin\ntoiminta lakkaa?
+@110
+Mitali irtoaa
+@111
+Mitali hajoaa
+@112
+Menee kotiin
+@113
+Kuka ratkaisee\nrobottelun voittajan?
+@117
+Mikä seuraavista ei vaikuta\nrobottelun voittoon?
+@118
+Oma aika loppuu
+@119
+Rikkoo paljon osia
+@120
+Johtaja pysähtyy
+@121
+Mitä tapahtuu, kun käytät\nhavainto-osaa?
+@122
+Iskut osuvat helpommin
+@123
+Vihollinen sekoaa
+@124
+Saa vihollisen iskun
+@125
+Mitä tapahtuu, kun käytät\nnaamiointiosaa?
+@126
+Väistää helpommin
+@127
+Iskut eivät osu koskaan
+@128
+Katoaa ruudulta
+@129
+Milloin "tuho"-osa\nonnistuu?
+@130
+Vihollinen on selin
+@131
+Vihollinen on muuntunut
+@132
+Vihollinen on kasvotusten
+@133
+Mitä tapahtuu, kun käytät\nkaato-osaa?
+@134
+Toiminto unohtuu
+@135
+Tulee koti-ikävä
+@136
+Tekee mieli vesimelonia
+@137
+Mitä myogan syömisen\nsanotaan aiheuttavan?
+@140
+Tekee mieli vesimelonia
+@141
+Makea ja herkullinen meloni.\nMikä on vesimeloni englanniksi?
+@142
+Watermelon
+@143
+Red melon
+@144
+Mascara melon
+@145
+Mitä sinä rakastat?
+@147
+Sumoa
+@148
+Juoksukisoja
+@149
+Miten voimamuutos eroaa\nsiirtomuutoksesta?
+@150
+Vaatii Medavoimaa
+@151
+Vahinko korjautuu
+@152
+Hetken voittamaton
+@153
+Montako luonnetta\nmitaleilla on yhteensä?
+@154
+7 lajia
+@155
+32 lajia
+@156
+34 lajia
+@157
+Mikä muuttuu,\nkun luonne on eri?
+@158
+Tähtäyskohde muuttuu
+@159
+Hyökkäysvoima muuttuu
+@160
+Onnistuminen muuttuu
+@161
+Kuka on Screws-jengin\njohtaja?
+@162
+Kikuhime
+@165
+Mitä tapahtuu, kun\njalkaosan vaihtaa?
+@166
+Perusarvot muuttuvat
+@167
+Oppii potkimaan
+@168
+Oppii lyömään
+@169
+Mitä tapahtuu, kun jalkaosan\n"työntövoima" on suuri?
+@170
+Raivo voimistuu
+@171
+Tähtäys voimistuu
+@173
+Mitä tapahtuu, kun jalkaosan\n"liikkuvuus" on suuri?
+@175
+Juoksunopeus kasvaa
+@176
+Liikkeet ovat sulavia
+@177
+Mikä seuraavista on\nlähitaistelu-Medabotti?
+@178
+Dorcus
+@179
+Saikachis
+@180
+Arc Beetle
+@181
+Mikä seuraavista osaa\nkäyttää sädettä?
+@184
+Arc Beast
+@185
+Tiesitkö, että naapurin\naita aidattiin?
+@186
+Hee
+@187
+Hoo
+@188
+Mitä te höpisette?
+@189
+Mikä seuraavista\nei kuulu joukkoon?
+@190
+Kissamalli
+@191
+Miko-malli
+@192
+Piikamalli
+@193
+Minkä osan vaikutus kasvaa,\nkun maasto muuttuu?
+@196
+Nopeus
+@197
+Mikä ei tehoa selin\nolevaan Medabottiin?
+@198
+Kaato
+@199
+Tuho
+@200
+Koti-ikävä
+@201
+Mikä osa vaikuttaa\npelkkänä varusteena?
+@202
+"Jatkuva"-tyypin osa
+@203
+"Suora"-tyypin osa
+@204
+"Asennus"-tyypin osa
+@205
+Kävelet "kaupungissa", kun\nvihollinen ilmestyy! Mitä teet?
+@206
+Ajoneuvolla robotteluun!
+@207
+Monijalalla robotteluun!
+@208
+Lentäjällä robotteluun!
+@209
+Vihollinen käytti "heijastus"-\nosaa! Miten vastaat?
+@210
+"Asennon murto" -osa
+@211
+"Täysmitätöinti"-osa
+@212
+"Tilasuoja"-osa
+@214
+Läpi kriittisellä
+@215
+Lisää haittatila
+@216
+Käytä korjausosaa
+@217
+Montako taitotasoa\non yhteensä?
+@220
+14 lajia
+@221
+Mitkä ovat pääosan\nlataus- ja jäähdytysarvot?
+@222
+Lataus 6, jäähdytys 6
+@223
+Lataus 8, jäähdytys 12
+@224
+Lataus 12, jäähdytys 4
+@225
+Mitkä ovat Medavoiman\nlataus- ja jäähdytysarvot?
+@226
+Lataus 12, jäähdytys 12
+@227
+Lataus 8, jäähdytys 8
+@229
+Kabuton oikea käsi on KBT-02,\nvasen KBT-03. Entä pääosa?
+@230
+KBT-01
+@231
+KBT-10
+@232
+KBT-00
+@233
+Mitä Medavoiman "voima"\ntarkoittaa?
+@234
+Voimaa
+@235
+Taitoa
+@236
+Tietoa
+@237
+Millä kentällä "Ajoneuvo"-\ntyypin jalat ovat vahvoja?
+@238
+Kaupunki, Stadion
+@239
+Vesi, Jäätikkö
+@240
+Tie, Asfaltti

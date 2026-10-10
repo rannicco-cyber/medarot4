@@ -1,0 +1,696 @@
+@000
+Sijalla 54 on Nigou.\nPelaatko Medalinkiä?
+@002
+Sijalla 53 on Tamawo.\nPelaatko Medalinkiä?
+@004
+Sijalla 52 on Kurouma.\nPelaatko Medalinkiä?
+@006
+Sijalla 51 on Homare.\nPelaatko Medalinkiä?
+@011
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 50-46.
+Sijalla 50 on Yamada. Pelaatko Medalinkiä?
+@013
+Sijalla 49 on Yukimura.\nPelaatko Medalinkiä?
+@015
+Sijalla 48 on Bafusaku.\nPelaatko Medalinkiä?
+@017
+Sijalla 47 on Mutsuki.\nPelaatko Medalinkiä?
+@019
+Sijalla 46 on Sara Mitsuo.\nPelaatko Medalinkiä?
+@024
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 45-41.
+Sijalla 45 on Bunroku. Pelaatko Medalinkiä?
+@026
+Sijalla 44 on Hikaru.\nPelaatko Medalinkiä?
+@028
+Sijalla 43 on Honey Boy.\nPelaatko Medalinkiä?
+@030
+Sijalla 42 on Kagamiyama.\nPelaatko Medalinkiä?
+@032
+Sijalla 41 on Hoketa Chii.\nPelaatko Medalinkiä?
+@037
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 40-36. Sijalla 40 on Nishida.
+Pelaatko Medalinkiä?
+@039
+Sijalla 39 on Nishimura.\nPelaatko Medalinkiä?
+@041
+Sijalla 38 on Shiraishi.\nPelaatko Medalinkiä?
+@043
+Sijalla 37 on Byakuya.\nPelaatko Medalinkiä?
+@045
+Sijalla 36 on Shimeta.\nPelaatko Medalinkiä?
+@050
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 35-31. Sijalla 35 on Samayo.
+Pelaatko Medalinkiä?
+@052
+Sijalla 34 on Patricia.\nPelaatko Medalinkiä?
+@054
+Sijalla 33 on Akagane.\nPelaatko Medalinkiä?
+@056
+Sijalla 32 on Tamao.\nPelaatko Medalinkiä?
+@058
+Sijalla 31 on Iwanoi.\nPelaatko Medalinkiä?
+@063
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 30-26.
+Sijalla 30 on Hasuke. Pelaatko Medalinkiä?
+@065
+Sijalla 29 on Takasu Rumi.\nPelaatko Medalinkiä?
+@067
+Sijalla 28 on Hachibee.\nPelaatko Medalinkiä?
+@069
+Sijalla 27 on Honey Girl.\nPelaatko Medalinkiä?
+@071
+Sijalla 26 on Takuo.\nPelaatko Medalinkiä?
+@076
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 25-21.
+Sijalla 25 on Mejiro. Pelaatko Medalinkiä?
+@078
+Sijalla 24 on Hachirou.\nPelaatko Medalinkiä?
+@080
+Sijalla 23 on Milky.\nPelaatko Medalinkiä?
+@082
+Sijalla 22 on Kawamuraa.\nPelaatko Medalinkiä?
+@084
+Sijalla 21 on Eriko.\nPelaatko Medalinkiä?
+@089
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 20-16.
+Sijalla 20 on Sasuke. Pelaatko Medalinkiä?
+@091
+Sijalla 19 on Tomoe.\nPelaatko Medalinkiä?
+@093
+Sijalla 18 on Erio.\nPelaatko Medalinkiä?
+@095
+Sijalla 17 on Kikuhime.\nPelaatko Medalinkiä?
+@097
+Sijalla 16 on Karin.\nPelaatko Medalinkiä?
+@102
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 15-11.
+Sijalla 15 on Rintarou. Pelaatko Medalinkiä?
+@104
+Sija 14: Medabottiprofessori.\nPelaatko Medalinkiä?
+@106
+Sijalla 13 on Shiratama.\nPelaatko Medalinkiä?
+@108
+Sijalla 12 on Nae.\nPelaatko Medalinkiä?
+@110
+Sijalla 11 on Kokuen.\nPelaatko Medalinkiä?
+@115
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 10-6.
+Sijalla 10 on Hakuma. Pelaatko Medalinkiä?
+@117
+Sijalla 9 on Shuri.\nPelaatko Medalinkiä?
+@119
+Sijalla 8 on Arika.\nPelaatko Medalinkiä?
+@121
+Sijalla 7 on Kinoko.\nPelaatko Medalinkiä?
+@123
+Sijalla 6 on Retort Lady.\nPelaatko Medalinkiä?
+@128
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 5-1.
+Sijalla 5 on Retort. Pelaatko Medalinkiä?
+@130
+Sijalla 4 on Ryuuko.\nPelaatko Medalinkiä?
+@132
+Sijalla 3 on Mizuchi.\nPelaatko Medalinkiä?
+@134
+Sijalla 2 on Kouji.\nPelaatko Medalinkiä?
+@140
+Ykkönen, mahtavaa, kvak!
+Kuten lupasin, annan palkinnon, kvak!
+@141
+Tuota...
+Vieläkö asiaa, kvak?
+Medamestarin todiste...
+@142
+Sano se heti, kvak!
+(...Hän unohti.)
+@143
+Tämäkö on Medamestarin...?
+Niin on, kvak. Onko valittamista, kvak?
+Ei valittamista, mutta... tämähän on kuin...
+Ripusta naru kaulaan, kvak.
+@144
+Tämähän on kuin eksyneen lapsen nimilappu...
+Niin kuuluukin, kvak! Mene sellaisenaan Medabottiyhtiön
+Medakokeen tarkastajan luo, kvak.
+Vähän noloa...
+Mitä höpiset, kvak! Sillä tavalla sinusta tulee
+kaupungin suosikki, kvak! Rinta rottingilla, kvak!
+Medamestariksi tullakseen sen kestää...
+"Tuulen siivillä" tai "Minirattilla" ei saa
+huijata, kvak! Kävele kunnolla, kvak!
+Joo joo, selvä... voi voi...
+@145
+..................\nTurvallista matkaa, kvak.
+@146
+Hyvä! En ehkä tapaa tuttuja.
+Äkkiä Medabottiyhtiöön!
+...Mutta miksi pitää muka kävellä
+sinne? Outoa.
+@147
+Onnea, Medamestari, kvak!
+@148
+Tuota...
+@149
+Kun minulle puhutaan yhtäkkiä sivusta, luulen jääneeni kiinni
+ja säikähdän!!
+@150
+"Kiinni"?
+@151
+Tule nyt kunnolla eteeni!!
+@152
+...Voi näitä.
+@153
+Oletteko uusi tarkastaja?
+Voi sentään~ Mikä muu muka olisin?
+...! Ettekö te ole Shira...
+Kiiik!! Jos puhut outoja, en pidä sinulle Medakoetta!!
+@154
+Selvä, selvä, r-rauhoittukaa!
+@155
+Hmph hmph!
+(Onkohan tämä ok...?)
+@156
+Oo! Tuleva Medamestari!
+Tulitko tapaamaan minua?
+...Olen kuullut tuon ennenkin.
+@157
+Älä nipota!
+Joo joo, selvä.
+Yksi joo riittää!
+Tuijotus.......
+K-köh. Ah, {BUF03},
+tuota, sinä olit...
+Seuraavaksi 2. kyu, Shiratama.
+Ai, niin olikin.
+@158
+En ole Shiratama!!
+Selvä, Shiratama. Kertokaa koetehtävät äkkiä.
+Ei auta, kerron sitten. 2. kyussa on... tuota, niin,
+kaksijalkarobottelu ja tavallinen robottelu. Mutta!!
+Kaksijalkarobotteluun pääsevät tietysti vain
+kaksijalkaiset Medabotit!
+@159
+Jos haastat minut, sinun pitää
+olla Medalinkissä vähintään sijalla 55,
+muuten turha yrittää!
+Näytä!
+Ah!
+@160
+Hehhee~ Mene pesemään kasvosi ja tule uudestaan!
+Öh... (Mutta... onko tarkastajana
+Shiratama tosiaan ok?)
+Sanoitko jotain?
+En ainakaan ääneen.
+@161
+Mitäs, sinähän läpäiset.
+Älkää kuulostako niin pettyneeltä...
+Mutta tämä ei vielä riitä~ Robottelun voittoja
+pitää olla 80, muuten en hyväksy~
+@162
+Läpäisetkin. Tylsää~
+Shiratama...
+Ei auta. Otan sinut sitten vastaan.
+Hmm~ katsotaanpa...
+@163
+Hyvä, päätetty! Oikean\npuoleinen lava!
+@164
+(Onkohan tämä oikeasti ok?)
+@165
+Hah~ Ei mitään toivoa!
+...No, yritä parhaasi!
+Nyyh nyyh...
+@166
+Valmiuteen!
+@167
+Siirrä Medabottisi!
+@169
+2. kyun tasokoe! Ensin kaksijalkarobottelu!
+Kentäksi otan "Viidakon"!
+(Otan, vai...)
+No niin, poika! Valmistaudu!
+@170
+H-harmittaaa~~~!!
+@171
+Tuota~ Shiratama?
+@172
+Nyt suutuin!!
+Upotan sinut Puumeren pohjaan!!
+@173
+Buaaah! Kiusaaja!!
+@174
+Kiusaaja? Hei...!
+@175
+Shiratama!?
+@176
+Mitä minun olisi pitänyt\ntehdä...?
+@177
+Jee jee! Voitin, voitin!!
+@178
+(Jotenkin... oudon surullista.)
+@179
+...Hm? Tuo ei ole kaksijalkainen!!
+@180
+Ai niin!
+Ei mitään ai niin! Nyt suutun! Hmph hmph!
+@181
+Häh!? Nae!
+@182
+Häh!? Nae! Ja Moritamakin!
+@183
+Päivää, {BUF03}.
+@184
+(Ah! Nae! Piiloudun tänne katsomaan
+...ehehehe♥)
+@185
+Anteeksi myöhästyminen. Unohdin kokonaan,
+että aioin pyytää Naeta
+seuraavaksi tarkastajaksi.
+@186
+(Se valkotakki on liian tuttavallinen Naelle!!)
+...Eli äskeinen Shirataman koe
+ei siis kelpaa... huoh.
+Mitä Shiratamalle tapahtui?
+No, itse asiassa...
+@187
+Voi! Shiratama piti kokeen?
+@188
+Shiratama on se outoutensa takia tutkimuslaitokselta
+erotettu valkotakki! Meidän tutkijoiden häpeä!
+Ja esiintyy tarkastajana ja pitää kokeita
+omin päin, röyhkimys!
+...Eli koe ei siis kelpaa... voi voi.
+Ei se niin ole. Shiratama on tosiaan vähän
+erikoinen, mutta hänen kykynsä
+Medabottitutkijana eivät ole lainkaan huonot.
+Jos koe pidettiin asianmukaisesti, ongelmaa ei ole.
+@189
+Mutta! Hänet erotettiin...
+@190
+Mutta tutkijan pätevyyttään
+hän ei menettänyt.
+(N... Nae puolustaa minua...
+Nae siis kuitenkin minua♥
+...Aah! Minun Naeni♥)
+@191
+(Jos Shiratama kuulee tuon, hän ymmärtää väärin.
+Nae on kiltti kaikille...)
+No... jos Nae niin sanoo...
+@192
+1. kyun tasokokeesta alkaen
+minä toimin tarkastajana.
+@193
+Älä ole epäkohtelias Naelle!
+Tsemppiä sitten.
+Ai, selvä!
+@194
+Naeee♥
+@195
+...Hm?
+@196
+Ah! Sinä!!
+@197
+Seis!!
+@198
+Kyaa, Nae, apua!
+@199
+(Shiratama oli siellä...)
+@200
+Heeeei!!!
+Se on Naen paikka!
+Ei saa käyttää luvatta!!!
+@201
+Vaikka voittaisit, sitä paikkaa en anna!
+Hmph hmph!
+@202
+1. kyun tarkastaja on siis Nae.
+Hoidan sen toistaiseksi.
+Tsemppiä♥
+Selvä!
+@203
+1. kyun tasokokeen ehtona on ensin
+vähintään sija 50
+Medalinkissä. {BUF03}, sinulla on...
+@204
+Et taida vielä täyttää ehtoa...
+Tähtää kärkisijoille♥
+Selvä!
+@205
+...Kyllä! Medalink on kunnossa.
+Lisäksi tarkistan vielä
+Medaspeed-kuninkaan voitot. Niitä pitää olla
+vähintään 20.
+@206
+...Kyllä! Tarkistettu.
+1. kyun tasokokeessa
+on miesmallirobottelu ja naismallirobottelu.
+Kaksi robottelua siis.
+Kenttä on miesmalleilla "Kaupunki"
+ja naismalleilla "Näyttämö".
+Miesmallirobotteluun pääsevät vain miesmallit
+ja naismallirobotteluun vain naismallit.
+Jos kumppanisi ei täytä ehtoja,
+koetta ei voi pitää, joten ole tarkkana.
+...Pidetäänkö koe?
+@207
+Jos läpäiset tämän kokeen, {BUF03},
+sinusta tulee vihdoin 1. dan.
+1. dan...♥
+Matkaa on vielä paljon, mutta tsemppiä.
+Selvä!
+@208
+1. danin tasokokeen ehtona on ensin
+vähintään sija 45 Medalinkissä.
+{BUF03}, sinulla on...
+@210
+...Kyllä! Medalink on kunnossa.
+Lisäksi tarkistan vielä
+Medaroad-kisojen voitot. Niitä pitää olla
+vähintään 20.
+@211
+...Kyllä! Tarkistettu.
+Dan-tasoja on yhdeksän, 1. danista 9. daniin.
+Erona aiempaan: poikkeuksia lukuun ottamatta
+jokaisella tasolla on vain yksi tehtävä.
+Mutta yksikään koe ei ole helppo,
+joten valmistaudu.
+Selvä!
+@212
+1. danin tasokokeen tehtävä
+on tankkimallirobottelu.
+Kenttä on "Aavikko". Koska se on tankkimallirobottelu,
+jos kumppanisi ei ole tankkimalli,
+koetta ei voi pitää.
+...Pidetäänkö koe?
+@213
+2. danin tasokokeen ehtona on ensin
+vähintään sija 40
+Medalinkissä. {BUF03}, sinulla on...
+@215
+...Kyllä! Medalink on kunnossa.
+Lisäksi tarkistan vielä
+robottelun voitot. Niitä pitää olla
+vähintään 160.
+@216
+...Kyllä! Tarkistettu.
+2. danin tasokokeen tehtävä
+on Medabird-kilpailu.
+Ratoina kaikki: lyhyt, keskipitkä ja pitkä.
+Ne ajetaan peräkkäin, joten osia tai Medabotteja
+ei voi vaihtaa välillä.
+Jos voitat minut kaikilla radoilla, läpäiset.
+(Aika tiukkaa ehkä.)
+...Pidetäänkö koe?
+@217
+Seuraavaksi 3. danin tasokoe.
+Olet päässyt tänne lyhyessä ajassa. Todella hienoa.
+No, niinkö?
+Jos se ei ole vaivaksi, {BUF03},
+haluaisin, että kasvattaisit taas
+yhden mitaleistani?
+Häh!
+@218
+Sinulle, {BUF03}, voin huoletta
+uskoa mitalin.
+Mutta enhän minäkään pysty kasvattamaan
+kaikkia mitaleja kerralla...!
+Tiedän sen tietysti. Annan sinulle aina
+yhden mitalin kerrallaan, {BUF03},
+koska haluan, että kasvatat ne
+vaikka hitaasti.
+...Fufu, joten tälläkin kertaa vain yksi.
+M-mutta yksikin!
+Olette jo antaneet minulle niin paljon...
+Minullekin on raskasta erota mitaleista.
+Mutta mitalikotelossa koristeena
+ne eivät varmasti ole iloisia.
+Nae...
+No, minä palaan tutkimuslaitokselle.
+Muista tulla huoneeseeni.
+@219
+Hän lähti...
+"Sinulle voin huoletta uskoa"... vai.
+Vastaanko minä Naen odotuksiin...
+@220
+Hyvä! Yritän parhaani!
+@221
+Kyllä, olkaa hyvä!
+Siirry sitten oikean puoleiselle lavalle.
+@222
+Vai niin...
+Yritä taas uudestaan.
+@223
+Valitettavasti voittoja ei vielä ole
+tarpeeksi ehtoon.
+Kasvata voittojesi määrää.
+Selvä!
+@224
+Asetu sitten paikallesi.
+@225
+Aloitetaan 1. kyun tasokoe.
+Ensimmäinen on miesmallirobottelu,
+toinen naismallirobottelu.
+Valmis?
+@226
+Kyllä!
+Siirrä sitten Medabottisi.
+@228
+Robottelu alkaa!
+@229
+Voitin!
+Kuten odotinkin♥
+...Ennen seuraavaa robottelua
+vaihda kumppaniksi naismalli.
+Kerro, kun olet valmis.
+Selvä!
+@230
+Oletko vaihtanut kumppanisi
+naismallin Medabotiksi?
+@231
+Kyllä!
+Asetu sitten paikallesi.
+@232
+Aloitetaan 1. kyun tasokokeen toinen ottelu,
+naismallirobottelu. Siirrä Medabottisi.
+@236
+Aloitetaan 1. danin tasokoe.
+Se on tankkimallirobottelu. Oletko valmis?
+@237
+Kyllä!
+Robottelu alkaa. Siirrä Medabottisi.
+@241
+Aloitetaan 2. danin tasokoe.
+Tehtävänä on Medabird-kilpailu.
+Ensin lyhyt rata.
+Siirrä Medabottisi.
+@243
+Medabird alkaa!
+@244
+Lyhyt rata läpäisty.
+Jee!
+Seuraavaksi keskipitkä rata. Aloitetaan.
+@245
+Keskipitkä rata läpäisty.
+Jee!
+Sitten pitkä rata. Mennään.
+@246
+Ah!
+@247
+Anteeksi, en ole vielä vaihtanut kumppaniani
+rajoituksen mukaiseksi Medabotiksi...
+Voi...
+Odotan sitten.
+@248
+Hävisin...
+Valitettavasti et läpäissyt,
+mutta yritä uudestaan.
+Selvä...
+@250
+...Ah!
+@251
+Mikä hätänä?
+Anteeksi... En koonnut kolmea Medabottia.
+Voi...
+Selvä. Odotan sitten.
+Selvä...
+@252
+Voitin!
+Läpäisit♥
+Jee!
+@253
+Fufu... Laskeudu sitten\nlavalta.
+@254
+Selitän sitten
+3. danin tasokokeen.
+3. danin tasokokeen ehtona on ensin
+vähintään sija 35
+Medalinkissä. {BUF03}, sinulla on...
+@256
+...Kyllä! Medalink on kunnossa.
+Lisäksi tarkistan vielä
+Medabird-kilpailun voitot. Niitä pitää olla
+vähintään 20.
+@257
+...Kyllä! Tarkistettu.
+3. danin tasokokeen tehtävä
+on robottelu enintään 200 panssarilla.
+Kenttä on "Hiekkakuoppa".
+Tässä rajoitetussa robottelussa ei saa osallistua
+Medabotti, jonka pään, kummankin käden ja jalkojen
+panssarin yhteissumma ylittää 200.
+Jos kumppanisi ei täytä ehtoja,
+koetta ei voi pitää, joten ole tarkkana.
+...Osallistutko kokeeseen?
+@258
+4. danin tasokokeen ehtona on ensin
+vähintään sija 30
+Medalinkissä. {BUF03}, sinulla on...
+@260
+...Kyllä! Medalink on kunnossa.
+Lisäksi tarkistan vielä
+robottelun voitot. Niitä pitää olla
+vähintään 300.
+@261
+...Kyllä! Tarkistettu.
+4. danin tasokoe on robottelu
+enintään 100 panssarilla.
+Kenttä on "Vesi".
+Siihen ei saa osallistua Medabotti, jonka
+neljän osan panssarin yhteissumma ylittää 100.
+...Osallistutko kokeeseen?
+@262
+5. danin tasokokeen ehtona on ensin
+vähintään sija 25
+Medalinkissä. {BUF03}, sinulla on...
+@264
+...Kyllä! Medalink on kunnossa.
+Lisäksi tarkistan vielä
+Medaspeed-kuninkaan voitot. Niitä pitää olla
+vähintään 30.
+@265
+...Kyllä! Tarkistettu.
+5. danin tasokoe on robottelu
+vähintään 200 panssarilla.
+Kenttä on "Syvänmeri".
+Siihen ei saa osallistua Medabotti, jonka
+neljän osan panssarin yhteissumma on alle 200.
+...Osallistutko kokeeseen?
+@270
+Aloitetaan 3. danin tasokoe.
+Robottelu enintään 200 panssarilla.
+Oletko valmis?
+@275
+Aloitetaan 4. danin tasokoe.
+Robottelu enintään 100 panssarilla.
+Oletko valmis?
+@280
+Aloitetaan 5. danin tasokoe.
+Robottelu vähintään 200 panssarilla.
+Oletko valmis?
+@285
+Minun kokeeni päättyvät\ntähän.
+@286
+Häh! Niinkö?
+Kyllä, tästä eteenpäin tarkastajana on isoisäni.
+Medabottiprofessori!
+Mene tutkimuslaitokselle ja puhu isoisälle.
+Kun hän kuulee, kuinka paljon olet yrittänyt, {BUF03},
+hän ilahtuu varmasti.
+Uskon, että sinusta
+voi tulla Medamestari.
+Ah... kyllä!
+...Tiesitkö? Medamestarin arvonimen
+on tähän mennessä saanut vain yksi ihminen.
+@287
+V-vain yksi!? Kuka se on?
+Ufufu, hän voi olla yllättävän
+lähellä...
+Häh, tarkoitatko...!
+No, minä lähden nyt.
+Nähdään taas.
+@293
+Laita... 50¥...
+@294
+Se on rikki.
+@295
+Laita 50¥, kiitos.
+@296
+Kekeke, voittoa.
+@297
+...Hei! Siinäkö kaikki??
+Anna 50¥ takaisin!!
+@298
+...Pihi.
+@299
+...Eihän sulla ole rahaa.
+@300
+Shiratama... Kun teidät potkittiin tutkimuslaitokselta,
+palasitte siis lopulta hylättyyn tehtaaseen.
+Fufufu... Päätin tehdä tästä
+kotini!
+Unelmani on kutsua tänne joskus Nae ja tehdä tästä
+suloinen koti!!
+Siksi hankin varta vasten kaksi sänkyä!
+...Aah! Naeee♥
+@301
+Hahaha...
+Mikä on hauskaa!!
+@302
+Julmaa! Julmaa! Julmaaaa!!
+@303
+Inhoan sinua!
+@304
+..........
+@305
+Jee♥ Jee♥
+Voitin, voitin~♥
+@306
+Voi näitä.
+@307
+Minulla ei ole sinulle\nmitään sanottavaa!
+@308
+Mutta tule välillä kyläilemään♥
+...........
+@309
+Mmmh, Naeee~♥
+@310
+(...Alkaa ihan säälittää...)
+@312
+Päivää, {BUF03}. Tulit siis.
+Kuten lupasin, ottaisitko yhden
+tämän huoneen mitaleista?
+Kyllä! Kiitos paljon!
+@313
+Edessä on varmasti paljon vaikeuksia,
+mutta älä luovuta.
+Selvä!
+...Älä sinäkään rasita itseäsi liikaa, Nae.
+Fufu, kiitos.
+@314
+Ja... valitettavasti minulla
+on töitä hoidettavana,
+joten en voi vähään aikaan palata tasokokeisiin...
+Ai, ei se mitään, älä välitä.
+...Tulen sitten taas!
+Selvä, nähdään.
+@315
+Ah, voi ei! {BUF03},
+dan-tasokokeesi jäivät kesken!
+Anteeksi... Uppouduin ihan
+edessä oleviin töihin...
+Ai, ei se mitään, älä välitä.
+Mutta työt ovat nyt valmiit.
+Odotan sinua Medabottiyhtiössä.
+@317
+Päivää, {BUF03}.
+Nae, kuunnelkaa, minun {BUF15}...

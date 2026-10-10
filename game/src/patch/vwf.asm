@@ -7,8 +7,8 @@ VWFDrawLetterTable::
   ; The address of this table must be a multiple of $100.
 
   ;  x0 x1 x2 x3 x4 x5 x6 x7 x8 x9 xA xB xC xD xE xF
-  db 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
-  db 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 7, 7 ; 1x
+  db 2, 5, 5, 5, 4, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
+  db 5, 5, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 7, 7 ; 1x
   db 2, 1, 3, 5, 4, 5, 5, 2, 2, 2, 3, 5, 2, 4, 1, 4 ; 2x
   db 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 2, 4, 4, 4, 5 ; 3x
   db 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 ; 4x
@@ -27,8 +27,8 @@ VWFDrawLetterTable::
 
 VWFDrawNarrowLetterTable::
   ;  x0 x1 x2 x3 x4 x5 x6 x7 x8 x9 xA xB xC xD xE xF
-  db 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
-  db 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 5, 6, 5 ; 1x
+  db 2, 4, 3, 4, 3, 4, 3, 4, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
+  db 3, 4, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 5, 6, 5 ; 1x
   db 2, 1, 3, 5, 4, 5, 5, 2, 2, 2, 3, 5, 2, 4, 1, 4 ; 2x
   db 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 1, 2, 4, 4, 4, 4 ; 3x
   db 5, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 5, 4, 4 ; 4x
@@ -47,8 +47,8 @@ VWFDrawNarrowLetterTable::
 
 VWFDrawBoldLetterTable::
   ;  x0 x1 x2 x3 x4 x5 x6 x7 x8 x9 xA xB xC xD xE xF
-  db 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
-  db 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7 ; 1x
+  db 2, 6, 6, 6, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
+  db 6, 6, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7 ; 1x
   db 2, 2, 3, 5, 5, 5, 6, 2, 3, 3, 3, 5, 2, 4, 1, 4 ; 2x
   db 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 2, 4, 4, 4, 6 ; 3x
   db 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ; 4x
@@ -67,8 +67,8 @@ VWFDrawBoldLetterTable::
 
 VWFDrawRoboticLetterTable::
   ;  x0 x1 x2 x3 x4 x5 x6 x7 x8 x9 xA xB xC xD xE xF
-  db 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
-  db 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 7, 7 ; 1x
+  db 2, 5, 4, 5, 4, 5, 4, 5, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
+  db 4, 5, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 7, 7 ; 1x
   db 2, 1, 3, 5, 4, 5, 5, 1, 2, 2, 3, 5, 2, 4, 1, 4 ; 2x
   db 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 1, 2, 4, 4, 4, 5 ; 3x
   db 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 ; 4x
@@ -87,8 +87,8 @@ VWFDrawRoboticLetterTable::
 
 VWFDrawRoboticBoldLetterTable::
   ;  x0 x1 x2 x3 x4 x5 x6 x7 x8 x9 xA xB xC xD xE xF
-  db 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
-  db 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7 ; 1x
+  db 2, 6, 5, 6, 5, 6, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7 ; 0x
+  db 5, 6, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7 ; 1x
   db 2, 2, 3, 5, 5, 5, 6, 1, 3, 3, 3, 5, 2, 4, 1, 4 ; 2x
   db 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 1, 2, 4, 4, 4, 6 ; 3x
   db 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ; 4x
@@ -356,13 +356,45 @@ VWFControlCodeD0:: ; Print subtext code.
   jp VWFWriteChar.extEntryA
 
 .mapCharacter
+  ; The original number routines write digits and a few symbols with the
+  ; "Special" table ($E0-$F3), which has no meaning in the VWF font.
+  ; Translate those to VWF character codes.
+  cp $E0
+  jr c, .confineIndex
+  cp $F4
+  jr nc, .confineIndex
+  sub $E0
+  ld e, a
+  ld d, 0
+  ld hl, VWFSpecialCharacterTable
+  add hl, de
+  ld a, [hl]
+  jr .storeLetter
+
+.confineIndex
   ; Confine the index to characters in the font.
   and $7F
+
+.storeLetter
   ld [W_VWFCurrentLetter], a
   call VWFWriteCharBasic
   ld a, [W_MainScriptIterator]
   inc a
   jp VWFWriteChar.extEntryB
+
+VWFSpecialCharacterTable::
+  ; Special.lst order starting at $E0, as VWF.lst codes.
+  db $30, $31, $32, $33, $34, $35, $36, $37, $38, $39 ; 0-9
+  db $22 ; 「
+  db $22 ; 」
+  db $1F ; ¥
+  db $2F ; /
+  db $2D ; -
+  db $2E ; .
+  db $7D ; ~
+  db $3A ; :
+  db $1E ; ♪
+  db $7E ; ♥
 
 VWFControlCodeD1:: ; New page without input code.
   call VWFResetMessageBox

@@ -1,0 +1,872 @@
+@000
+Piikatyttö on ihana.
+Tyttöystäväksi juuri tuollainen.
+Mutta piikatytöllä on kuulemma taistelukumppani.
+Ugh... poikaystävä...
+Ei, se on kuulemma tyttö.
+.........
+.........
+No, makuja on monia.
+Niin on.
+@001
+Nuo kaksi ovat olleet\nkaksikko koulun alusta asti.
+@002
+...Itse asiassa minäkin olen tuntenut heidät aina.
+En haluaisi myöntää sitä...
+@003
+Ei tarvitse hävetä!
+Ole vain rehellinen tunteillesi!
+@004
+Nuo kaksi... Mitä hölmöyksiä.
+@005
+Luokanopettajamme
+ei ole viime aikoina tullut edes tunneille!
+Sehän on virkavelvollisuuden laiminlyöntiä!
+@006
+Pelkääkö opettaja\nKokuenia noin paljon?
+@007
+Piikanasuinen Jeanne d'Arc!
+Kukista Kokuenin jälkeen meidän luokanopettaja!
+@008
+Kokuenin valta päättyi,\nmutta opettajaa ei näy...
+@009
+Vaikka se opettaja tulee tunnille, hän lukee lehtiä
+eikä tee töitä... Ihan sama, onko hän paikalla?
+@010
+Muuten, tuleeko se opettaja edes kouluun?
+En ole nähnyt häntä viime aikoina...
+@011
+Piikanasuinen Jeanne d'Arc,
+älä välitä muiden puheista.
+@012
+Kuulin, että se opettaja
+on nyt palannut maalle kyntämään peltoa.
+@013
+Keitä te olette? En ole\nnähnyt teitä ennen...
+@014
+Kokuen, näytämme sinulle\nLibertiesin voiman!
+@015
+Piikanasuinen Jeanne d'Arc...
+Yhtä kaunis kuin huhutaan, ei, vielä kauniimpi...
+@016
+Harmi, ettemme pelastaneet Kameyamaa itse,
+mutta hyvä, että rauha palasi.
+@017
+Hm? Uusi oppilasko?
+@018
+Jos johtaja tulee, Kokuenia\nei tarvitse pelätä.
+@019
+Piikanasuinen Jeanne d'Arc...
+Ei taida olla valhetta, että hän lumosi Kokuenin.
+@020
+Piikatyttö lumosi kuulemma Kokuenin.
+Onkohan totta?
+@021
+Voi, tulit pahimpaan\nmahdolliseen aikaan. Raukka.
+@022
+Kameyama vapautuu pian...\nMinusta tuntuu siltä.
+@023
+.........
+.........Ah!
+Miksi minä annan söpöyden sokaista itseni!?
+@024
+Kokuen hävisi, kun piikatytön söpöys sokaisi hänet.
+Hölmö~
+@025
+Jos valmistuneet Samejima ja Hitotsubashi olisivat täällä,
+Kokuen ei olisi päässyt riehumaan näin.
+@026
+Kokuenin takia tyttöjen kerhokin on tauolla...
+Hitotsubashi! Olen niin pahoillani~~~!!
+@027
+Pelastaisitko seuraavaksi\ntyttöjen Medabotti-kerhon?
+@028
+Onkohan piikatyttö Kameyaman oppilas?
+Jos on, hänet pitää värvätä tyttöjen kerhoon!
+@029
+Jälkeenpäin ajatellen Damebotti-kerho oli vahva...
+Eihän Kokuenkaan lopulta voittanut Rintarouta.
+@030
+Kuulin huhun,
+että entisen Damebotti-kerhon Samejima on vankina vanhassa koulussa.
+@031
+Hei hei! Eikö hänkään\nvoittanut Kokuenia!?
+@032
+Sinä olit siis lopulta\nkaikkein vahvin~
+@033
+Kokuenin kukistivat lopulta Rintarou,
+opettaja Tamawo ja mystinen piikatyttö.
+Kaduilla häntä kutsutaan piikanasuiseksi Jeanne d'Arciksi.
+@034
+Täällä on nyt hyvällä tavalla vilkasta. Kiitos teidän.
+Hyvällä tavallako?
+@035
+Minusta tämä rakennus
+näyttää uudemmalta kuin nykyinen puinen rakennus...
+@036
+Mitä, mitä!? Mitä tapahtuu!?
+@037
+Hm? Kokuen kutsui sinut? Mene heti hänen luokseen.
+(Ei käy. Rintarou ja muut on pelastettava.)
+@038
+Hyökkääkö Liberties!? Senkin röyhkeät!!
+Mutta pelottaa, joten pysyn hiljaa~
+@039
+Tuo tyttö on kiivas.\nÄlä puhu hänelle turhaan.
+@040
+Sinullahan on söpöt kasvot.
+...En pidä siitä!
+@041
+Onko tämä meteli sinun\ntyötäsi? Ovelaa!
+@042
+Muista tämä!!
+@043
+Liberties hyökkää!?
+@044
+Kaikki on menetettyyy~~!!
+@045
+On pakko paeta...
+@046
+Täällä kaikki hyvin.\nOle varovainen, {BUF03}!
+@047
+Kiitos, että pelastit minut.
+@048
+Minut suljettiin yhtäkkiä...\nMitä tämä oikein on?
+@049
+Ah, {BUF03}...
+Senju!?
+Sinutkin siis siepattiin.
+Joo... Käärme ja mustekala sieppasivat minut.
+...Aka ja Ao.
+Kun Kokuen kaatuu, kaikki pääsevät kotiin,
+joten odota vähän!
+...Joo, onnea.
+@050
+Tuota... kiitos, että\npelastit. ...Onnea.
+@051
+"Morsianehdokas"? Älä naurata!
+Ihanteeni ovat paljon, paaaljon korkeammalla!
+@052
+Hurja kahakka. Ei tiedä,\nkuka on missäkin.
+@053
+Jätä tämä minulle!
+Sinulla on omat tehtäväsi!!
+S-selvä!
+@054
+Minut pantiin vartioon, mur.
+Pelottavampaa kuin tyttöjen kerhon entinen johtaja, mur.
+@055
+Minä vahdin näitä, nääs!
+@056
+Libertiesin voitto on\nkäytännössä varma!
+@057
+Kokuen pakeni kuulemma\nvanhasta koulusta ulos!
+@058
+Kokuen ei saa riehua ikuisesti!
+@059
+M-mikä tuo on?\nÄlä tule lähemmäs!!
+@060
+Kiitos, pelastit minut.\nOlet vahva.
+@061
+Se tähtää isäntääni?\nMahdotonta!!
+@062
+Kiitos paljon.
+@063
+Tule! Minä olen vastustajasi!!
+@065
+Täälläkin!
+@067
+Minä olen vastustajasi.\nHyökkää!
+@069
+Ah, tuo on Mizuchi!
+Hän taistelee petomedabottia vastaan!
+Tuliko hän apuun!?
+@070
+Haluaisin auttaa, mutta en pääse tuonne.
+Mutta miksi hän on täällä?
+@071
+Oo, {BUF03}. Kokeiletko\nmonivalintavisaa?
+@072
+Vai niin. Ensi kerralla sitten.
+@073
+Nopein vastaus voittaa,\njoten ole tarkkana.
+@076
+Hikaru, töissä näin myöhään!?
+Kauppa on auki vuorokauden ympäri.
+Ei sinun silti tarvitse olla täällä koko ajan...
+Ei se mitään, ei minulla ole muuta tekemistä.
+@077
+Robotellaanko?
+@078
+Aloitetaan sitten.
+@079
+Saiko tuota tehdä työaikana?
+Ei se mitään, ei minulla ole muuta tekemistä.
+@080
+Eikö tuo ole kaupan tavaraa?
+Ei se mitään, ei minulla ole muuta tekemistä.
+@081
+Tuo ei ole vastaus.
+@082
+Nähdään taas.
+@083
+Oho! Pitkäst aikaa!
+Ottaisitko meistä mittaa?
+@084
+Niin sitä pitää!
+Ei armoa!
+@085
+Olipa hauskaa!
+Tule taas!
+@086
+Mitä, harmi...
+Ensi kerralla sitten!
+@087
+Löysin tämän vanhasta\nkoulusta. Saat sen, jes!
+@088
+Kiitos, Rintarou!
+Kiitokseksi Kameyaman pelastamisesta, jes!
+@089
+{BUF03}! Robotellaan, jes!
+@090
+Kantaros, mennään, jes!
+@091
+Olipa hauskaa, jes!
+Tehdään uudestaan, {BUF03}!!
+@097
+Harmi, jes...
+@098
+No, tuota,
+Ruriyo ja muut ovat kunnossa, joten Kameyama selviää.
+Hei, auta tappamaan aikaa. Robottelemalla tietysti.
+@099
+Jes, mennään, Doggy!
+@100
+Olipa hauskaa. Et ole hassumpi.
+@101
+Vai niin. Ei sitten auta.
+@102
+Tuli tässä mieleen, nääs,
+kantaakohan radiopuhelin meren yli, nääs?
+Robotellaanko, nääs?
+@103
+Tästä tulee, nääs!
+@104
+Ah! Oliko rehtori sittenkin kantaman sisällä, nääs!?
+Sehän on ihan naapurissa, nääs!?
+@105
+Huhhuhhuh.
+@106
+Taas kuului, nääs! Rehtori!\nOlette lähellä, nääs!!
+@110
+Onneksi kaikki ovat kunnossa, mur.
+Robotellaanko, mur?
+@111
+Yritän parhaani, mur!
+@112
+Olipa hauskaa, mur.
+@113
+Ensi kerralla, mur.
+@114
+Edellisestä työpaikastani lähtivät kaikki,
+joten aloin töihin tänne. Ah~ kiire, kiire.
+@115
+Kyaa~ söpöööö~~~♥
+Se sopii sinulle, piikanasuinen Jeanne♥
+Uuh...
+@116
+Kas, sinä...
+olet {BUF03}, eikö?
+Tuokin asu sopii sinulle. Tosi söpö♥
+@117
+Hei, kuulitko?
+Piikanasuinen Jeanne d'Arc!
+Fufu, hän on varmaan tosi söpö♥
+Armoa...
+Robotellaanko?
+@118
+Aloitetaan sitten♪
+@119
+Olipa hauskaa~♥
+Pukisitko piikanasun taas joskus?
+Tuota, jos tilaisuus tulee...
+Oikeasti? Odotan innolla♥
+@120
+Pukisitko piikanasun taas joskus?
+Tuota, jos tilaisuus tulee...
+Oikeasti? Odotan innolla♥
+@121
+Teitte hyvää työtä.
+Kiitän teitä Kameyaman ala-asteen puolesta.
+Täällä kaikki on nyt hyvin. Menkää.
+Teidän taistelunne ei vielä ole ohi, eihän?
+@122
+Yksi: medabottaajan on oltava vahva!
+Kaksi: medabottaajan on oltava oikeamielinen!
+@123
+Huh, kaikki mitä olen tähän asti tehnyt,
+on opettajalle sopimatonta. En tee niin enää.
+@124
+Kasvatan täällä kukkia.
+@125
+Osasin vain kasvattaa kukkia.
+Säälittävää...
+@126
+Häh, minne Medabottini meni?
+@127
+En löydä Medabottiani.\nOnkohan se kunnossa?
+@128
+Häh, minne isäntäni meni?
+@129
+En löydä isäntääni.\nOnkohan hän kunnossa?
+@130
+Hei, tiedätkö? Medaropoliksessa
+Medaspeed on nyt tosi suosittu.
+Ai, Medaspeed on lyhenne sanoista Medaspeed-kuningas.
+Onkohan se suosittu Omikujissakin?
+@131
+Hei, tiedätkö?
+Kokuen-kaartin valtaaman Hanazono-akatemian vapauttaja
+on kuulemma täältä valmistunut Kaiba Ryou~♥
+@132
+Täällä on paljon ajoneuvotyyppejä, eikö?
+Medaropolis on "Kaupunki", joten ajoneuvot ovat etulyöntiasemassa.
+Sama pätee robottelun lisäksi Medaspeediin.
+Muista se.
+@133
+Se epätavallisen nopea Rokusho-tyyppi...
+Se on siis Mach Massive. ......Vahva.
+@134
+Anteeksi, väistäisitkö?
+Minun on ratkaistava tämä...
+@135
+Anteeksi, väistäisitkö?
+Halusin ratkaista tämän.
+@136
+Tänään ratkaisen tämän!!
+@137
+Siitä vaan!
+@138
+Tule, Byebyecoon!
+@139
+Olen tänään huippuvireessä!
+En häviä.
+M-mitä nyt alkaa?
+@140
+Valmiina...
+Nyt!!
+@141
+Tänään minä voitan!
+Sama täältä!
+@142
+......
+Ai, Medaspeed-kuningas...
+@143
+Nyt 0 voittoa, 0 tappiota... Montako tasapeliä olikaan?
+Kuka tietää. Lakkasin laskemasta sadan jälkeen.
+@144
+Ngh... Taaskaan ei ratkennut.
+Ensi kerralla en häviä!
+@145
+Palaa, Byebyecoon!
+@146
+Hyvää työtä, Hump Camel.
+@147
+Tänään
+tasapeli.
+@148
+Älä unohda lupausta! Jos minä voitan,
+sinusta tulee tyttöystäväni!
+Älä sinäkään unohda. Jos minä voitan,
+sinusta tulee poikaystäväni!
+@149
+Olettepa läheisiä...
+@150
+Vaikka yksin ei voita...
+kahdestaan ei tarvitse pelätä!
+Ah! Minä tarvitsin sinua!
+Ah! Minä tarvitsin sinua!
+Onnea teille~
+@151
+Jos tämä olisi mennyt näin alusta asti,
+meidänkään ei olisi tarvinnut nähdä vaivaa...
+No, eihän se haittaa. Nyt on rauha.
+Jaksakaa jatkossakin näiden kahden kanssa.
+@152
+Medaspeed on suosittu.\nAloittaisinko minäkin?
+@153
+Nyt taidetaan tarvita\nrobottelua enemmän.
+@154
+En ole hyvä juoksemaan...
+@155
+En ole hyvä taistelemaan...
+@156
+Tulin Hanazono-akatemiaan tavatakseni Kaiban...
+mutta hän oli jo valmistunut~~~~!!
+@157
+Että Kaiba tuli pelastamaan meidät...
+On-nel-li-nen♥
+@158
+Rehtorin Medabotti on kuulemma tosi nopea.
+Hän oli kuulemma tarujen kaahari. Onkohan se totta?
+@159
+Rehtorin Medabotti ei ollutkaan vain nopea.
+Kaaharihuhu ei taidakaan olla pötyä.
+@160
+Luulin voittavani Koujin edes Medaspeedissä...
+mutta hän on vahva siinäkin.
+@161
+Kouji on vahva, mutta Kaiba vielä vahvempi.
+Ei turhaan häntä kutsuta hypermedabottaajaksi.
+@162
+Pitää harjoitella vielä\nenemmän...
+@163
+Mach Massive... Haluaisin\nolla yhtä vahva.
+@164
+Koe on pian. Älä häiritse.
+@165
+Uh, luin väärää ainetta.\nKokeesta tulee kamala.
+@166
+Kouji pelaa pelkkää Medaspeediä.
+Tylsää~
+@167
+Koujia ei ole näkynyt päiviin.
+Onkohan hän matkoilla?
+@168
+Tiedätkö Omikujin pyhäkön?
+Sen ennustelaput osuvat kuulemma usein oikeaan.
+@169
+Ennustukset...\nEivät kiinnosta minua.
+@170
+Lukemalla oppii kaikenlaista.
+@171
+Lukeminen on hyvä, mutta\nleikkikää välillä ulkona.
+@172
+Olisipa kiva tehdä töitä yläkerran huoneessa...
+Mutta voisin nukahtaa.
+@173
+Mikä ero on "ammunnalla" ja "tähtäyksellä"...
+Ai, robottelun sääntökirja.
+@174
+Pysyäkseen oppilaiden\nmukana pitää opiskella.
+@175
+Aloitan robottelun oppilaiden suojelemiseksi!
+Tuota, aloittelijalle helppo Medabotti on...
+Ai, Medabottikatalogi.
+@176
+Teen koetta. Älä katso liikaa.
+@177
+3 omenaa ja 5 mandariinia, yhteensä... 8 ananasta?
+Lasku on oikein, mutta miksi ananas?
+@178
+Kotona on isompi piano. Häh? Osaan kyllä soittaa!
+...vähän.
+@179
+Uh, miksi nuotit ovat\nnäin vaikeita?
+@180
+Uh, osaan lukea nuotit,
+mutta soittaminen on vaikeampaa...
+@181
+Meillä ei ole pianoa, mutta on viulu.
+...En tosin osaa soittaa.
+@182
+Tulet tänne joka välitunnilla~
+Mitä sitten? Täällä on rauhallista.
+@183
+Tulitko Omikujista?
+Pitääkö professori siellä visaa?
+@184
+Hahahahahaha hahahahahaha!
+Mitä asiaa tänään? Robottelua?
+@185
+Hyvä! Aloitetaan sitten!
+@186
+Hyvä ottelu. Robotellaan\ntaas joskus!
+@187
+Vai niin. Nähdään.
+@188
+Hei, {BUF03}.
+Joka päivä harjoitellaan. Robotellaanko?
+@189
+Aloitetaan sitten.
+@190
+Kiitos ottelusta!
+Tervehdyskin on tärkeää.
+@191
+Vai niin. Toisella kertaa sitten.
+@192
+{BUF03}! Ottelu!!
+Häh?
+@193
+Olipa äkillistä...
+Testasin vain, riittävätkö taitosi suojelemaan Karinia.
+Voi, ei noin, Kouji.
+{BUF03} pärjää kyllä.
+Ngh... anteeksi.
+Voi näitä...
+@194
+{BUF03}♥
+Karin♥
+Ottelu!
+Häh!?
+@195
+K-Karin, mitä yhtäkkiä?
+Ajattelin kokeilla Koujin tapaa
+robotella kysymättä♥
+K... Karin?
+Se oli aika hauskaa♥
+Karin, oletko vihainen, kun en valinnut sinua?
+Voi, en tietenkään♥
+Oikeasti?
+Ufufu♥
+@196
+Voi näitä...
+@197
+Olen palvellut täällä\nedellisestä isännästä asti.
+@198
+Epäonnistuukohan neiti...\nJännittää.
+@199
+Ottaisitteko ennustuslapun?
+Lappu ennustaa onnen-Medabottinne.
+Vaikutus kestää 4 tuntia.
+Kun käytätte sinä aikana lapun osia, voi tapahtua jotain hyvää?
+Mutta! Vaikutuksen aikana
+uutta lappua ei voi nostaa. Huomatkaa se~
+Esineellä "Ennustuslappu"
+voitte tarkistaa tuloksen milloin vain!
+No niin, uudestaan...
+Ottaisitteko ennustuslapun? Yksi kerta 100¥.
+@200
+Olkaa hyvä~
+@201
+Kiitos! Tervetuloa uudelleen!
+@202
+Edellinen lappu on yhä voimassa, uutta ei voi nostaa~
+Anteeksi.
+@203
+Rahat eivät riitä~
+@204
+Vai niin. Odotamme\nteitä uudelleen.
+@205
+Ottaisitteko lapun?\nYksi kerta 100¥.
+@211
+Hei hei, päivää♥
+Olen tuttu yhteystyttö~♪
+Tänään selitän sinulle, joka "käytät yhteyttä ekaa kertaa~♥",
+yhteysvalikon toiminnot!
+"Leikkirobottelu":
+Robottele kaverin kanssa rennosti.
+"Tosirobottelu":
+Tosissaan käytävä robottelu kaverin kanssa osista!
+"Osien vaihto":
+Vaihda osia kaverin kanssa!
+"Mitalin lahjoitus":
+Anna mitali kaverille!
+"Katkaise yhteys":
+Valitse tämä aina, kun lopetat yhteyden♥
+...No niin, uudestaan!
+@212
+Otetaanko yhteys?
+@213
+Vai niin~
+Nähdään taas!
+@214
+Hiivit kaupan taakse ja saat moitteita, eikö?
+Tulisitko eteen? Tämä on nyt meidän liikkeemme.
+@215
+Pohjatuuli kirvelee silmiä...
+Häh?
+Ai, asiakas?
+Olen taivaan kuljettaja Mach Musasabi!
+Eiväthän liito-oravat oikeasti lennä...?
+Älä välitä pikkuasioista.
+Olemme hiljattain perustettu kuljetusjoukko Musasabi-jengi.
+Tällaisen vuoren yli hypätään hetkessä,
+ja vien sinut Sazankan kylpylään asti!
+Vau~ upeaa!
+Hehe, eikö?
+Ai, maksu tietysti peritään. Vain 100¥.
+@216
+Kyytiä Sazankan kylpylään?
+@217
+Vai niin. Ensi kerralla!
+@218
+Ai, sinulla on seuralainen?
+@219
+Hoi!
+@220
+Seuralainen nousee\ntämän kyytiin!
+@221
+Mach-vauhtia matkaan!!
+Armoa...
+@222
+Hei hei, rahat eivät riitä.
+@224
+Jes, perillä.
+Nähdään!
+@225
+Pohjatuuli kirvelee silmiä...
+Häh?
+Ai, asiakas?
+Olen taivaan kuljettaja Mach Musasabi!
+Eiväthän liito-oravat oikeasti lennä...?
+Älä välitä pikkuasioista. Olemme hiljattain perustettu
+kuljetusjoukko Musasabi-jengi. Tällaisen vuoren yli hypätään,
+ja vien sinut Omikujin lähelle!
+Vau~ upeaa!
+Hehe, eikö?
+Ai, maksu tietysti peritään. Vain 100¥.
+@226
+Kyytiä Omikujin lähellä\nolevalle Odoro-vuorelle?
+@235
+Medaropolis on iso.
+@236
+Medabotteja käyttävät julmat rikokset
+ovat kuulemma lisääntyneet. Pelottavaa...
+@237
+Kauanko pitää odottaa,\nettä juna tulee?
+@238
+Uwaa! S-sinä! Jos seisot siinä,
+juna ajaa ylitsesi!
+@239
+Jotta voimme lähteä liikkeelle milloin tahansa,
+päivittäinen partiointi on välttämätöntä!
+@240
+Tämä on Medaropolis 1.
+Alas on Medaropolis 2 ja oikealle Medaropolis 3.
+@241
+Keskustelu on hyvä asia,
+mutta joka kerta sama aihe on minusta kyseenalaista!
+@242
+Eikö ole salakeinoa\nRoborobojen kiinniottoon?
+@243
+Roborobo-jengiä, jota yhtä kohden on 30 lisää,
+on loputonta ottaa kiinni!
+@244
+Tänne ei saa tulla!
+@245
+Onko teillä asiaa Select-\njoukkojen päämajaan?
+@246
+Niin kauan kuin Roborobot\nriehuvat, emme lepää!!
+@247
+Kättele meitä Select-\npäämajassa!
+@248
+Select Three suojelee\nkaikkien rauhaa.
+@249
+Päällikkö Tokkuri lentelee päivittäin paikasta toiseen,
+eikä juuri palaa päämajaan. Päällikkö on kiireinen!
+@250
+Auts... Kaaduin portaissa.
+@251
+Jouduin Roborobojen ansaan ja putosin kuoppaan!
+Sattuu...
+@252
+Aah~ söpö hoitaja saisi\nhoitaa minua.
+@253
+Tämä on ensiapukeskus, jossa
+hoidetaan loukkaantuneita Select-joukkojen jäseniä!
+@254
+Toimistotyö stressaa~\nMenisinkö karaokeen?
+@255
+Palkkatyöläisetkin\nstressaantuvat.
+@256
+Vastaanotossa on tylsää,\nkun asiakkaita ei tule.
+@257
+Pieni tauko...
+@258
+Kas? Tulitko yksin, poju? Tämä on aikuisten paikka,
+joten lapset ei-vät saa tul-la♥
+@259
+Sori, poju. Meillä ei ole mehua.
+@260
+Olisinpa 10 vuotta nuorempi, fufu...
+Mitähän tuo tarkoittaa?
+@261
+Tässä paikassa on\npaljon söpöjä tyttöjä.
+@262
+Näyttelyä varten tehty\njättimitali.
+@263
+Haluaisin tehokkaamman hyökkäysosan,
+mutta vahvat osat ovat kalliita.
+@264
+Kun puhut yläkerran kassan nuorelle miehelle,
+hän vaihtaa Medabottisi värin mieleiseksesi.
+@265
+Medabotillani on uudet osat.
+Robotellaanko?
+@266
+Olet aika taitava.
+@267
+Kas, tylsää.
+@268
+Häh? Hanazono-akatemia?
+Se on tämä iso rakennus.
+Häh? Et kysynyt? Ai jaa...
+@269
+Kaaa-riii-iiin!!
+@270
+M-mahtavaa!
+...Mutta eikö tuo ole aika häiritsevää?
+@271
+Siinä mahtava Awanon suuryhtiö. Talokin on valtava.
+Kyy~ haluaisin itsekin joskus oman talon.
+@272
+Kouji, tiedän, että pidät Karinista,
+mutta, mutta...
+Onpa aikamoista yksinpuhelua.
+@273
+Tuota, munia ja ketsuppia...
+(Onko tänään munakasriisiä?)
+@274
+Nälkä vie voimat.
+@275
+No niin, robottelua\nennen ruokaa!
+@276
+Helppo kuin aamupala!
+Etkö ole vielä syönyt aamupalaa?
+@277
+Nälkäisenä ei voi taistella.
+@278
+Viime aikojen tapaukset\nkoskevat vain Medabotteja.
+@279
+"Medabotti taas\nvarastettu!?"
+@280
+Hei, vie minut jonnekin ensi vapaapäivänä~
+Isi on väsynyt. Pyydä äidiltä, äidiltä.
+@281
+Mitähän tänään syötäisiin?
+@282
+Siivous, siivous, lalalaa~♪
+@283
+Meillä Medabotti tekee\nkaikki kotityöt.
+@284
+Medabottimme on ahkera.\nSille pitää antaa palkinto.
+@285
+Kop kop kop, poreilee...\nRuoanlaitto on kivaa♥
+@286
+Jäätelöpakastin.
+Häh? "Mansikkadaifukujäätelö mantelimurulla
+ja suklaalla"? Kiinnostaaa!
+@287
+Jos haluat Medabotin osia,
+Medabottaajat-kaupasta saa parempia.
+Häh, minäkö? Ostan päivällistä.
+@288
+Ai, eikö tämän kaupan\nkahvissa ole pistetarraa?
+@289
+Päivää.
+Kas, {BUF03}. Tervetuloa.
+@290
+Kouji, älä aiheuta {BUF03}:lle harmia.
+En aiheutakaan.
+@291
+Siivous♪ siivous♪
+@292
+Miten nuori herra jaksaa juosta noin?
+Uskomaton kunto.
+@293
+Pitkästä aikaa. Mitä kuuluu?
+@294
+Tämä tapaus näytti, kuinka heikko olen.
+Robottelisitko kanssani? Haluan harjoitella.
+@295
+Kiitos.
+@296
+Minunkin on yritettävä\nlisää oppilaiden vuoksi.
+@297
+Toisella kertaa sitten.
+@298
+Medalinkiin ilmoittaudutaan täällä, nyan.
+Haluatko kuulla selityksen, nyan?
+@299
+Kerron sitten, nyan. Medalinkiä pelataan
+tämän kerroksen neljällä laitteella, nyan. Ilmoittauduttuasi
+aloitat sijalta 70 ja tähtäät sijalle 1, nyan!
+Kun olet ykkönen, puhu yläkerran ankalle, nyan.
+Ankka antaa sinulle palkinnon, nyan.
+Ilman ykkössijaa et voi tulla Medamestariksi, nyan!
+Medamestari!
+Minusta... minusta tulee vielä Medamestari...!
+@300
+Vitkastelit, joten ilmoitin sinut jo, nyan.
+...Tsemppiä, nyan.
+@301
+Ihan sama.
+Mutta ilman selitystä en ilmoita, nyan.
+@302
+Matkaa on vielä paljon,\nnyan. Tsemppiä, nyan.
+@303
+Alkaako maali näkyä, nyan?
+@304
+Hyvin menee, nyan.\nReipasta, nyan!
+@305
+Kun olet näin pitkällä,\nenää vähän, nyan.
+@306
+Ykkössija on lähellä, nyan. Medalinkin ykkönen on kuulemma
+huikea tyyppi, nyan. Saat tämän, joten tsemppiä, nyan.
+@307
+Kiitos! Yritän parhaani!
+@308
+Tsemppiä, nyan!
+@309
+Että sinusta tuli ykkönen.\nUlkonäkö pettää, nyan.
+@310
+Tämä on Medalinkin palkintotiski, kvak.
+Puhu ensin alakerran tiskillä olevalle kissalle
+ja ilmoittaudu, kvak.
+Kun olet Medalinkin ykkönen, tule takaisin, kvak.
+@311
+Palkinnon saa vain\nykkönen, kvak!
+@312
+Odotetaan yhteyttä.
+@313
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 70-66.
+Sijalla 70 on Senju. Pelaatko Medalinkiä?
+@314
+...NOW LOADING...
+@315
+Sijalla 69 on Manjirou.\nPelaatko Medalinkiä?
+@317
+Sijalla 68 on Natsuko.\nPelaatko Medalinkiä?
+@319
+Sijalla 67 on Soramame.\nPelaatko Medalinkiä?
+@321
+Sijalla 66 on Naomi.\nPelaatko Medalinkiä?
+@323
+Tervetuloa uudelleen.
+@324
+Hävisin...
+@326
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 65-61.
+Sijalla 65 on Select Three. Pelaatko Medalinkiä?
+@328
+Sijalla 64 on Select-jäsen.\nPelaatko Medalinkiä?
+@330
+Sijalla 63 on Takamaru.\nPelaatko Medalinkiä?
+@332
+Sijalla 62 on Obata.\nPelaatko Medalinkiä?
+@334
+Sijalla 61 on Hamachi.\nPelaatko Medalinkiä?
+@339
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 60-56.
+Sijalla 60 on Kan. Pelaatko Medalinkiä?
+@341
+Sijalla 59 on Guinomi.\nPelaatko Medalinkiä?
+@343
+Sijalla 58 on Nayuta.\nPelaatko Medalinkiä?
+@345
+Sijalla 57 on Pariko.\nPelaatko Medalinkiä?
+@347
+Sijalla 56 on Masami.\nPelaatko Medalinkiä?
+@355
+Päivää, Nae!
+@356
+Päivää, {BUF03}.
+Sujuuko mitalin kasvatus hyvin?
+No... minun
+piti aloittaa kasvatus taas alusta.
+Voi, miksi?
+No, itse asiassa...

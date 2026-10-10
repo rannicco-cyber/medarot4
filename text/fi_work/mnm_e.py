@@ -1,0 +1,12 @@
+MUS={'プロロ-グ':'Prologi','エレクティヴサブジェクト':'ElectSubj','インディケイト':'Indicate','エクスプレイン':'Explain',
+'オン ライン':'On Line','ロボトルファイト!':'Robottelu!','レッツ ロボトルダンス':'Robotanssi','レベルアップ':'Tasonnousu',
+'グロウアップ!':'Kasvua!','タイムオ-バ-':'Aika loppui','ゲ-ムオ-バ-':'Peli ohi','WARM VILLAGE':'WARM VILL.',
+'メダロポリス':'Medapolis','OH!かいもの':'OH! Ostos','メダロッタ-ズ':'Bottaajat','アフタ-スク-ル':'AfterSchool',
+'メダロットカンパニ-':'Medayhtiö','シンラのもリ':'Shinrametsä','しれんのみち':'Koetustie','キッズ カウボ-イ':'Kids Cowboy',
+'ビュ-ティフル スペ-ス':'BeautySpace','まなつのゆうわく':'Kesän lumo','サイバ-シティ-':'CyberCity','ゆめごころ':'Unelma',
+'ピンチ!!':'Pulassa!!','キュ-ト♥ガ-ル':'CuteGirl','てんしのひとみ':'Enkelisilmä','パッション.マン':'PassionMan',
+'かいとうレトルト':'Retortvaras','クレイジ-.クレイジ-':'Crazy.Crazy','ロボロボだん':'Roborobo','セレクトたい':'Select',
+'THE4EMPEROR2':'THE4EMPERO2','レヴォリュ-ショニスト':'Revolution','サブゲ-ム タイトル':'Minipeli','レッツ プレイ!':'Pelataan!',
+'メダバ-ドコンテスト':'BirdKilpa','セイレツ!':'Jonoon!','ダ-クロボトル':'Pimeä rob.','スロットマシ-ン':'Pelikone',
+'ラッキ-チャンス':'Onnenpotku','メダコンテスト':'Medakilpa','クイズでゴ-!':'Visa: Go!','こたえは?':'Vastaus?',
+'パネルDEロボト-ル':'PaneeliRob','こイヌのワルツ?':'Pentuvalssi','こわ-い':'Pelottavaa','おきがえちゅうヨ♥':'Vaihdossa!'}

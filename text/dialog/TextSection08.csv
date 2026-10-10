@@ -1,157 +1,157 @@
 ﻿Index[#version],Pointer[#version|],Original,Translated
-000,0x11c000,"<@LL,00,00>ここは はい工場だ<CD>元々 何の 工場だったんだろ?",
-001,0x11c002,「メダロット研究所」,
-002,0x11c004,「おみくじ じんじゃ」,
-003,0x11c006,「ギンジョウ小学校」,
-004,0x11c008,「セレクトしぶ」,
-005,0x11c00a,"<@LL,00,00>ここは アリカの家だ","<@LL,00,00>Erika's house is here."
-006,0x11c00c,"<@LL,00,00>ここは ぼくの家だ","<@LL,00,00>My house is here."
-007,0x11c00e,"<@LL,00,00>ここは キクヒメの家だ","<@LL,00,00>This is Kikuhime's house."
-008,0x11c010,"<@LL,00,00>ここは イワノイの家だ","<@LL,00,00>This is Iwanoi's house."
-009,0x11c012,"<@LL,00,00>ここは カガミヤマの家だ","<@LL,00,00>This is Kagamiyama's house."
-010,0x11c014,「メダスピ-ドキング れんしゅう場」,
-011,0x11c016,「メダロ-ドレ-ス れんしゅう場」,
-012,0x11c018,「この先 ぬかるみの どうくつ<CD>地面が とっても ぬかるんでます」,
-013,0x11c01a,"<@LL,00,00>「ダ-ク...」<CD>? 字が きえかけてて よめないや",
-014,0x11c01c,「きゅうきゅうセンタ-」,
-015,0x11c01e,「セレクト本部」,
-016,0x11c020,「ウサギちゃんバ-」,
-017,0x11c022,「メダロッタ-ズ」,
-018,0x11c024,「メダロデパ-ト」,
-019,0x11c026,「マンション リゾット」,
-020,0x11c028,「メダロット社」,<f02>Medabot Company
-021,0x11c02a,「花園学園」,<f02>Hanazono School
-022,0x11c02c,"<@LL,00,04>ここは 花園学園1の お金持ち<CD>ハチロウの 家だ",
-023,0x11c02e,"<@LL,00,04>ここは ぼくのライバル<CD>コウジの家だ",
-024,0x11c030,"<@LL,00,01>ここは 花園学園の アイドル<CD>カリンちゅわん♥の家だ",
-025,0x11c032,「からくリ にんじゃやしき」,
-026,0x11c034,「シノビックパ-クヘ ようこそ!」,
-027,0x11c036,「ジャクナン小学校」,
-028,0x11c038,「ウミネコ ロイヤル ホテル」,
-029,0x11c03a,「セレクト隊 ウミネコ しぶ」,
-030,0x11c03c,「ウミネコ ホテル」,
-031,0x11c03e,"<@LL,00,05>「海の どうくつ」...って<CD>よみにくいなぁ この かんばん",
-032,0x11c040,「ロボトルくんれん場」,
-033,0x11c042,「じっけんしつ<CD>かんけい者いがい 立ち入リきんし」,
-034,0x11c044,「セレクト隊 サザンカ町 しぶ」,
-035,0x11c046,「ゲ-ムセンタ-<CD>...リゃくして ゲ-セン」,
-036,0x11c048,「コンビニ サザンカ町 してん」,
-037,0x11c04a,「ウサオちゃん きっさ」,
-038,0x11c04c,「この先 サザンカ道場」,
-039,0x11c04e,"<@LL,00,00>これは おんなゆの マ-クだ",
-040,0x11c050,"<@LL,00,00>これは おとこゆの マ-クだ",
-041,0x11c052,「おんせんの てんねん どうくつ」,
-042,0x11c054,「がんばれ あと 少し」,
-043,0x11c056,「山道では たきゃくが さいてき!」,
-044,0x11c058,メダリンク うけつけは<CD>しゅうリょういたしました,
-045,0x11c05a,"<@LL,00,00>ずかんや じしょが<CD>たくさん ならんでる","<@LL,00,00>Manuals and dictionaries<D3>are all lined up."
-046,0x11c05c,"<@LL,00,00>ピアノが ひけたらいいなぁ",
-047,0x11c05e,"<@LL,00,00>がくふが たくさん おいてあるよ",
-048,0x11c060,"<@LL,00,04>よし! きょうも ばっちリ",
-049,0x11c062,"<@LL,00,00>むずかしい本が ならんでいるよ",
-050,0x11c064,"<@LL,00,04>よし! きょうも ばっちリ<CF><@LL,00,06>って 言っている ばあいじゃないよ<CD>早く 出なくちゃ!",
-051,0x11c066,「メダロットの ちしき<CD> ティンペット」<CF>ティンペットは 男型と 女型の<CD>2しゅるいに わかれておリ<CF>それぞれに たいおうした パ-ツしか<CD>そうちゃく できない<CF>ティンペットは 全部で<CD>9体まで 持つことができる<CF>いちど 手に入れた ティンペットは<CD>すてることが できないので<CF>男型と 女型を バランスよく<CD>ゲットしていく ひつようがある,"<f02>Medabot Knowledge: Tinpets<CF><f00>Tinpets are divided into two types: male and female.<CF>Each type can't equip parts made for the other type.<CF>Nine tinpets can be held in all.<CF>Once recieved, a tinpet can't be thrown away. Therefore,<CF>It is necessary to strike a balance between male and female tinpets."
-052,0x11c068,「メダロットの ちしき<CD> じゅくれんど」<CF>メダルは それぞれ じゅくれんどを<CD>3つしか 持っていない<CF>使いたい パ-ツの<CD>じゅくれんどを 持っていない時は<CF>メダリアを そうちゃくして<CD>サポ-トする方がよい,"<f02>Medarot Knowledge: Skills<f00><CF>Each Medal has only 3 skills.<CF>If you want to use a skill you lack, it is best to use a Medalia to support it."
-053,0x11c06a,「メダロットの ちしき<CD> メダリア」<CF>メダリアは 全部で 10しゅるいあリ<CD>30個まで 持つことができる<CF>パ-ツに ひつような じゅくれんどが<CD>メダルに ないときでも<CF>メダリアを つければ<CD>じゅくれんどの かわリになる<CF>メダルと メダリアの じゅくれんどが<CD>同じ ないようの時は<CF>じゅくれんどの すうちが<CD>高い方が 行動に はんえいされる<CF>しかし ひくい方も じゅくれんどが<CD>せいちょう するので<CF>なるベくメダリアを つけて<CD>ロボトルする方が よい,"<f02>Medarot Knowledge: Medalia<CF><f00>There are a total of 10 types of Medalia and 30 can be held at once.<CF>Even if a Medal doesn't have the required proficiency for a specific part, it is possible to use a Medalia to improve the Medal's proficiency.<CF>When the skill values of a Medal and Medalia differ, the higher value is used.<CF>However, a lower Medalia value will earn experience faster so it may be beneficial to use it anyway."
-054,0x11c06c,「メダロットの ちしき<CD> あいしょう」<CF>メダルと パ-ツには ぞくせいがあリ<CD>同じ ぞくせいの パ-ツをつけると<CF>あいしょうの すうちが 全ての<CD>行動に ボ-ナスとして たされる<CF>あいしょうが わるく<CD>のうリょくの 高いパ-ツよリ<CF>あいしょうを 合わせた<CD>のうリょくの ひくいパ-ツのほうが<CF>つよくなることがあるので<CD>いろいろ ためしてみると よい,"<f02>Medabot Knowledge: Affinities<f00><CF>Medals and parts each have attributes.<CF>While parts of the same attribute are attached,<CF>All parts of that attribute will receive an affinity bonus.<CF>A part's attributes and abilities aren't always equal.<CF>Parts with high affinity, but low abilities are stronger than parts with low affinity and high abilities.<CF>Try out all kinds of parts and see how they work together."
-055,0x11c06e,"<@LL,00,00>さわると おこられそうだから<CD>やめて おこう",
-056,0x11c070,"<@LL,00,00>なんだか すごい きかいだ",
-057,0x11c072,"<@LL,00,00>自動はんばいきだ<CD>今はのどは かわいてないや",
-058,0x11c074,「メダロットの ちしき<CD> メダフォ-ス」<CF>メダルの レベルが上がると<CD>メダフォ-スを おぼえることがある<CF>メダフォ-スは メダフォ-スを<CD>ためることによリ 使用できる<CF>ただし メダフォ-スを 使うばあい<CD>パ-ツよリも 時間が かかるので<CF>タイミングを 計って<CD>使う ひつようがある<CF>メダフォ-スは パ-ツに くらベて<CD>きょうリょくな こうかがある<CF>そのかわリ それぞれの メダルは<CD>おぼえる ものが きまっているので<CF>メダフォ-スを うまく いかすように<CD>メダロットを 租みあげることが<CF>じゅうような ポイントとなる,"<f02>Medarot Knowledge: Medaforce<f00><CF>While the Medal level goes up, remember Medaforce! <CF>Medaforce skills can be used by accumulating Medaforce.<CF>However, using Medaforce skills takes more time than using parts. <CF>It's necessary to use careful timing when using Medaforce!<CF>The Medaforce is often more powerful than single parts, and can also affect an entire team.<CF>However, Medals can often only learn certain ones.<CF>The key is to train Medarots in order to make the best use of the Medaforce."
-059,0x11c076,「メダロットの ちしき<CD> じゅくれんど(なぐる)」<CF>1番前にいる てきを ねらって<CD>かくとう攻撃を しかける<CF>行動したら 次の行動まで<CD>ぼうぎょが できなくなる<CF>クリティカルが 少し<CD>はっせいしやすいのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(うつ)」<CF>行動選択の時に てきを ねらって<CD>しゃげき攻撃を しかける<CF>行動しても つぎの行動までの<CD>ペナルティが ないのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(がむしゃら)」<CF>1番前にいる てきを ねらって<CD>かくとう攻撃を しかける<CF>行動したら つぎの行動まで<CD>かいひと ぼうぎょが できなくなる<CF>ダメ-ジが ほかの パ-ツに<CD>かんつうするのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(ねらいうち)」<CF>行動選択の時に てきを ねらって<CD>しゃげき攻撃を しかける<CF>行動したら つぎの行動まで<CD>かいひが できなくなる<CF>クリティカルが とても<CD>はっせいしやすいのが とくちょう,"Medarot Knowledge: Skills - Strike<CF>Aim at the front-most target to start hand-to-hand combat.<CF>After your action, you can't defend until your next action.<CF>There is a trait to make critical hits a little easier.<CF>Medarot Knowledge: Skills - Shoot<CF>When it's your turn to perform an action, aim at your target and launch a shooting attack.<CF>There is a trait to eliminate the penalty for your next action.<CF>Medarot Knowledge: Skills - Berserk<CF>Aim at the front-most target to start hand-to-hand combat.<CF>After your action, you can't defend or evade until your next action.<CF>There is a trait to damage other parts of the body.<CF><f02>Medarot Knowledge: Skills - Snipe<f00><CF>When it's your turn to perform an action, aim at your target and launch a shooting attack.<CF>After your action, you can't evade until your next action.<CF>There is a trait to make critical hits much more common."
-060,0x11c078,「メダロットの ちしき<CD> じゅくれんど(まもる)」<CF>てきの攻撃から みかたを えんごする<CD>ぼうぎょパ-ツを メインとして<CF>せいのうの 高いメダロットに<CD>たいこうする パ-ツの行動や<CF>めいちゅうリつを 上下する<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(せっち)」<CF>トラップを しかけて<CD>攻撃をふせぐパ-ツを メインとして<CF>行動を せいこうしやすくするパ-ツや<CD>メダフォ-スを ふやすパ-ツ<CF>きょうリょくな れんけい攻撃を出す<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(なおす)」<CF>メダロットの 技甲を かいふくする<CD>パ-ツを メインとして<CF>マイナス症状や トラップを<CD>かいじょするパ-ツ<CF>メダフォ-スの 使用を おさえる<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(とくしゅ)」<CF>てきの 攻撃のダメ-ジを 0にする<CD>パ-ツを メインとして<CF>てきの 攻撃を はねかえす<CD>パ-ツなどの 行動を サポ-トする,"<f02>Medarot Knowledge: Skills - Protect<CF><f00>Defensive parts are used to protect the target and its allies from enemy attacks.<CF>There are also parts with actions to counter highly performant Medarots as well as raising and lowering accuracy.<CF><f02>Medarot Knowledge: Skills - Set-Up<CF><f00>To set a trap, you mainly use parts for diverting attacks.<CF>There are parts that make it easier for your action to be successful, and parts that augment your Medaforce.<CF>Support your action with parts that allow coordinated team attacks.<CF><f02>Medarot Knowledge: Skills - Heal<CF><f00>You mainly use parts that give the Medarot a restore technique.<CF>There are parts that can eliminate debuffs and traps.<CF>Support your action with parts that limit the use of Medaforce.<CF><f02>Medarot Knowledge:Skills - Special<f00><CF>You mainly use parts that make an enemy's attack do 0 damage.<CF>Support your action with parts that let you counterattack."
-061,0x11c07a,"<@LL,00,00>メダロットケ-スだ",
-062,0x11c07c,"<@LL,00,04>ぎゅうにゅうプリンがある♥",
-063,0x11c07e,"<@LL,00,00>たまごがある",
-064,0x11c080,"<@LL,00,00>いろんな ジュ-スがあるよ",
-065,0x11c082,"<@LL,00,00>パンや レトルトしょくひんが あるよ",
-066,0x11c084,"<@LL,00,00>メダロットのパ-ツや<CD>いろんな ざっかがあるよ",
-067,0x11c086,"<@LL,00,04>アイスクリ-ムだ♥<CD>あつい日は アイスクリ-ムにかぎる",
-068,0x11c088,"<@LL,00,00>これは コピ-きだよ",
-069,0x11c08a,"<@LL,00,00>動いているけど いったい何を<CD>作ってるんだろう?",
-070,0x11c08c,"<@LL,00,00>なんで工場に ベッドが<CD>おいてあるんだろう?<CF><@LL,00,05>しかも ふたつも<CD>なんだかなぁ...",
-071,0x11c08e,"<@LL,00,04>ぎゅうにゅうプリン あるかな<CF><@LL,00,08>なかった...",
-072,0x11c090,"<@LL,00,00>ここはキッチンだ",
-073,0x11c092,"<@LL,00,00>コンロがあるよ 火の用心",
-074,0x11c094,"<@LL,00,00>キチンと手を あらいましょう",
-075,0x11c096,"<@LL,00,00>メダロット社の ホ-ムペ-ジを<CD>貝てみよう<CF><@LL,00,07>す すごい じょうほうが<CD>たくさん のっている!",
-076,0x11c098,"<@LL,00,00>おもしろそうな ばんぐみは ないな",
-077,0x11c09a,"<@LL,00,00>コミックボンボンが いっぱいあるよ",
-078,0x11c09c,"<@LL,00,00>人の家の れいぞうこを<CD>勝手にあけちゃ だめだよ",
-079,0x11c09e,"<@LL,00,00>人のパソコンを 勝手に さわっちゃ<CD>だめだよ",
-080,0x11c0a0,"<@LL,00,00>人のテレビを 勝手に さわっちゃ<CD>だめだよ",
-081,0x11c0a2,「しぜん公園 キャンプ場」,
-082,0x11c0a4,"<@LL,00,07>大きな テレビモニタ-だ",
-083,0x11c0a6,"<@LL,00,07>新型メダロットだ<CF>ほしいなぁ",
-084,0x11c0a8,"<@LL,00,00>メダロットグッズが ならんでいるよ",
-085,0x11c0aa,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ",
-086,0x11c0ac,「セレクト隊 つうしん」<CD>~今日も せいぎ~,
-087,0x11c0ae,「セレクト隊 だよリ」<CD>とくしゅう セレクトスリ-,
-088,0x11c0b0,"<@LL,00,00>いリょうひんが ならんでいるよ",
-089,0x11c0b2,"<@LL,00,00>いろんな ざっかが あるよ",
-090,0x11c0b4,"<@LL,00,00>ボ-ルが たくさん あるよ",
-091,0x11c0b6,"<@LL,00,00>げたばこだ",
-092,0x11c0b8,"<@LL,00,00>がっきゅうぶんこが あるよ",
-093,0x11c0ba,"<@LL,00,00>高そうな ピアノだ",
-094,0x11c0bc,"<@LL,00,00>テレビを 貝ている 場合じゃないよ",
-095,0x11c0be,"<@LL,00,00>ざっしや 本が あるよ",
-096,0x11c0c0,"<@LL,00,00>人の タンスを 勝手に あけちゃ<CD>いけないよ",
-097,0x11c0c2,"<@LL,00,00>大きな メダロットケ-スだ",
-098,0x11c0c4,"<@LL,00,00>すごそうな コンピュ-タだ",
-099,0x11c0c6,"<@LL,00,00>じっけんそうちの ようだ",
-100,0x11c0c8,「セレクト隊 おどろ山 しぶ」,
-101,0x11c0ca,「メダロ-ドレ-ス場」,
-102,0x11c0cc,"<@LL,00,00>かまどだ",
-103,0x11c0ce,"<@LL,00,00>ここは ちょうリ場だ",
-104,0x11c0d0,"<@LL,00,00>ここは カンちゃんの家だ",
-105,0x11c0d2,"<@LL,00,00>ロボトルの 本が ならんでいる",
-106,0x11c0d4,"<@LL,00,00>古い メダロットケ-スだ",
-107,0x11c0d6,"<@LL,00,00>古い メダルケ-スだ",
-108,0x11c0d8,"<@LL,00,00>ゴミばこだ",
-109,0x11c0da,"<@LL,00,05>フイルムがあるけど 高い...",
-110,0x11c0dc,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ まんじゅう」",
-111,0x11c0de,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ せんベえ」",
-112,0x11c0e0,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ サブレ」",
-113,0x11c0e2,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎオアシスの てんねん水」",
-114,0x11c0e4,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎの すな」",
-115,0x11c0e6,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ じてん」",
-116,0x11c0e8,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ<CF><@LL,00,05>でも ちょっと高いなぁ...",
-117,0x11c0ea,"<@LL,00,00>ジュ-スの 自動はんばいきだ<CF><@LL,00,05>でも ちょっと高いなぁ...",
-118,0x11c0ec,"<@LL,00,00>高そうな メダルケ-スだ",
-119,0x11c0ee,"<@LL,00,00>けしょうひんが 売っているよ",
-120,0x11c0f0,"<@LL,00,00>ここは しちゃく室だ",
-121,0x11c0f2,"<@LL,00,00>ようふくが たくさん あるよ",
-122,0x11c0f4,"<@LL,00,00>なんだろう このきかいは...",
-123,0x11c0f6,"<@LL,00,00>せいぎょそうちのようだ<CD>さわるのは やめておこう",
-124,0x11c0f8,"<@LL,00,00>うきわが あるよ",
-125,0x11c0fa,"<@LL,00,00>ビ-チボ-ルが あるよ",
-126,0x11c0fc,"<@LL,00,00>海の おみやげが あるよ",
-127,0x11c0fe,"<@LL,00,00>ひやけどめが あるよ",
-128,0x11c100,"<@LL,00,00>おもしろそうな ばんぐみは<CD>やってないや",
-129,0x11c102,"<@LL,00,00>すごそうな きかいだ<CD>さわらない ほうが よさそうだ",
-130,0x11c104,「やさしい せかい せいふく」,
-131,0x11c106,「だれでも できる<CD>いたずら 100せん」,
-132,0x11c108,「まんが あくのみち」,
-133,0x11c10a,「ワンホイ-ルの すベて」,
-134,0x11c10c,"<@LL,00,00>なんだろう この大きな<CD>きかいは...",
-135,0x11c10e,"<@LL,00,00>変な きかいだ",
-136,0x11c110,"<@LL,00,00>いろんな コスチュ-ムが あるよ",
-137,0x11c112,「ストリ-ト ロボトル<CD>ひっしょうほう」,
-138,0x11c114,"<@LL,00,00>きゅうしょく用の しょくざいが<CD>いっぱい 入っている",
-139,0x11c116,「しょうぶに 勝つほうほう」,
-140,0x11c118,「ロボトルに 勝つほうほう」,
-141,0x11c11a,「ケンカに 勝つほうほう」,
-142,0x11c11c,「長いものに まかれる ほうほう」,
-143,0x11c11e,"<@LL,00,00>にんじゃの タンスだ<CD>でも しかけは なさそうだ",
-144,0x11c120,"<@LL,00,00>高そうな つぼだ",
-145,0x11c122,"<@LL,00,04>いい ながめだ",
-146,0x11c124,「サザンカおんせん<CD>うちみ ねんざに ききます」,
-147,0x11c126,"<@LL,00,00>きのうていし しているようだ",
-148,0x11c128,"<@LL,00,00>......",
-149,0x11c12a,"<@LL,00,00>これが エコ-そうち...",
-150,0x11c12c,"<@LL,00,00>こしょう中だ...",
-151,0x11c12e,"<@LL,00,00>古い ゲ-ムマシンだ",
-152,0x11c130,<FINAL>,
+000,0x11c000,"<@LL,00,00>ここは はい工場だ<CD>元々 何の 工場だったんだろ?","<@LL,00,00>Tämä on hylätty tehdas.<D3>Mitä täällä tehtiin ennen?"
+001,0x11c002,「メダロット研究所」,"""Medabottitutkimuslaitos"""
+002,0x11c004,「おみくじ じんじゃ」,"""Ennustuspyhäkkö"""
+003,0x11c006,「ギンジョウ小学校」,"""Ginjoun ala-aste"""
+004,0x11c008,「セレクトしぶ」,"""Select-osasto"""
+005,0x11c00a,"<@LL,00,00>ここは アリカの家だ","<@LL,00,00>Tämä on Arikan talo"
+006,0x11c00c,"<@LL,00,00>ここは ぼくの家だ","<@LL,00,00>Tämä on minun kotini"
+007,0x11c00e,"<@LL,00,00>ここは キクヒメの家だ","<@LL,00,00>Tämä on Kikuhimen talo"
+008,0x11c010,"<@LL,00,00>ここは イワノイの家だ","<@LL,00,00>Tämä on Iwanoin talo"
+009,0x11c012,"<@LL,00,00>ここは カガミヤマの家だ","<@LL,00,00>Tämä on Kagamiyaman talo"
+010,0x11c014,「メダスピ-ドキング れんしゅう場」,"""Medaspeed-kuninkaan<D3>harjoitusrata"""
+011,0x11c016,「メダロ-ドレ-ス れんしゅう場」,"""Medaroad-kisan<D3>harjoitusrata"""
+012,0x11c018,「この先 ぬかるみの どうくつ<CD>地面が とっても ぬかるんでます」,"""Edessä mutaluola<D3>Maa on todella mutainen"""
+013,0x11c01a,"<@LL,00,00>「ダ-ク...」<CD>? 字が きえかけてて よめないや","<@LL,00,00>""Dark...""? Kirjaimet ovat<D3>haalistuneet, en saa selvää"
+014,0x11c01c,「きゅうきゅうセンタ-」,"""Ensiapukeskus"""
+015,0x11c01e,「セレクト本部」,"""Select-päämaja"""
+016,0x11c020,「ウサギちゃんバ-」,"""Pupu-baari"""
+017,0x11c022,「メダロッタ-ズ」,"""Medabottaajat"""
+018,0x11c024,「メダロデパ-ト」,"""Medatavaratalo"""
+019,0x11c026,「マンション リゾット」,"""Kerrostalo Risotto"""
+020,0x11c028,「メダロット社」,"""Medabottiyhtiö"""
+021,0x11c02a,「花園学園」,"""Hanazono-akatemia"""
+022,0x11c02c,"<@LL,00,04>ここは 花園学園1の お金持ち<CD>ハチロウの 家だ","<@LL,00,04>Hanazonon rikkain oppilas<D3>Hachirou asuu täällä"
+023,0x11c02e,"<@LL,00,04>ここは ぼくのライバル<CD>コウジの家だ","<@LL,00,04>Tämä on kilpakumppanini<D3>Koujin talo"
+024,0x11c030,"<@LL,00,01>ここは 花園学園の アイドル<CD>カリンちゅわん♥の家だ","<@LL,00,01>Tämä on Hanazonon idolin<D3>Karin-kullan♥ talo"
+025,0x11c032,「からくリ にんじゃやしき」,"""Ninjojen ansakartano"""
+026,0x11c034,「シノビックパ-クヘ ようこそ!」,"""Tervetuloa<D3>Shinobick-puistoon!"""
+027,0x11c036,「ジャクナン小学校」,"""Jakunanin ala-aste"""
+028,0x11c038,「ウミネコ ロイヤル ホテル」,"""Umineko Royal Hotel"""
+029,0x11c03a,「セレクト隊 ウミネコ しぶ」,"""Select-joukkojen<D3>Umineko-osasto"""
+030,0x11c03c,「ウミネコ ホテル」,"""Umineko-hotelli"""
+031,0x11c03e,"<@LL,00,05>「海の どうくつ」...って<CD>よみにくいなぁ この かんばん","<@LL,00,05>""Meriluola""... onpa<D3>vaikealukuinen kyltti"
+032,0x11c040,「ロボトルくんれん場」,"""Robottelun harjoituskenttä"""
+033,0x11c042,「じっけんしつ<CD>かんけい者いがい 立ち入リきんし」,"""Laboratorio<D3>Asiattomilta pääsy kielletty"""
+034,0x11c044,「セレクト隊 サザンカ町 しぶ」,"""Select-joukkojen<D3>Sazanka-osasto"""
+035,0x11c046,「ゲ-ムセンタ-<CD>...リゃくして ゲ-セン」,"""Pelisali<D3>...kansankielellä pelari"""
+036,0x11c048,「コンビニ サザンカ町 してん」,"""Lähikauppa, Sazankan<D3>myymälä"""
+037,0x11c04a,「ウサオちゃん きっさ」,"""Usao-kahvila"""
+038,0x11c04c,「この先 サザンカ道場」,"""Edessä Sazankan dojo"""
+039,0x11c04e,"<@LL,00,00>これは おんなゆの マ-クだ","<@LL,00,00>Tämä on naisten kylpylän<D3>merkki"
+040,0x11c050,"<@LL,00,00>これは おとこゆの マ-クだ","<@LL,00,00>Tämä on miesten kylpylän<D3>merkki"
+041,0x11c052,「おんせんの てんねん どうくつ」,"""Kuumien lähteiden<D3>luonnonluola"""
+042,0x11c054,「がんばれ あと 少し」,"""Jaksaa, enää vähän!"""
+043,0x11c056,「山道では たきゃくが さいてき!」,"""Vuoristopoluilla Monijalka on<D3>paras!"""
+044,0x11c058,メダリンク うけつけは<CD>しゅうリょういたしました,Medalinkin ilmoittautuminen<D3>on päättynyt
+045,0x11c05a,"<@LL,00,00>ずかんや じしょが<CD>たくさん ならんでる","<@LL,00,00>Täällä on rivissä paljon<D3>tietokirjoja ja sanakirjoja"
+046,0x11c05c,"<@LL,00,00>ピアノが ひけたらいいなぁ","<@LL,00,00>Kunpa osaisin soittaa pianoa"
+047,0x11c05e,"<@LL,00,00>がくふが たくさん おいてあるよ","<@LL,00,00>Täällä on paljon nuottikirjoja"
+048,0x11c060,"<@LL,00,04>よし! きょうも ばっちリ","<@LL,00,04>Selvä! Tänäänkin<D3>kaikki kunnossa"
+049,0x11c062,"<@LL,00,00>むずかしい本が ならんでいるよ","<@LL,00,00>Täällä on rivissä vaikeita<D3>kirjoja"
+050,0x11c064,"<@LL,00,04>よし! きょうも ばっちリ<CF><@LL,00,06>って 言っている ばあいじゃないよ<CD>早く 出なくちゃ!","<@LL,00,04>Selvä! Tänäänkin<D3>kaikki kunnossa<D3><@LL,00,06>...Ei nyt ole sen aika!<D3>Pitää päästä ulos!"
+051,0x11c066,「メダロットの ちしき<CD> ティンペット」<CF>ティンペットは 男型と 女型の<CD>2しゅるいに わかれておリ<CF>それぞれに たいおうした パ-ツしか<CD>そうちゃく できない<CF>ティンペットは 全部で<CD>9体まで 持つことができる<CF>いちど 手に入れた ティンペットは<CD>すてることが できないので<CF>男型と 女型を バランスよく<CD>ゲットしていく ひつようがある,"""Medabottitieto:<D3>tinpetti""<D3>Tinpettejä on kahta tyyppiä:<D3>mies- ja naistyyppi<D3>Kumpaankin voi kiinnittää<D3>vain vastaavan tyypin osia<D3>Tinpettejä voi olla<D3>yhteensä 9 kappaletta<D3>Saatua tinpettiä ei<D3>voi heittää pois, joten<D3>kannattaa hankkia molempia<D3>tyyppejä tasapuolisesti"
+052,0x11c068,「メダロットの ちしき<CD> じゅくれんど」<CF>メダルは それぞれ じゅくれんどを<CD>3つしか 持っていない<CF>使いたい パ-ツの<CD>じゅくれんどを 持っていない時は<CF>メダリアを そうちゃくして<CD>サポ-トする方がよい,"""Medabottitieto:<D3>taitotaso""<D3>Jokaisella mitalilla on<D3>vain 3 taitotasoa<D3>Jos haluamasi osan<D3>taitotasoa ei ole,<D3>kannattaa kiinnittää<D3>Medalia tueksi"
+053,0x11c06a,「メダロットの ちしき<CD> メダリア」<CF>メダリアは 全部で 10しゅるいあリ<CD>30個まで 持つことができる<CF>パ-ツに ひつような じゅくれんどが<CD>メダルに ないときでも<CF>メダリアを つければ<CD>じゅくれんどの かわリになる<CF>メダルと メダリアの じゅくれんどが<CD>同じ ないようの時は<CF>じゅくれんどの すうちが<CD>高い方が 行動に はんえいされる<CF>しかし ひくい方も じゅくれんどが<CD>せいちょう するので<CF>なるベくメダリアを つけて<CD>ロボトルする方が よい,"""Medabottitieto:<D3>Medalia""<D3>Medalioita on 10 lajia, ja<D3>niitä voi olla 30 kappaletta<D3>Vaikka mitalilla ei olisi<D3>osan vaatimaa taitotasoa,<D3>Medalia voi korvata<D3>sen taitotason<D3>Kun mitalilla ja Medalialla<D3>on sama taitotaso,<D3>korkeampi arvo<D3>vaikuttaa toimintaan<D3>Matalampikin taitotaso<D3>kuitenkin kehittyy, joten<D3>kannattaa robotella<D3>Medalia kiinnitettynä"
+054,0x11c06c,「メダロットの ちしき<CD> あいしょう」<CF>メダルと パ-ツには ぞくせいがあリ<CD>同じ ぞくせいの パ-ツをつけると<CF>あいしょうの すうちが 全ての<CD>行動に ボ-ナスとして たされる<CF>あいしょうが わるく<CD>のうリょくの 高いパ-ツよリ<CF>あいしょうを 合わせた<CD>のうリょくの ひくいパ-ツのほうが<CF>つよくなることがあるので<CD>いろいろ ためしてみると よい,"""Medabottitieto:<D3>yhteensopivuus""<D3>Mitaleilla ja osilla on<D3>ominaisuus. Samanlaisen osan<D3>kanssa yhteensopivuusarvo<D3>lisätään joka toimintoon<D3>Huonosti sopiva tehokas<D3>osa voi siksi hävitä<D3>heikommalle mutta<D3>hyvin sopivalle osalle,<D3>joten kokeile<D3>erilaisia yhdistelmiä"
+055,0x11c06e,"<@LL,00,00>さわると おこられそうだから<CD>やめて おこう","<@LL,00,00>Jos kosken, saan varmaan<D3>kuulla kunniani. Annan olla."
+056,0x11c070,"<@LL,00,00>なんだか すごい きかいだ","<@LL,00,00>Onpa hieno kone"
+057,0x11c072,"<@LL,00,00>自動はんばいきだ<CD>今はのどは かわいてないや","<@LL,00,00>Juoma-automaatti.<D3>Ei ole nyt jano."
+058,0x11c074,「メダロットの ちしき<CD> メダフォ-ス」<CF>メダルの レベルが上がると<CD>メダフォ-スを おぼえることがある<CF>メダフォ-スは メダフォ-スを<CD>ためることによリ 使用できる<CF>ただし メダフォ-スを 使うばあい<CD>パ-ツよリも 時間が かかるので<CF>タイミングを 計って<CD>使う ひつようがある<CF>メダフォ-スは パ-ツに くらベて<CD>きょうリょくな こうかがある<CF>そのかわリ それぞれの メダルは<CD>おぼえる ものが きまっているので<CF>メダフォ-スを うまく いかすように<CD>メダロットを 租みあげることが<CF>じゅうような ポイントとなる,"""Medabottitieto:<D3>Medavoima""<D3>Kun mitalin taso nousee,<D3>se voi oppia Medavoiman<D3>Medavoimaa voi käyttää,<D3>kun sitä on kerätty tarpeeksi<D3>Medavoima vie kuitenkin<D3>enemmän aikaa kuin osa,<D3>joten ajoitus<D3>on tärkeää<D3>Medavoimalla on osia<D3>voimakkaampia vaikutuksia<D3>Toisaalta jokainen mitali<D3>oppii vain tietyt Medavoimat,<D3>joten Medavoimaa hyödyntävä<D3>Medabotin kokoonpano<D3>on tärkeä asia"
+059,0x11c076,「メダロットの ちしき<CD> じゅくれんど(なぐる)」<CF>1番前にいる てきを ねらって<CD>かくとう攻撃を しかける<CF>行動したら 次の行動まで<CD>ぼうぎょが できなくなる<CF>クリティカルが 少し<CD>はっせいしやすいのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(うつ)」<CF>行動選択の時に てきを ねらって<CD>しゃげき攻撃を しかける<CF>行動しても つぎの行動までの<CD>ペナルティが ないのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(がむしゃら)」<CF>1番前にいる てきを ねらって<CD>かくとう攻撃を しかける<CF>行動したら つぎの行動まで<CD>かいひと ぼうぎょが できなくなる<CF>ダメ-ジが ほかの パ-ツに<CD>かんつうするのが とくちょう<CF>「メダロットの ちしき<CD> じゅくれんど(ねらいうち)」<CF>行動選択の時に てきを ねらって<CD>しゃげき攻撃を しかける<CF>行動したら つぎの行動まで<CD>かいひが できなくなる<CF>クリティカルが とても<CD>はっせいしやすいのが とくちょう,"""Medabottitieto:<D3>taitotaso (lyönti)""<D3>Tähtää etummaiseen<D3>viholliseen lähitaisteluiskulla<D3>Toiminnon jälkeen ei voi<D3>puolustaa ennen seuraavaa<D3>Kriittinen osuma<D3>on hieman todennäköisempi<D3>""Medabottitieto:<D3>taitotaso (ammunta)""<D3>Valitsee kohteen toimintoa<D3>valitessa ja ampuu<D3>Toiminnon jälkeen ei ole<D3>haittaa ennen seuraavaa<D3>""Medabottitieto:<D3>taitotaso (raivo)""<D3>Tähtää etummaiseen<D3>viholliseen lähitaisteluiskulla<D3>Ei voi väistää eikä puolustaa<D3>ennen seuraavaa toimintoa<D3>Vahinko läpäisee<D3>muihin osiin<D3>""Medabottitieto:<D3>taitotaso (tähtäys)""<D3>Valitsee kohteen toimintoa<D3>valitessa ja ampuu<D3>Toiminnon jälkeen ei voi<D3>väistää ennen seuraavaa<D3>Kriittinen osuma<D3>on hyvin todennäköinen"
+060,0x11c078,「メダロットの ちしき<CD> じゅくれんど(まもる)」<CF>てきの攻撃から みかたを えんごする<CD>ぼうぎょパ-ツを メインとして<CF>せいのうの 高いメダロットに<CD>たいこうする パ-ツの行動や<CF>めいちゅうリつを 上下する<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(せっち)」<CF>トラップを しかけて<CD>攻撃をふせぐパ-ツを メインとして<CF>行動を せいこうしやすくするパ-ツや<CD>メダフォ-スを ふやすパ-ツ<CF>きょうリょくな れんけい攻撃を出す<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(なおす)」<CF>メダロットの 技甲を かいふくする<CD>パ-ツを メインとして<CF>マイナス症状や トラップを<CD>かいじょするパ-ツ<CF>メダフォ-スの 使用を おさえる<CD>パ-ツなどの 行動を サポ-トする<CF>「メダロットの ちしき<CD> じゅくれんど(とくしゅ)」<CF>てきの 攻撃のダメ-ジを 0にする<CD>パ-ツを メインとして<CF>てきの 攻撃を はねかえす<CD>パ-ツなどの 行動を サポ-トする,"""Medabottitieto:<D3>taitotaso (suojaus)""<D3>Pääasiassa puolustusosia,<D3>jotka suojaavat liittolaisia<D3>Tukee myös vahvoja vastaan<D3>toimivia osia<D3>ja osumatarkkuutta<D3>nostavia ja laskevia osia<D3>""Medabottitieto:<D3>taitotaso (asennus)""<D3>Pääasiassa ansaosia,<D3>jotka torjuvat iskuja<D3>Tukee myös onnistumista<D3>ja Medavoimaa lisääviä osia<D3>sekä voimakkaita<D3>yhteisiskuja tekeviä osia<D3>""Medabottitieto:<D3>taitotaso (korjaus)""<D3>Pääasiassa Medabotin<D3>panssaria korjaavia osia<D3>Tukee myös haittatiloja<D3>ja ansoja purkavia osia<D3>sekä Medavoiman käyttöä<D3>estäviä osia<D3>""Medabottitieto:<D3>taitotaso (erikoinen)""<D3>Pääasiassa osia, jotka<D3>nollaavat vihollisen iskun<D3>Tukee myös vihollisen<D3>iskuja torjuvia osia"
+061,0x11c07a,"<@LL,00,00>メダロットケ-スだ","<@LL,00,00>Medabottikotelo"
+062,0x11c07c,"<@LL,00,04>ぎゅうにゅうプリンがある♥","<@LL,00,04>Täällä on maitovanukasta♥"
+063,0x11c07e,"<@LL,00,00>たまごがある","<@LL,00,00>Täällä on kananmunia"
+064,0x11c080,"<@LL,00,00>いろんな ジュ-スがあるよ","<@LL,00,00>Täällä on kaikenlaisia mehuja"
+065,0x11c082,"<@LL,00,00>パンや レトルトしょくひんが あるよ","<@LL,00,00>Täällä on leipää ja<D3>valmisruokaa"
+066,0x11c084,"<@LL,00,00>メダロットのパ-ツや<CD>いろんな ざっかがあるよ","<@LL,00,00>Täällä on Medabotin osia<D3>ja kaikenlaista tavaraa"
+067,0x11c086,"<@LL,00,04>アイスクリ-ムだ♥<CD>あつい日は アイスクリ-ムにかぎる","<@LL,00,04>Jäätelöä♥ Kuumana päivänä<D3>jäätelö on parasta"
+068,0x11c088,"<@LL,00,00>これは コピ-きだよ","<@LL,00,00>Tämä on kopiokone"
+069,0x11c08a,"<@LL,00,00>動いているけど いったい何を<CD>作ってるんだろう?","<@LL,00,00>Se käy, mutta mitähän<D3>se oikein valmistaa?"
+070,0x11c08c,"<@LL,00,00>なんで工場に ベッドが<CD>おいてあるんだろう?<CF><@LL,00,05>しかも ふたつも<CD>なんだかなぁ...","<@LL,00,00>Miksi tehtaassa on sänky?<D3><D3><@LL,00,05>Ja vielä kaksi! Outoa..."
+071,0x11c08e,"<@LL,00,04>ぎゅうにゅうプリン あるかな<CF><@LL,00,08>なかった...","<@LL,00,04>Olisikohan täällä<D3>maitovanukasta<D3><@LL,00,08>Ei ollut..."
+072,0x11c090,"<@LL,00,00>ここはキッチンだ","<@LL,00,00>Tämä on keittiö"
+073,0x11c092,"<@LL,00,00>コンロがあるよ 火の用心","<@LL,00,00>Täällä on liesi. Varo tulta."
+074,0x11c094,"<@LL,00,00>キチンと手を あらいましょう","<@LL,00,00>Pestään kädet kunnolla"
+075,0x11c096,"<@LL,00,00>メダロット社の ホ-ムペ-ジを<CD>貝てみよう<CF><@LL,00,07>す すごい じょうほうが<CD>たくさん のっている!","<@LL,00,00>Katsotaanpa Medabottiyhtiön<D3>kotisivua<D3><@LL,00,07>V-vau! Täällä on<D3>valtavasti tietoa!"
+076,0x11c098,"<@LL,00,00>おもしろそうな ばんぐみは ないな","<@LL,00,00>Mitään kiinnostavaa<D3>ei näytä tulevan"
+077,0x11c09a,"<@LL,00,00>コミックボンボンが いっぱいあるよ","<@LL,00,00>Täällä on kasoittain<D3>Comic BonBonia"
+078,0x11c09c,"<@LL,00,00>人の家の れいぞうこを<CD>勝手にあけちゃ だめだよ","<@LL,00,00>Toisten jääkaappia<D3>ei saa avata luvatta"
+079,0x11c09e,"<@LL,00,00>人のパソコンを 勝手に さわっちゃ<CD>だめだよ","<@LL,00,00>Toisten tietokoneeseen<D3>ei saa koskea luvatta"
+080,0x11c0a0,"<@LL,00,00>人のテレビを 勝手に さわっちゃ<CD>だめだよ","<@LL,00,00>Toisten televisioon<D3>ei saa koskea luvatta"
+081,0x11c0a2,「しぜん公園 キャンプ場」,"""Luonnonpuiston leirintäalue"""
+082,0x11c0a4,"<@LL,00,07>大きな テレビモニタ-だ","<@LL,00,07>Iso televisiomonitori"
+083,0x11c0a6,"<@LL,00,07>新型メダロットだ<CF>ほしいなぁ","<@LL,00,07>Uuden mallin Medabotti<D3><D3>Haluaisin sellaisen..."
+084,0x11c0a8,"<@LL,00,00>メダロットグッズが ならんでいるよ","<@LL,00,00>Täällä on rivissä<D3>Medabottituotteita"
+085,0x11c0aa,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ","<@LL,00,00>Täällä on paljon<D3>Medabotin osia"
+086,0x11c0ac,「セレクト隊 つうしん」<CD>~今日も せいぎ~,"""Select-joukkojen tiedote""<D3>~Oikeutta tänäänkin~"
+087,0x11c0ae,「セレクト隊 だよリ」<CD>とくしゅう セレクトスリ-,"""Select-joukkojen uutiset""<D3>Teemana: Select Three"
+088,0x11c0b0,"<@LL,00,00>いリょうひんが ならんでいるよ","<@LL,00,00>Täällä on rivissä lääkkeitä"
+089,0x11c0b2,"<@LL,00,00>いろんな ざっかが あるよ","<@LL,00,00>Täällä on kaikenlaista<D3>tavaraa"
+090,0x11c0b4,"<@LL,00,00>ボ-ルが たくさん あるよ","<@LL,00,00>Täällä on paljon palloja"
+091,0x11c0b6,"<@LL,00,00>げたばこだ","<@LL,00,00>Kenkäkaappi"
+092,0x11c0b8,"<@LL,00,00>がっきゅうぶんこが あるよ","<@LL,00,00>Täällä on luokan kirjasto"
+093,0x11c0ba,"<@LL,00,00>高そうな ピアノだ","<@LL,00,00>Kalliin näköinen piano"
+094,0x11c0bc,"<@LL,00,00>テレビを 貝ている 場合じゃないよ","<@LL,00,00>Nyt ei ole aikaa<D3>katsoa televisiota"
+095,0x11c0be,"<@LL,00,00>ざっしや 本が あるよ","<@LL,00,00>Täällä on lehtiä ja kirjoja"
+096,0x11c0c0,"<@LL,00,00>人の タンスを 勝手に あけちゃ<CD>いけないよ","<@LL,00,00>Toisten lipastoa<D3>ei saa avata luvatta"
+097,0x11c0c2,"<@LL,00,00>大きな メダロットケ-スだ","<@LL,00,00>Iso Medabottikotelo"
+098,0x11c0c4,"<@LL,00,00>すごそうな コンピュ-タだ","<@LL,00,00>Hienon näköinen tietokone"
+099,0x11c0c6,"<@LL,00,00>じっけんそうちの ようだ","<@LL,00,00>Näyttää koelaitteelta"
+100,0x11c0c8,「セレクト隊 おどろ山 しぶ」,"""Select-joukkojen<D3>Odoro-vuoren osasto"""
+101,0x11c0ca,「メダロ-ドレ-ス場」,"""Medaroad-kisarata"""
+102,0x11c0cc,"<@LL,00,00>かまどだ","<@LL,00,00>Muurattu liesi"
+103,0x11c0ce,"<@LL,00,00>ここは ちょうリ場だ","<@LL,00,00>Tämä on ruuanlaittopaikka"
+104,0x11c0d0,"<@LL,00,00>ここは カンちゃんの家だ","<@LL,00,00>Tämä on Kanin talo"
+105,0x11c0d2,"<@LL,00,00>ロボトルの 本が ならんでいる","<@LL,00,00>Täällä on rivissä<D3>robottelukirjoja"
+106,0x11c0d4,"<@LL,00,00>古い メダロットケ-スだ","<@LL,00,00>Vanha Medabottikotelo"
+107,0x11c0d6,"<@LL,00,00>古い メダルケ-スだ","<@LL,00,00>Vanha mitalikotelo"
+108,0x11c0d8,"<@LL,00,00>ゴミばこだ","<@LL,00,00>Roskakori"
+109,0x11c0da,"<@LL,00,05>フイルムがあるけど 高い...","<@LL,00,05>Täällä on filmiä,<D3>mutta se on kallista..."
+110,0x11c0dc,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ まんじゅう」","<@LL,00,00>Täällä on matkamuistoja:<D3>""Karasawagi-manju"""
+111,0x11c0de,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ せんベえ」","<@LL,00,00>Täällä on matkamuistoja:<D3>""Karasawagi-riisikeksi"""
+112,0x11c0e0,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ サブレ」","<@LL,00,00>Täällä on matkamuistoja:<D3>""Karasawagi-pikkuleipä"""
+113,0x11c0e2,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎオアシスの てんねん水」","<@LL,00,00>Täällä on matkamuistoja:<D3>""Karasawagin keitaan vesi"""
+114,0x11c0e4,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎの すな」","<@LL,00,00>Täällä on matkamuistoja:<D3>""Karasawagin hiekka"""
+115,0x11c0e6,"<@LL,00,00>おみやげが あるよ<CD>「からさわぎ じてん」","<@LL,00,00>Täällä on matkamuistoja:<D3>""Karasawagi-sanakirja"""
+116,0x11c0e8,"<@LL,00,00>メダロットの パ-ツが<CD>いっぱいあるよ<CF><@LL,00,05>でも ちょっと高いなぁ...","<@LL,00,00>Täällä on paljon<D3>Medabotin osia<D3><@LL,00,05>Mutta vähän kalliita..."
+117,0x11c0ea,"<@LL,00,00>ジュ-スの 自動はんばいきだ<CF><@LL,00,05>でも ちょっと高いなぁ...","<@LL,00,00>Mehuautomaatti<D3><D3><@LL,00,05>Mutta vähän kallis..."
+118,0x11c0ec,"<@LL,00,00>高そうな メダルケ-スだ","<@LL,00,00>Kalliin näköinen mitalikotelo"
+119,0x11c0ee,"<@LL,00,00>けしょうひんが 売っているよ","<@LL,00,00>Täällä myydään kosmetiikkaa"
+120,0x11c0f0,"<@LL,00,00>ここは しちゃく室だ","<@LL,00,00>Tämä on sovituskoppi"
+121,0x11c0f2,"<@LL,00,00>ようふくが たくさん あるよ","<@LL,00,00>Täällä on paljon vaatteita"
+122,0x11c0f4,"<@LL,00,00>なんだろう このきかいは...","<@LL,00,00>Mikähän kone tämä on..."
+123,0x11c0f6,"<@LL,00,00>せいぎょそうちのようだ<CD>さわるのは やめておこう","<@LL,00,00>Näyttää ohjauslaitteelta.<D3>En taida koskea siihen."
+124,0x11c0f8,"<@LL,00,00>うきわが あるよ","<@LL,00,00>Täällä on uimarengas"
+125,0x11c0fa,"<@LL,00,00>ビ-チボ-ルが あるよ","<@LL,00,00>Täällä on rantapallo"
+126,0x11c0fc,"<@LL,00,00>海の おみやげが あるよ","<@LL,00,00>Täällä on meren<D3>matkamuistoja"
+127,0x11c0fe,"<@LL,00,00>ひやけどめが あるよ","<@LL,00,00>Täällä on aurinkovoidetta"
+128,0x11c100,"<@LL,00,00>おもしろそうな ばんぐみは<CD>やってないや","<@LL,00,00>Mitään kiinnostavaa<D3>ohjelmaa ei tule"
+129,0x11c102,"<@LL,00,00>すごそうな きかいだ<CD>さわらない ほうが よさそうだ","<@LL,00,00>Hienon näköinen kone.<D3>Parempi olla koskematta."
+130,0x11c104,「やさしい せかい せいふく」,"""Lempeä maailmanvalloitus"""
+131,0x11c106,「だれでも できる<CD>いたずら 100せん」,"""100 kepposta,<D3>jotka kuka tahansa osaa"""
+132,0x11c108,「まんが あくのみち」,"""Sarjakuva: Pahuuden tie"""
+133,0x11c10a,「ワンホイ-ルの すベて」,"""Kaikki yksipyöristä"""
+134,0x11c10c,"<@LL,00,00>なんだろう この大きな<CD>きかいは...","<@LL,00,00>Mikähän tämä<D3>valtava kone on..."
+135,0x11c10e,"<@LL,00,00>変な きかいだ","<@LL,00,00>Kummallinen kone"
+136,0x11c110,"<@LL,00,00>いろんな コスチュ-ムが あるよ","<@LL,00,00>Täällä on kaikenlaisia asuja"
+137,0x11c112,「ストリ-ト ロボトル<CD>ひっしょうほう」,"""Katurobottelun<D3>varma voittokeino"""
+138,0x11c114,"<@LL,00,00>きゅうしょく用の しょくざいが<CD>いっぱい 入っている","<@LL,00,00>Täällä on paljon<D3>kouluruuan raaka-aineita"
+139,0x11c116,「しょうぶに 勝つほうほう」,"""Näin voitat kilpailun"""
+140,0x11c118,「ロボトルに 勝つほうほう」,"""Näin voitat robottelun"""
+141,0x11c11a,「ケンカに 勝つほうほう」,"""Näin voitat tappelun"""
+142,0x11c11c,「長いものに まかれる ほうほう」,"""Näin myötäilet vahvempaa"""
+143,0x11c11e,"<@LL,00,00>にんじゃの タンスだ<CD>でも しかけは なさそうだ","<@LL,00,00>Ninjan lipasto.<D3>Ansoja ei näytä olevan."
+144,0x11c120,"<@LL,00,00>高そうな つぼだ","<@LL,00,00>Kalliin näköinen maljakko"
+145,0x11c122,"<@LL,00,04>いい ながめだ","<@LL,00,04>Onpa hieno näköala"
+146,0x11c124,「サザンカおんせん<CD>うちみ ねんざに ききます」,"""Sazankan kuumat lähteet<D3>Ruhjeisiin ja nyrjähdyksiin"""
+147,0x11c126,"<@LL,00,00>きのうていし しているようだ","<@LL,00,00>Se näyttää olevan pois päältä"
+148,0x11c128,"<@LL,00,00>......","<@LL,00,00>......"
+149,0x11c12a,"<@LL,00,00>これが エコ-そうち...","<@LL,00,00>Tämäkö on ekolaite..."
+150,0x11c12c,"<@LL,00,00>こしょう中だ...","<@LL,00,00>Se on epäkunnossa..."
+151,0x11c12e,"<@LL,00,00>古い ゲ-ムマシンだ","<@LL,00,00>Vanha pelikone"
+152,0x11c130,<FINAL>,<FINAL>
 153,0x11c132,@0x11c130,@0x11c130
 154,0x11c134,@0x11c130,@0x11c130
 155,0x11c136,@0x11c130,@0x11c130

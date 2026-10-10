@@ -1,0 +1,219 @@
+@000
+Valitse rotaation Medabotti.
+@001
+Medabotti ajattelee ja toimii itse.
+@002
+Käyttää pääosaa.\nMuuntuneena: Drive A
+@003
+Oikean käden osa.\nMuuntuneena: Drive B
+@004
+Vasemman käden osa.\nMuuntuneena: Drive C
+@005
+Kerää Medavoimaa.
+@006
+Käyttää Medavoimaa 1.
+@007
+Käyttää Medavoimaa 2.
+@008
+Käyttää Medavoimaa 3.
+@009
+Muuntautuu. Jos on jo\nmuuntunut, sama kuin ?
+@010
+Peruu muodonmuutoksen. Jos\nei ole muuntunut, sama kuin ?
+@011
+Valitse rotaatiopiste vasemmalla ja oikealla.
+@012
+START-napilla vaihdat rotaation järjestystä.
+@013
+Tätä esinettä ei voi käyttää!
+@014
+Tätä ei voi käyttää täällä!
+@015
+Tätä ei voi käyttää nyt!
+@016
+Nyt ei voi tallentaa!
+@017
+Tätä ei voi käyttää täällä!
+@018
+Tätä ei voi käyttää nyt!
+@019
+Medabottia "Vapor Rail" ei ole koottu!
+Pääosa "Steam Board"!\nOikea käsi "Steam Dolin"!
+Vasen käsi "Steam Pipe"!\nJalkaosa "Steam Turbine"!
+Medabotti "Vapor Rail" on valmis!
+@020
+Medabottia "Sky Cargo" ei ole koottu!
+Pääosa "Air Flight"!\nOikea käsi "Air Wing"!
+Vasen käsi "Air Fin"!\nJalkaosa "Air Turbine"!
+Medabotti "Sky Cargo" on valmis!
+@021
+Medabottia "Auto Cruise" ei ole koottu!
+Pääosa "Water Fleet"!\nOikea käsi "Water Hole"!
+Vasen käsi "Water Port"!\nJalkaosa "Water Turbine"!
+Medabotti "Auto Cruise" on valmis!
+@022
+Tässä versiossa ei voi tallentaa.
+@023
+Harmi! Tällä versiolla ei voi muodostaa yhteyttä!
+@024
+Käytä tätä esinettä kulkuneuvossa!
+@025
+Peli tallennetaan ennen yhteyttä! Sopiiko?
+@026
+Yhteydestä luovuttiin!
+@027
+Yhdistetään yhteysverkkoon!
+@028
+Yhteysverkkoon yhdistäminen epäonnistui!
+@029
+Tallennetaan!
+@030
+Rento robottelu kaverin kanssa!
+@031
+Tosissaan käytävä robottelu kaverin kanssa osista!
+@032
+Osien vaihto kaverin kanssa!
+@033
+Anna kaverille mitali!
+@034
+Valitse tämä aina, kun lopetat yhteysverkon käytön!
+@035
+Tarvitset vähintään kaksi koottua Medabottia!
+@036
+Nyt otellaan!
+@037
+Tiedonsiirtovirhe!
+@038
+Valitse tila!
+@039
+Tarkistetaan yhteyttä!
+@040
+Voitit! Yhteysrobotteluja:\n{BUF02#15} voittoa, {BUF01#15} tappiota
+@041
+Hävisit! Yhteysrobotteluja:\n{BUF02#15} voittoa, {BUF01#15} tappiota
+@042
+Siirretään yhteystietoja!
+@043
+Vastustaja on keskellä robottelua!
+@044
+Paina A-nappia oikealla hetkellä ja nappaa osa!
+@045
+Harmi! Huti! Et saanut mitään!
+@046
+Onnekas! Huti! Sinulta ei viety mitään!
+@047
+{BUF03} sai {BUF01}-osan {BUF04}!
+@048
+{BUF03} menetti {BUF01}-osan {BUF04}!
+@049
+Oho!! Tämä on 20. yhteysrobottelusi!
+Muistoksi Medabottiyhtiö lahjoittaa
+Haigorei-tyypin Medabotin osasarjan!
+Tarkista osatiedot myöhemmin!
+@050
+Oho!! Tämä on 40. yhteysrobottelusi!
+Muistoksi Medabottiyhtiö lahjoittaa
+Kami-tyypin Medabotin osasarjan!
+Tarkista osatiedot myöhemmin!
+@051
+Osien siirto!
+@052
+{BUF03} sai {BUF00}-osan {BUF01}!
+@053
+Varustettua mitalia ei voi antaa!
+@054
+Medalialla varustettua mitalia ei voi antaa!
+@055
+Hups! Vastustajalla on jo tämä mitali!
+@056
+Vastustaja valitsee mitalia! Odota hetki!
+@057
+Mitalin siirto!
+@058
+{BUF03} sai mitalin {BUF05}!
+@059
+{BUF03} menetti mitalin {BUF05}!
+@060
+Kokoa kumppanisi Medabotti!
+@061
+Mitä haluaisit tietää?
+@062
+Komentoja ei voi avata nyt!
+@063
+OBJ-ylivuoto, jäätyminen!!
+@064
+Kumppanin on aina oltava mukana!
+@065
+Kokoa kumppanisi mitalilla "{BUF04}"!
+@066
+Valitseppa Medabotti, jonka väriä vaihdetaan~!
+@067
+Palautetaanko väri? Valitseppa Medabotti.
+@068
+Valitse käytettävä osa!
+@069
+Medabirdissa kumppanin on oltava johtaja!
+@070
+Etkä oo maalannu mitään!
+@071
+A-napilla paneelit kääntyvät. Muista osien paikat!
+@072
+Paina A-nappia oikealla hetkellä ja nappaa osa!
+@075
+Vastustaja on keskellä robottelua!
+@078
+Vaihto Medarot 3:n kanssa.\nTarkistetaan yhteyttä!
+@079
+Yhteys epäonnistui!
+@080
+Ilman Medarot 3 -passia ei\nsaa yhteyttä Medarot 3:een
+@081
+Vaihdetaanko osia vielä kerran?
+@082
+Lopetetaan yhteys!
+@083
+Vaihdettavia osia ei ole, joten yhteys katkaistaan!
+@084
+Vaihdettavia osia ei ole!
+@085
+Palautetaanko väri? Valitseppa Medabotti.
+@086
+Valitut kentät eroavat, joten kenttä arvotaan.
+@087
+Ottelukenttä arvotaan.
+@088
+Avara aavikko suosii "Lento"-tyyppiä!
+@089
+Muurahaisleijona ilmestyy ja\nvetää kaikki puoleensa!
+@090
+Pelkkä liikkuminen vahingoittaa kaikkia!
+@091
+Vaikeakulkuinen vuoristo suosii "Monijalka"-tyyppiä!
+@092
+Lentävä kivi aiheuttaa yhdelle jatkuvan vahingon tilan!
+@093
+Tulipatsaista kaikille\njatkuvan vahingon tila!
+@094
+Suojaisa metsä suosii "Kaksijalka"-tyyppiä!
+@095
+Apina ilmestyy ja aiheuttaa yhdelle sidonnan tilan!
+@096
+Tiheät puut vaikeuttavat ajoituksen arvioimista!
+@097
+Päällystetyt kaupunkikadut suosivat "Ajoneuvo"-tyyppiä!
+@098
+Cheerleader ilmestyy ja vahvistaa yhden hyökkäystä!
+@099
+Idolin suloinen ääni hallitsee Medavoimaa!
+@100
+Vastustava vesi suosii "Sukellus"-tyyppiä!
+@101
+Lumipallo lentää ja aiheuttaa yhdelle pysähdyksen tilan!
+@102
+Valtava vedenpaine hidastaa kaikkien nopeutta!
+@103
+Maalle suunnitellut Medabotit eivät pärjää avaruudessa!
+@104
+Tyhjästä ilmestyy UFO ja kaataa yhden Medabotin!
+@105
+Medabotit kutistuvat ja hidastuvat rajusti!

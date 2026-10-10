@@ -1,0 +1,505 @@
+@000
+Maskottimalli\nPallo räjähtää vihollisineen!
+@001
+Pteranodonmalli\nSelect Threen johtaja
+@002
+Kotkamalli\nRajua ohjustulta!
+@003
+Haukkamalli\nRajua napalmtulta!
+@004
+Pääskymalli\nPääsky pakoilee salaa
+@005
+Pöllömalli\nParantaa laajalla tiedollaan
+@006
+Varismalli\nKiiltävä on sen heikkous
+@007
+Kaskasmalli\nTorjuu ja murtaa keltaisena
+@008
+Kuninkaansirkkamalli\nNuttura on kunnian merkki!
+@009
+Tipumalli\nAlussa heikko, mutta...
+@010
+"Jätkä"-korttimalli\nAmpuu, ampuu, ampuu, ei mieti!
+@011
+Riikinkukkomalli\nUpeus vangitsee katseet!
+@012
+Seireenimalli\nLumoava laulu rauhoittaa
+@013
+Kanarialintumalli\nOlen sinun sijaisuhrisi
+@014
+Keijukaismalli\nKepposteleva korjaaja
+@015
+Hyttysmalli\nImen latauksesi pois
+@016
+Riekkomalli\nKestää kylmää hiljaa
+@017
+Jupitermalli\nUinti vetymeressä
+@018
+Kurkimalli\nKurjen kiitollisuus
+@019
+Tanssikukkamalli\nCooliudellaan poikien suosikki
+@020
+Liito-oravamalli\nPuusta alas, nopeasti ylös
+@021
+Langustimalli\nTorjuu rohkeasti lähi-iskut!
+@022
+Möhkäkalamalli\nTuo ei, tuo ei, eikä tuokaan
+@023
+Seurantasondimalli\nHiipii ja nappaa vihollisen
+@024
+Viikatemiesmalli\nValon sinetöivä salamurhaaja
+@025
+Amorimalli\nRakkauden Medavoima kukkii!
+@026
+Terälehtimalli\nTämä tekee liian nopeaksi!
+@027
+Pikkupirumalli\nPikkupiru, kaikki P:llä
+@028
+Gargoilimalli\nKestää kuin kivi ja voittaa
+@029
+Noitamalli\nTarkat laskelmat hupun alla
+@030
+Spinnermalli\nSaattajien asiantuntija
+@031
+Banshee-malli\nTule pian kotiin, tai syön sinut
+@032
+Marsmalli\nMustekala-söpöliini♥
+@033
+Asemalli\nNaiset, käyttäkää tätä!
+@034
+Häveliäsmalli\nNuutuu, kun siihen iskee
+@035
+Trilobiittimalli\nTarttuu ja tunkeutuu suusta
+@036
+Mammuttimalli\nVuoristossa uhanalainen...
+@037
+Avaruusluotainmalli\nTutkii piilevät viholliset!
+@038
+Kärpäsloukkumalli\nAnsa minne vain, shaa!
+@039
+Hamsterimalli\nNäykkivä kääpiöhamsteri
+@040
+Kerberosmalli\nPurree, purree, raivoaa!
+@041
+Dullahan-malli\nPäätön ritari saapuu
+@042
+Punkkimalli\nPeittojen tuuletus ei haittaa!
+@043
+Täimalli\nSukeltaa ohjuksiltakin!
+@044
+Kirppumalli\nLäpäisee huimalla hypyllä!
+@045
+Peurankaurismalli\nViehättävät pikkusarvet
+@046
+Balsamimalli\nKosketus poksauttaa!
+@047
+Dryadimalli\nVahvistaa kasvien voimaa!
+@048
+Sirkkamalli\nUltraäänellä voimanhallintaa!
+@049
+Maapallomalli\nMahtavan maapallon voima!
+@050
+Kuwagata-malli\n"Yksinäinen samurai"
+@051
+Kabuto-malli\nTule vain, kuka tahansa!
+@052
+Sapelihammastiikerimalli\nKabuto-mallin kilpailija
+@053
+Leijonakuningasmalli\nKuwagata-mallin kilpailija
+@054
+Kabuto-malli\nKevyt Kabuto!
+@055
+Herkuleskuoriaismalli\nRaskas Kabuto!
+@056
+Sarvijäärämalli\nKonsepti: "Kaada Kuwagata!"
+@057
+Jalokuoriaismalli\nKonsepti: "Kaada Kabuto!"
+@058
+Tyrannosaurusmalli\nSelect Threen kapteeni!
+@059
+Jengipomomalli\nHeikkojen puolustaja!
+@060
+Koiramalli\nTyylikäs ampuja
+@061
+Muukalaismalli\nMuuntuva pehmeä keho
+@062
+Velociraptormalli\nSaalis ei pääse karkuun!
+@063
+Kaulurilisko-malli\nSaa kiireesti koti-ikävän!
+@064
+Kuwagata-malli\nKuwagata-mallin pimeä puoli
+@065
+Lentokonemalli\n"Tuulen siivillä" kartalla!
+@066
+Ohjelmoijamalli\nOhjelmoija, oikeasti hakkeri
+@067
+Kirin-malli\nYhdistää 4 pyhää petoa
+@068
+"Kuningas"-korttimalli\nMuuntuneena voittamaton!
+@069
+Kuwagata-malli\nVastapuolustuksen mestari!
+@070
+Tiikerimalli\nVastapuolustuksen perusmalli!
+@071
+Gepardimalli\nNopea vasaraisku!
+@072
+Susimalli\nVillin luontonsa löytänyt koira
+@073
+Veturimalli\n"Minirattilla" nopeasti!
+@074
+Kabuto-malli\nVoimaiskujen asiantuntija!
+@075
+Leijonamalli\nVoimaiskujen perusmalli!
+@076
+Kabuto-malli\nKabuto-mallin pimeä puoli
+@077
+Genbu-malli\nTeräspanssarin pyhä peto
+@078
+Puhvelimalli\nMurskaa vihollisen voimalla
+@079
+Seiryuu-malli\nElvytyksen pyhä peto
+@080
+Laivamalli\n"Periskoopilla" veden alle!
+@081
+Ghoul-malli\nMaan alta vihollisen taakse
+@082
+Merimiesasumalli\nTuen Kabutoa ja Kuwagataa
+@083
+Hoitajamalli\nKentän halki kiitävä hoitaja
+@084
+Kissamalli\nMinä liikun, mutta sinä et!
+@085
+Valkyyriamalli\nKabuton ja Kuwagatan tuki
+@086
+Pupumalli\nOutoa mehua, voimaa lisää!
+@087
+Kasvinviljelymalli\nSuojaa iskusateelta
+@088
+Matkaoppaamalli\nJoutomaan halki kulkeva opas
+@089
+Miko-malli\nJumalten arvokas lähetti
+@090
+Piikamalli\nParhaani isäntäni hyväksi
+@091
+Lootusmalli\nMystinen huntu torjuu kaiken
+@092
+Leppäkerttumalli\n7 tähden neito
+@093
+Aurinkomalli\nRaivoavan valon voima!
+@094
+Kuumalli\nTyynen valon voima
+@095
+Komeettamalli\nIhme kerran 76 vuodessa!
+@096
+Uranusmalli\nTaivaan sininen salama
+@097
+Neptunusmalli\nSyvyyksien sininen pyörre
+@098
+Plutomalli\nManalan tuhon henkäys
+@099
+Suzaku-malli\nHarhauttava kuolematon peto
+@100
+Leopardimalli\nPimeyden nopea metsästäjä
+@101
+Kissatyttömalli\nKissapaukku, nyan!
+@102
+Byakko-malli\nÄänennopea taivaan peto
+@103
+Kouluidolimalli\nKoulun edustaja myös salaa♥
+@104
+Moottoripyörämalli\nJättää tuomarin taakseen!
+@105
+Rakennusmiesmalli\nNopeus ja huolellisuus, siinä se
+@106
+Kabuki-malli\nHeiluttaa hiuksiaan kentällä!
+@107
+Lastenhoitajamalli\nVilkkaiden lasten turva
+@108
+Kirahvimalli\nTähystää ympärilleen!
+@109
+Kamelimalli\nKestää kuumuuden ja kiirehtii
+@110
+Yksipyörämalli\nPolkaisu, askel, polkaisu...
+@111
+Tuuletinmalli\nHuiskis, ja menoksi!
+@112
+Tuhatjalkaismalli\nKäy päälle ja murskaa
+@113
+Karvatoukkamalli\nAskel kauniiseen kehoon
+@114
+Poliisiautomalli\nSelect-joukkojen uutuus!
+@115
+Pelastusautomalli\nSelect-joukkojen uutuus!
+@116
+Paloautomalli\nSelect-joukkojen uutuus!
+@117
+Rapumalli\nMuuntuneena nopein Medabotti
+@118
+Toukkamalli\nAskel kauniiseen kehoon
+@119
+Venusmalli\nLoistavan iltahämärän neito
+@120
+Brachiosaurusmalli\nSelect Threen komentaja!
+@121
+Kilpikonnamalli\nHuikea kolmoislaser!
+@122
+Kilpirapumalli\nJapanin paras puolustus!
+@123
+Stegosaurusmalli\nYhteisiskujen isoveli!
+@124
+Triceratopsmalli\nYhteisiskujen pikkuveli!
+@125
+Mikroaaltomalli\nKytevä, sitten iso räjähdys!
+@126
+Ompelukonemalli\nKirjailee mitä tahansa
+@127
+Kierisiiramalli\nKuori, joka kimmottaa iskuja
+@128
+Kastematomalli\nTuhoaa vastustajan pellot
+@129
+Saturnusmalli\nYmpäröivä puolustusmuuri
+
+@130
+Valasmalli\nNielee katkat, puhaltaa vettä
+@131
+Ameebamalli\nNielaisen sinut kehooni~
+@132
+Merivuokkomalli\nKun tartun, en päästä~
+@133
+Hyljemalli\nÖuh öuh....öuh öuh
+@134
+Monnimalli\nAistii maanjäristykset
+@135
+Ankeriasmalli\nHuippukunto ja terveys!
+@136
+Kronosaurusmalli\nSelect-joukkojen sukeltaja?
+@137
+Aksolotlimalli\nKatsoja menettää tajunnan
+@138
+Bassimalli\nTuhoaa minkä osan vain!
+@139
+Anomalocarismalli\nNappaa kaikilla osilla!
+@140
+Hallucigeniamalli\nOudot yhdistelmät hämäävät
+@141
+Jättiludemalli\nKatso, se lentääkin
+@142
+Vesimittarimalli\nUskomatonta, se lentää
+@143
+Merihevosmalli\nKatso! Lopullinen evoluutio!
+@144
+Karppimalli\nKatso! Lopullinen evoluutio!
+@145
+Delfiinimalli\nOnko loukkaantuneita?
+@146
+Kultakalamalli\nOlenko kaunis...?
+@147
+"Kuningatar"-korttimalli\nLyö, lyö, lyö, ota tästä!
+@148
+Ankkamalli\nEn ole ruma!
+@149
+Merkuriusmalli\nAuringon valo hehkuu
+@150
+"Ässä"-korttimalli\nHehheh, senkin hölmö...
+@151
+Mainalintumalli\nMatkii kuin papukaija!
+@152
+Wyvernmalli\nTuuli ja myrsky!
+@153
+Leivänpaahdinmalli\nPaahdan monella asteella
+@154
+Lokkimalli\nMerimies♥
+@155
+Tuulimyllymalli\nLennetään, lennetään
+@156
+Krokotiililintumalli\nSuuttuneena pelottava
+@157
+Sienimalli\nItiöt tulevat, tulevat!
+@158
+Inkubusmalli\nVelttoudu siis
+@159
+Hanamalli\nHuuhdon kaiken pois!
+@160
+Loitsijamalli\nKadonnut kaiverrus palaa!
+@161
+Sienimalli\nLakki pyörii, pyörii!
+@162
+Tarot-korttimalli\nTanssi kämmenelläni
+@163
+Ylipappimalli\nPuran sinetin
+@164
+Takahenkimalli\nKuka seisoo takanasi?
+@165
+Kannukasvimalli\nTule mistä tahansa!
+@166
+Koalamalli\nSisällä on paljon ohjuksia
+@167
+Kentaurimalli\nOmenat ja mandariinit!
+@168
+Televisiomalli\nKaikki, huomio, huomio!
+@169
+Mungomalli\nNappasin sinut, kas niin!
+@170
+Gekkomalli\nNuolaisu, lipsahdus, vilkaisu
+@171
+Skyllamalli\nOlen kaikkien tiellä
+@172
+Pikkukuwagata-malli\nPieni mutta pippurinen
+@173
+Pikkukabuto-malli\nÄlä sano minua pätkäksi!!
+@174
+Frankenmalli\nTuolla "PAM", täällä "PAM"
+@175
+Peilimalli\nKatso... se on takanasi
+@176
+Jumalmalli\nOlette kämmenelläni
+@177
+Muurahaisleijonamalli\nInhottu ja hauras elämä
+@178
+Vuoripelastuskoiramalli\nVuoripelastus hallussa!
+@179
+Torakkamalli\nInhottu kaikkialla, robo
+@180
+Tinpettimalli\nÄlä tuijota noin♥
+@181
+Meripelastuskoiramalli\nMeripelastus hallussa!
+@182
+Pyhä ritari -malli\nSinetöity tarujen ritari
+@183
+Isokuwagata-malli\nTaivaan sininen saha!
+@184
+Arkkidemonimalli\nVoimaa kätkevä viimeinen ase
+@185
+Isokabuto-malli\nMaata kiitävä punainen harja!
+@186
+Pandamalli\nPanda, salama, punapanda
+@187
+Tornadomalli\nSaako tämä venyä?
+@188
+Paholaismalli\nInhoan kaikkia...
+@189
+Arkkienkelimalli\nViimeisen aseen hillitsijä
+@190
+Pimeä ritari -malli\nVoimansa menettänyt ritari
+@191
+Pandamalli\nLähtölaskenta kaatumiseen!
+@192
+Strutsimalli\nHei! Hei! Pois tieltä!
+@193
+Sorsamalli\nHyvää ruokahalua!
+@194
+Kotiopettajamalli\nRobotteluaika alkaa!
+@195
+Pölynimurimalli\nImee kaiken ja heittää pois
+@196
+Poromalli\nUkin puolesta
+@197
+Meduusamalli\nPinnalla näkyy vain pää
+@198
+Hydramalli\nPuolittainen isku ei kaada
+@199
+Behemotmalli\nKenttää ravisteleva syke!
+@200
+Darumamalli\nKaaduttuani nousen vahvana!
+@201
+Laukaisualustamalli\nLaukaisuvalmius saavutettu!
+@202
+Merimakkaramalli\nTähtää vain
+@203
+Etanamalli\nKuoressa on 3 voimaa!
+@204
+Alraunemalli\nTervetuloa, yllätän sinut
+@205
+Jääkaappimalli\nKylmä! Mutta suojaan kyllä
+@206
+Leviathanmalli\nKaiken nielevät hyökyaallot!
+@207
+Kelakanttimalli\nMaailmanennätys tekeillä!
+@208
+Merisaukkomalli\nTämä on lempikiveni♥
+@209
+Pesukonemalli\nEtkö ole vähän likainen?
+@210
+Vesikirppumalli\nHaluaisin yhteyttää
+@211
+Karhumalli\nMissä Angela ja Chelsea ovat?
+@212
+Aavemalli\nÄlä satuta liikaa♥
+@213
+Dogumalli\nTällä kertaa tehostettu
+@214
+Loppupomomalli\nHeräjä, vahvin tuhoase
+@215
+Härkätaistelijamalli\nTule, jos luulet voittavasi!
+@216
+Mustekalamalli\nVuoren Akadaisho, kane!
+@217
+Käärmemalli\nVuoren Aodaisho, maku!
+@218
+Kukkamalli\nNopea laser, piip!!
+@219
+Ninjamalli\nKättele minua Shinobickissa
+@220
+Samuraimalli\nVanhat osat ovat jaloja!
+@221
+Koiramalli\nJoka osa reikiä täyteen!
+@222
+Paholaismalli\nViiltää lihan, katkoo luun!!
+@223
+Kunoichi-malli\nKättele minua Shinobickissa
+@224
+Komainu-malli\nPyhäkön suojelija, hau!
+@225
+Pingviinimalli\nIkävä pohjoiseen, pen pen...
+@226
+Lepakkomalli\nVaro päätä luolassa, robo
+@227
+Enkelimalli\nAlkuperäinen ilkeä... niin
+@228
+Painajaismalli\nNäytän kivoja unia, ruyo
+@229
+Spectermalli\nHä? Ei saa väistää~
+@230
+Vauvamalli\nJos itket, tulee hätä
+@231
+Kameleonttimalli\nPiiloutuminen on helppoa
+@232
+Taskurapumalli\nEri kädet, eri kyvyt
+@233
+Jänismalli\nAah! E-ei ole aikaa!
+@234
+Paholaismalli\nPaljon piruja, ohut varjo..
+@235
+Medusamalli\nPoju, käännypä ympäri♥
+@236
+Succubusmalli\nIsosisko ottaa sen♥
+@237
+Jumalatarmalli\nPalaa taas kentälle!
+@238
+Ritarimalli\nSuojelen henkeni uhalla!
+@239
+Kurpitsalyhtymalli\nHä? Ei saa varautua~
+@240
+Golemmalli\nHellä sydän, kaunis olemus
+@241
+Munamalli\nMitähän sieltä tulee?
+@242
+Lumiukkomalli\nKuumassa sulan
+@243
+Merikissamalli\nPurren lamautan
+@244
+Merenneitomalli\nOsien korjaus hallussa
+@245
+Tulikärpäsmalli\nSuojelen puhdasta vettä
+@246
+Sun Wukong -malli\nVauhtiapina, kii!
+@247
+Zhu Bajie -malli\nVarmistan jalansijan, röh!
+@248
+Sha Wujing -malli\nJaloista kiinni, ja turpaan!
+@249
+Shinsengumi-malli\nTappava terä yhdellä iskulla!
+@250
+Benkei-malli\nMinä olen tukeva, tosiaan!
+@251
+Medabotin kuvaus tähän

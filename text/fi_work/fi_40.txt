@@ -1,0 +1,868 @@
+@000
+Minä sinut pysäytin, mutta... oletko varma, Kouji?
+Jos jahtaisin Nursea nyt, voisin päästä Karinin luo.
+Mutta tämä on varmasti sen Shurin haaste.
+Minä löydän Karinin omin voimin!
+Älä unohda, että minäkin olen täällä.
+@001
+Mutta outoa. Tauko loppui jo aikaa sitten,
+mutta Arikaa ei näy missään.
+Eiköhän hän taas kuljeskele jossain tuolla?
+Niinköhän~?
+Ei tarvitse huolehtia!
+Hmmm...
+Huh, olet kyllä huolehtija.
+{BUF03}, onko seuraavaksi sinun vuorosi?
+@002
+Ei, ei vielä näytä olevan.
+Mennäänkö sitten varmuuden vuoksi etsimään häntä?
+Mennään.
+@003
+Kya!
+@004
+Hei, {BUF03}, mikä tuo oli?
+Roborobo-jengi! Ja ne näyttävät
+kidnapanneen Karinin Nursen!
+Hitto! Minä etsin oikealta, sinä etsi vasemmalta!
+Selvä.
+@005
+Aikaa ei ole paljon, joten pitää etsiä nopeasti.
+@006
+Siistit jutut ei kelpaa, robo! Sotketaan kaikki, robo!
+Ai, tuo ääni!
+...Ei tarvitse edes miettiä.
+@007
+Nursen kidnapannut Roborobo-jengi on
+varmasti vielä koulussa!
+@008
+Nursen kidnappaajat on saatava kiinni!
+Kouji meni oikealle, joten minä tutkin vasemmat luokat.
+@009
+Kouji on ehkä löytänyt jotain.
+Mennään oikealle puolelle.
+@010
+Siistit kirjarivit ei kelpaa, robo!
+Sotketaan ne, robooo!
+Mitä sinä teet täällä?
+@011
+M-mistä sinä ilmestyit, robo?
+Sama se, missä Nurse on!
+Hmph, vaikka tietäisin, en kertoisi, robo!!
+@012
+No, missä Nurse on!
+Hmph! En kerro sinunlaisellesi, robo.
+Ota tästä, robo!
+@013
+Köh köh... Uuh, savu kirvelee silmiä.
+@014
+Hitto, pakoon ne ovat kyllä uskomattoman nopeita!
+@015
+Muuten, miten Koujilla meni?
+Mennään oikealle puolelle.
+@016
+Mikähän? Tämä ovi on jumissa eikä aukea kunnolla.
+@017
+Kun oven väliin laittaa liitupyyhkeen, seuraavan
+sisään tulijan pää
+pölyttyy valkoiseksi liidusta, robo♥
+Lopeta kepposet!
+@018
+Jos minulle huudetaan yhtäkkiä, säikähdän, robo!
+...Mutta sinähän olet se äskeinen...
+Sama se! Missä Nurse on!
+En tietenkään kerro, robo.
+@019
+H-huono homma, robo! Pakoon, robo!
+Ai, odota!
+@020
+Robooo! Liidun peitossa, robo!
+Hitto, liitupöly estää jahtaamasta.
+@022
+Roboooo!!!!!
+Uwaaaa!!!!!
+@023
+M-mitä? Mitä se oli?
+@024
+{BUF03}! Tuliko tästä äsken
+Roborobo-tyyppiä?!
+Häh? A, joo~ se juoksi vasemmalle.
+@025
+Hitto! Vaikka kuinka jahtaa, tästä ei tule loppua!
+{BUF03}, Kouji
+Tuo ääni?
+@026
+Retort Lady!
+Jahtaatte Roborobo-jengiä, eikö? Autan minäkin.
+Ajetaan ne koulun sisäänkäynnille ja väijytään siellä.
+Okei, minä ajan Roborobot sinne!
+@027
+{BUF03} ja minä olemme väijyjiä.
+Mennään, {BUF03}!
+@034
+Pitää kiirehtiä koulun sisäänkäynnille!
+@035
+Retort Lady!
+Tulit. Piiloudutaan heti ja odotetaan,
+että Kouji ajaa ne.
+@036
+Seis siinä, senkin!!
+@037
+Ne tulevat!
+@038
+Se meni sinne!!
+@039
+Ei tänne, robo! Pakoon alas, robo!!
+@040
+Harmi vain, täälläkin on umpikuja♥
+@041
+Antaudu, Roborobo-jengi!
+Nyt saat!
+@042
+Hävisimme, robo...
+No, vien nämä paikkaan, josta
+Select-joukot löytävät ne♥
+@043
+Kas niin, kävele nopeammin!
+@044
+No, {BUF03}, onnea finaaliin.
+Moikka, bai bai!
+@045
+Ihana...
+Ei nyt ole sen aika! Nurse, oletko kunnossa?
+Kyllä, kiitos paljon. Minun vuokseni...
+{BUF03}, paljonko kello on?
+@046
+Voi ei!
+Nurse, sinullakin on vuoro seuraavaksi, eikö?
+A, kyllä.
+{BUF03}, jätä Arikan etsiminen minulle
+ja mene nopeasti Nursen kanssa!
+Selvä.
+@047
+...Mennään, Nurse.
+Kyllä.
+@048
+{BUF03}, jos emme kiirehdi, emme ehdi.
+@049
+Menkää nopeasti sisään, tai kilpailu alkaa!
+Mennään, {BUF03}.
+@050
+{BUF03}!
+@051
+Pärjäätkö nykyisellä Medabotilla?
+@052
+Hmm, mietinkö vielä vähän?
+@053
+Joo, ihan kunnossa!
+Vai niin, onnea. En pääse katsomaan, mutta kannustan.
+Kiitos, Kouji.
+@054
+Tämä...! Niin se siis on.
+Raportoin professorille.
+Ei se käy.
+@055
+En päästä sinua karkuun, hiiri. Sinä olet se, joka
+nuuski asioitamme salaa. Ja... yksi lisää.
+Saanko nähdä todellisen henkilöllisyytesi?
+@056
+Näiltä Medaboteilta on poistettu "rajoitin".
+Rajoitin...!! Nämä Medabotit siis sittenkin!!
+Niin. Mutta ne eivät riehu kuten ennen.
+Rajoittimen poistolla mitalin voiman vapauttaneille
+Medaboteille lähetetään "resonanssiaaltoja",
+jotka luovat käskyille uskollisia Medabotteja: tämä on
+"Resonanssijärjestelmä"... niin hän sanoi.
+"Resonanssijärjestelmä"... Se vapauttaa mitalin voiman
+ja toisaalta hallitsee tunteita, jotta syntyy
+käskyille uskollisia sotilaita? Sellainen järjestelmä!!
+Hän sai sen valmiiksi.
+...Tosin resonanssiaaltojen takia ne eivät
+enää ole aina Medavoima Max -tilassa kuten ennen.
+Mutta taistelukyky on varmasti noussut.
+@057
+Ugh!
+Pakeneminen on turhaa. Resonanssijärjestelmä
+tukahduttaa "Medabotin 3 lakia" äärimmilleen.
+Ne ovat nyt ihmisen termein hypnoosissa.
+Käskystä ne voivat jopa vahingoittaa ihmisiä.
+Onko teidän tavoitteenne poistaa "Medabotin 3 lakia"
+ja luoda käskyille uskollisia
+Medabottisotilaita!?
+Olet vain kysellyt koko ajan. Ole jo vähän hiljaa?
+@058
+Hyökätkää! Paljastakaa naamion alla olevat kasvot!
+@059
+Ugh, naamio...!
+Te, perääntykää.
+@060
+Hehe, kaunis naamio...
+@061
+Naamion alla kauniit kasvot.
+Juuri näin pitää olla.
+@062
+Kuuh...!
+Nöyryytyksestä hehkuvat kasvosikin ovat ihanat.
+Myöhemmin kuulustelen sinua rauhassa siitä,
+kuinka paljon tietoa olette saaneet selville, hehehe...
+@063
+Vihdoin missikisan finaali!
+Osallistujat, nouskaa lavalle!
+@064
+Ehdinköhän jotenkin?
+@065
+Nursen omistajakin odottaa lavan alla.
+Kiirehditään!
+Kyllä.
+@066
+Ki-no-koooo!
+@067
+Täällääää♥
+@068
+(K-Kinokostakin on tullut idoli...!)
+No niin, osallistujat, olkaa hyvät valkokankaalle!
+@069
+Hehe, liian helppoa, {BUF03}.
+Hävisin!
+...Eli Screws vie Medakelloni!
+@070
+Voittaja on...
+@071
+Tenryou {BUF03}!!
+@072
+{BUF03}~ katso tänne~♥
+Ei voi olla, että Kinoko hävisi~
+@073
+Voi että! Tuomarit pitävät rajojen
+rikkomisesta, joten söpö Medabotti ei voi voittaa!
+@074
+{BUF03}, kerro tuntemuksesi.
+Olen liikuttunuuut~
+@075
+En ihan ymmärtänyt, mutta olet siis iloinen.
+Voittajalle {BUF03}:lle
+missikisan järjestäjä Shuri suorittaa loppuarvioinnin.
+Opastan sinut nyt Shurin luo.
+Antakaa kaikki raikuvat aplodit!
+@076
+Shu...
+@077
+.......(Millä ilmeellä minä nyt
+häntä kohtaisin?)
+@078
+Tämä on missikisan järjestäjän Shurin huone.
+@079
+Mitä nyt, etkö mene sisään?
+@080
+Neiti Shuri odottaa sisällä.
+@081
+Neiti Shuri näyttää menneen alas kellarin portaita.
+@082
+Neiti Shuri odottaa sisällä. Menkää vasemmasta ovesta.
+@083
+Sisällä taisi olla kova meteli. Oliko se sinun tekosiasi?
+@084
+Minne olette menossa? Menkää pian huoneeseen.
+@085
+Minne olette menossa? Menkää kiireesti huoneeseen.
+@086
+Shuri, toin hänet♥
+Kiitos, olit avuksi. Ensi missikisassakin?
+Jätä se minulle!
+@087
+Sinäkö voitit... kauneimman Medabotin omistaja?
+(Tämä tyttö on yksi neljästä kuninkaasta, "Suzaku Shuri".)
+Haluan kysyä sinulta jotain.
+@088
+Röyhkeä! Puhua noin neiti Shurille!
+Hehe, ei se haittaa.
+@089
+Kysymykset saavat odottaa,
+kunnes arviointini on valmis.
+@090
+Kauneuteen kuuluu myös vahvuus.
+Otellaanpa.
+@091
+Odotettua, hehehe.
+Haluaisin kysyä...
+@092
+Voi, unohdin
+voittopalkinnon ihan kokonaan.
+@093
+Tuokaa se tänne.
+@094
+Oikeastaan olin valmistellut jotain muuta...
+Mitä jos voittopalkinto olisikin tämä hattu?
+@095
+Tuo on... Retortin hattu!! Mistä sait sen!!
+......
+Ahahahahahaa!
+@096
+Hyp!
+@097
+Valitan, mutta sen hatun vie
+mestarivaras Retort Lady!
+Olet se toinen hiiri. Ovatko sinunkin
+kasvosi kauniit?
+Harmi vain, ne ovat liian kauniit näytettäviksi!
+Kerrot, missä Retort on!
+Ai! Ja missä Karin ja Arika ovat!
+Hehe, valitan, mutta nyt minulla ei ole
+aikaa teille.
+@098
+Seis siinä!!
+@100
+Ohhoh.
+@101
+Jos haluat neiti Shurin perään, voita meidät.
+@102
+Kya!!
+@103
+Pitää kiirehtiä Retort Ladyn ja Shurin perään!
+@104
+Ugh! Neiti Shuri, olen pahoillani...
+@105
+Hmph! Sinulla ei ole oikeutta estää
+Shurin kunnianhimoa!
+@106
+Häh? Onko tämä ovi lukossa?
+@107
+Ei auta, jahdataan Shuria toisen oven kautta.
+@108
+Seis siinääää!
+@109
+Miksi tuo outo nainen jahtaa neiti Shuria?
+@110
+Onko tämä meteli sinun tekosiasi!?
+Häh! Tuota! E-ei ole!
+@111
+Nyt on tärkeintä jahdata Shuria!
+@112
+Häh, tämä hissi on lukossa eikä aukea.
+@113
+Retort Ladyyyy...
+@114
+Mikä tuo ääni oli!?
+@115
+Voi ei! Henkivartijat tulevat! Johonkin piiloon...
+@116
+Sinä! Miten pääsit tänne!
+Häh... ei, tuota
+Tunkeilija! Valmistaudu!
+@117
+Ei voi olla... enkö yksin pärjää tälle?
+Tässä tilanteessa on pakko kutsua yläkerran väki!
+@118
+Jos jään tänne, minut löydetään taas!
+@119
+Medabotteja on laitettu nukkumaan.
+Tuleeko näistä kenties
+Medabotteja ilman "Medabotin 3 lakia"?
+@120
+Näidenkin Medabottien vuoksi Shurille pitää tehdä jotain!
+@121
+Medabotteja on laitettu nukkumaan.
+Ovatko kaikki Shurin Medabotteja?
+@122
+Toranishi-akatemiassakin oli tällainen paikka.
+Hups, pitää jahdata Retort Ladya ja Shuria.
+Täällä heitä ei ole.
+@123
+Ovi on, mutta tältä puolelta se ei aukea. Yksisuuntainen siis.
+@124
+U... uuh...
+@125
+Kyllä täältä kuuluu jokin ääni!
+@126
+Retort Lady, minne menitte!?
+U... uuh...
+@127
+Kuulinko juuri jotain?
+@128
+Retort!! O-oletko kunnossa!?
+U... ugh... {BUF03}, sinäkö...
+Retort, naamio... Se hattukin
+oli siis sinun...
+Joo... olipa kurja kokemus.
+Nämä haavat...
+Medabotit... kohtelivat minua kovakouraisesti.
+Medabotitko!? Ei voi olla!
+Hehehe
+@129
+Missä!?
+Tämä on minun linnani. Linnaani tunkeutuneet
+hiiret ovat loukussa.
+Ette pääse enää ulos. Se on kohtalo.
+@130
+Karin on minun. En anna häntä kenellekään...
+Älä puhu omiasi...
+Te! Napatkaa tuo poika. Keinolla millä tahansa,
+mutta kasvoja älkää vahingoittako.
+@131
+Näillä Medaboteilla ei ole "Medabotin 3 lakia"...?
+Näillä Medaboteilla ei ole tahtoa eikä tunteita.
+Niitä ohjaillaan unitilassa.
+Ei voi olla... Tuo on julmaa! Eikö "Medabotin 3 lain"
+poistamisen pitänyt olla Medabottien hyväksi!!
+{BUF03}...?
+Siitä en tiedä mitään. Niitä, jotka yrittävät
+viedä Karinin minulta, ja niitä, jotka ovat tielläni,
+en anna anteeksi... siinä kaikki.
+{BUF03}!
+@132
+...Auts.
+@133
+Hikaru, pysy taaempana! Minä hoidan nämä Medabotit!
+@134
+Medabotti, siirto!!
+@135
+Hehe... turhaa! Sotilaita riittää loputtomasti.
+@136
+...Medakello.
+@137
+Häh?
+Medabottien yhtenäinen liike... Näille Medaboteille
+syötetään käskyjä jollain erityisellä Medakellolla
+tai vastaavalla erityisellä koneella.
+Etsi Shuri ja pakota hänet pysäyttämään Medabotit!
+Sitten näiden Medabottien saa heräämään!
+@138
+Kuuh, mutta tässä tilanteessa...
+Minä hoidan tämän!
+M-mutta tuossa kunnossa...!
+En ole turhaan mestarivaras. Aikaa voitan kyllä.
+Mutta...
+@139#kabuto
+Muuta keinoa ei ole! Arc Dash, siirto!
+@139#kuwagata
+Muuta keinoa ei ole! Tyrrell Beetle, siirto!
+@140
+Pidätä ne!
+@141#kabuto
+Selvä, mestari!
+@141#kuwagata
+Selvä, mestari!
+@142
+No niin, mene!
+K-kyllä!
+@143
+Hehe, olet tyhmä. Mitä yksin voit tehdä?
+Jos luovuttaa, kaikki loppuu siihen!
+Ahahahahahaa!
+@144
+...Hyp!
+@145
+Lyhyesti: kaunotar medabottaaja,
+mestarivaras Retort Lady saapuu paikalle!
+@146
+Lady, olet kunnossa!
+@147
+Älä vertaa minua itseesi! Olet kyllä surkean näköinen.
+...Tässä, varanaamio!
+K-kiitos.
+@148
+Ilman tätä naamiota ei tosiaan ole rauhallinen olo.
+Hehe, turhaa vaivaa. Kaikki te
+ette kuitenkaan pääse ulos...
+Kas, niinköhän♥
+@149
+Mennään, Retort!
+@150
+Voi että, minne ihmeeseen Arika on mennyt?
+@151
+Mitä? Maanjäristys?
+@152
+M-m-mitä...!? Mitä, mitä on tapahtumassa?
+Ooooo!!!!!!
+@153
+Kouji!
+Arika! Mitä tämä on?
+Libertiesin jäsenet nousivat toimintaan!
+Loputkin jäsenet tulevat pian apuun!
+Mitä! En jää toimettomaksi!
+Autan Libertiesiä!
+@154
+Ooooooo!!!!
+@155
+Muutkin jäsenet saapuivat.
+Liityn Koujin seuraan!
+@156
+Shuri pitää löytää nopeasti, tai Retort...!!
+@157
+Ei ole aikaa palata ylös. Shurin pitäisi olla tuolla edessä!
+@158
+Jos palaan, olen vain Retortin riippakivenä.
+Etsin nopeasti Shurin ja pakotan hänet pysäyttämään Medabotit!
+@159
+Retort ei voi hävitä noin helposti.
+Luotan Retortiin ja jahtaan Shuria!
+@160
+Häh?
+Kolin kolin kolin...
+Näyttää olevan lukossa.
+@161
+Tunkeilija poistetaan.
+@162
+Gg... Gagaga...
+@163
+Pääosan toiminta pysähtyi...
+@167
+Tästä et pääse ohi!
+@168
+G...gg...gaaaa!!
+@171
+G...
+@172
+...Gaga...ga
+@173
+Pääosan toiminta pysähtyi. Pääosan toiminta pysähtyi.
+Riittää jo! En halua taistella ohjailtuja
+Medabotteja vastaan! Robottelu ilman suostumusta
+ei ole robottelua! Pitää löytää nopeasti Shuri
+ja lopettaa tämä taistelu!
+@174
+Ei, tämä ei ole robottelua.
+@175
+Ovi on lukossa! Voi ei, vaikka on kiire!
+Pulassa, {BUF03}? Kelpaisiko Kinokon apu?
+@176
+Kinoko!!
+Tämä! Hissin avain. Ilman tätä ei pääse
+Shurin luo. Nappasin sen
+Shurin henkivartijoilta.
+@177
+Kas niin, valmista!
+Kinoko, kuka sinä oikein...?
+Olen alun perin tämän koulun
+oppilas. Neljän kuninkaan ilmestymisen takia jouduin
+kiertämään eri paikoissa keräämässä tovereita.
+Vai niin...
+No, minä opastan. Shuri on varmasti
+siinä huoneessa.
+Häh...?
+Seuraa minua!
+@178
+Kinoko, tunnetko sinä kenties "Suzaku Shurin"?
+@179
+Hups, kiirehditään!
+@180#kabuto
+Mene, Exise!
+@180#kuwagata
+Mene, Unitris!
+@181
+Ugh, nämä ovat vahvoja!
+@182
+Kouji! {BUF03} kuulemma jahtasi
+Shuria kellariin!
+Selvä, menen heti kellariin!
+@183
+Kouji, takanasi!!
+Mitä!?
+@184
+Guwaaa!!
+@185
+Liberties Revenger Vulcan!
+@186
+Kouji! Oletko kunnossa?
+Hitto! {BUF03}:n luo...
+@187
+{BUF03}, pidä kiirettä! Ne tulevat sisään!
+@188
+Mitä sinä teet, {BUF03}! Paina nopeasti hissin nappia!
+@189
+Hissin nappi on ylhäällä seinän vasemmassa reunassa!
+@190
+Kerrokset... tuota, tämä on
+kellari 1, ja muuten on vain 2. kerros... klik.
+@191
+Vau! Tämäpä heiluu~
+@192
+Shuri... ratkaistaan tämä nyt.
+@193
+Seurataan Kinokoa!
+@194
+Ei ole aikaa palata alas. Seurataan
+heti Kinokoa!
+@195
+Menenkö 2. kerrokseen?
+@196
+Klik.
+@197
+Eipäs sittenkään.
+@198
+Palaanko kellariin 1?
+@201
+Pitkästä aikaa, Shuri.
+@202
+Hehe, älä unohda, että tämä on minun linnani.
+En tiedä, montako teitä on, mutta olette kokoon haalittu joukko.
+Ette pärjää sotilailleni, jotka tottelevat
+jokaista käskyä tarkasti. Tämä ei mene kuin lännen kuninkaalla.
+(N-niin! Shuri on saatava pysäyttämään Medabotit!)
+@203
+Kinoko, minäkin taistelen!
+Älkää unohtako minua!
+@204
+Kouji!
+@205
+Oletko kunnossa, Kouji? Etkö sinä ole loukkaantunut!?
+Tämä ei ole mikään vamma!
+En siedä tyyppiä, joka pitää Medabotteja
+työkaluina! En säästele!
+Niin! Entä Arika?
+Kunnossa. Nyt hän varmaan riehuu pirteänä
+paikalle rynnänneiden Libertiesin jäsenten kanssa.
+Vai niin, hyvä.
+@206
+Hehehe, hehehehe
+@207
+Ette tunne paikkaanne. Hyvä on, otan poikkeuksellisesti
+teidät kaikki kolme vastaan. Kauniiden saaliiden piinaaminen
+omin käsin tuntuu varmasti ihanalta.
+Pahansuopa tyyppi.
+Sinähän sanoit, että "todella kaunis on
+vahva". Todistetaanpa sitten, kumpi
+on oikeasti kaunis.
+Minä voitan sinut ja vapautan Medabotit!
+Maistakaa vapautettujen Medabottien todellista voimaa.
+"Rajoittimesta"!?
+No niin, eteenpäin, te!
+@208
+Hehe, mitäs nyt? Nyt ymmärsit, vai?
+..........
+No niin! Pysäytä Medabottisotilaat nopeasti!
+Ja Karin myös takaisin!!
+Hehehe
+Mikä naurattaa!
+@209
+...Näyttää siltä, että minä voitin, Kinoko.
+Etkö myöntäisi tappiosi kiltisti?
+Liberties hävisi!?
+E-ei kai Retort... ja Arikakin!!
+.......
+Mitä teet? Teillä ei ole voiton mahdollisuutta.
+Eikö olisi parempi antautua kiltisti,
+niin ei satu?
+...Hmph, ennemmin kuin antaudun sinulle,
+kaadun mieluummin komeasti.
+......
+@210
+(Mikähän näiden kahden välillä on...?)
+Mitä teemme, {BUF03}?
+Mitä tässä nyt voi...
+@211
+Ottakaa heidät kaikki kiinni.
+Kyllä, ymmärretty.
+@212
+Hei, odottakaa h...!!
+@213
+Ugh! Jos otamme vastaan kaikki nämä, Shuri
+pääsee karkuun! .........
+(Ei auta.)
+Uooooo!!!!
+@214
+Kouji?
+Mene, {BUF03}! Mene ja pakota Shuri
+pysäyttämään nämä Medabotit!!
+Mutta...
+@215
+Kouji, eikö? Minäkin autan.
+Olen sentään Libertiesin johtaja. En ole riippakivi.
+Heh, sen näkee vasta kokeilemalla!
+Kehtaatpas.
+Kinokokin...
+@216
+Olisin halunnut ratkaista asian Shurin kanssa, mutta
+annan roolin poikkeuksellisesti sinulle. Jätä tämä meille
+ja mene edeltä, {BUF03}!
+Shuri on sinun vastuullasi!
+O... s-selvä!
+@217
+Odota, Shuriii!
+Hmph, sitkeä poika.
+@218
+Menikö hän hissillä kellariin?
+@219
+Shurin perään heti!
+@220
+Mitä teet, mene jo Shurin perään!
+@221
+Kouji ja Kinoko yrittävät parhaansa minun vuokseni.
+En voi tuhlata sekuntiakaan, heti Shurin perään!
+@223
+Alas... alas menevä nappi...
+@224
+Pääsisipä jo alas.
+@225
+Shuri pitää nopeasti saada pysäyttämään Medabotit!
+@226
+Yläkerrassa on varmasti vielä Libertiesin jäseniä.
+Shuri on varmasti vielä kellarissa.
+@227
+Lukossa ollut ovi on auki. Onko Shuri tuolla?
+@228
+Shuri!! Karin ja Medabotit...
+@229
+Mikä tämä huone on?
+@230
+Paljon isoja koneita... Miksi ala-asteen
+alla on tällaista?
+Tulit siis.
+@231
+Shuri!
+@232
+Asiasi on pysäyttää Medabotit ja
+saada Karin takaisin? Haluat viedä ne minulta, siksi tulit...
+...uhraten muut.
+M-mitä...!
+Eikö? Tänne pääsit
+vain sinä yksin.
+...Eli jätit muut jälkeesi.
+......!
+Kas, harmittaako? Koska et voi vastata?
+Hehehe, hehehehe
+Ahahahahaa!
+Älä naura!! Kaikki päästivät minut
+edeltä tosissaan! Shuri, ottele kanssani!!
+Karinia en anna! Tielläni olevia...
+sinua en armahda!
+@233
+U... ugh!
+@234
+Mitä sinä teet!?
+Karinia en anna! Ennemmin kuin annan Karinin,
+laitan sotilaat riehumaan täysin
+ja tuhoan kaiken!
+Enpä anna sinun tehdä sitä! Lopeta!
+@235
+Päästä irti!
+En... päästä!!
+@236
+Lopettakaa jo!!
+@237
+Karin...
+Karin...
+Shuri, en jäänyt tänne, jotta tekisit
+tuollaista! Sinä näytit niin
+yksinäiseltä, joten halusin
+olla avuksi...
+Karin...
+Shuri, vapauta Medabotit.
+Äläkä satuta minulle rakkaita ihmisiä.
+Muuten minä... minä alan
+inhota sinua!
+.......
+@238
+Minäkin pyydän, Shuri. Medabotit eivät ole työkaluja.
+Älä kiusaa niitä enää.
+Eikä ystäviä pidetä väkisin sidottuina.
+Ymmärrän, ettet halua päästää Karinista irti,
+mutta se ei käy!
+.......
+@239
+...Ne pysähtyivät. Riittääkö tämä?
+@240
+Shuri...
+Aina se menee näin. Aina, aina sitä, mitä
+oikeasti haluan, en saa. Lopulta käy aina näin.
+Se on varmasti minun kohtaloni.
+Halusitko sinä "maailman kauneimman asian"?
+@241
+Fuyuun-kivi... Niin muuten, Surume sanoi, että jos
+löytää Fuyuun-kiven, saa sinulta paljon palkkiota!
+@242
+"Maailman kaunein kivi"... Jos se olisi minulla, minä...
+("Maailman kaunein kivi"... muistaakseni
+professorikin sanoi jotain sellaista.)
+@243
+{BUF03}!
+{BUF03}, oletko kunnossa!?
+Kouji! Arika! ...Onneksi!
+Medabotit lakkasivat yhtäkkiä liikkumasta.
+@244
+Karin!!
+@245
+Olet kunnossa, Karin. Sait meidät huolestumaan!
+Anteeksi, Kouji.
+Oletko loukkaantunut?
+En, olen kunnossa. Anteeksi todella, että huolestutin.
+Voi sinua.
+...Mutta olen tosi helpottunut. Isäsikin
+pitää saada pian tapaamaan sinua.
+Hehe.
+@246
+Niin! Entä Kinoko? Ja Retort
+ja Retort Lady?
+@247
+Kunnossa. He hoitavat Medabottien kaatamia
+jäseniä. ...Tosin Retort on itse hoidettavana.
+Vai niin, nyt voi vähän huokaista.
+@248
+Mutta sitä en anna anteeksi, että suljit Karinin ja ohjailit
+Medabotteja tuolla tavalla! Valmistaudu!
+@249
+Lopeta, Kouji! Älä syytä Shuria!
+@250
+Tämä on periaatekysymys! Omista teoistaan
+täytyy kantaa vastuu!
+.......
+@251
+Shuri!!
+@252
+Professori Akagane!
+Häh, professori!?
+@253
+Setä, miksi sinä olet täällä!?
+@254
+Tunnetteko hänet?
+@255
+Is...ä...?
+@256
+"Isä"!?
+Ei voi olla!
+Mitä!?
+@257
+Shuri, tulin kotiin...
+Isä!!
+@258
+Isä, isä!!
+Shuri... anteeksi. En saanut
+tuotua Fuyuun-kiveä. Lupasin antaa
+sinulle "maailman kauneimman kiven"...
+Ei! Ei se ole sitä, isä! Shuri... Shuri vain
+halusi, että olisit aina vierelläni!
+Mitä oikeasti halusin, ei ollut kivi!
+Shuri...
+Ajattelin, että jos löydän sen kiven...
+jos löydän "maailman kauneimman asian",
+isä tulee takaisin!
+Shuri... sinun hymysi on minulle "maailman
+kaunein asia". Olin väärässä.
+Olen todella pahoillani, Shuri...
+Isä, älä enää lähde minnekään! Pysy aina vierelläni!
+@259
+Tuota, eli... sinulla oli siis yksinäistä?
+@260
+Hmph! Ei silti tarvitse aiheuttaa tällaista hälinää!
+Uh... minäkin vähän liikutuin.
+Shuri...
+@261
+Olen pahoillani, lapset. Sotkin teidät tähän täysin...
+@262
+Todellakin! Mikä vaiva!
+@263
+Kouji!
+Voi että! Ryhdistäydy, isä!
+Tuota, en tiedä mitä
+sanoisin... Mitä nyt teette, professori?
+@264
+Tutkimukseni jäi kesken. Lähden Japanista
+joksikin aikaa. Täkäläiset rauniot kiinnostavat
+myös, joten palaan varmasti pian.
+@265
+...Shuri, lähdetään yhdessä.
+@266
+Kyllä! Isä.
+@267
+Niin muuten, Shuri! En ole vielä kuullut sinulta
+sanaa "anteeksi"! Aiheutit näin paljon harmia,
+joten pyydä kaikilta anteeksi ennen kuin lähdet!

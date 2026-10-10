@@ -1,0 +1,879 @@
+@000
+Iso vai pieni laatikko? Valitse kumpi haluat, piip.
+"Iso" ja "pieni"... Nehän ovat samankokoisia...
+@001
+Valitse hiljaa, piip!!
+K-kyllä!
+Tuota, no sitten
+@002
+Iso laatikko
+Pieni laatikko
+@003
+Otan ison.
+Selvä, piip.
+@004
+Otan pienen.
+Selvä, piip.
+@005
+Medabird on päättynyt, piip.
+Kiitos kaikille, piip!
+@006
+Tuota... mikä tämä on?
+Sen sisällä on voittopalkinto, piip.
+Miten tämän sitten saa auki?
+Avain on Karasawagi-hotellin Takasulla, piip.
+@007
+...Eli pitää mennä hakemaan?
+@008
+Tosi epäilyttävää.
+Sen Takasu-naisen olemme
+va-r-mas-ti nähneet jossain!
+Vaikka se olisi ansa, mennään. En usko, ettei tällä
+paikalla olisi mitään tekemistä neljän kuninkaan kanssa.
+@009
+Niin että sellainen juttu, {BUF15}...
+Älä minusta välitä, {BUF03}.
+Ehdin tunnustaa Hummingille, kun sinun
+asiasi on hoidettu.
+Kiitos, {BUF15}. Hoidan asian nopeasti!
+@010
+No niin! Palataan hotellille!
+@011
+Kuumaa! Kuumaa, Karasawagi! No niin, robotellaan!!
+@012
+Onpa äkkiä.
+@013
+Älä eksy! Juuri sinun kulkusuunnassasi on tie!
+@014
+"Söpöjen poikien etsintä" saa odottaa ensi vuoteen.
+No niin, töihin, töihin!
+@015
+Ai, odota, mestari!
+@016
+Mekin treenaamme ensi vuoden Medabirdiä varten!
+@017
+Tavoitellaan voittoa, mestari!
+@018
+Sataisipa joskus vettäkin...
+@019
+Sinähän voitit tämän vuoden
+Medabirdin. Onnea jatkoon♥
+@020
+Hei! Mitä tämä tarkoittaa!
+Neiti Rumi ei kutsunut teitä. Vain yksi...
+Älä pelleile! ...Senkin!
+Ei kannata vastustaa. Nämä Medabotit
+ovat niitä ohjailtuja. Minä pärjään kyllä,
+odottakaa te kaksi.
+@021
+Mutta!
+Se on varmasti ansa! En anna sinun mennä yksin!
+Luota minuun, pärjään kyllä.
+.....
+Heh, ei voi mitään. Mutta jos tulee vaarallista,
+huuda meidät heti.
+Joo, ymmärrän.
+@022
+{BUF03}...
+@023
+Nyt ei taida olla muuta vaihtoehtoa kuin jatkaa.
+@024
+Tämä on neiti Rumin huone.
+@025
+Neiti Rumi on yläkerrassa.
+Ne eivät tunnu eläviltä. Kuin ne osaisivat vain tämän.
+@026
+Asiattomat poistukoot.
+@027
+Jos sinulla ei ole asiaa, poistu heti.
+Nämä eivät ole Medabotteja vaan pelkkiä robotteja.
+@028
+Tulitte siis.
+Tulin hakemaan avainta tämän laatikon avaamiseen.
+@029
+Aiotte siis Jakunanin kaupunkiin.
+Niin, entä sitten?
+@030
+(Olen varmasti nähnyt hänet jossain,
+vieläpä äskettäin...)
+Neiti Shuri on suurenmoinen. Hän ei ole
+tavallinen lapsi, ei... Hän on valittu lapsi.
+Mitä sinä...?
+Neiti Shuri on kehittynyt medabottaaja.
+Hänestä on tuleva seuraavan aikakauden hallitsija.
+@031
+Suoraan sanottuna sinä et yllä edes neiti Shurin
+kantapäille! Sinä, joka olet neiti Shurin tiellä!
+En päästä sinua täältä elävänä!
+@032
+Mitä, Medabotti!?
+@033
+Mitä täällä oikein tapahtuu?
+Uuh, nenäkäs kakara! Vartijat, tulkaa esiin!
+@034
+Tiedät varmaan, että nuo Medabotit
+tottelevat vain minun käskyjäni.
+Sinä! Kuka sinä oikein olet!
+Etkö vieläkään tajua?
+@035
+Ohohohoo! Minä olen Roborobo-jengin pomo,
+kukkanen Surume!
+Arvasinhan! Sen naurun ja puhetavan
+kuulin ennenkin!
+Ohhohhoo! Jos olisin saanut "maailman kauneimman asian",
+maailma olisi ollut neiti Shurin! Sinä sotkit sen!
+En päästä sinua helpolla!
+Mistä asti sinä olet ollut neljän kuninkaan palvelija!
+Voin elää täällä ihanaa elämää
+neiti Shurin ansiosta! Täällä minä
+kiskon turisteilta rahaa minkä ehdin!
+Maailman kaunein asia on jalokivi, ja toiseksi kaunein
+raha! Rahan loistetta ei kukaan voi vastustaa!
+Eli keitaan alla olleet Medabotit perivät
+kalliita tiemaksuja ja estivät pääsyn Jakunaniin
+ilman kulkulupaa, ja se oli sinun tekosiasi!
+Ohohoo, mitä aiot, vaikka tiedätkin?
+Tässä tilanteessa!
+@036
+...Hitto.
+@037
+{BUF03}!
+Täällä ollaan!
+Arika! Kouji! Käskin teidän odottaa!
+Hmph! Pelkkä odottelu ei sovi minulle!
+Meille on turha käskeä odottamaan, {BUF03}.
+...No, sekin on totta!
+Kiiiiiiih!! Hyödyttömät vartijat!
+@038
+Tässä tilanteessa hoitelen teidät kaikki kolme kerralla!
+Enpä usko! Medabotti, siirto!
+@039
+Mitä nyt? Joko loppui!?
+Vaikka kuinka monesti häviät, et opi!
+@040
+Kuuuh...
+@041
+Vartijat, hoidelkaa heidät!
+@042
+Huh, vihdoin hoidettu.
+@043
+Ai! Surume on poissa!
+Pääsi karkuun...
+@044
+Hm? Mikähän tämä on?
+@045
+Näyttää avaimelta.
+Onko se tämän laatikon avain?
+@046
+Kansi aukesi!
+@047
+Hmm, voittopalkinto oli sentään sisällä.
+No, lähdetään nopeasti.
+Joo, mutta vasta kun {BUF15}:n
+asia on hoidettu.
+@048
+{BUF15}, anteeksi odotus. Minne pitää mennä?
+Hummingin lempipaikka on järven edessä.
+Selvä, mennään.
+@049
+H-Humming... katsoitko, miten minulla meni?
+Katsoin.
+T-tuota, jos minä voitan, niin H-Hummingille, tuota...
+@050
+Hihi♥
+H-Humming?
+Näin, miten yritit kovasti Hummingin vuoksi.
+Ja miten keräsit rohkeutta. Näin kaiken.
+@051
+Humming...
+(No niin, {BUF15}, sano se.)
+(En päästä kuvaustilaisuutta käsistäni!)
+(...Taidamme olla aikamoisia uteliaita.)
+Humming, minä, minä...
+M-minä tykkään sinusta!
+(Hän sanoi sen!)
+(Minäkin haluaisin, että minulle sanotaan noin♥)
+(Heh, nuoruutta.)
+@052
+Humming on myös
+ajatellut sinua, {BUF15}.
+...Et ikinä petä minua?
+Tietenkään! Tykkään vain sinusta, Humming!
+{BUF15}...
+Humming...
+@053
+(Kuvaustilaisuus!)
+@054
+(...Noloa.)
+(...Mitä minä oikein teen.)
+@055
+Onneksi olkoon, {BUF15}!
+@056
+{BUF03}! Katsoitko sinä!?
+No, vähän.
+Alusta loppuun, tarkkaan!
+Sori.
+N-no niin, ole onnellinen, {BUF15}.
+Pitäkää hyvää huolta toisistanne.
+@057
+Ai! Hei, {BUF03}!
+@058
+Annetaan hänen olla.
+Hyvästit {BUF15}:lle ovat vaikeat.
+{BUF03}...
+@059
+No, heippa. Voi hyvin.
+Meidän täytyy lähteä.
+@060
+Onko tämä varmasti hyvä näin, {BUF15}?
+...........
+@061
+Lähdetään, {BUF03}.
+Mennään!
+Joo, niin...
+@062
+Piristy nyt! Mehän olemme täällä, eikö?
+J-joo, totta. Anteeksi.
+@063
+Odottakaaa!
+@064
+{BUF15}??
+...ja Humming!
+Me kaksi juttelimme keskenämme...
+Ottakaa meidätkin mukaan!
+...Häh?
+@065
+{BUF03} rupesi minun, mestarinsa hylkäämän,
+mestariksi. Haluan aina
+olla {BUF03}:n kanssa!
+Humming myös!
+{BUF15}, Humming...
+Ugh...
+@066
+Hienoa, {BUF03}.
+{BUF03}!
+@067
+Itketkö sinä?
+Mitä! Enhän itke!
+Epäilyttäväääh~
+@068
+Mennään yhdessä!
+...Eikö?
+J-joo!
+No, hienoa, hienoa.
+Nyt voidaan huoletta jatkaa eteenpäin.
+Okei! Kohteena Jakunanin kaupunki! Mennään!
+@069
+Joo!
+@070
+Mutta ensin pitää käydä kotona.
+@071
+A-ai niin... Haluan käydä kertomassa
+myös Karinin äidille ja isälle.
+He ovat varmasti huolissaan.
+Niinpä...
+No, koulun jälkeen Jakunaniin.
+Niin, menen suoraan Jakunaniin, kun ehdin.
+Tavataan sitten Jakunanissa.
+@072
+Mumble mumble... Karin-kultaaa♥
+@073
+Tenryou! Tenryou {BUF03}!
+Häh? Kari...
+@074
+O-opettaja Ryuuko!?
+Heräsitkö, Tenryou?
+@075
+Haha, Tenryou on ihan unenpöpperössä.
+Noloooa♥
+Ja vielä sanoi "Karin-kultaaa♥"~
+@076
+Mitä! En minä sellaista sanonut!
+No niin, kaikki! Hiljaa! Jatketaan tuntia.
+@077
+Eli naismallirobottelussa kumppani-Medabotin
+lisäksi kaikkien muidenkin
+Medabottien on oltava naismallia.
+@078
+Seuraavalla tunnilla menemme koulun pihalle
+ja pidämme heti rajoitetun robottelun. Menkää kaikki heti pihalle
+ja pitäkää naismallin Medabotit valmiina.
+Naismallirobottelu tarkoittaa, että minulla
+on hyvät mahdollisuudet voittaa {BUF03}.
+Mennään!
+@079
+Sinullakin on rankkaa, Tenryou.
+@080
+Kaikki näyttävät olevan paikalla.
+No niin, jakautukaa heti pareiksi
+ja aloittakaa naismallirobottelun harjoittelu.
+@081
+{BUF03}, ollaan parit.
+Minun Brassini voittaa sinut.
+Joo, sopii. En minäkään häviä.
+@082
+Opettaja, minä jäin ilman paria.
+Vai niin. Ole sitten opettajan pari.
+Oikeasti...
+@083
+Tänään naismalleja saa olla enintään 2.
+Yhdelläkin saa robotella, mutta jos häviää yksi kahta vastaan,
+oma vika.
+@084
+No, robotellaan heti.
+{BUF03}, sinullakin näyttää olevan vähintään
+2 naistyypin tinpettiä. Sitten käytän minäkin kahta!
+@085
+Mikä hätänä, Tenryou?
+Valmistaudu nopeasti ja robottele Amazaken kanssa.
+@086
+Naismallin Medaboteista paras on tietysti
+hoitajamalli. Tyttöjen unelma.
+@087
+Elizabeth, hoitele hänet!
+@088
+Uwaa! Käytämme samaa Medabottia, mutta miksi
+häviän näin pahasti!?
+@089
+Voi voi, en yleensä kasvata naismalleja, joten
+en tiedä yhtään, miten niillä taistellaan.
+@090
+Iskuvoima on heikko. Eikö voisi
+rymistellä kuin miesmallit~?
+@091
+Tenryou {BUF03}! Minne menet!?
+@092
+Sain nuhteita.
+@093
+Oletko valmis robottelemaan?
+@094
+2 naismallia. Valmistaudu, niin aloitetaan.
+@095
+Okei, aloitetaan.
+@096
+Kokoa kumppanisi naistyypin tinpetistä.
+Tiedäthän, miten kumppani vaihdetaan?
+@097
+Paina Medakellon Medabotin valintaruudussa
+Start-nappia 2 kertaa, ja kun näkyy "Kumppanin valinta",
+valitse kursorilla Medabotti, josta haluat kumppanin.
+Medabotti, jonka alla on sininen merkki, on kumppani.
+@098
+Kokoa ne sitten nopeasti.
+@099
+Voi että! Anna minun voittaa edes naismallirobottelussa!
+@100
+Jee! Voitin {BUF03}:n!
+@101
+Hmm, en osaa käsitellä niitä yhtä hyvin kuin yleensä.
+@102
+Kaikki, palataan luokkaan.
+@103
+Kaikki, millainen naismallirobottelu oli?
+Tavallisesta poikkeava robottelu... Sellaista robottelua
+tehdessä teit ehkä uusiakin havaintoja?
+@104
+No niin, tämän päivän tunti päättyy tähän.
+Kerratkaa tämän päivän asiat kotonakin.
+@105
+Tenryou ja Amazake, lähtekää tekin nopeasti kotiin.
+@106
+No, mennään heti Jakunaniin, {BUF03}!
+Odotan Omikujin eteläpuolella, joten syötyäsi
+lounaan tule nopeasti.
+@107
+Olen kotona~
+Tervetuloa kotiin, {BUF03}. Laitan heti lounaan.
+Joo.
+@108
+Nam, otetaaan~!
+@109
+{BUF03}, menetkö tänään jonnekin leikkimään?
+Menen Arikan ja Koujin kanssa
+etelässä olevaan Jakunaniin.
+Tule kotiin ennen kuin on liian myöhä.
+Joo!
+@110
+Kiitos ruoasta.
+Ole hyvä.
+@111
+No, minä lähden~
+Hyvää matkaa.
+@112
+Nopeasti, nopeasti, nopeasti, {BUF03}!
+Kouji ehtii muuten ennen meitä!
+"Ehtii ennen"...
+Kilpaa Jakunaniin!
+@113
+Hän lähti...
+@114
+Ai, tämä! Eikö tämä ole Karinin kuva!?
+Etsimme tyttöä
+Nimi: Junmai Karin. Vaatetus katoamishetkellä:
+hiukset sidottu kahdelle puolelle, vaaleanpunainen mekko
+Löytäjälle maksetaan 10000000¥.
+Junmai-konserni
+Hmm, rikkaat tekevät kyllä asiat eri tavalla.
+@115
+Karinin löytäjälle 10000000¥...
+Karinin isä on kyllä rohkea.
+@116
+...Kyllä, ei hätää. Päätin jäädä
+tänne joksikin aikaa.
+Voi! Ei, ei mitään kiristystä,
+ei toki! Tämä on oma päätökseni.
+...Kertokaa se myös kaikille muille.
+Älkää olko huolissanne. Kertokaa erityisesti
+huolehtivalle isälleni ja Koujille sekä
+ystävälliselle {BUF03}:lle ja Arikalle.
+@117
+Soititko puhelun, Karin?
+@118
+Kyllä. Ajattelin, että kaikki ovat huolissaan
+ja etsivät minua, joten
+halusin kertoa, ettei tarvitse huolehtia.
+...Olet kyllä erikoinen.
+Olenko? En itse oikein tiedä.
+Sekin mukaan lukien olet kaikin tavoin suloinen, Karin.
+@119
+Neiti Shuri, teille on puhelu...
+@120
+Vastaan.
+@121
+...Vai niin, tulivat jo. Selvä.
+@122
+Värväisinkö? Ei suinkaan. Hoitelen ne
+pikkuhiiret, jotka tulevat viemään Karinin.
+Kyllä, nähdään myöhemmin.
+@123
+Onkohan Kouji jo täällä?
+@124
+K-Kouji?
+@125
+Kas, täällähän sinä olit.
+Kuuntele, {BUF03}!
+M-mitä nyt?
+Olen varma, että Karinia uhkaillaan!
+Kukapa nyt sanoisi sieppaajastaan, että
+"päätin jäädä tänne joksikin aikaa"!?
+Jos sellainen on, haluaisin nähdä sen naaman!
+Kouji! Kouji! Rauhoitu! En ymmärrä, mitä puhut!
+...Siis Karinista. Karinin äiti kertoi,
+että Karin otti yhteyttä ja sanoi "älkää huolehtiko".
+Mitä tarkoitat? Eikö Karinia siepattukaan?
+Siksi sieppaaja varmasti uhkailee häntä sanomaan niin!
+Karinin äiti on kuin Karin, vähän leppoisa
+ja luottaa ihmisiin helposti...
+Entä Karinin isä?
+Hän ei saa öisin unta huolelta, eikä voi jättää
+asiaa Select-joukoille, joten hän etsii joka päivä.
+Isänkin vuoksi Karin on saatava pian takaisin.
+@126
+Tämä on tapaus.
+@127
+Vau! Arika, mistä sinä ilmestyit!
+Karin on löydettävä mahdollisimman pian.
+Ja sitä varten... tadaa!
+@128
+Mikä tämä on?
+Jakunanin ala-asteella pidetään "kauneuskilpailu"!
+Eikö tämä ole hyvä tilaisuus etsiä Karinia?
+Osallistuisinko?
+Arika, lue tarkkaan. Ehdoissa
+lukee "Medabotti".
+O-ole hiljaa! Erehdyin vähän,
+siinä kaikki!
+Jos Karin on tässä koulussa, hän osallistuu
+ihan va-r-mas-ti kauneuskilpailuun!
+@129
+K-Kouji, Kouji! Ryhdistäydy!
+Se on "Medabottien kauneuskilpailu", ymmärräthän?
+Mennään! "Kauneuskilpailuun"!!!!
+@130
+Koujiii!!!
+Turhaa, hän ei kuuntele.
+Voi sentään.
+@131
+Mennään mekin!
+@132
+Hitto! Miksi meitä ei päästetä sisään!!
+Niinpä, se nainen on ihan käsittämätön!
+@133
+"Ei päästetä"? Minne?
+@138
+Mitä tarkoittaa, ettemme ole kauniita!
+Missä kohtaa me emme muka ole kauniita, häh!
+Älä viitsi.
+@139
+Häh? Mitä nyt? Älä tuki tietä!
+Häh? Ai, ai...
+@140
+Huh, pelotti...
+Mikähän kaupunki tämä oikein on.
+@144
+Tämä on neiti Shurin hallitsema Jakunanin ala-aste.
+@145
+Epäkauniit eivät saa kulkea tästä eteenpäin.
+@146
+Jakunanin ala-asteella on nyt avoin missikisa.
+Etkö osallistuisi sinäkin?
+@147
+Voi {BUF03}! Missä sinä lorvit!
+@148
+Olet myöhässä!
+@149
+Todellakin!
+@150
+Näiden kahden kanssa ei kroppa kestä...
+@151
+Sanoitko jotain?
+@152
+En, en mitään.
+@153
+Mi-miksi? Miksei minua päästetä sisään!!
+@154
+Mielivaltaa! Kohtuutonta! Epäloogista!!
+@155
+Eikö sinustakin!?
+...Bo?
+Kas kas, sinä et ole syypää. Sinä olet niin kaunis♥
+Mikä tuo on?
+@156
+Tuota... olisitteko kenties Shiratama?
+@157
+Oo, kukas se siinä! Sehän on oppilaani
+{BUF03}!
+......Pyydän, älkää tehkö minusta oppilastanne omin päin.
+Ei tarvitse ujostella! Meidänhän välillämme!
+En ujostele.
+Muuten, mitä teitte täällä?
+Niin niin, kuuntele! Tähän kouluun pääsevät kuulemma
+vain "kauniit asiat", ja tämän söpön minun ja
+minun ihanaisen Limbo Mambon he heittivät ulos!
+En tiedä, oletteko kaunis, mutta onko
+tässä koulussa tosiaan sellainen sääntö?
+Luulin, että Naekin olisi "kauneuskilpailussa"!!
+Grrrrr!!!!
+@158
+Haastan heidät oikeuteen!!
+@159
+Shiratamaaa, kilpailu on vain "Medaboteille"!
+...Hän lähti.
+@160
+Vain "kauniit asiat" pääsevät sisään?
+...Ihan pelleilyä.
+Tällä kertaa ei näytä riittävän, että on koulupuku.
+...No, tämä Arika on toki kunnossa.
+@161
+Onko muka~
+Mitääh!
+@162
+Aui, auauauau
+Mennään nyt katsomaan.
+N-niin...
+Hmph!
+@163
+Hetkinen, sinä.
+@164
+Eikö minua päästetä?
+Sinä pääset läpi. Minua vain kiinnostaa
+kumppanisi. Ota Medabotti
+Medakellosta esiin ja näytä♥
+Hankalaa...
+@165
+Kas, kun medabottaaja on komea, niin Medabotissakin
+on tyyliä♥ Saat mennä.
+@166
+Hmmm...
+Mitä? Onko jotain valittamista? Sano suoraan!!
+A-Arika, rauhoitu...
+Ulkonäkö menee juuri ja juuri, mutta
+vaatemakusi on vähän niin ja näin...
+@167
+"Juuri ja juuri", mitä se tarkoittaa!!
+No no, Arika, menihän se kuitenkin läpi...
+@168
+Ei käy!! Tämä on loukkaus!!!!
+K-kyllä... anteeksi...
+@169
+Joka tapauksessa vaatteillesi pitää tehdä jotain.
+Sitten päästän sinut läpi. ...Seuraava!
+@170
+Mitä teet? Sinun vuorosi.
+Ai, niin.
+@171
+Sinä...
+?
+Sinun pitää ottaa tuo nuttura pois.
+...Häh?
+Jos otat nutturan pois, voin harkita.
+@172
+{BUF03}, vain se~? Helppoa!
+Ota se pois heti!
+@173
+Vau, l-lopeta!
+Odota!
+@174
+Huh huh
+Puuh puuh
+Miksi inhoat nutturan poistamista?
+S-se johtuu...
+No, olkoon. Minunkin pitää vaihtaa vaatteet,
+jotta pääsen sisään. Mennään, {BUF03}.
+@175
+Häh? Minne? Entä Kouji?
+@176
+No, minä menen jo sisälle.
+Odotan innolla, millaisissa asuissa te tulette.
+@177
+Tuota... seurataanpa Arikaa.
+@178
+Sinä! Hetkinen!
+Tuossa asussa en voi päästää sinua sisään.
+Tule takaisin tyylikkäämmässä asussa.
+@179
+Voi, rouva, tämä sopii teille todella hyvin♥
+Niinkö? Otanko sitten tämän?
+@180
+Kas, tervetuloa. Kaupastamme löytyy kaikkea
+huippumerkeistä 3 sukkaparin 1000¥:n pakkauksiin,
+joten katselkaa rauhassa.
+@181
+Kyaaaa!!!!
+@182
+Waa! A-anteeksi!!
+@183
+Ei saa enää kurkkia.
+@184
+Tervetuloa. Jos jokin askarruttaa,
+kysykää vain♥
+@185
+Vau, kalliin näköinen kauppa...
+Mennään, {BUF03}!
+@186
+Mitä!?
+Jos annan nyt periksi, en ole minkään arvoinen!
+@187
+(Voi ei...)
+@188
+Mitä teet!? Tule nopeasti sinäkin!
+Voi voi... Mitä jos minut pakotetaan ostamaan jotain...
+@189
+Hmm, tämäkin on kiva, mutta kokeilisinko tuotakin~
+@190
+Tuttu ääni.
+@191
+Miltä näyttää, asiakas?
+Hmm, katsotaanpa...
+@192
+Kirara?
+@193
+Kas, {BUF03}.
+@194
+Ai, Kirara!
+@195
+Päivää, Arika.
+Päivää.
+Miksi sinä olet täällä, Kirara?
+@196
+Minäkin aion osallistua missikisaan♥
+Häh? Niinkö?
+"Tiikerin pentu saadaan vain tiikerin luolasta."
+...Häh?
+Ei mitään! Entä te?
+Aiomme osallistua, mutta näillä vaatteilla
+"ei käy!"... eikä meitä päästetty sisään.
+Ärsyttää!
+Minulta taas tämä nuttura ei kelpaa...
+Hmm... niinpä.
+Jos et voi ottaa nutturaa pois, sen voi piilottaa... tai sitten
+siitä voi tehdä poninhännän.
+{BUF03}, kumman valitset?
+Piilottakaa se, kiitos.
+Häh~? Niinkö? Poninhännällä olisit
+ollut varmasti söpö~
+Kiraraaa~
+No, olkoon.
+Hmm, no sitten...
+@197
+Niin! Jos asu sovitetaan nutturaan,
+se voisi toimia♥
+Asun valinta on mi-nun hom-maa!
+@198
+Tämä, tämä ja tämä! Kas niin, kokeile!
+Mikä tämä on?
+Älä välitä, älä välitä♥
+@199
+Ajattelin samuraita.
+Tuota... eikö täällä ole kallista?
+Minua kiinnostaa enemmän se, että hienossa
+putiikissa myydään tuollaisia asuja.
+Ei se mitään! Kuitti menee professorille
+kulukorvauksena, joten se on lahja sinulle, {BUF03}.
+Häh? Tuota, kiitos paljon.
+@200
+N-no joka tapauksessa, seuraavaksi on Arikan vuoro.
+@201
+Niin! Annan Arikalle vanhan asuni.
+@202
+Sinunko, Kirara?
+Arika, se ei ole nyt mukana, joten tulisitko vähän mukaani?
+Joo, sopii...
+@203
+No niin, {BUF03}, me lähdemme vähän käymään,
+joten yritä sinä uudelleen tuossa asussa!
+@204
+Osallistuuko Kirarakin missikisaan? Millaisessa
+asussa hän osallistuu?
+Kiinnostaa!
+@205
+Mennään nyt Jakunanin ala-asteelle.
+@206
+Se tyyppi ei pukeudu vain naiseksi,
+vaan tuollaiseksikin... Onko se harrastus!?
+@207
+"Medabottien kauneuskilpailu"? Minun Dark Pantherini
+voittaa sen ihan varmasti.
+Totta kai, pomo.
+Voitto on varma.
+Tiedättepä te. No niin, mennään ilmoittautumaan.
+@208
+Saako tästä tytöstä tosiaan 10000000¥, robo?
+Kerrotaan heti kaikille, robo♥
+@209
+Agata, tee nyt töitä kunnolla~
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@210
+Järjestä sitten vaikka mehuhylly.
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@211
+Agata?
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@212
+Tämähän on Agata-nukke!?
+@213
+Pomo~! Agata lintsaa jo taas~!
+@214
+En todellakaan voi lähteä kaupungista tässä asussa.
+@215
+Tervetuloa, päivää♥
+@216
+Kiitos käynnistä, tervetuloa uudelleen♥
+@217
+Täkäläinen kassaneiti on pirteä ja mukava.
+@218
+Katso, katso, uutta kosmetiikkaa on tullut!
+Häh, oikeesti? Kyaa, ihan sairaan söpöä
+@219
+Häh? Professori Akagane!
+Hei, {BUF03}.
+Professori, teitä siis kiinnostavat missikisat.
+Aiotteko kenties itsekin osallistua...?
+Ei, tulin katsomaan, mutta minua
+ei päästetty sisään. Entä sinä, {BUF03},
+osallistutko?
+En vielä tiedä, päästetäänkö minuakaan sisään...
+@220
+Vai niin...
+...Professori?
+@221
+Ah, ei mitään, {BUF03}.
+Onnea matkaan.
+A, kyllä!
+@222
+(Mikähän professorilla on? Hän näyttää tosi yksinäiseltä.
+Haluaisin jotenkin päästää hänet sisään...)
+@223
+Mitä nyt? Pääsitkö kouluun?
+@224
+Hei! Mitä tarkoittaa, ettei meitä päästetä!
+Kohtuutonta!
+Minä pidän itseni aina niin siistinä!
+Muistakaa tämä vielä!
+@225
+Muistakaa tämä!
+@226
+Screws!?
+@227
+Te...
+Mitä! Älä tuijota! Tuollaisessa asussa!
+Ei tämä mikään näytös ole!
+Minua sanottiin "ei-kauniiksi"... järkytys...
+Mennään, pojat. Me vielä näytämme heille!
+@228
+(Pahaenteinen tunne...)
+@229
+Kas, erikoinen idea. Tuossa asussa nutturakin
+sopii joukkoon. OK! Saat mennä♥
+@230
+Ai niin, ja...
+@231
+Jakunanin oppilaiden lisäksi ala-asteelle
+pääsevät vain missikisan osallistujat, joten
+ilmoittaudu yläkerran vastaanotossa.
+@232
+Kyllä, missikisan osallistuja, eikö?
+Kirjoittaisitteko nimenne tälle lomakkeelle?
+Tuota... Tenryou {BUF03}, noin.
+Kyllä, hyvä on. Tenryou osallistuu
+toiseen arviointikierrokseen, joten älkää myöhästykö.
+@233
+Saat kulkea vapaasti.
+@234
+Missikisa päättyi, joten minulla on tylsää.
+Hei sinä, pelataanko kivi-paperi-sakset?
+@235
+Vähän vain, mitä se haittaa.
+@236
+OK, sitten mennään.
+Kivi... paperi... sakset...
+@237
+Kivi
+Sakset
+Paperi
+@238
+Nyt!!
+@239
+Kas, hävisin.
+Kiitos seurasta, oli vähän hauskaa.
+En tiedä, mihin tätä käytetään, mutta otapa tämä.
+@240
+Jee, minä voitin♪
+@241
+Tasapeli, uudestaan...
+@250
+Kas, hävisin.
+Kiitos seurasta, oli vähän hauskaa.
+@256
+Sinä, hetkinen!
+@257
+Jos haluat Jakunaniin, ilmoittaudu
+tässä missikisaan.
+Niin, sanottiinhan äsken, että Jakunaniin pääsy
+vaatii missikisaan ilmoittautumisen.
+@258
+Karin, pidätkö tästä paikasta?
+@259
+Kyllä, tämä on todella ihana paikka♥
+Voit saada tämän paikan ihan omaksesi.
+Häh?
+Annan tämän sinulle. Kun suunnitelma toteutuu,
+maailma on meidän. Silloin annan sinulle
+mitä tahansa haluat.
+Mitä haluan?
+Niin, mitä ikinä toivot.
+Mitä sinä haluat, Shuri?
+Minä haluan kaikki maailman "kauniit asiat".
+Sitä varten haluan saada maailman haltuuni.
+Mitä "kauniit asiat" ovat sinulle, Shuri?
+Jossain on kuulemma maailman kauneimmaksi
+sanottu jalokivi, "Fuyuun-kivi".
+Minä hankin sen jalokiven ja...
+Ja sitten?
+@260
+..........
+@261
+Haluan alkaa valmistautua, Karin. Kilpailu on lähellä.
+Nurse pitää laittaa kauniiksi.
+Jännittää, että Nurse osallistuu kilpailuun.
+Haen sitten Nursen.

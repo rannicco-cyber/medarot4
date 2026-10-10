@@ -1,0 +1,309 @@
+@000#kabuto
+Ah, täällä sinä olit.
+Sinä olet se varas, jolla oli äsken minun osani!
+Hä? Ei, aioin palauttaa tämän osan sinulle...
+Selittely on kurjaa. Antaudu kiltisti!
+@000#kuwagata
+Ah, täällä sinä olit.
+Sinä olet se rosvo, jolla oli äsken minun osani!
+Hä? Ei, aioin palauttaa tämän osan sinulle...
+Hyi, julkea varas! Tule kiltisti kahleisiin!
+@001#kabuto
+Hitto! Mitä ihmettä! Minä, ei vain kerran vaan kahdesti...
+Mikä sinun nimesi on?
+Olen Tenryou {BUF03}.
+{BUF03}! Pyydän, ota minut, Kabuto Benimaru,
+oppilaaksesi!
+Hä, oppilaaksi!?
+Pyydän. Auta minua toteuttamaan unelmani tulla
+maailman parhaaksi pyssysankariksi!
+Hmm, no, jos riittää, että robotellaan joskus.
+Ihanko totta!? Olen iloinen!
+Se osa on minun kiitokseni. Ota se, jos haluat.
+Saanko? Jee!
+@001#kuwagata
+Mitä ihmeellistä! Minä, jo toisen kerran
+Mikä on nimesi?
+Olen Tenryou {BUF03}.
+{BUF03}! Pyydän, ottakaa tämä Kuwagata Baizan
+oppilaaksenne!
+Hä, oppilaaksi!?
+Pyydän. Auttakaa minua toteuttamaan unelmani tulla
+maailman parhaaksi miekkamieheksi!
+Hmm, no, jos riittää, että robotellaan joskus.
+Ihanko totta!? Olen kiitollinen!
+Ottakaa tuo osa kiitokseksi.
+Saanko? Jee!
+@002#kabuto
+No niin, hyvää yhteistyötä tästä lähtien.
+@002#kuwagata
+Hyvää yhteistyötä tästä lähtien, siis.
+@003#kabuto
+Aloitetaanko treenit heti?
+@003#kuwagata
+Aloitetaanko harjoitukset heti?
+@004#kabuto
+Maailman paras pyssysankari taitaa olla vielä kaukana.
+@004#kuwagata
+Maailman paras miekkamies on vielä kaukana.
+@005#kabuto
+Hyvä, ottelu!
+@005#kuwagata
+No niin, mennään!
+@006#kabuto
+Taas askel lähempänä parasta pyssysankaria.
+@006#kuwagata
+Askel lähempänä maailman parasta miekkamiestä.
+@007#kabuto
+Ammu! Ammu--!!
+@007#kuwagata
+Hyökkää! Hyökkää~~!!
+@009#kabuto
+Kohti parasta pyssysankaria, ammun tänäänkin!
+@009#kuwagata
+Kohti parasta miekkamiestä, harjoittelen tänäänkin!
+@010#kabuto
+Maailman paras pyssysankari on tämä Kabuto Benimaru!
+@010#kuwagata
+Maailman paras miekkamies on tämä Kuwagata Baizan!
+@011
+Kyaaa! Jotain putosi taas!!
+Tällä kertaa Medabotti.
+Tällä kertaa lyön sen kauas!!
+@012
+Vau~~...
+@013
+Se pakeni! Odota!
+@014#kabuto
+Väisty! Minua jahdataan syyttömänä!
+@014#kuwagata
+Väistykää! Minua jahdataan!
+@016#kabuto
+Aiotko estää minua!?
+Hä? Ei sinne päinkään...
+Turpa kiinni! Saat katua!
+@016#kuwagata
+Hmmm! Aiotko estää minua!?
+Hä? Ei sinne päinkään...
+Ei puhetta! Polvillesi!
+@017
+Hups, kaadoin sen refleksinä. Oletko kunnossa?
+@018
+Häh? Onko tämä pelkkä osa?
+Pakeniko se pelkällä tinpetillä ja mitalilla?
+Jos jätän tämän tähän, joku voi viedä sen, joten toistaiseksi
+pidän sen itse.
+@019
+Jumppasalissa on outo nainen, joten
+sali ei ole käytössä.
+@020
+Jos jumppasalin oudolle naiselle puhuu,
+lapset kuulemma viedään pois.
+@021
+Buhuu~ buhuu!
+@022
+Mikä hätänä? Oletko täällä yksin?
+Hehehehe....
+Mitä?
+@023
+Mitä? Mitä?
+@024
+Hahaha, taas yksi hölmö lapsi tarttui.
+Nyt lumoan sinutkin~!
+Häh, Milky?
+Mitä? Mistä tiedät nimeni?
+Hei, {BUF03}. Pitkästä aikaa.
+Milky, mitä sinä täällä teet?
+Mitä? No, mieleisen lapsen... eikun,
+Pimeää yhteysrobotteluahan minä täällä pelaan, tietysti.
+Miksi Milky voi tehdä sellaista?
+Koska olen noita.
+Ahaa!
+No, minä pysyn täällä,
+joten puhu minulle, kun haluat pelata Pimeää yhteysrobottelua♥
+@025
+Pelataanko Pimeää yhteysrobottelua?
+@026
+No, mennään heti♥
+@027
+Tylsä lapsi. Leiki edes vähän kanssani.
+@029
+Häh? Jotain kimaltavaa on maassa. Mikä se on?
+@030
+Ai, passipiste!
+Onnekasta♪
+@032
+Siivoa, kiilto, siivoa, kiilto
+@033
+Pöytä, kiilto-kiilto, pöytä, kiilto-kiilto
+@034
+Kirjahylly. Järjestys.
+@035
+??? Kimaltaa... roskaa??
+Ai, se on passipiste.
+Roska. Heitetään pois.
+Eiii, älä heitä pois!
+@036
+??? Roska. Annetaan.
+@037
+Saanko? Kiitos.
+Mutta kenen tämä oikein on?
+@039
+Lammen pohjassa jokin hohtaa.
+@040
+Jee, passipiste!
+@041
+Tässä lähellä hohti äsken jokin, eikö?
+@042
+Ah, tämä on!
+@043
+Passipiste sittenkin!
+@045
+Vain kenkiä.
+@046
+Auts! Jotain putosi kenkälaatikon päältä?
+@047
+Ai, passipiste!
+Onnekasta♪
+@048
+Ei temppuja, ei juonia: tähän ruukkuun laitan käden, 1.2.3!
+Ja katso, kädessäni on esine.
+@049
+Tuli oikeasti!!
+@050
+Huh, kuuma... Lepäisinkö tässä hetken?
+@051
+Auts! Hiekassa on jotain!?
+@052
+Tämä on passipiste! Jee!
+@053
+Häh, törmäsinkö juuri johonkin?
+Tässä, tämä oli maassa.
+@054
+Vai että täälläkin on niitä.
+@055
+Kop...
+Hm? Mikä tämä on?
+@056
+Passipiste se olikin.
+@057
+Tällaisissa paikoissa on aina jotain maassa, eikö?
+@058
+Kas vain♪
+@059
+Voi!!
+@060
+Häh? Häh?
+@061
+Hmmm, hmmm
+Mikä hätänä?
+@062
+No, kaaduin äsken ja taisin pudottaa piilolinssini.
+Voi, sehän on ikävää.
+Hyvä, autan etsimään.
+Anteeksi vaivan.
+@063
+Ah!!
+@064
+Tämä on passipiste! Jee!
+@065
+Hm? Unohtuiko jotain?
+No, antaa olla.
+@066
+Hmm, linssi, linssi...
+@067
+Häh? Tämä nappi kellariin ei ollut tässä ennen?
+@068
+Vugaaaaaaah!!
+Miksi Black Mail on täällä!?
+@069
+Vugaaaaaaah!!
+Se on täynnä intoa. Mitä tehdään?
+@070
+Täynnä intoa!
+En tiedä mitään
+@071
+Olen aina tosissani!
+@072
+Eipä tarvitse sitä nyt kohdata.
+@073
+Vugaaaaaaah!!
+Mitä, robotellaanko taas!?
+@074
+En halua kohdata sitä nyt.
+@075
+Hyvä, mennään!
+@076
+Kirara
+@077
+Kas, päivää, {BUF03}.
+Kirara, opiskeletko?
+Kyllä. Jos olisin kuin Hikaru, olisin pulassa♥
+Hahaha...
+(Hikaru... sinusta sanotaan tällaista.)
+@079
+Kas, tervetuloa, {BUF03}. Ole ihan kotonasi.
+@080
+Kirara~ päivää...
+@082
+Ovi oli auki, mutta outoa?
+@083
+Hups!
+Kas, {BUF03}.
+@084
+Retort Lady, olitko jossain?
+Kyllä, vähän lähikaupassa♥
+Jos ei lukitse ovea, on huolimaton.
+Sanotko sen sisään tultuasi?
+Hei {BUF03}, haluaisin vaihtaa vaatteet,
+joten voisitko mennä hetkeksi ulos?
+Ah, anteeksi!
+@085
+Meni lähikauppaan tuossa asussa!?
+{BUF03}~ voit tulla nyt sisään~
+@086
+Lähikauppalady...
+@087
+Kello on sen verran, ettei kauemmas kannata.
+@088
+Huomenta, {BUF03}.
+Aamiainen on kohta valmis, joten pese ensin kasvosi.
+Jooo♪
+@090
+T-tämä on...! Katsucurry-udon-ateria!?
+@091
+...Heti aamulla?
+Olkaa hyvä, syö vain♥
+J-joo...
+@092
+Tämä määrä aamulla...
+Mutta mitä lisukkeeksi riisille pitäisi syödä,
+aina epäröi~ Katsuko? Mutta on myös suolakurkkuja.
+@093
+Huh, kiitos ruoasta~
+@094
+Ole hyvä, ei se mitään.
+@095
+No, minnekä tänään menisin?
+@096
+Tämä on meidän Piikatytön faniklubin päämaja!
+Onko klubista jo päämajan kokoiseksi kasvanut...
+@097
+Toisin kuin entinen Kokuen,
+nykyisellä Kokuenilla on karisma!
+Onko sekin sinun viehätyksesi ansiota?
+En usko...
+@098
+Kaikki Piikatytön vuoksi!!
+Piikan suosio ei hiivu... vaikka täällä tiedetään, kuka olen.
+@099
+Piikatytön faniklubi ottaa aina uusia jäseniä!
+Odottakaa vain! Tavoitteena valtakunnallinen laajennus!!
+Uuh, älkää viitsikö...
+@100
+Tässä on Piikatytön faniklubin puheenjohtaja Yoiyami Kokuen!
+Hän levittää Piikatytön ihanuutta ympäri maailmaa yötä päivää!
+Kokuen... mitä sinä oikein haluat..?
+@101
+Mennään ylös tiskille ja otetaan ankalta
+palkinto!

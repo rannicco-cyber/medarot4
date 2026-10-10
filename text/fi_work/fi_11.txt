@@ -1,0 +1,193 @@
+@000
+Tason noustessa liikkuminen\nja väistö paranevat
+Mitali voi myös muuttua\ntai oppia Medavoiman
+@001
+Seuraavaan tasonnousuun\ntarvittava kokemus
+@002
+Kertoo mitalien ja\nosien ominaisuudet
+@003
+Määrää, mihin Medabotin tai\nosan kohtaan toiminto tähtää
+@004
+Tähtää\njalkaosiin
+@005
+Tähtää osiin, joilla\non eniten panssaria
+@006
+Tähtää osiin, joilla\nei ole tilaa
+@007
+Tähtää "suojaus"- ja\n"asennus"-osiin
+@008
+Tähtää "korjaus"- ja\n"erikoinen"-osiin
+@009
+Tähtää "lyönti"-, "raivo"-,\n"ammunta"- ja "tähtäys"-
+iskuja käyttäviin osiin
+@010
+Tähtää satunnaiseen\nosaan
+@011
+Kun mitalin ja osan\nominaisuudet täsmäävät,
+kaikkien toimintojen\nonnistumisarvo nousee
+@012
+Kun kaksi omaa Medabottia\nehtii keskelle yhtä aikaa,
+toimintojen onnistumisarvo\nnousee
+Nousu tallentuu\nmyös mitaliin
+@013
+Joka toiminto nostaa\nosan taitotasoa
+Taitotason noustessa\nonnistumisarvo kasvaa
+@014
+Iskee lähimpään viholliseen.\nKriittinen osuma on helppo.
+Tyypillisiä osia ovat\n"miekka" ja "ukkonen"
+Ennen seuraavaa toimintoa\nei voi "puolustaa"
+@015
+Iskee valittuun kohteeseen
+Tyypillisiä osia ovat\n"kivääri" ja "laser"
+Iskutoiminnoista ainoa,\njossa ei ole haittaa
+@016
+Iskee lähimpään viholliseen\nkaikella voimalla
+Työntövoima lisää vahinkoa.\nMonet osat myös läpäisevät.
+Tyypillisiä osia ovat\n"vasara" ja "jäädytys"
+Ennen seuraavaa toimintoa ei\nvoi "väistää" eikä "puolustaa"
+@017
+Iskee valittuun kohteeseen.\nKriittiset ovat hyvin yleisiä.
+Tyypillisiä osia ovat\n"gatling" ja "säde"
+Ennen seuraavaa toimintoa\nei voi "väistää"
+@018
+Torjuu vihollisen iskuja ja\nvähentää omien vahinkoja
+Tyypillisiä osia ovat\n"puolustus" ja "naamiointi"
+Ne jaetaan kahteen lajiin:\nsuora iskujen torjunta ja
+vastustajan taktiikan\nhäiritseminen
+@019
+Asettaa ansan suojaamaan\nvihollisen iskuilta
+Tyypillinen osa on\n"lähitaisteluansa"
+Kullekin omalle voi asettaa\nyhden ansan kerrallaan
+Jos ansa on jo asetettu,\nvain uusi ansa jää voimaan
+@020
+Korjaa vihollisen aiheuttaman\nvahingon tai tilan heti
+Tyypillisiä osia ovat\n"korjaus" ja "elvytys"
+@021
+Mitätöi vihollisen vahingon\ntai kimmottaa sen takaisin
+Tyypillisiä osia ovat\n"räjähdesuoja" ja "heijastus"
+@022
+Muuttaa osien kykyjä ja\ntukee omien iskuja
+Tyypillisiä osia ovat\n"lataus" ja "muutos"
+@023
+Muuttaa osien kykyjä ja\nhäiritsee vihollisen iskuja
+Tyypillisiä osia ovat\n"sekavuus" ja "väistökielto"
+@024
+Mitali voi oppia sen,\nkun sen taso nousee
+Käyttö vaatii Medavoimaa\nja tietyn taitotason
+Taistelussa SELECT-napilla\naukeaa Medavoima-komento
+@025
+Mitalin lisäosa, joka tukee\npuuttuvaa taitotasoa
+Lajit ja kehitys ovat samat:\nosien käyttö nostaa tasoa
+Paikkaa mitalin matalaa\ntaitotasoa Medalialla,
+ja kun taso nousee, siirrä\nMedalia tukemaan toista
+Sitä voi käyttää, vaikka\nmitalilla ei taitotasoa olisi
+Kehitys on silti hitaampaa\nja yläraja matalampi
+@026
+Medamuutos tarkoittaa\nMedabotin muodonmuutosta
+Muutoksia on kaksi: kykyjä\nmuuttava "siirtomuutos"
+ja Medavoimaa käyttävä\n"voimamuutos"
+"Voimamuutos" purkautuu,\nkun Medavoima loppuu
+Muuntaudu painamalla alas\ntoimintoa valitessa
+Muuntautua ei voi, jos\nyksikin osa on rikki
+Muodonmuutoksen voi perua\nsamalla tavalla
+@027
+Osan käyttöön\nvaadittava taitotaso
+@028
+Kun osan panssari on 0,\nse rikkoutuu eikä toimi
+Pää- ja käsiosien kykyjä\nei voi enää käyttää,
+ja jalkaosan kyvyt\nputoavat puoleen
+Muuntuneena kaikki panssari\nlasketaan yhteen
+@029
+Pääosat ovat vahvoja, joten\nkäyttökerrat on rajattu
+@030
+Valmisteluaika ennen\ntoimintoa "latausalueella"
+@031
+Valmisteluaika toiminnon\njälkeen "latausalueella"
+@032
+Kertoo, kuinka helposti\ntoiminto onnistuu
+@033
+Kertoo iskun vahingon\ntai korjausmäärän
+Osat, joiden tehon edessä\non ympyrä,
+läpäisevät vahingon tai\nkorjauksen seuraavaan osaan
+@034
+Kertoo liikkumisnopeuden\n"maastoalueella"
+Jalkoihin sopivassa maastossa\nliikkuminen on nopeampaa
+@035
+Vahva: aavikko, hiekkakuoppa\nHeikko: vesi, jäätikkö
+Työntövoima ja liikkuvuus\novat korkeat: nopea kaikkialla
+Panssari ja lähitaistelu ovat\nmatalat: ei sovi lähitaisteluun
+Heikkoutena ovat\n"ilmatorjunta"-osat
+@036
+Pärjää kaikilla kentillä,\nmutta ei täydellisesti
+"Panssari" on hieman korkea,\nmuuten kaikki on keskitasoa
+Maasto ei vaikuta siihen, joten\nsitä voi käyttää huoletta
+@037
+Vahva: vuoristo, tulivuori\nHeikko: kaupunki, stadion
+Puolustus ja lähitaistelu ovat\nkorkeat, mutta panssari
+matala: vaikea, mutta\ntaitavalle vahva
+@038
+Vahva: metsä, viidakko\nHeikko: mm. aavikko, jäätikkö
+Keskitasoiset kyvyt sopivat\nmihin tahansa tilanteeseen
+Tyypillistä: paljon malleja\nja muuntautumistyyppejä
+@039
+Vahva: kaupunki, stadion\nHeikko: muut maastot
+"Panssari" ja "työntövoima"\novat hieman korkeammat
+Ominaisuudet paikkaavat\nlentotyypin heikkouksia,
+mutta kaukotaistelu on heikko\nja kyvyt yleisesti matalat
+@040
+Maasto ei vaikuta siihen,\nmutta se on kaikin puolin hidas
+"Panssari" ja "kaukotaistelu"\novat aivan huippuluokkaa,
+mutta muut kyvyt ovat\nlähes "0",
+paikkaa ne taitotasolla\nja puolustuksella
+@041
+Vahva: vesi, jäätikkö\nHeikko: aavikko, hiekkakuoppa
+Liikkuvuus ja puolustus\novat korkeat: hyvä suoja
+Lisäksi korkea lähitaistelu\nsopii lähitaisteluiskuihin
+Heikkoutena ovat\n"merentorjunta"-osat
+@042
+Vaikuttaa liikkumisnopeuteen\n"maastoalueella"
+Lisäksi "raivo"-iskujen\nvahinko kasvaa
+@043
+Kertoo, kuinka helposti\nväistö onnistuu
+@044
+Kertoo, kuinka helposti\npuolustus onnistuu
+@045
+Lyönti, raivo, suojaus,\nkorjaus ja rohkaisu
+onnistuvat helpommin,\nkun tämä arvo on korkea
+@046
+Ammunta, tähtäys, asennus,\nerikoinen ja häirintä
+onnistuvat helpommin,\nkun tämä arvo on korkea
+@047
+Kaikki osat eivät tehoa\nheti täysin käytettäessä
+@048
+"Tuho"- ja "uhraus"-iskujen\nkaltaisia erikoisiskuja
+ei voi estää "ansoilla"\ntai "suojalla/valmiudella"
+@049
+Tämä osa vaikuttaa jo\npelkästään varusteena
+@050
+Asettaa omalle ansan, joka\npysyy voimassa purkuun asti
+Kun tilanne syntyy, vaikutus\nlaukeaa itsestään
+@051
+Laukeaa tarvittaessa\nseuraavaan toimintoon asti
+Asento pysyy kuitenkin päällä,\njoten "asennon murto" puree
+@052
+Ei onnistu, ellei tarvittavia\nosia ole asetettu ennalta
+@053
+Taistelukenttä, jolla\nMedabotit robottelevat
+@054
+Kentän sisäosan karttaa\nkutsutaan "maastoalueeksi"
+Jalkatyyppi ja maasto\nvaikuttavat nopeuteen
+@055
+Kentän vihreää ulko-osaa\nkutsutaan "latausalueeksi"
+Ennen toimintoa "lataus" ja\ntoiminnon jälkeen "jäähdytys"
+ovat kumpikin\nvalmisteluaikaa
+@056
+Taistelu käydään automaattisesti
+Taistelussa START avaa\nkomennot valittaviksi
+Automaattitilan saa pois\npitämällä B-nappia pohjassa
++
+@057
+Automaattitaistelua\ntukeva komento
+Voit valita automaatin\ntoiminnot ja järjestyksen
+Jos Medabotti katsoo, että\ntoiminto "ei tehoa!",
+se valitsee\njonkin muun toiminnon

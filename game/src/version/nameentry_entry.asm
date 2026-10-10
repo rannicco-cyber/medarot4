@@ -845,7 +845,8 @@ GetDefaultMedalName::
   ld a, 0
   ld [W_ListItemInitialOffsetForBuffering], a
   cbcall BufferTextFromList
-  ld hl, W_ListItemBufferArea
+  ; The default medal names come from the new (VWF/ASCII coded) list.
+  ld hl, W_NewListItemBufferArea
   ret
 
 SECTION "Naming Screen Entry Functions 3", ROMX[$69C8+cNSOFFSET], BANK[$03]

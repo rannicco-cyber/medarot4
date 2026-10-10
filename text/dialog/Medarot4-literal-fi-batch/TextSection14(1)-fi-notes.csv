@@ -1,0 +1,19 @@
+﻿Index,Note
+000,[LOC] ”らっきー” on puhekielinen ”lucky”; avausrepliikki voidaan tehdä suomeksi hauskemmaksi.
+001,"[LOC] ”おみくじ” on japanilainen ennustus/arvontalappu; ”ennustus” on literalistinen, mutta termille voi keksiä pelimäisemmän vastineen."
+013,[AMB/ERROR] 「貝ため」 näyttää rikkinäiseltä poiminnalta; tarkoitettu ilmaus on todennäköisesti ”力ためより体力だ” tms. Tarkista lähde-ROM/OCR ennen lopullista käännöstä.
+014,[LOC] Bishounen = ”kaunis nuorukainen”; hahmon nimi voi olla vakiintunut erisnimi.
+017,[AMB] ”おおくりいたします” on juontajan kohtelias ”siirrytään/seuraavaksi”; literalistinen muoto ei ole luonteva suomeksi.
+035,[LOC] Juontajamainen kohtelias lopetus; ”hyvät katsojat” on hieman lokalisoiva lisäys.
+036,[LOC] ”おおくりする” = juontaa/esitellä; Miss Chimaki -repliikissä on vahva juontajan ääni.
+042,"[LOC/WORDPLAY] ”さいこう” on tavutettu dramaattisesti; ”paras” säilyttää merkityksen, mutta typografiaa voi käyttää hauskemmin."
+043,[LOC/WORDPLAY] ”ステキ” tavutettu pisteillä; tarkoituksellinen dramaattisuus.
+046,[AMB/ERROR] ”かがみ 貝たこと” näyttää poimintavirheeltä; tarkoitus on lähes varmasti ”鏡 見たこと” = ”oletko katsonut peiliin?”.
+052,[LOC/WORDPLAY] ”しびれちゃう” = ”sähköttää/säpsäyttää/huumaa”; suora ”värisen” on tarkoituksella kirjaimellinen.
+059,[LOC] ”せいす者” näyttää korruptoituneelta; merkitys on todennäköisesti ”masteroida/hallita”.
+061,"[LOC] ”おみくじ町” on paikannimi; voit halutessasi lokalisoida nimen, mutta literalistinen ”Onnenarvontakaupunki” säilyttää sanaleikin."
+079,[LOC] ”vain kauniit asiat” on tarkoituksella outo ilmaus; kontekstissa kouluun pääsee vain kauniita.
+080,[LOC] ”Kesä! Meri!” on japanilaistyylinen iskulause; rytmiä voi muokata suomeksi.
+082,"[LOC/ONOMATOPOEIA] ”ジトジト” kuvaa kosteaa, nihkeää tunnetta; ”tip, tip” ei täysin vastaa alkuperäistä."
+085,[LOC] ”まだまだ つづくよ” = ”jatkuu vielä pitkään”; toisto on tarkoituksellista.
+086,[LOC] Tuntemattoman paikan kuvaus; hyvä kohta mahdolliselle pelimäiselle muotoilulle.

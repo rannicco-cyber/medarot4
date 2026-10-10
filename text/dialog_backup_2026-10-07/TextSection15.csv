@@ -1,0 +1,33 @@
+﻿Index[#version],Pointer[#version|],Original,Translated
+000,0x3de8a1,これまでの ロボトルの けっかを<CD>どう 思う?<CF><&BUF13>,What do you think of the results<D3>of our Robattles so far?<CF><&BUF13>
+001,0x3de8a3,ロ-テ-ションに 租みこんでる<CD>ランダムの はいちって どう思う?<CF><&BUF13>,What do you think of the random<D3>formation in the rotation?<CF><&BUF13>
+002,0x3de8a5,ロ-テ-ションの せっていと<CD>パ-ツって 合ってると 思う?<CF><&BUF13>,Do you think the rotation settings<D3>match the parts?<CF><&BUF13>
+003,0x3de8a7,ロ-テ-ションで すベてのパ-ツを<CD>使うように してたっけ?<CF><&BUF13>,Did we set the rotation to use<D3>all the parts?<CF><&BUF13>
+004,0x3de8a9,ロ-テ-ションポイントは<CD>ちゃんと せっていされてる?<CF><&BUF13>,Are the rotation points<D3>set up properly?<CF><&BUF13>
+005,0x3de8ab,お前の ふんいきに 合わせた<CD>ティンペットに したんだけど?<CF><&BUF13>,I made this Tinpet to match<D3>your personality.<CF><&BUF13>
+006,0x3de8ad,お前の 使いたい パ-ツが<CD>ちゃんと 租みこまれてる?<CF><&BUF13>,Are the parts you want to use<D3>properly loaded?<CF><&BUF13>
+007,0x3de8af,お前が 今 そうびしてる<CD>パ-ツって 気に入ってる?<CF><&BUF13>,Do you like the parts you're<D3>currently equipped with?<CF><&BUF13>
+008,0x3de8b1,パ-ツの あいしょうを<CD>考えた つもリなんだけど?<CF><&BUF13>,I tried to consider the compatibility<D3>between the parts.<CF><&BUF13>
+009,0x3de8b3,<&BUF14>の じゅくれんどが<CD>高いんだけど 気にいってる?<CF><&BUF13>,<&BUF14>'s proficiency is high.<D3>Do you like it?<CF><&BUF13>
+010,0x3de8b5,じゅくれんどに 合わせた<CD>パ-ツ選びが ちゃんとできてる?<CF><&BUF13>,Are you choosing parts properly<D3>to match your proficiency?<CF><&BUF13>
+011,0x3de8b7,今 つけている メダリアは<CD>やくに たっているのかな?<CF><&BUF13>,Is the Medalia you're wearing now<D3>actually helping?<CF><&BUF13>
+012,0x3de8b9,ぼくが つけた 名前は<CD>気にいってくれてる?<CF><&BUF13>,Do you like the name<D3>I gave you?<CF><&BUF13>
+013,0x3de8bb,そうだ! メダフォ-スって<CD>使えるようになってたっけ?<CF><&BUF13>,Oh! Have you unlocked<D3>your Medaforce yet?<CF><&BUF13>
+014,0x3de8bd,お前の 友だちとは<CD>うまく いっているかい?<CF><&BUF13>,Are things going well<D3>with your friends?<CF><&BUF13>
+015,0x3de8bf,今って 気に入った パ-ツが<CD>使える じょうたいなの?<CF><&BUF13>,Are your favorite parts<D3>ready to use right now?<CF><&BUF13>
+016,0x3de8c1,ぼくの こと すきかな?<CD><CF><&BUF13>,Do you like me?<D3><CF><&BUF13>
+017,0x3de8c3,前の マスタ-のこと<CD>すきだったかな?<CF><&BUF13>,Did you like your previous Master?<D3><CF><&BUF13>
+018,0x3de8c5,じゅんせいパ-ツで 租みあげたら<CD>つよいと 思うんだけど?<CF><&BUF13>,I think you'd be stronger<D3>if you built it with stock parts.<CF><&BUF13>
+019,0x3de8c7,今の そうこうだったら あんしんして<CD>ロボトルに さんかできる?<CF><&BUF13>,"With your current armor, can you<D3>join the Robattle without worry?<CF><&BUF13>"
+020,0x3de8c9,お前が そうびしてる パ-ツの<CD>のうリょくは つよいと 思う?<CF><&BUF13>,Do you think the abilities of the<D3>parts you're wearing are strong?<CF><&BUF13>
+021,0x3de8cb,どっちかと いえば お前のロボトルは<CD>「スピ-ドじゅうし」かな?<CF><&BUF13>,"If you had to say, is your Robattle<D3>style ""speed-focused""?<CF><&BUF13>"
+022,0x3de8cd,ここのマップの せんとうフィ-ルドと<CD>脚部パ-ツの あいしょうは どう?<CF><&BUF13>,How well does this area's battle field<D3>work with your leg parts?<CF><&BUF13>
+023,0x3de8cf,この 脚部パ-ツの のうリょくって<CD>どうかな?<CF><&BUF13>,What do you think of this leg<D3>part's abilities?<CF><&BUF13>
+024,0x3de8d1,この 脚部パ-ツを つけてたら<CD>行動が せいこう しやすいかな?<CF><&BUF13>,Will actions be more likely to succeed<D3>with these leg parts equipped?<CF><&BUF13>
+025,0x3de8d3,今の パ-ツの 租み合わせって<CD>かっこいいと 思う?<CF><&BUF13>,Do you think your current part<D3>combination looks cool?<CF><&BUF13>
+026,0x3de8d5,ぼくも だいぶ せいちょうしたよね?<CD><CF><&BUF13>,"I've grown quite a bit, haven't I?<D3><CF><&BUF13>"
+027,0x3de8d7,お前らは い-よな- 学校も<CD>しゅくだいも ないんだからさ-<CF><&BUF13>,"You guys have it easy, huh? No school<D3>and no homework!<CF><&BUF13>"
+028,0x3de8d9,ちょうしは どう?<CD><CF><&BUF13>,How are things going?<D3><CF><&BUF13>
+029,0x3de8db,これから どうしようか?<CD><CF><&BUF13>,What should we do from here?<D3><CF><&BUF13>
+030,0x3de8dd,きのう 変なゆめ 貝たんだけど<CD>お前は どんなゆめを 貝たの?<CF><&BUF13>,I had a weird dream yesterday.<D3>What kind of dream did you have?<CF><&BUF13>
+031,0x3de8df,ぼくに 言いたいこととか ない?<CD><CF><&BUF13>,Is there anything you want<D3>to tell me?<CF><&BUF13>

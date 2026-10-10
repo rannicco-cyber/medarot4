@@ -1,0 +1,872 @@
+@000
+Kadun todella... anteeksi.
+Älä enää unohda, että olemme tovereita.
+No niin! Mennään!
+Seuraavaa taistelua varten treeniä! Treeniä!
+...Arikan kanssa mikä tahansa vihollinen
+hajoaa varmaan kevyesti, eikö?
+Potk!
+Hauh!
+@001
+Aah, hän ei liikahdakaan, nääs!!
+H-hei! Ryhdistäydy!!
+Iso kuhmu...
+Näyttää kipeältä, mur.
+Pelottavampi kuin tyttöjen kerhon johtaja, jes...
+Älä vertaa Ruriyoon...
+@002
+Hei, ryhdistäydy oikeasti!
+Aah, älä ravista häntä!
+...Hän taisi vain menettää tajuntansa.
+Ei auta. Kannetaan {BUF03} kotiin.
+Niin... varovasti.
+Tiedän.
+@003
+{BUF03}, oletko kunnossa?
+U-uuhh~
+@004
+Häh? Missä olen?
+Huoneessasi. Älä enää huolestuta minua.
+@005
+Häh? Miksi Arika on meillä?
+Öh... no, se oli vähän minun syytäni...
+Ai, nyt muistan... Anteeksi, että huolestutin.
+Ei se mitään. Tänään mennään Toranishiin.
+Selvä. Odota alakerrassa, tulen heti.
+@006
+Arika, onko {BUF03} hereillä?
+On, rouva. Hän tulee kohta alas.
+Anteeksi kovasti,
+että jäit yöksi hoitamaan häntä.
+A-ahahaha, ei se mitään. Ei tarvitse murehtia.
+Se oli osittain minun syytäni.
+Olet kiltti tyttö, Arika.
+Huoh~ kunpa sinunlaisesi tyttö kutsuisi minua "äidiksi"~
+Sellaista on vielä liian aikaista!!
+Joten joskus kutsut minua vielä "äidiksi"♥
+Ah...
+Odotan sitä päivää innolla♪
+K-kyllä.
+Aamiainen on valmis. Istu ja odota.
+Selvä~♪
+@007
+Huomenta, {BUF03}. Aamiainen on valmis.
+Selvä~
+@008
+Syödään~
+Syödään~
+@009
+Mums mums... Aamuisin\nkinkkumunat ovat parhaita.
+@010
+Laitatko vieläkin majoneesia\nkinkkumuniin?
+@011
+Se on hyvää. Kokeile sinäkin.
+@012
+En ikinä. Minulla on oma juttuni.
+@013
+Kastike kinkkumunissa on minusta harvinaista...
+Onko?
+@014
+Kiitos ruoasta~
+Kiitos ruoasta, rouva.
+Ole hyvä. Te kaksi menette tänään treffeille, eikö?
+@015
+(Milloin siitä tuli sellaista!?)
+@016
+(Sanoin, että lähdemme yhdessä, ja se muuttui siksi.)
+(Enhän voi sanoa rouvalle, että "hyökkäämme Toranishiin
+kaatamaan neljä kuningasta"!!)
+(Ai, totta sekin...)
+Mitä te kaksi supisette?
+@017
+E-ei mitään! Mietimme vain, minne mennä tänään~
+Vai niin.
+Annan {BUF03}:lle ylimääräistä taskurahaa.
+Oikeasti!?
+Ovathan nämä treffit.
+Osta Arikalle vaikka lahja♪
+Ai, joo, niin.
+@018
+Kiitos, rouva.
+Ei kestä, tulevan tyttäreni vuoksi♥
+R-rouva!!
+? ? ?
+Mennään, {BUF03}!
+Häh? Häh?
+@019
+Onpa he hyvissä väleissä~
+Kenetköhän pyytäisin puhemieheksi?
+@020
+Mikä hätänä, Arika?\nOlet niin hätäinen...
+@021
+E-ei mitään.
+Hmm, no, olkoon.
+Toranishiin mennään
+luonnonpuiston vasemmalla puolella olevan mutaluolan kautta.
+Ai niin, kuulin eilen,
+että Odoro-vuorelle on ilmestynyt "kuljettajaksi" itseään kutsuva Medabotti.
+Aikaa on vielä, joten voisimme käydä katsomassa.
+@022
+Ovi on lukossa.\nSisään ei pääse.
+@023
+Arika, pidä huolta pojastani♪
+Selvä~♪
+@024
+"Lava huollossa", vai.\nMitähän täällä tehdään?
+@025
+Käyttö toistaiseksi kielletty...
+@026
+Ai niin, minun pitää\nkertoa sinulle jotain.
+@027
+Mitä nyt, noin vakavana?
+Kuule, Omikujista lähdöstä Kameyamaan asti
+olen luottanut sinuun koko ajan, eikö?
+Ei se niin ole.
+Ei tarvitse puolustella!
+Joo...
+Olen robottelussa heikompi kuin sinä.
+Ei se...
+Sanoin, ettei tarvitse puolustella!!
+.........
+Minusta tämä ei käy.
+Joten tästä lähtien teen sitä, mitä osaan...
+Ajattelin tukea sinua keräämällä tietoa.
+Häh?
+@028
+Emme siis voi enää olla aina yhdessä.
+Se...
+@029
+Ahahaha!
+@030
+Ei ollut minun tapaistani. No, niin se nyt on!
+Joo, niin.
+Arikan tiedonkeruuseen voi luottaa...
+Häh?
+Hm?
+@031
+N-no, kun kerran tuen sinua,
+saat luottaa minuun paljon enemmän♪ Yritän kovasti!
+Sinulla voi tosin olla yksinäistä.
+Joo, olen kiitollinen.
+Yksinäistä on, mutta minkäs teet.
+Jos tulee ikävä, voit tulla tapaamaan milloin vain♪
+@032
+......Minullakin on\nikävä, tiedäthän.
+@033
+Ah, te!? On kunnia tavata!
+Voisinko kätellä?
+Ai, toki...
+Kyyyy~~~ En pese tätä kättä vähään aikaan!
+@034
+Ah, piikatyttö! Vaihdoitte mekkoon!
+Kyyy~~~ Tuo raikkauskin on ihanaa!
+@035
+Sazanka on Kokuenin vallassa!
+Uhmaajat saavat kärsiä!!
+@036
+Tosi söpö piikatyttö juoksi juuri tästä ohi.
+En ole nähnyt häntä täällä ennen. Kukahan hän on...?
+@037
+Että se piikatyttö kukisti\nSazankan dojon mestarin...
+@038
+Olen Piikatytön faniklubin\njäsen numero 3!
+@039
+Oletko se kuuluisa piikatyttö? ...Söpö olet.
+Ymmärrän, miksi meidän pojat hölmistyvät.
+Kävisitkö näyttäytymässä meidän hölmöille?
+He ilahtuisivat.
+@040
+Kas, piikatyttö.
+Incognitona tänään? Sinullakin on rankkaa...
+Täkäläinen faniklubi on kiihkeä,
+joten jotkut tunnistavat sinut silti.
+@041
+Häh? Kuka sinä olet!
+Et kai aio uhmata meitä?
+@042
+Joku söpö piikatyttö on\nkuulemma ilmestynyt.
+@043
+Meidän pojat ovat hiljattain
+perustaneet Piikatytön faniklubin...
+Kun hänestä kohistaan näin, haluan itsekin tavata hänet.
+@044
+Sinä olet se kuuluisa piikatyttö!
+Hei, onko totta, että kaadoit neljä kuningasta hurmaavalla pamauksella?
+Tarina alkaa muistuttaa rikkinäistä puhelinta...
+@045
+Ah, piikatyttö on muuttunut mekkotytöksi!
+Hienoa, piikatyttö osaa muuntautuakin!
+@046
+Ostoksille♪ ostoksille♪\nIsännän puolesta ostoksille♪
+@047
+Oliko äskeinen piikatyttö? Oliko hän ostoksilla?
+Hoitaa asiat itse, onpa reipas~~♪
+@048
+Tiedätkö sen piikatytön?\nKoko kaupunki puhuu hänestä.
+@049
+Kokuen-kaarti on kuulemma
+muuttunut Piikatytön faniklubiksi.
+Piikatyttö on tosiaan suuri.
+@050
+Te...!!
+Tervetuloa tällaiseen rähjäiseen paikkaan!!
+@051
+Ugh...
+Nuo paljaat olkapäät ovat minulle liikaa!
+@052
+Ei haluta, että Select-joukot tulevat taas.
+Älkää tekään aiheuttako hälinää.
+@053
+Näin äsken kaupan paluumatkalla
+tosi söpön tytön~ Huoh~ haluan nähdä hänet taas...
+@054
+Minä olen Piikatytön faniklubin\njäsen numero 2!
+@055
+Te olette enkelimme!!
+Ah, kiitän jumalia tästä kohtaamisesta!
+@056
+Ah! Olette nyt kuin
+Sazankaan laskeutunut keiju!!
+@057
+Nyt on vaikea kohta.\nÄlä puhu minulle!!
+@058
+Piikatyttö on enkelimme.
+Kukahan hän oikein on?
+@059
+Sinä olet piikatyttööö! Anna nimikirjoitus!!
+S-selvä!!
+Kirjoita "Takeshille".
+@060
+Sinä olet mekkotyttööö! Anna nimikirjoitus!!
+S-selvä!!
+Muista sydän♥
+@061
+Jihaa!
+Tämä on Kokuen-kaartin etulinjan tukikohtaaaa!!
+@062
+Kukaan ei palaa Kameyamaan!\nEtsimme piikatyttöä!!
+@063
+Jihaa jihaaa!!
+Tämä on faniklubin päämajaaa!!
+@064
+Piikatyttö! Että tapaan\nteidät täällä!!
+@065
+Tuokin asu on ihana!!
+@066
+Riehuminen on hauskaa,
+mutta jotain puuttuu...
+@067
+Miksemme palaa Kameyamaan?
+Emme ole enää Kokuenin kätyreitä.
+Olemme piikatytön faneja!!
+@068
+Kuka perusti Piikatytön faniklubin?
+Hämmästy: entinen neljän kuninkaan Kokuen itse!!
+Siinä Kokuen! Seuraan häntä minne vain~!
+@069
+Täkäläinen omistaja lähti jonnekin,
+joten minä hoidan paikkaa hänen puolestaan.
+@070
+Omistaja ei ole palannut.
+Mutta sijaisuus on hauskaa.
+@071
+Suojelemme rauhaa aamusta\niltaan!
+@072
+Olen Piikatytön faniklubin salainen jäsen!
+Leviääkö se faniklubi koko kaupunkiin!?
+@073
+Kokuen-kaartiksi itseään kutsuva ryhmä
+riehuu viime aikoina kaupungilla. Ikävää.
+@074
+Kokuen-kaarti on rauhoittunut viime aikoina.
+Kuulemma jokin piikatyttö liittyy asiaan. Kuka hän on?
+@075
+Kokuen-kaartiksi itseään kutsunut ryhmä
+vaihtoi nimensä Piikatytön faniklubiksi.
+@076
+Hei, leviääkö Piikatytön faniklubi koko maahan?
+Uskon... ettei.
+@077
+Debytoitko idolina nimellä Piikatyttö?
+En!!
+@078
+Uusi lukiolainen oli söpö,\nmutta äskeinen piika myös.
+@079
+Se piika pelasti kuulemma dojon Roborobo-jengiltä.
+Tarina on jossain kohtaa vääristynyt...
+@080
+Tässä kaupassa... on paljon\noutoja tyyppejä...
+@081
+Täällä on paljon outoja tyyppejä...
+mutta ruoka on yllättävän hyvää.
+@082
+Ngh... olet söpö! Hirveän söpö.
+Mutta huipputähden paikkaa en luovuta!!
+@083
+Ngh... että mekkokin sopii\nnoin hyvin. Epäreilua...
+@084
+Onko äskeinen piika uusi?\nHänestä tulee kova kilpailija.
+@085
+Se piika ei taidakaan olla uusi.
+No, huipputähden paikkaa en silti luovuta.
+@086
+Se sopii sinulle tosi hyvin~~ Sinulla on lahjoja!!
+En ole iloinen...
+@087
+Kas, vaihdoitko jo? Se\nsopi sinulle tosi hyvin~~~
+@088
+Kuulin, että voitit Roborobo-pomo Shiokaran!
+Arvasin, että sinusta on siihen~~♥
+Mistä tämä ihminen saa tietonsa...?
+@089
+Sazankan erikoisuus: miesten lähdevesi
+K-kiinnostavaa~~!
+@090
+Mutta en halua juoda sitä.
+@091
+Ah, te!? Tervetuloa\nSazankan dojolle!!
+@092
+Hmm... mekkoasukin on hyvä.
+@093
+Hävisin. Mene läpi!
+@094
+(Huokaus~~~~~~~~)
+@095
+Hm? Mitä tuijotat!!
+@096
+Päätin jäädä tänne ja\nharjoitella uudestaan.
+@097
+Tämä on häviäjien asunto. Robotteluissa häviävät
+saavat tämän hämärän huoneen...
+@098
+Tämä rakennetaan kuulemma uudelleen.
+Siitä on nyt jäänyt vain huono maine.
+@099
+Täällä pätee "vahvin on paras!"
+Me, jotka emme voita, olemme täällä luusereita...
+@100
+Ume-asuntolan lapset eivät pääse edes kylpylään.
+Vaikka se oli kaikkien kylpylä...
+@101
+Tämä puretaan kuulemma. Nyt kylpylään pääsee kuka vain,
+mutta tämä oli tavallaan rentoakin.
+@102
+Ennen Kokuenia tämäkin oli tavallinen dojo.
+Voi, antakaa nuoruuteni takaisin!!
+@103
+Hitsi, niitä ei voi\nmitenkään voittaa!!
+@104
+Sinä olet se kuuluisa piikatyttö...
+Ole voittoni jumalatar~~~~!!
+@105
+Vaikka kaarti on poissa, en\nvoita Matsu-asuntolan väkeä!
+@106
+Kunhan nykyinen elämä\nsäilyy, se riittää...
+@107
+Sinä olet se kaupungin kuuluisa piikatyttö...
+Onko totta, että suloisesta ulkonäöstä huolimatta kaadat karhun paljain käsin?
+En osaa sellaista...
+Niinpä. Eihän tyttö sellaiseen pysty.
+@108
+Nyt alkaa todellinen kisa!\nVoitan Matsu-asuntolan väen!
+@109
+Onkohan niiden Medabottien ja meidän Medabottiemme
+välillä jokin ero?
+@110
+Sinä olet se kuuluisa piikatyttö...
+Kiitos, että pelastit Sazankan...
+@111
+Medabotti ilman kolmea lakia, joka vain tottelee käskyjä...
+Kauhea ajatus.
+@112
+Tuo tyyppi tuossa miettii kaikkea liikaa.
+Kunhan nykyinen elämä säilyy, se riittää, eikö?
+@113
+Oletko se kuuluisa piikatyttö?
+Kiitos. Ansiostasi tuo hölmö lakkasi murehtimasta.
+@114
+Tuo tyyppi tuossa miettii kaikkea liikaa.
+Sazankassa on nyt rauha, joten mitä väliä?
+@115
+.........
+Se nukkuu sikeästi...
+tai pikemminkin toiminta on pysähtynyt.
+Miten se tehtiin naarmuttamatta sitä?
+@116
+Tämä on alun perin suuren joukon huone.
+Sitä on muokattu, joten se pitää korjata ennen käyttöä.
+@117
+Matsu-asuntolassa on vain kameyamalaisia,
+joten miksi kylpylässä on sazankalaisia?
+Ehkä täällä on salakäytävä.
+En kyllä halua robotella kylpylässä.
+@118
+Oletko se Sazankan kuuluisa piikatyttö?
+Olet kuuluisa Kameyamassakin.
+@119
+Tämä kylpylä on niin ihana, että tulin taas.
+Onko se vanhanaikaista?
+@120
+Kylvyn jälkeen hedelmämaitoa!
+Käsi lanteilla, kerralla alas!
+@121
+T-te...!! O-olen fani!
+Katso, Piikatytön faniklubin Kameyaman osaston jäsenkortti!
+Kuinka laajalle tämä faniklubi leviää...?
+@122
+Kaupan myyntipiste lopetettiin...
+Hedelmämaitoni...
+@123
+Tapasitko mestarimme?
+Noin äänekäs ihminen on aika harvinainen, eikö?
+@124
+Tunnetteko mestarin?
+Kun mestari kuuli, että teidät oli vangittu,
+hän lähti hädissään kylpylään päin.
+@125
+Sinä olet piikatyttö, joka voitti Roborobo-pomon.
+Olen itse asiassa faniklubin jäsen.
+@126
+Että mestari oli Roborobo-pomo...
+Noloa, mutta en huomannut mitään.
+@127
+Tätä sanotaan dojoksi, mutta se on oikeasti koulu.
+Täällä on siis tavallisia oppitunteja.
+@128
+Mestari lähti jonnekin.
+...Meidän kesken,
+minusta mestari on epäilyttävä. Pelkkä aavistus.
+@129
+Sinäkö olet se piikatyttö!?\nKyaa~ olen fanisi!
+@130
+Arvasinhan, tai mitä sanoisin...
+Mestari oli tosiaan syyllinen...
+@131
+Se uusi mestari
+tuli tänne samoihin aikoihin kuin Kokuen-kaarti.
+Eikö se kuulosta tosi epäilyttävältä?
+@132
+Mestari katosi. Epäilyttävää.
+@133
+Oo~ se kuuluisa piikatyttö?
+Yhtä söpö kuin kuulin~♥
+@134
+Hyvä, että mestari on poissa!
+Mutta miksi Homaresta tuli mestarin sijainen!?
+@135
+Uusi mestari on iäkäs,
+mutta robottelee todella hyvin. Kunnioitettavaa!
+@136
+Mestari meni kuulemma kylpylään.
+Vanhuksia kylpylä kai houkuttaa.
+@137
+Oletko se piikatyttö?
+...Et näytä kovin vahvalta.
+Ei, ei, ihmistä ei saa arvioida ulkonäön perusteella...
+@138
+Hämmästyin jo siitä, että mestari oli Roborobo-pomo,
+mutta vielä enemmän siitä, että piikatyttö voitti hänet.
+@139
+Huoh~ Kaartin takia on\nniin rankkaa~
+@140
+Ajattelen viime aikoina,
+että jonain päivänä ihana prinssi ilmestyy
+ja pelastaa meidät... Onko se outoa?
+@141
+Sinä.....
+Häh?
+@142
+Tuota......
+?
+Saanko kutsua sinua isosiskoksi?
+E-ei kiitos!!
+@143
+Miksi~! Miksi pelastaja ei ollut prinssi
+vaan piikatyttö!? Anna unelmani takaisin~~!!
+@144
+Tapasin hiljattain kohtaloni...
+A-ai jaa.
+Isosisko~ tule pian ryöstämään minut~~~~!!
+Ha-ha... hahaha...
+@145
+Ah! Yanagi! Sinähän olet Yanagi!
+Vau~ pitkästä aikaa! Mitä kuuluu?
+{BUF03} muisti Yanagin. Iloinen.
+Yanagi aina Kanin kanssa. Ei enää yksinäinen.
+Et ole enää yksinäinen, Yanagi. Hienoa~!
+@146
+Yanagi ja {BUF03} ystäviä.
+Joo, ystäviä!
+@147
+Ystävä löytyi. Hyvä.
+@148
+Kiitos, kun pelastit vuoren.
+@149
+Olen vuorella olevasta
+Shinobick-puistosta. Teemme ninjaesityksiä.
+Harjoituksissa sattui kommellus...
+@150
+Tämä tässä rikkoi ninjatalon.
+Siksi puisto on nyt suljettu.
+Sepä ikävää...
+@151
+Milloinkohan minut korjataan?
+@152
+Enkö ole vielä korjattu?
+Ei käy, että rikot tämän juuri pelastetun paikan taas,
+joten ole noin vielä hetki♪
+Julmaa~~~~!
+@153
+Voi, olet surkea.
+Häpeän...
+@154
+Aioin korjata sinut, mutta\nminne jalkaosa katosi?
+@155
+Etten löytänyt jalkaosaa,
+sitä en voi ikinä sanoa...
+@156
+No, minä pidän sinusta huolta, kunnes olet korjattu,
+joten kestä vähän aikaa♪
+(Kunpa tämä ei paljastuisi~)
+Olen kiitollinen...
+@157
+Tällä seudulla on viime aikoina ollut levotonta,
+ja kun olen täällä vieraana, ajattelin ryhtyä vartijaksi.
+Ai, minun tapauksessani vartijatar?
+@158
+Vartijatar... hieno sana.\nPidän siitä. Ufufufufufu
+@159
+Täällä ei ole enää levotonta,
+mutta rauhallinen elämä on houkuttelevaa.
+Jätän Shinobick-puiston ja keskityn vartijattareksi.
+@160
+Täällä Medaroad-kisat ovat tosi suosittuja.
+Erityisesti Akadaisho Kanehachillaan
+ja Aodaisho Maxsnakellaan.
+Ne ovat vahvoja! Monijalkaiset pärjäävät vuoristossa.
+@161
+Hm? Näit robottelevia Medabotteja?
+Ne olivat varmaan Akadaisho ja Aodaisho.
+@162
+Sinä... voitit Akadaishon ja Aodaishon
+ja pelastit Odoro-vuoren. Ei hassumpaa.
+@163
+Meidät kaikki hylkäsi medabottaaja.
+Siksikö, että olemme vanhoja malleja? Sitä emme tiedä.
+@164
+Pidätkö huolta Medabotistasi?
+Tietysti!
+Älä unohda noita sanoja. Älä tee niistä valhetta...
+@165
+Kiitos, että pelastit vuoren...
+@166
+.........
+.........
+............
+............
+@167
+...............
+...............
+@168
+Löysitkö minut!?
+Olipa hidasta...
+@169
+Näkyykö minua?
+No, vähän...
+@170
+Tämä on vuoristoa ja tosi vihreää,
+mutta kun ylittää järven ja menee etelään...
+siellä on kuulemma aavikkoa!
+@171
+Omikujista länteen on metsää,
+ja itään Medaropoliksen taakse on kuulemma meri!
+@172
+Olen viime aikoina miettinyt,
+että jättäisin Shinobick-puiston ja ryhtyisin matkaoppaaksi.
+@173
+Löysin joesta.
+...Mikä tämä on?
+@174
+Ah! Sinä olet se äskeinen!
+Kävi huonosti, robo. Älä kiusaa enää, robooo.
+Putositko sinäkin sillalta? ...Kömpelö.
+Ei kiinnosta ensin pudonneen puheet, robo.
+...Mitä?
+Ei mitään, robo.
+...No, tämän Roborobon voi jättää rauhaan.
+@175
+Kävi huonosti, robo...
+@176
+{BUF03}, voitko paremmin?
+@177
+Hmm, sankari...
+Ensi kerralla varaan "taikatytön" asun.
+(Armoa...)
+@178
+Kiitos, että pelastit\nOdoro-vuoren.
+@179
+{BUF03} siisti!\n{BUF03} siisti!
+@180
+{BUF03} kiitos!\n{BUF03} kiitos!
+@181
+Löytämäni katosi.\nEikö se ollut kala?
+@182
+Tällainen ajelehti.\nEn tarvitse, saat sen.
+@183
+Kiitos!
+Ei kestä.
+@184
+Tänne ajelehtii kaikkea.\nEnsi kerralla kalastan.
+@185
+Tiedätkö Shinobick-puiston?
+Siellä koko ninjakylä on muutettu huvipuistoksi.
+@186
+Siellä oli kuulemma tulipalo.
+Onkohan puisto kunnossa?
+@187
+Vuoren juurella on ilkivaltaa.
+Olkaa tekin varovaisia.
+@188
+Ilkivallan tekijät ovat kuulemma kadonneet.
+Hyvä niin.
+@189
+Tämä on Select-joukkojen Odoro-vuoren osasto!
+Täällä on tylsää. Robotelkaa kanssani!
+@190
+Sitten aloitetaan!
+Select Three! Tänne heeeti!!
+@191
+Se oli hauskaa!
+Robotelkaa kanssani taas joskus!
+@192
+Robotelkaa kanssani\ntaas joskus!
+@193
+"Medaroad-kisojen\nerikoisrata"
+@195
+Pitäkää huolta Namishimasta.
+@196
+Palaako rauha vai ei...\nSe ratkeaa pian...
+@197
+En ole hyvä robottelussa,
+mutta nyt teen, mitä voin.
+@198
+Tämä ovi ei aukea.
+@199
+Nyt kun piiloa vartioi harva,\nminun on tsempattava.
+@200
+Osaan vain robotella!
+Treenaisitko kanssani vähän?
+@201
+No niin, tästä tulee!!
+@202
+Treenataan taas joskus!
+@203
+Vai niin. Ensi kerralla sitten.
+@204
+Jos johtaja olisi täällä,
+minun ei tarvitsisi johtaa...
+@205
+Soluttautuminen opettajainhuoneeseen...
+Saatoin tehdä uhkarohkean päätöksen...
+@206
+Kokuen on vahva!
+Niin vahva, etten minä pärjää hänelle.
+@207
+Kokuen on vahva!
+Kunpa luonne olisi vähän parempi...
+@208
+Sinä olet se kuuluisa...
+Minusta tulee fani♥
+@209
+Kokuenin voitti kuulemma piikatyttö.
+Uskomatonta...
+@210
+Kokuen hallitsee Kameyaman ala-astetta voimalla.
+Kaikki eivät hyväksy häntä.
+@211
+Kaikki eivät hyväksy Kokuenia,
+mutta häntä ei voi uhmata.
+@212
+Johdan Piikatytön faniklubin
+Kameyaman osastoa.
+@213
+Kokuen on kukistettu,
+mutta koulun toipuminen vie aikaa.
+@214
+Rehellisesti sanottuna en pidä Kokuenista.
+On suuri virhe luulla, että voimalla saa kaiken.
+@215
+Jotkut taipuvat Kokuenin voiman edessä.
+Surullista...
+@216
+Aiheutimme sinulle vaivaa. Oikeastaan meidän
+olisi pitänyt hoitaa tämä.
+@217
+Minnekähän Kokuen katosi?
+Häntä ei ole näkynyt.
+@218
+Kokuen puuhaa taas jotain vanhassa koulussa,
+...mutta sen voi kai jättää omaan arvoonsa.
+@219
+Olen upouusi ekaluokkalainen.
+Ei voi olla!?
+@220
+Saankohan sata kaveria?
+Kuka tietää?
+Tässä koulussa ei ole edes sataa oppilasta.
+@221
+Minulla on itse asiassa ihan samannäköinen pikkuveli.
+Mikään ei enää yllätä minua...
+@222
+Hän on niin lapsellinen.
+A-ai jaa...
+@223
+Nyt kun hän on koululainen,
+voisi hän vähän rauhoittua.
+Oletko sinä oikeasti ekaluokkalainen?
+@224
+Piikanasuinen Jeanne d'Arc!\nSiistiä♪
+@225
+Piikanasuinen Jeanne d'Arc...\nHaluaisin tavata hänet.
+@226
+En ole viime aikoina käynyt\nedes opettajainhuoneessa.
+@227
+Turha vastustaa. On vain\npysyttävä hiljaa.
+@228
+Olen sinulle kiitollinen. Kiitoksen merkiksi
+liityin faniklubiinkin.
+@229
+Opin tästä itsekin paljon.
+Koulun jälleenrakentaminen on nyt meidän tehtävämme.
+@230
+Tunnit ovat niin tylsiä,\nettä ei jaksa!
+@231
+En ole muuten avannut\noppikirjaa aikoihin.
+@232
+Piikanasuinen Jeanne d'Arc!\nO-oletko aito?
+@233
+Kunnollisista tunneista on\ntuntunut kuluneen ikuisuus.
+@234
+Kun tunteja ei ole, on niin\nhelppoa~ Kekeke!
+@235
+Kun ei ole tekemistä,\non tylsää~
+@236
+O-olen fanisi!
+Uhhuh~ en kai näe unta?
+@237
+Hei, kuuntele!
+Sain kokeesta täydet pisteet!
+Opiskelu voi olla välillä kivaa~
+@238
+Kokuenia uhmaavat joutuvat\narestihuoneeseen~!
+@240
+M-mitä!
+Minä vain tottelin Kokuenin käskyjä!
+@241
+Kokuen hävisi noin vain!
+Sinä veit vapaapäiväni~!!
+@242
+Se Kokuenin kätyri on\nrasittava...
+@243
+Hän on kuin "kettu tiikerin\nnahoissa". Surkea...
+@244
+Sinä!
+Sano sinäkin hänelle jotain! ...Turhaa kai.
+@245
+Hän ei kadu vaan syyttää\nmuita. Ihan kamala.
+@246
+Pitääkö meidän totella\nKokuenia ikuisesti?
+@247
+Eikö meidänkin pitäisi nousta!?
+@248
+Oo! Jumalattaremme!
+@249
+Piikanasuinen Jeanne d'Arc on\nmeidän toivomme!
+@250
+Mutta mitä teemme ilman\nKokuenia?
+@251
+Tarvitsemme uutta toivoa!
+@252
+Sinä olet toivomme tähti!
+@253
+Piikanasuinen Jeanne d'Arc...
+Meidän on kerrottava hänen urotöistään kauan.
+@254
+Kokuenin viimeaikaiset teot\novat sietämättömiä!
+@255
+Meidänkin on pian tehtävä\npäätös.
+@256
+Kunnioitamme rohkeuttasi!
+@257
+Piikanasuinen Jeanne d'Arc...
+Hänen rohkeutensa muutti tämän koulun...
+@258
+Kokuen ärsyttää.
+@259
+Kärsivällisyys alkaa olla\nlopussa.
+@260
+Olet söpö♥ Ihan tosissani.
+@261
+Miten sen sanoisi...
+Voisin vaikka liittyä faniklubiin.
+@262
+Tiedän sen! Olet oikeasti kiltti.
+Mitä sinä höpiset?
+@263
+En luovuta, ennen kuin huomaat minut!
+Jatka kuolemaasi asti, hölmö.
+@264
+Vaikka piikatyttö ilmestyi, katson vain sinua!
+Älä puhu noloja!
+......Hölmö.
+@265
+Kokuen on kukistettu.
+Sinun ei tarvitse enää teeskennellä!
+En minä teeskentele.
+@266
+Voittaakohan Liberties\nKokuenin?
+@267
+Koulun ilmapiiri on kiristynyt...
+Taistelu on ehkä lähellä...
+@268
+Ansiostanne Kameyamaan\ntuli rauha!
+@269
+Piikanasuinen Jeanne d'Arc...
+Hän on kuulemma tosi söpö.
+@270
+Kaarti pelottaa, joten en\nuskalla mennä ulos leikkimään...
+@271
+Kaarti tuntuu muuttuneen\nvielä pelottavammaksi.
+@272
+Haluaisin olla vahva kuin sinä...
+@273
+Tunnetko faniklubin?\nOlen itsekin jäsen.
+@274
+Jos opettajat eivät auta meitä,
+keneen voimme luottaa?
+@275
+Opettajat tottelevat häntä.\nTämä koulu on mennyttä...
+@276
+Sinä! Ihailen sinua\ntosi paljon♥
+@277
+Piikatyttö! Sankari, joka\npelasti meidät!!
+@278
+Missä Libertiesin piilo onnnn!!
+@279
+Ei löydy sitten millään...!
+Missä niiden piilo oikein on!?
+@280
+Olisitte voineet kaataa Kokuenin
+ennen kuin aloin etsiä.
+@281
+Lopulta en löytänyt sitä...
+Missä se piilo oikein oli!?
+@282
+Voittaakohan Liberties Kokuenin?
+Kuka tietää?
+@283
+Olen aina halunnut kysyä siitä kampauksestasi...
+Se on harrastus.
+@284
+Piikatyttö ja se kameratyttö... sopivat yhteen.
+Siunataan heidät ennakkoluulottomasti.

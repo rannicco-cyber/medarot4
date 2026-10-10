@@ -1,0 +1,134 @@
+@000
+Vahinkoa yhden vihollisen\nkaikkiin osiin
+@001
+Vahinkoa jokaisen vihollisen\nyhteen osaan
+@002
+Kaikkien ampumaosien teho\nyhdistetään hyökkäykseen
+@003
+Joka käytöllä hyökkäysvoima\nkasvaa ja vahinko lisääntyy!
+@004
+Joka käytöllä puolustus\nkasvaa ja vahinko vähenee!
+@005
+Asettaa ansan, joka osuu\nlähitaisteluun ja ampumiseen
+@006
+Kaikille vihollisille haittatila\n"vaihtelu"
+@007
+Kaikille vihollisille haittatila\n"sidonta"
+@008
+Kaikille vihollisille haittatila\n"jatkuva vahinko"
+@009
+Kaikille vihollisille haittatila\n"pysähdys"
+@010
+Vahingoittaa vihollista ja\nkorjaa omia vaurioitaan
+@011
+Haittatila kaikille\nlentäville Medaboteille
+@012
+Haittatila kaikille\nsukeltaville Medaboteille
+@013
+Kaikkien liittolaisten havainto\nja naamiointi paranevat
+@014
+Kaikkien liittolaisten pääosilla\non enemmän käyttökertoja
+@015
+Taistelukentän maastoksi\ntulee "Aavikko"
+@016
+Taistelukentän maastoksi\ntulee "Hiekkakuoppa"
+@017
+Taistelukentän maastoksi\ntulee "Vuoristo"
+@018
+Taistelukentän maastoksi\ntulee "Tulivuori"
+@019
+Taistelukentän maastoksi\ntulee "Metsä"
+@020
+Taistelukentän maastoksi\ntulee "Viidakko"
+@021
+Taistelukentän maastoksi\ntulee "Kaupunki"
+@022
+Taistelukentän maastoksi\ntulee "Stadion"
+@023
+Taistelukentän maastoksi\ntulee "Vesi"
+@024
+Taistelukentän maastoksi\ntulee "Jäätikkö"
+@025
+Taistelukentän maastoksi\ntulee "Avaruus"
+@026
+Taistelukentän maastoksi\ntulee "Kyber"
+@027
+Laukaisee satunnaisesti\njonkin kaikista Medavoimista
+@028
+Yli 30 % todennäköisyys tuhota\nsamalla linjalla oleva vihollinen
+@029
+Yli 60 % todennäköisyys tuhota\nsamalla linjalla oleva vihollinen
+@030
+Yli 90 % todennäköisyys tuhota\nsamalla linjalla oleva vihollinen
+@031
+Nostaa jalkaosan\n"työntövoima"-arvoa
+@032
+Nostaa jalkaosan\n"liikkuvuus"-arvoa
+@033
+Nostaa jalkaosan\n"puolustus"-arvoa
+@034
+Nostaa jalkaosan\n"lähitaistelu"-arvoa
+@035
+Nostaa jalkaosan\n"kaukotaistelu"-arvoa
+@036
+Kaikkien osien iskut\naiheuttavat 60 vahinkoa
+@037
+Kaikkien osien iskut\naiheuttavat 20 vahinkoa
+@038
+Kaikkien osien iskut\naiheuttavat 120 vahinkoa
+@039
+Vähentää jäljellä olevaa\naikaa: ratkaisu nopeutuu
+@040
+Lisää jäljellä olevaa\naikaa: ratkaisu hidastuu
+@041
+Kaikille vihollisille\nsekavuuden haittatila
+@042
+Sekoittaa kaikki Medabotit,\nsekä omat että viholliset
+@043
+Osille "optinen"-ominaisuus,\nteho kaksinkertaistuu
+@044
+Osille "optinen"-ominaisuus,\nteho kolminkertaistuu
+@045
+Osille "optinen"-ominaisuus,\nteho nelinkertaistuu
+@046
+Osille "räjähde"-ominaisuus,\nosuu aina ja läpäisee
+@049
+Osille "painovoima"-ominaisuus,\nonnistuminen kaksinkertaistuu
+@050
+Osille "painovoima"-ominaisuus,\nonnistuminen kolminkertaistuu
+@051
+Osille "painovoima"-ominaisuus,\nonnistuminen nelinkertaistuu
+@052
+Korjaa kaikilta liittolaisilta\n1 osan
+@053
+Korjaa kaikilta liittolaisilta\n2 osaa
+@054
+Korjaa kaikilta liittolaisilta\n3 osaa
+@055
+Korjaa kaikilta liittolaisilta\n4 osaa
+@056
+Elvyttää kaikilta liittolaisilta\n1 osan
+@057
+Elvyttää kaikilta liittolaisilta\n2 osaa
+@058
+Elvyttää kaikilta liittolaisilta\n3 osaa
+@059
+Muuntaa saadun vahingon\nvoimaksi ja hyökkää!
+@060
+Kaikkien osien iskujen vahinko\nkääntyy 100:n kohdalla
+@061
+Medamuutos estyy, eikä\nsitä voi myöskään perua
+@062
+Tuhoisku kaikkiin vihollisiin
+@063
+Taistelukentän maastoksi\ntulee "Piikkikuoppa"
+@064
+Taistelukentän maastoksi\ntulee "Laava"
+@065
+Taistelukentän maastoksi\ntulee "Puumeri"
+@066
+Taistelukentän maastoksi\ntulee "Näyttämö"
+@067
+Taistelukentän maastoksi\ntulee "Syvänmeri"
+@068
+Taistelukentän maastoksi\ntulee "Mikro"

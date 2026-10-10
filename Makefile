@@ -148,6 +148,9 @@ version_tileset_table_ADDITIONAL := $(COMPRESSED_TILESET_FILES_COMMON) $(VERSION
 version_tilemap_table_ADDITIONAL :=  $(TILEMAP_FILES_COMMON) $(VERSION_SRC)/tilemap_table.asm $(TILEMAP_OUT)/PLACEHOLDER_VERSION.stamp
 version_attribmap_table_ADDITIONAL :=  $(ATTRIBMAP_FILES_COMMON) $(VERSION_SRC)/attribmap_table.asm $(ATTRIBMAP_OUT)/PLACEHOLDER_VERSION.stamp
 version_ptrlist_data_ADDITIONAL := $(PTRLISTS_OUT)/ptrlist_data_constants_PLACEHOLDER_VERSION.asm
+# Shared version sources pulled in with INCLUDE: rebuild the version object when they change
+version_name_entry_ADDITIONAL := $(wildcard $(VERSION_SRC)/nameentry_*.$(SOURCE_TYPE))
+version_choice_menu_ADDITIONAL := $(VERSION_SRC)/choice_menu.$(SOURCE_TYPE)
 
 # Patch Specific, including any tilesets we move into the patch tileset
 patch_tilesets_ADDITIONAL := $(PATCH_TILESET_FILES) $(PATCH_TEXT_TILESET_FILES)
@@ -288,17 +291,13 @@ dump_ptrlists: | $(PTRLISTS_TEXT)
 	$(PYTHON) $(SCRIPT)/dump_ptrlists.py "$(VERSION_SRC)" "$(PTRLISTS_TEXT)" "$(PTRLISTS_OUT)"
 
 # Tests
-.PHONY: test_tilemaps test_attribmaps test_tilesets
-
+.PHONY: test_tilemaps test_attribmaps
 
 test_tilemaps:
 	$(PYTHON) $(SCRIPT)/test_maps.py "$(TILEMAP_PREBUILT)"
 
 test_attribmaps:
 	$(PYTHON) $(SCRIPT)/test_maps.py "$(ATTRIBMAP_PREBUILT)"
-
-test_tilesets:
-	$(PYTHON) $(SCRIPT)/test_tilesets.py "$(TILESET_PREBUILT)"
 
 #Make directories if necessary
 

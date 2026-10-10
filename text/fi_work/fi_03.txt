@@ -1,0 +1,14 @@
+@000
+Tähtää ensisijaisesti\njalkaosiin.
+@002
+Tähtää ensisijaisesti osiin,\njoissa ei ole tilavaikutusta.
+@003
+Tähtää ensisijaisesti osiin,\njoissa on eniten panssaria.
+@006
+Tähtää ensisijaisesti\n"Korjaa"- ja "Erikois"-osiin.
+@008
+Tähtää ensisijaisesti\n"Lyö"-tyyppisiin hyökkäysosiin.
+@010
+Tähtää osiin\nsatunnaisesti.
+@020
+Tähtää ensisijaisesti\n"Suojaa"- ja "Asenna"-osiin.

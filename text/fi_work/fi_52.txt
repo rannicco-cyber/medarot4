@@ -1,0 +1,873 @@
+@000
+Koko avaruuden!? ...Eli "robotteluliitto" on...
+Se on järjestö, joka levittää "robottelun piiriä"
+kauas muiden galaksien taakse. Seuraamme
+toimianne...
+siihen päivään asti, kun ihmiskunta lähtee avaruuteen.
+@001
+Mitä se oikein...!
+@002
+Yhteys katkesi...
+Tuntuu, että kuulin juuri jonkin valtavan mahtipontisen
+taustatarinan............ .................
+@003
+N-no, joka tapauksessa puhutaan ensin tiskin
+ankalle ja haetaan palkinto!
+@006
+Vihdoin tulit! Odotin sinua!
+Professori! Mikä on 6. danin koe?
+Odotahan. Ensin minun pitää tarkistaa,
+täytätkö ehdot. Ellet ole Medalinkissä sijalla 20
+tai paremmin, et pääse kokeeseen.
+Niin on sovittu. ...Katsotaanpa.
+@007
+Et näytä vielä täyttävän ehtoja...
+Minä odotan tässä, joten mene Medabottaajat-kauppaan
+nostamaan sijoitustasi!
+Selvä!
+@008
+Medalink on kunnossa.
+Onko Medaroad-kisan voittoja 30? ...Katsotaanpa.
+@009
+...Hyvä! Ei ongelmia!
+No, kerron sinulle: 6. danin koe
+on... joukkuerobottelu!
+@010
+Häh! Joukkuerobottelu!? Kenen kanssa?
+Näet pian! Mene nopeasti paikallesi.
+@011
+Professori! Mitä nämä Medabotit ovat!?
+Sinä muodostat joukkueen näiden Medabottien kanssa!
+...Ja vastustajasi ovat nämä!
+@012
+Vau!
+Kuulostaa hauskalta, eikö?
+Siirrä nyt kumppanisi.
+@014
+Robottelu alkaa!
+@015
+Voitin!
+@016
+Hyvä! Hyväksytty!
+Jee!
+@017
+Puhu minulle, kun olet valmis.
+Pidän sitten 7. danin kokeen.
+Selvä!
+@018
+Seuraavaksi 7. dan! Ennen koetta
+katson, onko Medalink-sijoituksesi
+15 tai parempi.
+@020
+Medalink on kunnossa.
+Seuraavaksi Medabird-kilpailun voitot!
+Onko niitä 30? ...Katsotaanpa.
+@021
+...Hyvä! Ei ongelmia.
+7. danin koe on pimeä robottelu!
+Näytä taitosi! Mene paikallesi!
+@022
+Medabottisiirto!
+@024
+Pimeä robottelu alkaa!
+@025
+Hyvä, hyvä! Teit hienosti. Hyväksytty!
+Jes!
+@026
+Seuraavaksi 8. dan!
+Puhu minulle, kun olet valmis!
+@027
+Seuraavaksi 8. dan! Medamestarin arvonimi
+alkaa vihdoin lähestyä!
+Kyllä!
+Mutta ennen sitä tarkistan, onko
+Medalink-sijoituksesi 10 tai parempi.
+@029
+Medalink on kunnossa.
+Seuraavaksi missikilpailun voitot!
+Onko niitä 20? ...Katsotaanpa.
+@030
+...Hyvä! Ei ongelmia!
+No, kerron sinulle: 8. danin koe on
+Peräti!
+@031
+6 vastaan 6 -selviytymisrobottelu!
+Mukaan voi ilmoittaa enintään 6 Medabottia!
+Jos haluat tosissasi haastaa itsesi,
+saat tuhota kaikki 6 Medabottia
+vain yhdellä!
+Haha... ha
+Mene nopeasti paikallesi!
+@035
+V...voitin...
+Hyvä! Loistavaa! Minäkin olen iloinen!
+...Seuraavaksi vihdoin 9. dan! Puhu minulle,
+kun olet valmis!
+9. danin jälkeen on vihdoin "Medamestari"!
+Kyllä!
+@036
+Korkein arvo, 9. dan! Tänne asti on päässyt
+sinun lisäksesi vain yksi...
+Kuka?
+Ahem. Sitä en voi vielä kertoa.
+Jos paljastan sen nyt, ei tule yllätystä, eikö?
+Onko se... ainoa syy pitää se salassa?
+...Eikö saa?
+Ei, saa kyllä...
+Joka tapauksessa! Ensin tavalliseen tapaan
+pitää tarkistaa sijoituksesi.
+Tällä kertaa ehto on sija 2! Tiukkaa!
+...Katsotaanpa?
+@038
+Medalink on kunnossa.
+Seuraavaksi...
+Medaspeed-kuningas, Medaroad-kisa,
+Medabird-kilpailu, pimeä robottelu...
+...ja lopuksi robottelun voittojen tarkistus!
+@039
+Iik!
+Ensin Medaspeed-kuningas.
+Voittoja vähintään 40.
+@040
+Kunnossa.
+Seuraavaksi Medaroad-kisa. Voittoja vähintään 20.
+@041
+Hyvä, onnistuu!
+Sitten Medabird-kilpailu. Voittoja vähintään 40.
+@042
+Hyvä, hyvä! Hyvältä näyttää!
+Sitten pimeä robottelu. Voittoja vähintään 20.
+@043
+Odotettavissa sinulta!
+Lopuksi robottelun voitot! Niitä vähintään 400!
+@044
+Kaikki kunnossa! Upeaa!
+No...
+No, kerron sinulle: 9. danin koe on
+........!!!!
+@045
+Kaksintaistelu!
+Kaksintaistelu...?
+Niin. Paras tapa tietää, kuinka paljon
+arvostat sidettä kumppaniisi, on
+robotella yksi vastaan yksi. ...No niin, mene nopeasti
+paikallesi!
+@049
+V...voitin...
+Niin arvelinkin... Kun näin oikeasti taistelee, sinun
+intohimosi Medabotteja kohtaan välittyy hyvin.
+Tämä taistelu oli todella upea!
+Professori...
+No niin, jäljellä on vihdoin enää "Medamestarin" arvonimi.
+Mene Medabottaajat-kauppaan
+ja kukista kärkisijan pitäjä!
+...Silloin kaikki arvoitukset ratkeavat.
+Arvoitukset...?
+Mene nyt. Ja tule sitten
+takaisin tänne... Selvä?
+Selvä! ...Teen parhaani!
+Hyvä, hyvä. Tsemppiä.
+@050
+Nouse kärkeen ja palaa tänne!
+@051
+Oo! Palasit!
+Professoriii...
+Hm? Mikä hätänä? Näytät väsyneeltä.
+Olisitte voinut kertoa minulle,
+että matkalla Medabottiyhtiöön
+minua haastaa kaikenlaisia medabottaajia!
+Jos olisin kertonut, se olisi ollut tylsää.
+"Tylsää"...
+Mutta! Kun olen päässyt tänne asti, saan
+"Medamestarin" arvonimen, eikö niin!
+Mitä sinä puhut? Loppukoe on vielä jäljellä.
+Huoh, arvasin sen...
+No niin, mene nopeasti paikallesi valmiiksi!
+@054
+Ai niin, ennen aloitusta pitää kysyä.
+Onko sinulla varmasti 3 Medabottia koottuna?
+Jotkin kokeet vaativat 3 Medabottia.
+@055
+...Ai!
+Mitä, etkö ole koonnut niitä? Kokoa ne nopeasti.
+Selvä, anteeksi...
+@056
+Kyllä! Kaikki kunnossa!
+Vai niin. Aloitetaan sitten.
+Ohjelma: Medaspeed-kuningas,
+Medaroad-kisa, Medabird-kilpailu,
+pimeä robottelu ja robottelu pelkällä kumppanilla!
+@057
+Mi!?
+Mennään! Medaspeed-kuningas alkaa!
+@058
+Huh, voitin.
+Seuraava!
+@059
+Ei voi olla! Professori huijaa!!
+@060
+Jotenkin...
+Ei ole aikaa levätä!
+@061
+Professori! Tämä menee jo liian pitkälle...!
+Riittää, että voitat minut!
+@062
+Professoriiii!
+Tämä on viimeinen!
+@063
+Voitiiin!
+@064
+Hyvä, hyvä! Hienosti tehty!
+Olet tosiaan kiistaton medabottaaja.
+Medamestarin arvonimi kuuluu juuri sinulle!
+Medabotti, joka kohtasi kanssasi kaikki koettelemukset,
+on paras kumppanisi!
+Ota tämä!
+@065
+Ja sitten tämä!
+@066
+Tämä on...
+Niin, se on medamestarin todiste,
+"Mestarimerkki"!
+Sen omistavat vain sinä ja Hikaru.
+Hikaru olikin vahva...
+...Ei siitä ole kyse, {BUF03}.
+Medamestarin arvonimeä ei anneta
+pelkästään robottelutaidon vuoksi.
+Se annetaan vain niille, jotka arvostavat sidettä Medabotteihin
+ja joiden katsotaan tehneen ihmisille ja Medaboteille
+suuren palveluksen.
+En itsekään tiedä robotteluliitosta paljon,
+mutta varmaa on, että se valvoo
+aina meitä medabottaajia.
+Professori, mitä "palvelus" tarkoittaa?
+Se tarkoittaa, että on tehnyt maailman ihmisille ja
+Medaboteille "jotain hyödyllistä".
+Hikaru pelasti aikoinaan kaupungin riehuvilta
+Medaboteilta. Hän on sankari. Ja niin olet sinäkin...
+@067
+!! Mutta miksi teillä, professori,
+ei sitten ole medamestarin arvonimeä?
+Juuri te ansaitsisitte sen...?
+Minullakin on sydän, joka rakastaa Medabotteja,
+mutta olen vain tutkija. Todellisen siteen
+Medabotteihin rakentaneille Hikarulle, sinulle ja ystävillesi
+en pärjää.
+Todellinen side...
+...............
+No, minä taidan palata laboratorioon.
+@068
+Todellinen "side"...
+@069
+Mitä sinä virnistelet?
+@070
+Sinä et osaa olla söpö edes tällaisella hetkellä!
+Mitä nyt? Sama koskee sinua. ...Voi että, heh.
+Hihi.
+Haha.
+Ahahahaha!
+Hahahaha!
+...Mennäänkö?
+Joo, mennään.
+@071
+Mitä sinä yksin virnistelet?
+@072
+Sinä et osaa olla söpö edes tällaisella hetkellä!
+Sinäkö sen sanot, tuon naamasi kanssa?
+Naamalla ei ole tekemistä asian kanssa!
+...Heh.
+Hihi.
+Haha.
+Ahahahaha!
+Hahahaha!
+...Mennäänkö?
+Niin, mennään.
+@073
+Mehän olemme parhaat kaverit!
+@074
+Joo! Pidetään yhtä jatkossakin!
+Voit luottaa minuun täysin! Jos joku kiusaa sinua,
+minä en jää hiljaa!
+Sinä hätäilet aina, joten olen huolissani.
+@075
+Hei, kuulin tuon!
+Haha.
+Hehe.
+Ahaha!
+Ahahaha!
+Mennäänkö?
+Joo! Mennään!
+@076
+Näytät kovin iloiselta.
+@077
+No, niin olenkin.
+Mutta olet kyllä aiheuttanut minulle paljon vaivaa.
+...No anteeksi vain!
+Mutta... nyt olen vilpittömästi iloinen,
+että hyväksyt minut kumppaniksesi.
+@078
+!! Harvinaista! Että sinä sanot noin!
+Taitaa alkaa sataa!?
+@079
+...Inhottava tyyppi.
+Vitsi, vitsi! ...Minäkin olen iloinen,
+että minulla on sinunlaisesi kumppani!
+Älä nyt murjota!
+Heh.
+Hihi.
+Hahaha.
+Ahahahaha!
+...Mennäänkö?
+@080
+...Mennään.
+@081
+No, medamestariksi pääsit
+minun ansiostani.
+@082
+Kuule, älä pilaa hyvää tunnelmaa.
+Mutta se on totta, eikö? Tähän päästiin
+alun perin siksi, että minä olin sinun... siis kumppanisi.
+Häh? Mitä sanoit?
+@083
+Olen hankala, joten en sano sitä toista kertaa!
+{BUF15}...
+@084
+No niin, mennään!
+Ei tästä tule mitään, jos vain vetkuttelemme tällaisessa paikassa.
+"Tällaisessa paikassa"? Tämä on kuuluisa Medabottiyhtiö!
+@085
+Kaikkialla on koneita, ja paikka on ihan mauton.
+Mitä vikaa siinä on, jos sanon "tällainen paikka"?
+Voi sinua~
+...Heh.
+Hihi.
+Ahaha.
+Hahhahhah!
+Ahahahaha.
+...Mennäänkö?
+Juuri niin! Mennään nopeasti!
+@086
+Minun mielestäni, jos me kaksi yhdistämme voimamme,
+ei ole mitään, mitä emme voisi tehdä.
+@087
+Olipa rohkea lausunto sinulta, joka
+olet aina liian varovainen!
+Hm? ...Ahem, no, niin se on.
+Minä luotan sinuun.
+...Niin minäkin sinuun.
+@088
+A-ahem.
+Mitä? Nolottaako?
+No, minun mielestäni tässä tapauksessa...
+Me olemme korvaamattomat kumppanit, eikö?
+@089
+Älä sano sitä ennen minua!
+Hihi.
+...Heh.
+Ahahaha!
+Hohhohhoh!
+...Mennäänkö?
+Hm, mennään.
+@090
+Että tällainen päivä koittaisi... En tiedä,
+mitä sanoisin...
+@091
+Se on siksi, että sinä autoit minua.
+Ei... minä... minä...
+@092
+Ä-älä itke!
+@093
+Medaboteilla ei ole kyyneliä.
+A-aivan! Hätäännyin vähän,
+kun luulin, että itket oikeasti!
+Mutta jos minulla olisi kyyneliä, naamani olisi
+kamala.
+Kamala naama?... Eli pääosa olisi
+kyynelten sotkema? Haha.
+On julmaa nauraa.
+Sori, sori!
+...Iloisena hymy on parempi kuin kyyneleet!
+Hihi, se on niin sinun tapaistasi, {BUF03}.
+Haha.
+Hihihi.
+Ahahahaha!
+.......
+.......
+...Mennäänkö?
+Mennään!
+@094
+Uskomatonta! Onkohan tämä unta?
+...Hei, saanko nipistää?
+@095
+Auts! Auts auts!
+@096
+Hei! Mitä sinä teet!
+Hyvä, tämä ei näytä olevan unta...
+Voi sinua~
+@097
+Ai, suutuitko? Suutuitko? Mutta kuule, kuule,
+en keksinyt muuta tapaa tarkistaa!
+Voi sentään...
+...Pfft.
+Ahah.
+Ahaha.
+Ahhahahaha!
+...Mennäänkö jo!
+Joo!
+@098
+Onko medamestari muka niin hieno juttu?
+...No, ihan sama.
+@099
+Kuule, miksi sinä sanot aina tuollaista?
+Sanoisit joskus suoraan
+"Onnittelut♥"
+...tai jotain sellaista.
+Hmm~...
+@100
+"Onnitteluu♥"
+@101
+...Näinkö?
+.........
+...No, olkoon.
+No, ihan sama~♥
+Sinun seurassasi voimat ihan valuvat pois...
+...Haha.
+Kuhuhu.
+Ahahaha.
+Ehehehehe.
+No niin, mennään!
+Jooo~ mennään~♥
+@102
+Selvä! Nyt tsempataan!!
+@103
+Hmm... et näköjään vielä täytä ehtoja.
+Ehdot ovat tiukat, mutta yritä kovasti
+kasvattaa voittojasi. Minä odotan tässä.
+Selvä!
+@104
+Kariiin~
+Kas, {BUF03}. Päivää.
+@105
+(Karin tuoksuu niin hyvältä~♥)
+Onko jokin vialla, {BUF03}?
+Häh? Ei, ei mitään...
+{BUF03}, robotellaanko?
+@106
+Joo, robotellaan.
+Täältä tullaan.
+@107
+Se oli hauskaa. Robotellaan taas♥
+@108
+Harmi.
+Robotellaan taas, kun sinulla on aikaa.
+@109
+{BUF03}, sinusta tuli medamestari.
+Onnittelut.
+Kiitos, Karin.
+Robotelisitko minunkin kanssani, jos haluat?
+@112
+Onkohan medamestareilla kiire?
+@113
+Moi, {BUF03}! Robotellaan!
+@114
+Sitä minäkin haluan!
+Se on minun repliikkini!
+@115
+Ei hassumpaa. Olet tosiaan kilpakumppanini.
+@116
+Mitä, menetitkö rohkeutesi?
+@117
+Moi, medamestari.
+Ikävä lempinimi.
+Haha, mitä vikaa siinä on?
+Mutta robotellaanko taas?
+@118#kabuto
+Mennään, ottelu alkaa!!
+@118#kuwagata
+Näytän, mihin pystyn tosissani!!
+@119
+Älä vie repliikkejäni!
+Mennään!!
+@120
+Se oli hauskaa. Robotellaan taas.
+@121
+Hei hei, oletko muka kilpakumppanini...
+@122
+Tämä on Grainin mitali.
+Kunpa se korjaantuisi pian.
+@123
+Tämä on Brossomailin mitali.
+Lepää täällä rauhassa, kunnes korjaannut.
+@124
+Päivää, professori!
+@125
+Oo, {BUF03}.
+Korjaan Grainin ja Brossomailin mitalit
+täällä varmasti, joten älä huoli.
+Kyllä!
+No, kun kerran tulit, kokeiletko monivalintavisaa?
+@129
+Päivää, {BUF03}. Sinusta tuli medamestari!
+Onnittelut.
+Tiesitkö jo, Nae?
+Hihi, tietenkin. Isoisä kertoi minulle
+heti ensimmäisenä, kovin iloisena.
+...Vaali tunteitasi Medabotteja kohtaan ja
+tee jatkossakin parhaasi.
+Kyllä!
+Lahjaksi haluaisin antaa sinulle yhden mitaleistani.
+Otatko sen vastaan?
+Häh, ai, kyllä! Kiitos paljon!
+Hihi, kasvata sitä huolella♥
+@130
+Robotellaanko?
+@131
+Vai niin...
+Ole sitten joskus vastustajani.
+@132
+Mennään sitten lavalle.
+@136
+Se oli hauskaa♥ Ole taas vastustajani♥
+Selvä!
+@137
+Voi että, miksi tämä on näin monimutkaista...
+Mitä teet, Hikaru?
+@138
+Ai, {BUF03}.
+Olen sentään lukiolainen. Pitää opiskella.
+@139
+!!!!!! Käytkö sinä koulua, Hikaru!!
+Mitä nyt~ Ei sitä tarvitse noin ihmetellä.
+Mutta... olet melkein aina lähikaupassa.
+Vaikka ei näytä siltä, käyn kyllä!
+Huoh~ En osaa kuvitella
+Hikarua koulupuvussa...
+Kuule nyt...
+@140
+Hikaru, opiskelussa tarvitaan välillä
+taukoakin. Robotellaan!
+Häh!?
+@141
+Olipa äkillistä.
+Se oli hyvää ajanvietettä, eikö?
+...Voi sentään.
+No niin, riittää jo, eikö? Minulla on kiire!
+Selvä~!
+@142
+Tuota, tämä menee näin...
+(Ei kai kannata häiritä liikaa...)
+@143
+Kröh... kröh...
+...Turhaa, hän nukkuu...
+@144
+Hikaru!
+@145
+M-mitä? Miksi huudat?
+Onko ihan oikeasti totta, että olit medamestari!?
+@146
+...!
+Vai niin, sinusta tuli medamestari, {BUF03}.
+Pitää sanoa onnittelut.
+Medalinkin ykkönen
+"Medamestari" oli sinä, eikö?
+Etkä ole koskaan sanonut sanaakaan...!
+...Jos olisin kertonut, se olisi ollut tylsää, eikö?
+Ei... sinäkin sanot samaa kuin professori...
+Haha, ei se sitä tarkoita.
+Se on jo mennyttä. Nyt minä
+haluan vain nauttia robottelusta
+yhtenä medabottaajana.
+...Professorin ja Naen kaltaisiin huikeisiin tutkimuksiin
+minun pääni ei kyllä riitä.
+Muuten, tunnetko Naenkin, Hikaru?
+...Hm? Ah, Nae on Kiraran tavoin
+lapsuudenystäväni. Olemme muuten samanikäisiä.
+Tosin hänen päänsä toimii eri tavalla kuin minun...
+@147
+Yllätys!
+Ehkä... teillä oli kolmiodraama?
+@148
+Ahahaha... Mitä sinä puhut?
+No-niin! Taidan lähteä töihin~
+@149
+Kiinnostaa~!
+@150
+...Vitsi vitsi, ei kai!
+@152
+Hikaru! Robotellaan!
+@153
+Hikaru~ Ota nyt tosissasi~
+Ei voi mitään. Tällainen minä nyt olen.
+@154
+Hikaru~ Ota nyt tosissasi~
+Ei häviäjän kuulu sanoa noin, eihän?
+@155
+Medaprize 100¥ kerta
+Ai, Medaprize-kone. Kokeilisinko vähän?
+@158
+Ai, minulla ei ole 100¥!
+@160
+Haluamani Medabotti, ja ruletissa...
+Tuohon!!
+@161
+Grr~~ Vielä kerran!!
+@162
+Treenaan Medalinkissä seuraavaksi medamestariksi!!
+@163
+Päivää, professori!
+{BUF03}. Anteeksi, minulla on nyt kiire.
+Vai niin... harmi.
+@164
+Päivää, professori!
+Tämä kemiallinen kaava...
+Professorilla näyttää olevan kiire...
+@165
+Tuota, professori...
+Tämä yhtälö... Hm? Onko asiaa?
+Itse asiassa Medakokeen tarkastaja...
+Medakoe?... Ai niin, minua pyydettiin tarkastajaksi.
+Mutta minä tarkastan vasta 6. danista alkaen.
+Anteeksi...
+......Minulla on seuraavaksi 6. dan...
+Joten minun vuoroni on...
+@166
+Mitä!? Oletko sinä jo päässyt
+6. daniin asti!?
+@167
+K-k-k-kyllä!!
+Siinä tapauksessa asia on toinen! Selvä! Jätä se
+minulle!
+Odotan Medabottiyhtiön lavalla!
+@168
+Hän ryntäsi pois hurjaa vauhtia...
+@169
+Oo, tulit.
+Päivää.
+Vihdoin medamestari.
+No...
+Pitäisi antaa jokin lahja.
+Ei, ei tarvitse!
+Älä nyt, ei se mitään.
+Niin, ota tuo Brossomail mukaasi.
+Häh?
+Siinä ei ole enää mitalia,
+ja mitalikin näyttää pelkäävän niitä osia.
+Meille on vain hyvä, jos viet sen pois.
+Ota se vain.
+Selvä, siinä tapauksessa.
+Jatka ahkeraa harjoittelua... No, minulla on
+vielä töitä.
+Mitä töitä?
+No no, unohditko? Grainin ja Brossomailin
+mitalien korjaus.
+@170
+Älä rasita itseäsi liikaa.
+Selvä...
+@172
+...{BUF03}.
+Mizuchi! Mitä teet täällä?
+Kysy siskoltani.
+Opettaja Ryuuko...?
+@173
+Tenryou, anteeksi...
+Mitä nyt yhtäkkiä?
+@174
+Sisko vei tietonne isän käskystä, eikö?
+Ai, joo.
+Ne tiedot lähetettiin isälle tutkittaviksi.
+Isä yritti luoda Medabotin, joka ylittäisi ne tiedot.
+Se on jo mennyttä, mutta miksi olette täällä?
+Se...
+Minä selitän loput.
+Tenryou, se Medabotti, jonka piti ylittää ne tiedot...
+oli jo valmis.
+Mitä!?
+@175
+Eikä siinä kaikki, vai?
+...Ei.
+Se pakeni kai siinä sekasorrossa
+ja riehaantui.
+@176
+V-voi ei!!
+@177#kabuto
+Se, jota kutsutaan Punaiseksi paholaiseksi, on rakennettu
+ylittämään tiedoissasi ollut Black Beetle.
+Heh, jännittävää, eikö? Kuinka vahva se mahtaa olla.
+Black Beetle!?
+@177#kuwagata
+Se, joka nimettiin Punaiseksi paholaiseksi, on rakennettu
+ylittämään tiedoissasi ollut Black Stag.
+Heh, jännittävää, eikö? Kuinka vahva se mahtaa olla.
+Black Stag!?
+@178
+Minäkin yllätyin, kun näin tiedot.
+Millainen Medabotti se oikein on?
+Se on erikoisvalmisteinen mitalista asti...
+Tuosta en ymmärrä paljon.
+Sillä ei ole väliä.
+Ei se Black-mikälie sentään riehaantunut.
+Mutta se on vahvempi kuin se Black.
+Hmph, kylläpä sanot.
+@179
+Kuka siellä!?
+@180#kabuto
+Vahvempi kuin minä, vai... Puhua voi mitä vain.
+Black Beetle!
+Vai tämä se on...
+Miksi se on täällä!?
+Siksi, että...
+Vugaaaaaaaah!!
+@180#kuwagata
+Hee, vahvempi kuin minä? Puhua voi mitä vain.
+Black Stag!
+Vai tämä se on...
+Miksi se on täällä!?
+Siksi, että...
+Vugaaaaaaaah!!
+@181#kabuto
+...nujertaakseni ne typerät kerskailijat!
+@181#kuwagata
+...nujertaakseni ne typerät kerskailijat!
+@182#kabuto
+Hmph, väität olevasi minua parempi, ja tässä kaikki?
+...Ei.
+...Niin.
+Tuo oli Black Mail,
+riehaantuneen Punaisen paholaisen prototyyppinä toiminut Medabotti.
+Punainen paholainen ei näytä olevan ainoa, joka pakeni.
+Eli on yksi vielä tuota vahvempi.
+@182#kuwagata
+Heh, väität olevasi minua parempi, ja tässäkö kaikki?
+...Ei.
+...Niin.
+Tuo oli Black Mail,
+riehaantuneen Punaisen paholaisen prototyyppinä toiminut Medabotti.
+Punainen paholainen ei näytä olevan ainoa, joka pakeni.
+Eli on yksi vielä tuota vahvempi.
+@183
+...Ei, kaksi.
+@184#kabuto
+Niitä tehtiin näköjään kaksi tyyppiä.
+Ei voi olla...
+Tsk...
+@184#kuwagata
+Niitä tehtiin näköjään kaksi tyyppiä.
+Ei voi olla...
+Tsk...
+@185#kabuto
+Tenryou {BUF03}! Ota minut mukaasi!
+Häh?
+@185#kuwagata
+Tenryou {BUF03}! Ota minut mukaasi!
+Häh?
+@186#kabuto
+Ainoa tavoitteeni on taistella Punaista paholaista vastaan!
+Pikkukaloista en välitä.
+Hei hei...
+@186#kuwagata
+Ainoa tavoitteeni on taistella Punaista paholaista vastaan!
+Pikkukaloista en välitä.
+Hei hei...
+@187#kabuto
+Ai, se meni Medakelloon!
+Tavallaan se on onnekasta.
+Vahva apuvoima Punaista paholaista vastaan.
+@187#kuwagata
+Ai, se meni minun Medakelloon!
+Tavallaan se on onnekasta.
+Vahva apuvoima Punaista paholaista vastaan.
+@188
+No, niin onkin, mutta...
+@189#kabuto
+En aio veljeillä kanssanne!!
+Voi sentään...
+@189#kuwagata
+En aio veljeillä kanssanne!!
+Voi sentään...
+@190
+Jos sinä taistelet, minäkin autan.
+Etkö tullut tänne alun perinkin taistelemaan...?
+Älä välitä. Se on fiiliskysymys.
+@191
+Tenryou, auta pysäyttämään Punainen paholainen.
+@192#kabuto
+Mitä nyt? Onko sinulla asiaa ulos?
+Ai, joo...
+@192#kuwagata
+Hm, mitä? Onko asiaa ulos?
+Ai, joo...
+@193#kabuto
+...No, olkoon.
+Hoida se nopeasti. Minä lepään täällä.
+Anteeksi, hoidan sen nopeasti.
+...Hmph.
+@193#kuwagata
+Selvä, hoida se nopeasti.
+Minä lepään täällä.
+Anteeksi, hoidan sen nopeasti.
+...Hmph.
+@194
+Onko asiaa ulos?
+Minä odotan täällä. Hoida se nopeasti.
+Odota hetki, tulen heti takaisin.
+Heh, älä välitä.
+@195#kabuto
+Vie minut nopeasti Punaisen paholaisen luo!
+Tiedän, tiedän.
+......Hmph.
+@195#kuwagata
+Vie minut nopeasti Punaisen paholaisen luo!
+Tiedän, tiedän.
+......Hmph.
+@196
+Tulit.
+Sori, että odotutin.
+Ei se mitään. Mennään.
+@197#kabuto
+Olet huoleton. Etsitään Punainen paholainen nopeasti.
+Tiedän, tiedän.
+@197#kuwagata
+Olet kyllä huoleton. Etsitään Punainen paholainen nopeasti.
+Tiedän, tiedän.
+@198
+Odota.
+@199
+Jos aiot jahdata Punaista paholaista, minäkin tulen.
+@200
+Odottakaa, minäkin tulen!
+@201
+Pysy poissa. Olisit vain tiellä.
+Mitä sinä sanot!
+Mitä sait aikaan Black Mailia vastaan?
+! Se...
+Opettaja Ryuuko, jättäkää tämä meille.
+Juuri niin.
+.........
+@202
+...Ei voi mitään. Minun voimani eivät näköjään
+riitä niitä vastaan. Jätän tämän teille kahdelle.
+@203
+No niin, mennään.
+Mizuchi, etkö sanonut vähän liikaa?
+Ei se haittaa. Ei tarvitse välittää.
+Hei hei...
+@204#kabuto
+Älä itse ole tiellä.
+...Kenenä sinä minua pidät?
+Mistä minä tietäisin.
+Hei hei, te kaksi.
+{BUF03}, mennään jo.
+Ai, joo...
+@204#kuwagata
+Älä itse ole tiellä.
+...Kenenä sinä minua pidät?
+Heh, en tiedä.
+Hei hei, te kaksi.
+{BUF03}, mennään jo.
+Ai, joo...
+@205
+Tsk... ärsyttävä tyyppi.
+@206
+Muuten, onko niillä kahdella Medabotilla nimiä?
+Kuulemma on, mutta tiedän vain nimen Punainen paholainen.
+Vai niin...

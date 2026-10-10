@@ -113,7 +113,7 @@ MedawatchPositionOverlayState::
   ld a, $68
   ld [W_ShadowREG_WY], a
   ld a, 1
-  call LCDCTileOverlaySetVisibility
+  call StaticLabelsPanelRedraw ; Finnish hack: repairs the panel text, then LCDCTileOverlaySetVisibility
   jp IncSubStateIndex
 
 PauseMenuSlideInOverlayState::

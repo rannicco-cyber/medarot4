@@ -1,0 +1,874 @@
+@000#kabuto
+Yhden nimi on Belzelga.
+Toisen nimi on Brossomail. Sellainen nimi sillä kuulemma on.
+Belzelgan nimen olen kuullut,
+mutta Brossomail on ensikuulemalta outo.
+Samoin. Belzelga menee vielä,
+mutta Brossomailin ulkonäöstäkään ei ole tietoa...
+Vain että nimensä mukaisesti "Punainen paholainen" on punainen Medabotti.
+Vau, tiedätpäs paljon.
+Tämän verran.
+.........
+Mistä sinä sen tiedät?
+Koska minun tietoni varastettiin.
+Minut oli vangittu niiden laboratoriossa.
+Anteeksi...
+Pidä huoli, ettei minua enää viedä.
+Tiedän.
+Hyvä.
+@000#kuwagata
+Toisen nimi on Belzelga ja toisen Brossomail, kuulemma.
+Belzelgan nimen olen kuullut,
+mutta Brossomail on ensikuulemalta outo.
+Samoin. Belzelga menee vielä,
+mutta en tiedä, minkä näköinen Brossomail on...
+Kuulemma se on nimensä mukaisesti punainen, "Punainen paholainen".
+Vau, tiedätpäs paljon.
+Tämän verran.
+Mistä sinä sen tiedät?
+Koska ne veivät minun tietoni.
+Olin vankina niiden laboratoriossa.
+Anteeksi...
+Pidä huoli, ettei minulta enää viedä mitään.
+Tiedän.
+Hyvä.
+@001
+Hei, etene jo.
+@002
+Anteeksi, tulen heti.
+@003#kabuto
+Mikä äänekäs kaveri.
+@003#kuwagata
+Äänekäs tyyppi, vai mitä.
+@004
+.........
+@005#kabuto
+! Jotain on tuolla!!
+@005#kuwagata
+! Jotain on tuolla!!
+@006
+Onko se Brossomail!?
+@007
+Ei... ei se.
+@008
+Kihi! Ihminen tällaisessa paikassa? Harvinaista...
+@009#kabuto
+Sinä olet... Belzelga!?
+Tämä on siis Belzelga...
+Varo, sillekään ei ole olemassa 3 lakia.
+Sillä ei ole väliä. Kaadan sen, ja sillä hyvä!
+Kihah! Naurattavaa. Olen kehittynyt Medabotti.
+Te ette ole minun veroisiani! Ette millään!!
+Puhu pukkaa!!
+@009#kuwagata
+Sinä olet... Belzelga!?
+Tämä on siis Belzelga...
+Varo, sillekään ei ole olemassa 3 lakia.
+Yksi lysti. Kaadetaan se, ja sillä hyvä!
+Kihah! Naurattavaa. Olen kehittynyt Medabotti.
+Te ette ole minun veroisiani! Ette millään!!
+Puhu pukkaa!!
+@010#kabuto
+Ei... ei voi olla...
+Miksi...
+...Koska olet heikko.
+Hihah! En anna anteeksi...
+En anna anteeksi!!
+Teidänlaisenne...
+A l e m m i l l e   o l e n n o i l l e e e e e e!!
+@010#kuwagata
+Ei... ei voi olla...
+Miksi...
+Koska olen vahvempi, selvä se.
+Hihah! En anna anteeksi...
+En anna anteeksi!!
+Teidänlaisenne...
+A l e m m i l l e   o l e n n o i l l e e e e e e!!
+@011
+Se pakeni!?
+Tsk...!
+@012#kabuto
+Tuossa kunnossa se on ottanut pahasti vahinkoa.
+Kauas se ei pääse.
+Oikeasti?
+Jos se pakenee ulos, siitä tulee vaivaa. Kiirehditään.
+S-se on totta!
+@012#kuwagata
+Tuossa kunnossa se on ottanut pahasti vahinkoa.
+Kauas se ei pääse.
+Oikeasti?
+Jos se pakenee ulos, siitä tulee vaivaa. Kiireellä!
+N-niin!
+@013
+Mennään. Se ei ole ainoa vihollinen.
+@014#kabuto
+Seis!
+@014#kuwagata
+Seis!
+@015
+Mikä hätänä, Black?
+@016#kabuto
+...Mitä? Mikä tämä karhea paine on?
+@016#kuwagata
+...Mitä? Tuntuu todella pahalta.
+@017
+Ruuoooooooooh!!
+@018
+M-mitä tuo on!?
+@019#kabuto
+...Se on se. Punainen paholainen Brossomail.
+@019#kuwagata
+...Ei kai? Punainen paholainen Brossomail?
+@020
+...Lähellä.
+.........
+Edetään varovasti.
+Joo.
+@022
+Tämä huuto... onko se se!?
+@023
+Punainen keho...
+@024
+B-Brossomail...
+@025
+Ruuoooooooooh!!
+@026#kabuto
+Tämä on siis Brossomail! Hmph, viihdytä minua!!
+@026#kuwagata
+Tämä on siis Brossomail! Minä kaadan sen!!
+@027
+Ti-tuliko se voitettua?
+...Näyttää siltä.
+@028#kabuto
+Siinäkö kaikki? Pehmeää...
+@028#kuwagata
+Siinäkö kaikki? Antikliimaksi.
+@029
+Hyaaa-hahahahahaha!!
+@030#kabuto
+Tsk!
+@030#kuwagata
+Tsk!
+@031
+Tenryou {BUF03}! K u o l e eeeeeeee!!
+@032#kabuto
+Gh!
+@032#kuwagata
+Gh!
+@033
+Sattuu! Minuunkin sattuu!!
+@034
+Black!
+@035#kabuto
+Älä päästä vartiota alas, tyhmä...
+@035#kuwagata
+Älä löysäile, tyhmä...
+@036
+Tsk, onnekas kaveri...
+@037
+Palauta se äkkiä Medakelloon!
+! Aivan!
+Palaa!
+@038
+Pitää viedä se äkkiä Medabottiprofessorin luo...
+...Ei auta. Älä unohda Brossomailia.
+Ai niin!
+@039
+...Tuossa kunnossa sekään ei varmaan selviä.
+@040
+Hmm...
+@041
+Tämä on saanut kovan kyytiä.
+@042
+Entä Black...
+@043
+Vahinko yltää tinpetiinkin asti.
+Tein toistaiseksi ensiavun, mutta rasitusta on vältettävä.
+Se on siis turvassa. Onneksi!
+Entä Brossomail?
+@044
+Osat saadaan kuntoon, mutta mitali on hankalampi.
+Voi ei...
+@045
+En sano, ettei se korjaantuisi. Siihen vain menee aikaa.
+Kuinka kauan?
+...Vähimmilläänkin arvioiden puoli vuotta.
+Puoli vuotta!?
+Sen verran se siis vie...
+Näyttää siltä, että tämäkin on altistettu
+resonanssijärjestelmäkokeille. Ja ne ovat epäonnistuneet.
+Jälkivaikutusten korjaamiseen menee aikaa.
+Vai niin...
+Kyllä minä sen korjaan. Jätä se minulle.
+...Selvä!
+@046
+Black, oletko kunnossa?
+@047#kabuto
+...Missä tämä on?
+Medabottitutkimuslaitoksella.
+...Entä Belzelga?
+Se putosi sen jälkeen jokeen ja virtasi pois.
+Sen takana on vesiputous. Vaikka kuinka kestävä Medabotti, ei se selviä vahingoittumatta.
+...Vai niin.
+Lepää nyt rauhassa, onko selvä?
+......Hyvä on.
+@047#kuwagata
+...Missä tämä on?
+Medabottitutkimuslaitoksella.
+...Mitä sille tyypille kävi?
+Se putosi sen jälkeen jokeen ja virtasi pois.
+Sen takana on vesiputous. Vaikka kuinka kestävä Medabotti, ei se selviä ihan ehjänä.
+...Vai niin.
+Joka tapauksessa lepää nyt rauhassa, onko selvä?
+......No, ei auta.
+@048
+Professori, tutkimus siitä riehuvasta Medabotista...
+Hups, tekin olitte täällä.
+Päivää, Retort.
+.........
+Ei haittaa. Nämä lapset kuulemma hoitivat sen.
+Vai niin, todellako?
+Nyt se on jo kunnossa.
+.........
+Retort?
+Silloin teillekin on syytä kertoa.
+Mitä?
+Se riehunut Medabotti kuulemma pakeni länteen.
+Mitä? Mehän voitimme ne...
+Tuossa tilanteessa ei voi olla ehjänä.
+Toki voi olla kokonaan eri Medabotti.
+Tieto on kuitenkin vahvistamaton.
+@049
+Lännessä on Shinran metsä.
+Täytyy tutkia asiaa.
+@050
+Lähdetkö?
+Tutkin asiaa omin päin.
+Vai niin... Ole varovainen.
+@051
+Retort, minäkin tutkin sitä.
+Vai niin. Jätän tämän asian sitten teille.
+Minulla on muutakin tekemistä vaikka kuinka paljon.
+Onko työpaikalla kaikki kunnossa?
+Kyllä. Jätin sijaisen.
+Sijaisen?
+@052
+Agata, tee nyt töitä kunnolla~
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@053
+...Agata-nukke taas?
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@054
+Pomo~! Agata lintsaa taas~!
+Anna olla, jätä rauhaan!
+@055
+Mistä tällaisen nuken on oikein saanut?
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@056
+Pomo~! Mitä tälle nukelle tehdään~?
+Anna olla, jätä rauhaan!
+@057
+Pomo?
+Anna olla, jätä rauhaan!
+@058
+Ei kai!
+Anna olla, jätä rauhaan!
+@059
+Tämä on... nauhuri!? Pomo, sinä pakenit!!
+Anna olla, jätä rauhaan!
+.........
+Anna olla, jätä rauhaan!
+.........
+Läts♥
+@060
+Aaah, olenko tässä kaupassa nyt vain minä!?
+@061
+Onko oikeasti kaikki hyvin?
+H-hahahaha...
+@062
+...Karkasi.
+@063#kabuto
+Ota minut mukaasi...
+@063#kuwagata
+Vie minut mukaasi...
+@064#kabuto
+Black! Älä rasita itseäsi!
+Ole hiljaa!!
+@064#kuwagata
+Black! Älä rasita itseäsi!
+Ole hiljaa!!
+@065
+Ah! Taas omin päin!!
+Hei! Tule ulos!!
+@066#kabuto
+Älä jaarittele, vie minut sen luo.
+Ei voi mitään...
+Voitko luvata, ettet tee mitään hullua?
+Riippuu sinusta.
+Äh...
+Mennään jo.
+Voi voi...
+@066#kuwagata
+Ei valiteta, vie minut sen luo.
+Ei voi mitään...
+Voitko luvata, ettet tee mitään hullua?
+Se riippuu kai sinusta.
+Äh...
+Hei, mennään jo.
+Voi voi...
+@067
+.........
+Ei jälkiä siitä, että ne olisivat menneet ulos. Näyttää, että ne ovat yhä sisällä.
+Ne saattavat myös piileskellä.
+{BUF03}, etsitään vielä kerran perusteellisesti.
+@068
+.........
+Jos ajattelee, tämäkin saattaa olla uhri...
+@069
+.........
+...Tämän Medabotin käyttäminen tarkoittaa,
+että kantaa vastuun sen valtavasta voimasta.
+@070
+......Hyvä!
+@071
+Hyaa-hahhahahhahhah!
+Huh, huh
+Kovaääninen nauru väsyttää... Kihah
+Belzelga!!
+@072
+.........
+.........
+@073
+Tenryou {BUF03}!
+Myöhässä!!
+@074#kabuto
+Mitä sinä leikit!
+@074#kuwagata
+Mitä sinä oikein leikit!
+@075
+Black!? Sinun pitää pysyä paikallasi!!
+Hihaa? Joskus jossain nähty typerä naama, ajattelin,
+ja se olikin se hölmö, joka suojasi ihmisen ja räjähti!
+@076#kabuto
+Turpa kiinni!
+Kihi! Voiko sellaisessa kunnossa taistella?
+Kokeile sitten!
+@076#kuwagata
+Pää kiinni!
+Kihi! Voiko sellaisessa kunnossa taistella?
+No kokeile sitten!
+@077
+Heh... löysin sinut, Belzelga!
+@078
+Mizuchi!?
+Heh... sinäkin tulit. Hoidetaan tämä pian pois päiviltä!
+@079
+Hihah hihah! Sattuu, sattuu, sattuuu!!
+@080
+Se putosi!
+@081
+Hyaaa-hahahahahahah!!
+@082
+.........Liitoorava?
+...Medabotit kätkevät siis rajattomia mahdollisuuksia.
+@083#kabuto
+Älä vertaa minua tuollaiseen!
+@083#kuwagata
+Älä sekoita minua tuohon!
+@085
+Black!? Sinun pitää pysyä paikallasi!!
+Hihaa? Joskus jossain nähty typerä naama, ajattelin,
+ja se olikin se hölmö, joka suojasi ihmisen ja räjähti!
+@087
+Löysin sinut, Belzelga!
+@088
+Mizuchi!?
+Heh... sinäkin tulit. Hoidetaan tämä pian pois päiviltä!
+@094
+Ei nyt ole aikaa sellaiseen! Belzelga pääsi karkuun!
+...Näyttää, että se suuntaa etelään.
+Näetkö sen!?
+Ei, mutta täältä minä näen sen.
+Aha...
+@095#kabuto
+Kiireesti sen perään!
+@095#kuwagata
+Kiireesti sen perään!
+@096
+Eikö kannattaisi olla rasittamatta itseään?
+@097#kabuto
+Aiotko sanoa, että tuon idiootin kanssa taisteleminen on mahdotonta!?
+Ei! Blackhan on loukkaantunut!!
+...!
+Vaurioitunutta kehoa pahempi on vahingoittunut ylpeys!!
+Älä jaarittele, vaan lähde sen perään!!
+Hei hei...
+@097#kuwagata
+Et kai luule, että häviäisin tuolle?
+Ei! Blackhan on loukkaantunut!!
+...!
+Kehon vaurioita pahempi on ruhjottu ylpeys,
+ja se on paljon vakavampi! Nyt äkkiä sen perään!!
+Hei hei...
+@098
+Minäkin lähden sen perään. Nähdään.
+@099
+Kuumaaaaaaaa!!
+Kuuma kuin palaisi! Minä palan nyt!!
+Löysin sinut, Belzelga!!
+Palakaa tekin!!
+Kaikki, KAIKKI, kaikki, KAikki, palakaa poroksi!!
+Hyaa-hahahahahahah!!
+Kukee! Kukee! Kukee!
+@100#kabuto
+Belzelga! Tällä kertaa annan kuoliniskun!
+@100#kuwagata
+Belzelga! Tällä kertaa viimeistelen sinut!
+@101#kabuto
+Black... en enää pysäytä sinua, mutta älä rasita itseäsi.
+Hmph. Mitä sanookaan mies, jolta minut vietiin...
+Oletko ehkä vieläkin vihainen?
+Tietysti...
+Äh...
+@101#kuwagata
+Black... en enää pysäytä sinua, mutta älä rasita itseäsi.
+Heh, mitä se mies sanoo, jolta minut vietiin.
+Oletko ehkä vieläkin vihainen?
+Tietysti!
+Äh...
+@102
+Hei hei hei hei, oletko vielä elossa?
+Paistu aavikon auringossa mustaksi hiileksi.
+Palaa palaa palaa palaa palaa palaa palaa palaa palaa
+@103#kabuto
+Tsk, jos olisin kunnossa, tällaiset...
+@103#kuwagata
+Tsk, tavallisessa kunnossa tällainen...
+@105
+Mizuchi, tulitko taas!?
+Heh... tietysti. Hoidetaan tämä pian pois päiviltä!
+@112
+A-aurinkoa on joka puolella! Kuuma kuuma kuuuuma!!
+Vettä vettä vettä vettä vettä, antakaa!!
+@113
+Piikkiiiiiiii!!
+@116
+Mikä tuo on oikein...
+...Hölmö.
+@117#kabuto
+Pelkkä hölmö on vaaraton.
+@117#kuwagata
+Ei, vaan täysi idiootti.
+@118
+Ah!!
+Taas se pääsi karkuun!
+Se puhui jotain vedestä... vesi...
+Karasawagin keidas on eri suunnassa...
+Suunnan perusteella Umineko?
+Umineko, siellähän on meri.
+@119#kabuto
+Sen perään!
+@119#kuwagata
+Lähdetään sen perään!
+@120
+...Oletko kunnossa?
+@121#kabuto
+En ole vajonnut niin alas, että tarvitsisin sinun huolta!!
+No, ei voi mitään...
+@121#kuwagata
+En ole vajonnut niin alas, että sinun pitäisi huolehtia.
+No, ei voi mitään...
+@123
+Mizuchi tulee aina sopivalla hetkellä.
+Seuraakohan se oikeasti minua...
+@124
+...Ei kai.
+@125
+Kihaha! Tulit, Tenryou {BUF03}!
+Odotin sinua!!
+...? Jokin on toisin...
+Ensin sinä!
+Ja sitten kaikki, kaikki, kaikki hajoavat!!
+Kukaan ei pysäytä minua.
+Hyaa-hahahahahahah!!
+@126#kabuto
+Oletettavasti se jäähdytti päänsä ja rauhoittui.
+@126#kuwagata
+Kai se meni mereen ja jäähdytti päänsä?
+@127
+Aivan!
+@129
+Mizuchi, tulitko taas!?
+Heh... tietysti.
+(Seuraakohan se sittenkin minua?)
+@130
+Kihi! Hei Black, teeskentelet olevasi reipas,
+mutta alkaa jo rapistua, vai? Minä näen sen♪
+@136#kabuto
+Turpa kiinni! En voi hävitä sinunlaisellesi!!
+Black, miksi sinä niin... Näytät pelkäävän jotakin...
+Kukee! Reipas kaveri... No sitten toteutan toiveesi!
+@136#kuwagata
+Hiljaa! Jos häviän sinunlaisellesi, minä...!!
+Black, miksi sinä niin... Näytät pelkäävän jotakin...
+Kukee! Reipas kaveri... No sitten toteutan toiveesi!
+@137
+Mahdotonta...
+Minä... kehittynyt Medabotti... minä...
+.........
+@138
+Voititko... sen?
+Näin näyttää.
+@139#kabuto
+...Nyt minä...
+@139#kuwagata
+...Nyt minä jo...
+@140
+Black!!
+@141#kabuto
+.........
+@141#kuwagata
+.........
+@142
+Voi ei!
+Pitää viedä se äkkiä Medabottiprofessorin luo...
+Palaan Ryutou-akatemiaan. Otan Belzelgan haltuuni.
+Ei ole varmaa, korjaantuuko se,
+mutta meidän tutkijamme sopivat siihen paremmin.
+@143
+Selvä, ole varovainen...
+@145
+Kiiruhdetaan Medabottitutkimuslaitokselle!
+@148
+Black... Minä pelastan sinut varmasti!
+@149
+Black... jos olisin pakottanut sinut lepäämään...
+@150
+Tuota... Black...
+Näin rikkoutuneena en pysty enää edes minä...
+Ei se voi olla!!
+Tinpetin vahinko on liian suuri...
+Jos olisi toinen tinpetti, se voisi onnistua.
+Käytä sitten minun tinpettiäni!
+Rauhoitu. Black ei ole enää sinun Medabottisi.
+Vaikka se vietiin, sinä päästit sen kerran irti.
+T-tuo on...
+Jos Black suostuu palaamaan luoksesi uudelleen,
+sille voi tehdä jotain.
+Mutta tunnethan sen luonteen?
+@151
+Black... olen ehkä epäluotettava mestari.
+Mutta, mutta... voisitko palata luokseni vielä kerran?
+@152#kabuto
+.........
+Black...
+...Voitko tulla vahvemmaksi?
+Joo, yritän parhaani!
+...Osaatko käyttää minua?
+Näytän, että osaan.
+......Et kai anna minua enää viedä?
+......!
+@152#kuwagata
+.........
+Black...
+...Voitko tulla vahvemmaksi?
+Joo, yritän parhaani!
+...Osaatko oikeasti käyttää minua?
+Näytän, että osaan.
+......Eihän minua enää viedä, eihän?
+......!
+@153#kabuto
+Tietysti en...
+Vai niin... annan sinulle yhden mahdollisuuden.
+Kii...tol...li...
+@153#kuwagata
+Tietysti en...
+Vai niin... annan sinulle vielä mahdollisuuden.
+Kii...tol...li...
+@154#kabuto
+Kiitos, Black...
+En halua kokea sellaista enää koskaan......
+@154#kuwagata
+Kiitos, Black...
+En halua enää kokea tuollaista......
+@155
+Pidä hänestä hyvää huolta.
+@156
+Professori... minusta tulee medamestari.
+Blackinkin vuoksi...
+Tähtään yhä korkeammalle!
+Vai niin... Yritä parhaasi.
+Joo!
+@157
+Hyvä että pääsit tänne, Piikatyttö!!
+Olen {BUF03}...
+Ei puhetta! Ottelu!!
+@158
+Saavuta, rakkausvoimani!!
+Älä viitsi...
+@159
+Heh, hyvä ottelu♥
+Älä käytä sydänmerkkejä...
+@160
+Miksi... miksi rakkauteni ei tavoita sinua.
+@161
+Hehehe, näemmä voitit vihdoin pääpahiksen.
+Tiedättepä hyvin...
+Hmmm, vanha vereni kuohuu~♪
+Ottelu!!
+@162
+Nuuwaryaaaaaaaah!!!!
+@163
+Kyllä olet vahva~ Hmm, tulee väristys♥
+@164
+Voi, harmi.
+@165
+Tenryou, pidä huolta Mizuchista.
+@166
+Kuulin, että voitit Brossomailin. Vaikuttavaa.
+@167
+Tämä juttu opetti: minunkin pitää vahvistua.
+Haluatko robotella kanssani?
+@168
+En säästele voimiani!
+@169
+Pitkästä aikaa pääsin robottelemaan täysillä.
+@170
+No niin, nähdään taas.
+@171
+Hei, {BUF03}.
+En tiedä, onko tämä hyvä uutinen, mutta kerron kuitenkin.
+Mitä?
+Belzelgasta... Se näyttää selviävän.
+Vau, hyvä juttu!
+Mutta tutkimuksessa selvisi vielä yksi asia...
+Vielä yksi?
+Sen luonne... Se on kuulemma alun perin sellainen.
+Hä?
+Tutkijat yrittävät osien sijaan ennen kaikkea
+korjata sen luonteen. En tiedä, onnistuuko.
+Pahimmillaan siihen menee pidempään kuin Brossomailin mitalin kanssa.
+S-sellaista...
+No, se ei kuulu meille.
+Eikö kuulu?
+Ellei se herää riehumaan taas,
+emme puutu tutkimukseen.
+Totta.
+@172
+Haluatko robotella kanssani?
+@173
+Heh, niin pitääkin.
+@174
+Aika hauskaa oli.
+@175
+Vai niin. No, nähdään.
+@176
+Onpa hyvä sää~
+@177
+Todella hyvä sää~
+@178
+Niin, raikas sää.
+@179
+Samaa mieltä. Ah~ hyvä sää.
+@180
+Tosiaan hyvä sää.
+@181
+Niinkö? Minusta on ihan liian kuuma.
+@182
+Niin, ihanan lämmintä, hyvä ilma.
+@183
+Näin lämpimällä tekee mieli ottaa aurinkoa.
+@184
+Kun aurinko paistaa, minullakin tulee hyvä mieli♪
+@185
+Hmm? Niinkö? En kyllä oikein tiedä.
+@186
+Rupeaa jotenkin torruttamaan.
+@187
+Oi, hyvä~ Taidan minäkin nukahtaa.
+@188
+H-hei! Aiotko oikeasti nukkua? Voi luoja... laiska kaveri.
+@189
+Mikä ettei? Minäkin voisin torkahtaa.
+@190
+Jos nukut täällä, vilustut.
+@191
+Eikö täällä ole epämukavaa nukkua?
+@192
+Päiväunet, hmm, sekin voisi olla hyvä.
+@193
+Kas, mukavaa. Saanko minäkin liittyä seuraan?
+@194
+Hyvä, ehkä minäkin nukahdan?
+@195
+Onkohan se noin? Nukkumiseen kyllä suostun.
+@196
+Hmmmm... mitä?
+@197
+Kuinka kauan aiot nukkua!
+Mitä? Ai, anteeksi!
+No, minäkin nukahdin.
+@198
+Herää, kuinka kauan aiot nukkua.
+Hmm... eikö sinä ollut koko ajan hereillä?
+Ei, nukuin itsekin äsken.
+@199
+Hei, älä nuku koko päivää.
+Häh? Kuinka kauan nukuin?
+En tiedä, nukuin itsekin.
+@200
+Herää pian.
+Hm? Nukahdinko?
+Niin. Nukuin itsekin sikeästi.
+@201
+Hei hei, herää jo.
+Mmm, ai, huomenta~
+Huomenta~ Hyvin tuli nukuttua, minä.
+@202
+Hei, herää jo.
+Mmm, vielä 5 minuuttia.
+Jos odottaisin viisi minuuttia, nukkuisin puoli tuntia lisää.
+@203
+Herätkää~ on aamu... vaikka eipä olekaan, herätkää~
+Mmm...
+Ai, huomenta~
+Huomenta. Nukuin minäkin sikeästi.
+@204
+Hei~ herätään jo~
+Mmm, häh, nukahdinko?
+Olet vielä suurempi unikeko kuin minä~
+@205
+Hei, saa sitä nukkua, mutta mennään jo jonnekin~
+Mmm, ai, huomenta~
+Ei mitään "huomenta". Itsekin nukuin, joten ihan sama.
+@206
+Sinähän itsekin nukuit, {BUF15}.
+@207
+S-ole hiljaa! Eihän se haittaa, joskus!
+En minä ole vihainen...
+N-niinkö? No, sitten ei haittaa.
+@208
+Gh... se oli harhaa. Oikku!!
+Ei tarvitse kieltää noin kovaa.
+En minä kiellä mitään!!
+@209
+Eikö se ole ihan ok, joskus?
+Mmm, no, antaa olla.
+Juuri niin.
+@210
+Eikö se ole ok, kun on rauha.
+Totta.
+Aivan.
+@211
+Ei siitä mitään kulu.
+No ei kai kulukaan, mutta...
+Eikä ole ongelmaa sitten.
+@212
+Minäkin olen jo vanha...
+Vanha?
+Se on tunteesta kiinni.
+@213
+Niin, näytti niin mukavalta, joten minäkin...
+Joskus tällainenkin on kivaa.
+Niin, otetaan taas päiväunet.
+@214
+Uniuuu~~~~~
+No, eikö se haittaa, joskus.
+Niinpä! Joskus saa!
+@215
+Eihän se haittaa, joskus.
+Niinpä, onhan rauha jo.
+Juuri niin, nautitaan rauhasta täysillä~
+@216
+No, mennäänkö sitten?
+@217
+Mmm, tänne voisi tulla joskus päiväunille.
+@218
+Haluatko tietää tähänastiset Pimeän robottelun voittosi?
+Odotahan hetki.
+@219
+10 voittoa... Hyvin menee. Tässä palkinto, ota se.
+@220
+Jo 15 voittoa...
+Tavalliset vastustajat eivät enää riitä sinulle.
+Lisään uuden tason.
+@221
+20 voittoa... Hyvin menee.
+Tässä palkinto, ota se.
+@222
+30 voittoa... Hyvin menee. Tässä palkinto, ota se.
+@223
+Älä katso, vaan tunne.
+@224
+Tämä on Pimeän robottelun harjoituskenttä!
+Valitse vastustajan taso!
+@225
+A-taso
+B-taso
+C-taso
+Ei
+@226
+Hmph, mikä nynny!
+@227
+S-taso
+A-taso
+B-taso
+C-taso
+Ei
+@229
+Taistele täysillä!
+@230
+Hohhoh, hyvin menee. Tämä on lahja.
+@231
+Kaupungilla kuuluu "Sharin"!
+@238
+Jos on voittaja, on häviäjä. Sellaista on taistelu!
+@239
+Oho, Tamao?
+Hei, Tenryou! Pitkästä aikaa.
+Pitkästä aikaa! Mitä sinä täällä teet?
+Siitä päivästä asti, kun hävisin sinulle Medabirdissä,
+olen robotellut kaikenlaisten medabottaajien kanssa
+ja matkustellut ystävystyäkseni heidän kanssaan.
+Niin, Tenryou, robotellaan!
+Joo, hyvä on.
+Hyvä! Tällä kertaa en häviä!
+@240
+Tamao, olet todella vahva robotteluissakin.
+En turhaan matkusta.
+No, taidan lähteä. Seuraavaksi kokeilen länttä.
+@241
+Hei, Tenryou, taas tavataan. Kun kerran, robotellaan.
+@242
+No, nähdään.
+@244
+Hei, Tenryou, sain tällaisen.
+@245
+Ai, passipiste!
+Jos haluat, annan sen sinulle.
+Kiitos, Tamao.
+@248
+Hei, Tenryou, sain taas yhden.
+@249
+Ai, passipiste!
+Annan senkin sinulle, kun kerran.
+Kiitos, Tamao.
+@251
+Syötetäänkö salasana?
+@252
+Syötä
+Älä syötä
+Mikä salasana?
+@253
+Siispä
+@254
+Nähdään sitten
+@256
+Salasana on järjestelmä, jossa 16 numeron tai kuvan joukosta
+valitaan 7 ja yhdistetään ne. Jos yhdistelmä on oikea,
+saa osan.
+Salasanan syöttämiseen tarvitaan
+passikortti ja passipisteitä.
+Syötetäänkö salasana?
+@260
+Sa-sa-salasana♪

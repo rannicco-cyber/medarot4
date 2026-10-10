@@ -1,0 +1,182 @@
+@000
+Tämänkertainen onnen\nMedabotti on...
++
+@001
+Ennustuksen aika loppui.\nNostakaa uusi lappu!
+@002
+Tämä ennustus on voimassa\nvielä {BUF0F}
+@003
+Kohtalaista
+@004
+Tällaista kai
+@005
+Huh, täpärä tilanne
+@006
+Ihan vähän puuttui...
+@007
+En tiedä...
+@008
+Tällaista kai. Vasen käsi...\nEn tiedä...
+@011
+Tämänkertaiset tuomarit\novat nämä henkilöt
+@012
+ovat nämä henkilöt
+@013
+"Mies on kuntoa, ei näköä!"\nAlexander
+@014
+"Koreat jutut ovat parhaita"\nBishounen
+@015
+"Tasapaino on voimaa!"\nBulldog
+@016
+"Pitää olla söpö!"\nShiratama
+@017
+...siinä tuomaristomme
+@018
+Siirrytään sitten\narvioimaan Medabotit
+@019
+arvioimaan Medabotit
+@020
+Siirrytään seuraavaan
+@021
+{BUF10#10}. Medabotin esittely
+@022
+{BUF11}:n Medabotti
+@023
+"{BUF12}"!
+@024
+Tuomarit, olkaa hyvät\nja antakaa pisteenne!
+@025
+ja antakaa pisteenne!
+@026
+{BUF10#15} p! {BUF11#15} p! {BUF12#15} p!
+@027
+Yhteensä {BUF10#15} pistettä!
+@028
+Joten voittaja on...!
+@029
+{BUF10}:n
+@030
+"{BUF11}"!
+@031
+Onnittelut!
+@032
+Kiitos odotuksesta, kaikki!
+@033
+{BUF10}
+@034
+{BUF11}
+@035
+Nähdään taas seuraavassa\nkilpailussa, hyvät ystävät!
+Tässä oli neiti Chimaki~!
+@036
+Neiti Chimakin juontama\nmissikisa
+alkaa nyt!
+@037
+Kuuh! Liikuttavaa!\nTämä on miesten mies!!
+@038
+Miehekäs muoto!\nTunnen kuuman sielun!
+@039
+Ei huono, mutta miehen\nsielua en tunne!
+@040
+Hmph, yritätkö edes?\nTule uudestaan!!
+@041
+Mi-mitä tämä on!!\nÄlä pelleile! Tätäkö
+muka kutsutaan mieheksi!!
+@042
+Voi! Mikä kauneus!!\nAah~ ih-a-na♥
+@043
+Kas~ i-ha-na♥\nTaidan rakastua♥
+@044
+Uuh~ voi että! Kun\nei se mene noin~
+@045
+Iik~ ja tuotako\nsinä pidät kauniina?
+@046
+Mitä tuo on! Kamalaa!\nOletko katsonut peiliin?
+@047
+Yksinkertainen, silti vahva...\nhuipputasapaino!
+@048
+Karsitussa kehossa asuu\nsievä sydän... hienoa
+@049
+Kiinteytä vähän,\ntasapaino ontuu
+@050
+Hmm, etsimme näemmä\nerilaista kauneutta
+@051
+Suoraan sanottuna\nepäilen makuasi
+@052
+Uu... upeaa! Tämä on\n"kauneutta"! Sähköistä♥
+@053
+Vai niin, ymmärrän\nkyllä mitä tarkoitat
+@054
+...Heh, et noin helpolla\nvoita sydäntäni
+@055
+Panosta yksityiskohtiin,\nvähän enemmän näin...
+@056
+Väärin! Tämä ei ole\netsimääni kauneutta!!
+@057
+Medabotti valmistuu, kun\ntinpettirunkoon kiinnitetään
+4 osaa ja\n1 mitali
+@058
+Medabottien välinen\nrobottelu alkaa jo
+Medabotin\nkokoamisvaiheesta
+@059
+Joka tuntee osien ja\nmitalien ominaisuudet
+ja hallitsee ne, on\ntodellinen medabottaaja,
+"Medamestari"!
+@060
+Hyyy~~~!!\nHävisin~~
+@061
+Omikuji\nMinun ja kavereideni kaupunki
+@062
+Luonnonpuisto 1\nMedaspeed ja Medaroad täällä
+@063
+Luonnonpuisto 2\nTäällä on leirintäalue
+@064
+Shinran luomiskylä\nLasten ja Medabottien kylä
+@065
+Shinran ostoskatu\nKaikenlaisia kauppoja
+@066
+Toranishi-akatemia\nJotenkin luotaantyöntävä
+@067
+Medaropolis 1\nTuttu Medabottaajat-kauppa
+@068
+Medaropolis 2\nAukio on parien paikka♥
+@069
+Medaropolis 3\nRikkaiden Hanazono-akatemia
+@070
+Medaropolis 4\nMedabottiyhtiön koti!
+@071
+Odoro-vuori, vasen\nLuonto ja vaara käsi kädessä!
+@072
+Odoro-vuori, oikea\nTänne tuli Medaroad-rata
+@073
+Odoro-vuori, keskusta\nRiippusillan alla jyrkänne!
+@074
+Sazanka\nPohjoisessa on Medabottidojo
+@075
+Kameyaman ala-aste\nRintaroun ja muiden koulu
+@076
+Shinobick-puisto\nOvatko ninjat täällä aitoja?
+@077
+Kaivauspaikka\nTäältä kaivetaan mitaleja
+@078
+Karasawagin keidas\nHotelli ja Medabird-rata
+@079
+Jakunanin ala-aste\nKoulu vain kauniille
+@080
+Umineko-ranta\n"Kesä! Meri!" - täällä!
+@081
+Ryuutou\nRyuutou-akatemia on täällä
+@082
+Mutaluola\nLitsis lätsis...
+@083
+Tippukiviluola\nVaro teräviä kiviä
+@084
+Aavikko\nAavikolla on kuuma ja jano
+@085
+Kuumien lähteiden luola\nVuoripolku jatkuu yhä...
+@086
+?????\nPaikka, jossa en ole käynyt
+@009
+Ennustuksen aika loppui.\nNostakaa uusi lappu!
+@010
+Tämä ennustus on voimassa\nvielä {BUF0F}

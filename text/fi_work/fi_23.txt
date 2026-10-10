@@ -1,0 +1,902 @@
+@000
+Kouji saa sitten odottaa ulkona.
+Niin.
+@001
+Tämä liike on jotenkin... outo.
+Kummallinen tunnelma...
+@002
+Kas, söpöjä asiakkaita! Tervetuloa~♥
+@003
+Hikari~ ohjaa asiakkaat paikoilleen~
+Jooo♪
+@004
+Hi...Hikaru!?
+@005
+Häh? Ei Hikaru voi olla tällaisessa paikassa...
+@006
+M-mitä sinä teet täällä tuollaisissa vaatteissa!
+Tuohan on merimiespuku! Eihän vain Kiraran!?
+@007
+M-minä olen Hikari♥
+Hikari~ ohjaa pöytään 3~
+J-jooo! Tänne päin, olkaa hyvä♥
+@008
+Viihtykää~♥
+@009
+Tuota, ruokalista...
+Päätetty! Otan "mansikkamousse-annoksen".
+Entä {BUF03}?
+Minua kiinnostaa...
+tämä "Usao-erikois"-jäätelöannos...
+Selvä sitten! Hikaru, ne kiitos.
+@010
+V-voi hyvä asiakas, minä olen Hikariii!
+@011
+Hikarulla oli tuollainen harrastus...
+Harrastuksena se on ongelma. Hyvin se sopii, mutta...
+Mutta?
+Sinä olet söpömpi, joten ole itsevarma♪
+Ei ilahduta...
+@012
+Ole hyvä♥
+Vau~ näyttää herkulliselta!
+T-tämä on...
+Ihhih♥ Söpölle pojalle erikois-pal-ve-lu♥
+Papuhilloa, vanukasta, suklaata, kinuskia, banaania ja kimchiä,
+täynnä makeankirpeää ensirakkauden makua♥
+Kimchiä...?
+E-ensirakkauden maku... Kiinnostaa!!
+@013
+K-kiitos ruoasta!
+@014
+Muuten, miksi isäntä itse toi annokset?
+Ja tässä liikkeessä on pelkkiä miehiä.
+@015
+Uh... tähän makeaan makuun kimchi tuo potkua...
+@016
+Naiset ovat nykyään liian vahvoja. Siksi tämäkin on hyvä.
+...Ai, kutsu minua Yukieksi♥
+..........
+@017
+Kätketty kimchi korostaa annoksen makeutta...
+@018
+Kuule, poju.
+@019
+J-joo?
+Kun olet syönyt, tulisitko hetkeksi luokseni?
+M-mitä nyt?
+(!! Eihän vain...)
+Se on nopeasti ohi, eikö? Eikö?
+N-no...
+Odotan sitten~♥
+@020
+Tiedäthän, {BUF03}? Tämä on tilaisuus
+kuulla isännältä tietoja! Tsemppiä!
+.........
+No niin! Syönpä minäkin. Kiitos ruoasta♪
+@021
+Kiitos, olipa hyvää! Herkullista♥
+K-kiitos ruoasta.
+Kas niin, mene! {BUF03}!
+(...En halua mennä!!)
+@022
+Arika~~~~
+@023
+Voi sinua~ No, ymmärränhän minä,
+tulen mukaasi, joten mennään nopeasti.
+@024
+Poju, olet niin söpö♥ Kokeile tätä, eikö?
+Mikä... tämä on...
+Söpö, eikö?
+Ajattelin, että tällainen sopisi sinulle♥
+(Iiiiiiiik!)
+@025
+({BUF03}! Jos isäntä ei pidä sinusta,
+emme saa tietoja! Pue se hiljaa!)
+Julmaa... minulle käy aina näin!
+@026
+Kyaa♥ Sopii sinulle tosi hyvin♪
+Uuh...
+Sinäkin olet samaa mieltä, eikö?
+@027
+Hmm.
+@028
+Olet liian varovainen, Usao.
+Yukie.
+@029
+H-hei, Arika!?
+@030
+Tämä sopii {BUF03}:lle paljon paremmin!!
+T-tuoko!?
+@031
+Uwah!
+@032
+Entä tämä?
+Taitava...
+@033
+Kas niin, tämä on valttikorttini!
+Arika, kaikkea muuta paitsi sitä!
+Ei hätää! Luota minuun!!
+Eiiiiiiii~~~~~!!
+@034
+Näin se käy!
+Taitava... Minä en pystynyt noin pitkälle...
+Mutta en häviä!
+@035
+Uwaaaaaah~~~~!
+@036
+Näin pitää tehdä♥
+Ugh...
+@037
+En häviä, Usao!!
+@038
+Yukie!
+Nuwaaaaaaaaaaah!!!!
+@039
+Täydellistä! Kerrassaan pörfekt!!
+Ahahahaha!
+@040
+Hauskaa~! Pysy aina tuollaisena!
+@041
+(Julmaa...)
+@042
+Sinä olet taitava...
+Viimeksi minut sai näin kuumaksi se mies meren takaa...
+Uuh...
+@043
+Muuten, isäntä, tuota~
+@044
+Yukie, Y-u-k-i-e♥
+Olet niin söpö, että saat tämän♥
+@045
+Aha haa... Yukie, haluaisin kysyä jotain~
+@046
+Niin niin! Juuri niin~ En tiedä, mitä ne neljä kuningasta ovat,
+mutta ne tulivat yhtäkkiä ja valtasivat dojon,
+ja nyt ne tulevat kaupunkiinkin ja tekevät mitä haluavat!
+Tosi rasittavaa~ Ja Select-joukoista ei ole mitään apua.
+Älkää helkkarissa pelleilkö!!
+Tuota...
+Kas, hohhoh, kuumenin vähän.
+Te halusitte siis Kameyaman koululle?
+Kannattaa jättää väliin. Siitä koulusta ei ole viime aikoina
+kuulunut hyvää, minua huolettaa~
+Että näin söpö lapsi joutuisi vaaraan~
+@047
+(Iiiiiih! Älä tule lähelle!)
+.........
+Y-y-yukie, ei tarvitse huolehtia,
+joten jos on oikotie, kerro se!
+Kas, niinkö? No, ei auta~
+Söpölle pojalle ker-ron sen♥
+(Värisyttää)
+Dojon oikotiestä: hiljattain Ume-asuntolan oppilaat
+halusivat niin kovasti kuumille lähteille, että tekivät aitaan reiän,
+niin huhutaan. Reikä on piilotettu
+pensaikkoon. Etsikää sieltä, eikö?
+Kiitos, Yukie!
+Ei kiitoksia tarvita♥
+Aha... hahhah
+Entä tiedättekö, missä Libertiesin johtaja on?
+Liberties tarkoittaa
+neljää kuningasta vastustavaa ryhmää, eikö?
+Ettehän vain aio ottaa mittaa neljästä kuninkaasta?
+No... tavallaan.
+Hauskaa! Tuo uhkarohkeus saa minut ihan sähköiseksi♥
+Hyvä on, kerron!
+Minusta kuumien lähteiden luola on epäilyttävä~
+Luola?
+Niin~ sinne ei tule ketään, ja siellä kohoavat kalliot,
+joten se on täydellinen vankila~
+Minä vangitsisin sinne lempilapseni♥
+(Väreeeet~~~~~)
+...Muuten
+@048
+Onko ystävissäsi söpöjä poikia~?
+(Hups!)
+E-ensi kerralla!
+@049
+Ujostelet, söpöä♥
+(Hyvä, ettei Kouji tullut...)
+Odota, {BUF03}!
+@050
+Oliko tuo {BUF03}...?
+@051
+Sinne ei tosiaan olisi pitänyt mennä...
+@052
+Kouji! Onko {BUF03} mennyt ohi?
+Piika juoksi Sazankan dojolle päin.
+Jos et vastaa tosissasi, esittelen sinut isännälle.
+Ei... ymmärrän, anna anteeksi.
+Piika oli siis {BUF03}?
+Tällä kertaa säälin häntä vähän.
+Vain tällä kertaa?
+Pitää nopeasti lähteä perään... mennään!
+@053
+Kuuntele nyt...
+@054
+Huh huh...
+@055
+Juoksin koko tämän tien kerralla ylös...
+...Minussa on aika paljon kuntoa...
+@056
+Tuota~
+Söpö...
+Häh?
+@057
+E-ei mitään! Olkaa hyvä ja kulkekaa!!
+Tuota, kiitos.
+@058
+Pitää etsiä paikka, jossa vaihtaa vaatteet...
+Jossain oli tyhjä, turvallinen huone...?
+@059
+...Täällä ei ole ihmisiä,
+mutta ei tiedä, milloin Medabotit heräävät, joten ei käy...
+@060
+Täällä on paljon väkeä. Tällä asulla en mene sisään.
+@061
+Tässä huoneessa ei näytä olevan ketään. Vaihdan täällä.
+@062
+No niin...
+@063
+Vaatteet puuttuvat!!
+@064
+Hitto, pakenin kiireellä ja jätin ne sinne!
+Mitä teen? En voi mennä hakemaan niitä tällaisena.
+Ai, vihdoin löysin sinut.
+Kuka siellä!?
+@065
+Arika!
+Tässä, unohdit nämä.
+Minun vaatteeni! Kiitos, toit ne!
+Voi sinua, juoksit yksin pois.
+A-anteeksi...
+Vaihda nopeasti.
+Kouji odottaa ylempänä aidan luona.
+@066
+Odota vähän, Arika!
+@067
+Mikä hätänä?
+...Miten tämän saa pois päältä?
+Etkö tiedä!?
+Se puettiin väkisin, enkä ole ennen nähnytkään tällaista.
+@068
+Niin tosiaan...
+Hmm, miten se puettiinkaan?
+@069
+Näitäkin sinulla on!?
+Sinähän sen teit...
+Niinkö?
+@070
+............
+Arika?
+............
+@071
+Aah! Liian monimutkaista! Nyt mennään raivolla!!
+H-hei, odota!
+@072
+N-noin, valmista.
+Nyyh nyyh nyyh...
+@073
+Voi... anteeksi nyt.
+En pääse enää ikinä morsiameksi...
+Kuulehan... yritä vain, jos kehtaat...
+@074
+Kas niin, mennään! Ja tässä lahja♥
+@075
+Uuh...
+Keksin jonkin hyvityksen, joten... eikö?
+@076
+Kas niin, mennään. Matkaan!!
+@077
+Tässä asussa en todellakaan voi mennä kaupunkiin.
+@078
+...Sekö se sitten?
+Kas, vaihdoit vaatteet kunnolla.
+Ei hätää.
+? Miksi Arika vastaa?
+Ai.
+Ahahahaha, entä se oikotie?
+...No, ihan sama. Sitä olen juuri tutkimassa.
+@079
+Se näytti tosi epäilyttävältä!
+Noin epäilyttävässä paikassa on pakko olla jotain!
+Noinko pitkälle?
+Mennään!
+@080
+Mennään mekin!
+Mennään.
+@081
+Tämä portti ei aukea tältäkään puolelta.
+Luonnollistahan se on.
+@082
+Hikaru?
+Mitä sinä oikein teet täällä?
+L-lähikaupan rajoitetun ajan kenttäpalvelu, olkaa hyvät~!
+Tuotteena miestinpetin osat "Vapor Rail"!
+"Minirattilla" se voi kuljettaa ihmisiä,
+uusinta mallia oleva Medabotti! Ja tietysti robottelussa
+se loistaa "vihollishavainto"-kyvyllään.
+Taidan nähdä Hikarun töissä pitkästä aikaa!?
+Antakaa olla...
+@083
+L-lähikaupan rajoitetun ajan kenttäpalvelu, olkaa hyvät~!
+Tuotteena miestinpetin osat "Vapor Rail"!
+@084
+Ostaisitko jotain?
+@085
+Pää 1800¥
+O.käsi 3200¥
+V.käsi 3200¥
+Jalat 1000¥
+En osta
+@086
+"Steam Board", kiitos kaupoista♪
+@087
+"Steam Dolin", kiitos kaupoista♪
+@088
+"Steam Pipe", kiitos kaupoista♪
+@089
+"Steam Turbine", kiitos kaupoista♪
+@090
+Rahat eivät riitä.
+@091
+Olen täällä vielä hetken, tule taas.
+@092
+Tulisitko mieluummin eteeni?
+@093
+Tämä on naisten kylpylä! Minne sinä olet menossa!?
+@094
+Tämä on naisten kylpylä!!
+@095
+T-tämähän on miesten kylpylä!?
+M-minne viet minut!?
+@096
+Ei ole aikaa käydä kylvyssä.
+@097
+Huoh~ pulassa ollaan...
+Mikä hätänä?
+Sinä... et ole tuttu kasvo.
+@098
+Oletko se medabottaaja Omikujista?
+Joo, olen. ...Entä sinä?
+Olen Libertiesin Kiku Masami.
+Mitä sinä teet täällä?
+@099
+Tulin pelastamaan tänne vangittuja tovereitani...
+@100
+Vartiointi oli tiukempaa kuin luulin...
+Ja täällä on niitä outoja robo-robo-tyyppejä...
+Aioitko mennä yksin?
+Oikeastaan minun piti mennä jonkun toisen kanssa...
+Hän ei ole vielä tullut.
+Ei, mutta luulen, että hän on jo lähellä...
+Mekin etsimme kiireellä tietä Kameyaman koululle,
+mutta olisi sääli jättää sinut tähän...
+Jos menette Kameyamaan, se on tämän luolan takana.
+Mitä, oikeasti!?
+Sitten sitäkin enemmän!
+Autetaan sitä toista ja raivataan tie luolan läpi.
+K-kiitos paljon!
+Huh, äsken tullut poika
+ryntäsi huutaen luolaan kysymättä mitään...
+@101
+...Kouji.
+...Kouji.
+@102
+Joka tapauksessa! Etsitään se toinen nopeasti!
+Ehkä hän on jo kiinni...
+Tuskin.
+Hän on Sazankan vahvin medabottaaja.
+Kas niin, {BUF03}, nopeasti!
+Minä vartioin täällä. Jos joku pahaa-aavistamaton
+menee vahingossa sisään, se olisi kamalaa.
+Selvä, tuon hänet heti!
+@103
+Kiitos paljon.
+@104
+Hehheh, nyt olet nurkassa!
+@105
+Mitäs jos luovuttaisit jo?
+Höpö höpö! Taistelen loppuun asti!!
+Vai niin, sitten en säästele!!
+@106
+Mitä nyt!
+@107
+Turpa kiinni!
+@108
+Mitä te olette? Murskaan teidät ensin!!
+@109
+Tsk... muistakaa tämä!!
+@110
+Kas, taisitte pelastaa minut.
+@111
+Miksi Kokuen-kaarti jahtasi sinua?
+Heh, yritin pelastaa vangitut toverini.
+Eli sinäkin olet Libertiesistä.
+Hahaha, niin.
+Nimeni on Homare. Secchuu Homare.
+Joka tapauksessa, kiitos avusta.
+No, minä lähden. Jos kohtalo suo, tavataan taas!
+@112
+Hahahahahaha hahahahahaha...
+@113
+Onpa raikas tyyppi...
+Tuota sanotaan "oudoksi".
+Onkohan hän Sazankan paras medabottaaja?
+Varmaankin.
+Palataan mekin luolan suulle.
+@114
+Tämä kivi on hauraampi kuin muut.
+Mutta en taida saada sitä rikki.
+@115
+Frankenmallin osilla kai tämän kiven voi murskata.
+Pääosa "Paper", oliko se?
+{BUF15} hoitakoon sen.
+@116
+Medabottisiirto!
+@117
+Selvä! Räjäytä se kivi!!
+@118
+Luota minuun!
+@119
+Jätä se minulle!
+@120
+Menoks~~~!!
+@121
+Selvä on!
+@122
+Ei auta sitten.
+@123
+Kovin rankasti käytetään Medabottia.
+@124
+Ymmärsin.
+@125
+Selvä se~
+@126
+No, olkoon...
+@127
+Kuinkas sattuikaan!
+Mahtavaa...
+@128
+No, tällaista.
+Mahtavaa~...
+@129
+Jes, huippuvire!
+Jee!
+@130
+Tällaista.
+Mahtavaa!
+@131
+Ihan mahtavaa!
+Ei kai nyt niin?
+@132
+Vanhoja luita kolottaa.
+Vanhoja luita?
+@133
+Pelotti...
+Ei hätää.
+@134
+Pelottaaa~~~~
+...Itse sen teit.
+@135
+Liian pelottavaa, hei.
+...Niin minustakin.
+@136
+Kiitos, oikeasti.
+@152
+Tällaistako?
+Mahtavaa!
+@157
+Liian pelottavaa, hei.
+...Niin minustakin.
+@159
+Kas, tekin tulitte.
+Joo, Roborobo-jengiä en voi jättää huomiotta.
+Kiitos, olen kiitollinen.
+Mennään sitten.
+Mennään. Koujikin huolettaa.
+No, minä menen edeltä!
+@161
+No, minäkin lähden. Kiitos todella paljon.
+@163
+Hahaha, tämä oli umpikuja.
+@164
+Voi! Homare, sinä olet niin hätäinen.
+Sori, sori. Masami on yhtä tiukka kuin aina.
+@165
+Kas niin! Kohti tuota laskevaa aurinkoa, let's go!!
+@167
+Tämähän on luola, jossa ei näy edes taivasta?
+Nuo kaksi näkevät varmasti tulipunaisen laskevan auringon.
+.........
+.........
+N-no, mennäänkö mekin?
+Kohti laskevaa aurinkoa?
+Sen saat päättää itse.
+@168
+Hei!
+Täällä vangitut lapset ovat nyt turvassa!
+Mutta täällä oli vain puolet vangeista!
+Loput jätän sinulle!
+Hahahahahaha hahahahahaha...
+@169
+Miksi täällä on näin paljon Roboroboja?
+Kun näkee yhden Roboroboj, niitä on 30 lisää~
+Älä sano noin pelottavia...
+Mitä, pelottaako?
+Ei minua pelota.
+Roboroboja yksi tai kaksi...
+@170
+kolme tai neljä...
+@171
+viisi, kuusi, seitsemän, kahdeksan...
+@172
+Arika?
+E-ei mitään, ei mitään!!
+Jos roikut minussa noin, on vaikea liikkua...
+S-saa roikkua! Mennään näin!!
+...No, olkoon.
+@173
+Hei hei, apua pyytävät lapset ovat tuolla.
+@174
+Roborobo-jengi!!
+@175
+Robooo!
+Tulit siis tänne asti, robo! Tästä et pääse, robo!!
+@176
+Robo~~~~~~!!
+@177
+Onnistuit!
+Pelastimmekohan nyt kaikki?
+@178
+Minä näin sen!
+Mestari käveli yhdessä Roborobo-jengin kanssa!!
+Mestari on varmasti Roborobo-jengin rikostoveri!!
+@179
+Johtajakin oli vangittuna täällä kanssamme,
+mutta Roborobo-jengin tyypit veivät hänet.
+Hän sanoi pääsevänsä karkuun, jos vastassa ovat ne,
+mutta pääsiköhän hän turvallisesti...?
+@180
+Huh, tulitte pelastamaan meidät. Kiitos paljon!
+Ovatko nyt kaikki tässä?
+Jos matkan varrella vangitut lapsetkin on vapautettu,
+täällä olevat ovat kaikki vangitut jäsenet.
+Mutta mestari lähti Roborobo-jengin mukana...
+Me pärjäämme jo!
+Etsikää mestari nopeasti!
+Selvä!
+@181
+Me pärjäämme jo!
+Etsikää mestari nopeasti!
+Selvä!
+@182
+Hahahahahaha hahahahahaha...
+Tämä ääni...
+Se tyyppi.
+@183
+Oletteko kunnossa!?
+Arvasin...
+Hohhohhoo, koi lentää tuleen, kuten sanotaan...
+@184
+Mestari? Mitä te...
+Medabottisiirto!!
+@185
+Gruoooooooh!!
+N-nämä ovat!?
+Vai niin. Roborobo-jengin ja Kokuen-kaartin liittolaisena
+sinä siis piinasit kaikkia!?
+@186
+Sinä olet Roborobo-jengin vanha pomo Shiokara!
+!!
+Tämä mies on Roborobo-jengin pomo!?
+Hohhohhoo, tapasimme taas, poika!
+Roborobo-pomojen piti olla Select-joukkojen vankeina!
+Miksi olet täällä!
+Hohhohhoo! Tuollainen hölmöjen joukko
+ei pidä minua kauan!
+(Jopa Roborobo-jengi pitää Select-joukkoja "hölmöinä"...)
+Hoitakaa heidät, Frankenit!!
+Uwaah!!
+@187#kabuto
+Mene! Exise!!
+@187#kuwagata
+Mene! Unitris!!
+@188
+K-kuka siellä!?
+@189
+Odotitteko!
+@190
+Kouji!
+Nuuh! Sinäkö, poika!?
+Kuulehan, Roborobo!
+Olin kuullut, mutta sinä tosiaan karkasit vankilasta!!
+Shiokara olen!!!!!
+@191
+Sillä ei ole väliä!
+Minusta sillä on väliä...
+Nuuh, senkin pojat...
+@192
+Hyvästi!!
+@193
+Ah, hän pakeni!
+Perään!!
+@194
+Tämä... liikkuu yhä!
+@195
+Tsk... ei auta! {BUF03}, aja häntä takaa!!
+@196
+Mitä!?
+Muuten Roborobo pakenee. Jätä tämä meille!
+@197
+Selvä, tämä on teidän hoidossanne!
+Luota meihin!
+@198
+H-hei, älkää päättäkö omin päin!!
+@199
+Hei! Seis siihen!!
+Gaaaaaaaah!!
+Hiljaa! Älä tule tielle!!
+Nyt pistetään kampoihin! Varaudu!!
+@200
+Pysykää kaikki kunnossa...
+@201
+Mitä nämä ovat...!?
+TAKAA-AJAJA. KAADA KAADA KAADA...
+Näitäkin Medabotteja ohjataan!
+...Pulassa ollaan.
+@202
+Tuota, tällaisessa tilanteessa... Niin! Retort~!!
+@203
+{BUF03} kutsuu minua!
+@204
+Väriä ruokapöytään...
+@205
+...Ei nyt ole sen aika!!
+Tulen nyt, {BUF03}!
+@206
+Kyaa, pervo!!
+Naamioitu viittapervo on ilmestynyt!
+Ei elävänä täältä!!
+@207
+Uwah!
+@208
+Guoh!
+@209
+Aijai!
+@210
+Guwah!
+@211
+Hetkinen, tuo on...
+@212
+T-tämä ei näytä hyvältä.
+@213
+(Odota, {BUF03}, tulen heti...!!)
+Noooooooooh!!
+@214
+(...Eihän hän tule, vaikka kutsuisin.)
+@215
+Mitä...?
+@216
+Se tulee tänne!?
+@217
+......H-häh?
+@218
+Mitä tuo oli...
+@219
+Fu...fuhahahahaha!
+@220
+Retort! Tulit!
+@221
+Mitä on tapahtunut, Retort!? Olet ihan riekaleina!
+Pikkuisen naisten kylpylässä...
+Mitääh! Naisten kylpylässä!?
+Ei, ei mitään...
+Mutta nyt kukistetaan nuo ja ajetaan Shiokaraa takaa!!
+...Selvä!
+@222
+Mennään!!
+@223
+.........
+Mikä hätänä, {BUF03}?
+@224
+Nuothan vain ovat jonkun ohjaamia...
+Siitäkö on kyse...
+@225
+Ole huoleti.
+Medabottiprofessori hoitaa nämä kaikki kyllä kuntoon.
+Oikeasti!?
+Professorillekaan Medabottien tällainen hyväksikäyttö
+ei ole anteeksiannettavaa. Hän korjaa ne varmasti.
+Huh, hyvä...
+Kas niin, ajetaan nopeasti Shiokaraa takaa.
+@226
+Kaikki tekevät parhaansa. En voi perääntyä nyt!
+@227
+Löysin sinut, Shiokara!
+Varaudu!
+Sitkeitä tyyppejä!
+Hahahahahaha hahahahahaha...
+Tämä ääni...
+@228
+Mitä niille Medaboteille tapahtui?
+Kukistin ne tietysti! Ne kaksi ovat nyt tulossa tänne.
+Taas sinä. Sitkeä tyyppi.
+@229
+Mestari! Kunnioitin robottelunne voimaa!!
+Mutta
+tänään ohitan teidät täällä!!
+Hävytön kakara! Saat maistaa vastaiskua!!
+Älä unohda, että mekin olemme täällä!
+@230
+Mennään, {BUF03}!
+Sazankan rauha on tämän taistelun varassa!!
+Älkää aliarvioiko pomo Shiokaraaaaa!!
+@231
+Jee!
+@232
+Taisimme voittaa.
+Ärsyttävät tyypit...
+Mutta minua ei vielä saada kiinni!
+@233
+Seis!!
+@234
+Jätetään Shiokara Retortille.
+@235
+Arika! Kouji! Oletteko kunnossa?
+Totta kai!
+Voi että! Olipa kamalaa!!
+No, niitä ei ollut kovin montaa, onneksi.
+En enää ikinä taistele noin karmivia botteja vastaan!
+Niin kai, mutta...
+Heti kun lähdit, Retort Lady ja muut
+tulivat apuun, joten se oli helppoa.
+Häh?
+@236
+Kukistit siis Shiokaran. Kyllä {BUF03} osaa!
+Retort Lady!
+Vangitut ovat kaikki palanneet dojolle!
+Kokuen-kaartikin näyttää vetäytyvän.
+Nyt Sazankaan palaa rauha.
+Nyt Kameyamaan! Karin pelastetaan!!
+O-odota nyt!
+Uooooooooooh!!
+@237
+Kouji!
+Perään!
+@238
+Odottakaaa!!
+@239
+Miksi, Retort Lady?
+Kuulkaa nyt... tiedättekö, mitä kello on?
+Häh...?
+Katsokaa ulos. Pilkkopimeää.
+@240
+Ai, totta...
+Milloin...
+Minä ajan Koujia takaa, joten te...
+Valmistelemme siis teille huoneen dojolta.
+@241
+Niin. Lähteä kiittämättä
+on minustakin siistiä, mutta eikö se ole vähän epäreilua?
+@242
+Niin he sanovat. Ottakaa tarjous vastaan.
+Ilmoitan teidän kotiinne, eikö?
+Mutta...
+Selvä?
+S-selvä...
+Ei hätää! Hoidan selitykset. Moikka, bai bai♥
+@243
+Palataanko sitten dojolle?
+Niin. Jätetään Kouji Retort Ladylle.
+Ei hätää, tämän läpi Kameyaman koulu on heti.
+Eksyäkään ei voi, joten hän pärjää kyllä.
+...Niin kai.
+Palataan sitten.
+@244
+Käyttäkää tätä huonetta.
+Tämähän on Matsu-asuntola!
+Juuri siksi se käy.
+Täällä ennen ollut Kokuen-kaarti
+on poissa, ja muissa huoneissa asuu väkeä.
+Niin tosiaan.
+Joten ei tarvitse ujostella.
+Hahahahahaha hahahahahaha...
+@245
+Levätkää kunnolla.
+@246
+Mutta silti... turhan suuri huone.
+Monta kertaa minun huoneeni kokoinen?
+@247
+Ellei Kouji olisi ryntäillyt, hänkin voisi yöpyä täällä.
+Kouji ei olisi Kouji, jos hän pysähtyisi.
+Niinpä...
+@248
+No, nukutaanko jo?
+Nukutaan.
+Tänään tapahtui kyllä kaikenlaista~
+Tyttöjen vaatteita ja muuta...
+Älä viitsi, Arika...
+Mitä väliä, olit söpö♪ No, hyvää yötä~♥
+Uh... minulla on aavistus, ettei se jäänyt siihen...
+@249
+{BUF03}~ nyt on aamu~
+@250
+Herää nopeasti~
+@251
+V-vielä 5 minuuttia...
+.........
+@252
+Herätyyys~~~~~~~!!
+@253
+Uuh...
+@254
+{BUF03}, oletko kunnossa?
+@255
+O-olen kunnossa, Brass.
+.........
+@256
+Miksi Arika ja muut ovat meillä?
+Mitä sinä horiset?
+Mehän yövyimme täällä eilen.
+Ai, niin tosiaan...
+Ryhdistäydy. Tänään iskemme Kameyaman kouluun.
+Niin! Karin pitää pelastaa!
+@257
+Mutta silti...
+@258
+Sinäpä nukuit hyvin tällaisessa levottomassa huoneessa.
+Niinkö?
+@259
+En minä kehunut...
+Ja minä en saanut nukuttua ollenkaan.
+@260
+Sanoo se, joka kuorsasi ensimmäisenä...
+Sanoitko jotain?
+@261
+E-en sanonut mitään!
+@262
+Voi voi, ja minä kun toin sinulle aamiaista.
+@263
+Taidanpa syödä tämän itse~♥
+Aamiaisaika loppui jo, joten nyt ei ole enää mitään jäljellä♪
+@264
+Mitä, eikä!!
+@265
+Arvasin, että sanot noin, joten tein tämän. Ole hyvä.
+Häh?
+Teitkö sinä sen, Arika!?
+Mikä tuo reaktio on? Jos et halua, ei tarvitse syödä.
+E-ei, en tarkoittanut...
+Arika teki sen tosi ahkerasti.
+Älä valita, vaikka se on vähän vino.
+@266
+No, odotan ulkona.
+@267
+Mennään, Brass!
+@268
+Hamps, mums mums...
+Onpa se tosiaan kummallisen muotoinen.
+@269
+Mutta hyvää.
+Mums mums...
+@270
+Arika... säilöttyä retikkaa ei laiteta riisipalloon...
+Mutta hyvää. Tämä on uusi löytö.
+@271
+Selvä! Maha on täynnä, joten lähdetään!
+@272
+Kas, nukuitko hyvin?
+Joo, kiitos teidän.
+Hyvä.
+Miten dojon väki voi yön jälkeen?
+Siitä tulikin hupaisaa: mestarin kukistajaksi
+huhutaan kaupungissa puheenaiheena olevaa piikatyttöä.
+K-kas vaaaain, kummallista~~~
+Tosi kummallista~~~♥
+No, mitäpä siitä. Tuollaiset huhut ovat rauhan merkki.
+Ei minusta...
+Muuten, lähdettekö jo?
+Joo, Karin pitää pelastaa nopeasti.
+Vai niin. Ota sitten edes tämä mukaasi, se on lahja.

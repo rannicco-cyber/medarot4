@@ -1,0 +1,718 @@
+@000
+...S-sanon vain, että tämä on
+kertaluonteinen erityispalvelus. Kaiken tämän jälkeen
+annan anteeksi pelkällä "anteeksi"-sanalla!
+Kouji...
+........
+@001
+Kas niin, Shuri. Pyydä kaikilta kunnolla anteeksi.
+@002
+Antee...ksi...
+@003
+En kuule!
+AN-TEEK-SI!!
+@004
+Vau, mikä ääni! Onpa äärimmäinen tyyppi.
+@005
+Anteeksi... Hänen on vaikea olla rehellinen.
+Kasvata hänet kunnolla!
+Kouji...
+@006
+Joo, yritän parhaani. No, lähdetään, Shuri.
+Kyllä!
+@007
+Näin Shurin noin iloisena ensimmäistä kertaa.
+Suurten kohujen alku on usein tällainen~
+@008
+Oho?
+...Ryutou-akatemia...
+...Häh?
+Siellä on Beast King.
+Shuri, mennään!
+@009
+A, kyllä!
+@010
+Ryutou-akatemia? Beast King?
+Sanoiko hän jotain?
+@011
+Ryutou-akatemiassa on kuulemma Beast King.
+??? Mitähän se tarkoittaa?
+@012
+Ryutou-akatemia... Onko se se koulu, joka on
+Medaropoliksesta itään?
+Umineko-rannan takana. Umineko-rannallehan
+menemme rantaleirikoulussa!
+Sattumaa, meidänkin koulumme leirikoulu on siellä.
+Onko Beast King yksi neljästä kuninkaasta?
+Retort puhui "henkilöstä, joka ohjailee
+neljää kuningasta kulisseissa"... ehkä se.
+Shuri kertoi sen varmasti
+kiitokseksi {BUF03}:lle.
+Kiitokseksi minulle?
+Kyllä.
+"Hänen on vaikea olla rehellinen"... vai niin.
+Tuoko oli kiitos?
+Voi sentään...
+@013
+...Heh.
+Ahahaha!
+@014
+Hihi♥
+@015
+Mutta miksi Karin siepattiin ja häntä
+kuljetettiin paikasta toiseen? En ymmärrä syytä.
+Kuin Karin olisi ollut syötti meitä varten.
+Miksi?
+Kukapa tietää...
+...Nyt en voi enää jättää neljää kuningasta rauhaan.
+Neljä kuningasta, eli vielä yksi jäljellä. En tiedä, millainen
+"S-R-suunnitelma" on, mutta sitä en voi jättää näin.
+"S-R-suunnitelma"?
+Hakuma puhui siitä. "Sen keksi henkilö, jota kunnioitan."
+Mekin tulemme, {BUF03}.
+Saanko minäkin tulla mukaan?
+@016
+Mitä, Karin, sinä!
+Mitä sitten, Kouji? Nyt ei voi sanoa,
+ettei Karinilla ole mitään tekemistä neljän kuninkaan kanssa.
+Mutta eikö ensin pitäisi mennä kotiin lepäämään?
+Seuraava kohde on nyt selvillä.
+@017
+Seuraavan kerran tapaamme siis rantaleirikoulussa.
+Karinin pitää saada tavata isänsä.
+Ennen kotiinlähtöä käydään tapaamassa Retortia,
+Retort Ladya ja Kinokoa.
+@018
+...Vai niin. Kolme kuningasta on kaatunut.
+Kylläpä se Karin-niminen tyttö oli hyvä syötti.
+Jäljellä enää yksi... odotan innolla.
+@019
+Aah... olipa kurjaa.
+@020
+Hei, kuule, missä {BUF03} on?
+Hän lupasi antaa meille voittopalkinnon.
+@021
+Ai, {BUF03} kertoi siitä.
+Odota hetki...
+@022
+Tässä.
+@023
+Mikä tämä on? Naamiohan tämä on.
+Hölmön naama~
+Ihana♥
+Niin, Retortin naamio ja hattu ovat kuulemma voittopalkinto.
+M-mitä tuo on!
+Älä välitä Retortista, hänellä on varalla lisää.
+Bai bai♥
+@024
+Saako näin tehdä?
+.........Arvasinhan, että tällainen loppu tulee.
+Minä menen tänään kotiin nukkumaan.
+@025
+Kagamiyama! Vie sinä tämä kotiin.
+Kiitos, pomo♥
+@026
+Hehehe♥
+@027
+Ai! Pomoo!
+@028
+Odota!
+@029
+Shurilla oli tämä, joten laitoin sen koristeeksi...
+Mikähän tämä oikein on?
+(Retortin hattu.)
+@030
+Hei, {BUF03}. Robotellaanko?
+@031
+Niinkö? Kerro, jos haluat taas robotella.
+@032
+Okei, en häviä!
+@033
+No, {BUF03}, nähdään.
+@034
+Miksi sinä olet täällä?
+Mitä sitten? Minäkin olen Jakunanin oppilas.
+Entinen! Entinen oppilas!
+Entinen tai nykyinen, pääsin sisään,
+joten saan olla täällä!
+En pidä tästä lainkaan!
+@035
+Tenryou {BUF03}, sinäkin olet täällä?
+No~ ahahaha
+Kerrassaan...
+@036
+Kas, robotteletko kanssani?
+@037
+Pettymys.
+@038
+Otan tosissani!
+@039
+No, tämän tasoista.
+@040
+Hee~ asut mukavassa paikassa.
+En minä täällä asu! Sitä paitsi,
+miksi sinä olet täällä?
+Mitä väliä? Älä välitä sellaisesta.
+Mukavat paikat pitää jakaa kaikkien kesken.
+Onpa itsekäs ja itsekeskeinen...
+@041
+Kas, {BUF03}. Robotteletko kanssani?
+@042
+Mitä, etkö?
+@043
+Okei, sitten mennään!
+@044
+Olen vastustajasi milloin vain.
+@045
+Aah~ saada juoda teetä neiti Shurin
+yksityishuoneessa, on-nel-lis-ta~♥
+@046
+Robotellako täällä?
+En sotke Shurin huonetta.
+@047
+Sinun ansiostasi pääsimme vapaiksi. Kiitos.
+Kyllä Medabottienkin on parempi ajatella ja elää itse.
+@048
+Neiti Shurin isä on i-ha-na♥
+Shuri suuttuisi taas, jos kuulisi tuon.
+@049
+Ai, älä nouse lavalle.
+Jos haluat osallistua huutokauppaan, puhu
+oikealla olevalle pupulle♥
+@051
+Huutokaupassa tulee helposti ostettua
+kalliitakin tuotteita innostuksen vallassa.
+@052
+Säästin taskurahoja tätä päivää varten.
+@053#kabuto
+Päivän helmi on ehdottomasti "King"-mitali.
+@053#kuwagata
+Päivän helmi on ehdottomasti "Ace"-mitali.
+@054#kabuto
+Päivän helmi on ehdottomasti Smilodonadin osat.
+@054#kuwagata
+Päivän helmi on ehdottomasti Warbanitin osat.
+@055
+Millaisia tuotteita tänään tulee?
+@056
+Aah, tänään tuli aikuisia! Vau, kova kilpailija...
+@057
+Huutokaupassa tärkeintä on taktikointi muita vastaan.
+Jos nostaa hintaa vain vähän kerrallaan, ratkaisua ei tule.
+@058
+Huutokaupasta en yleensä pysty ostamaan mitään,
+mutta tänään isi on mukana, joten ostan varmasti.
+@059
+Kun tytär pyytää, en voi sanoa ei.
+Voi voi...
+@060
+Tervetuloa Medabottaajien huutokauppaan!
+Osallistutko sinäkin huutokauppaan?
+@061
+Vaikka tarjolla on paljon hyviä tuotteita~
+@062
+OK! Tule sitten tänne.
+@063
+Odota täällä vielä hetki, kunnes huutokauppa alkaa.
+@064
+Millaisia tuotteita tulee? Odotan innolla.
+@065
+Hyvät naiset ja herrat, kiitos odotuksesta. Aloitamme
+Medabottaajien huutokaupan! Tämän kerran tuote on...
+@066#kabuto
+"King"-mitali!!
+@066#kuwagata
+"Ace"-mitali!!
+@067
+Aloitetaan 3000¥:sta!
+3500¥!
+@068
+3800¥!
+@069
+4100¥!
+@070
+4200¥!
+@071
+4500¥!
+Mitähän tekisin?
+@072
+4600¥
+4800¥
+5200¥
+7300¥
+En osallistu
+@073
+4600¥!!
+@074
+4800¥!!
+@075
+Ei minulla ole niin paljon.
+@076
+5200¥!!
+@078
+7300¥!!
+@079
+Huhhuh~ Hinta nousi kerralla...
+@081
+4900¥!
+@082
+5000¥!
+@083
+5300¥!
+@084
+5500¥!
+@085
+6000¥!
+@086
+6500¥!
+@087
+6700¥!
+@088
+7000¥!
+@089
+7200¥!
+7200¥... onko se liian kallis?
+@090
+7300¥
+7600¥
+7900¥
+En osallistu
+@093
+7600¥!!
+7600¥ tarjottu! Onko muita?
+@094
+7900¥!!
+7900¥ tarjottu! Onko muita?
+@096
+7600¥!
+@097
+7700¥!
+@098
+8200¥!
+8200¥, 8200¥. Onko
+muita tarjoajia?
+@099
+Kyllä! Myyty tuolle
+asiakkaalle hintaan 8200¥!
+@100
+Hyvät naiset ja herrat, tulkaa ensi kerrallakin~
+@101
+Harmi...
+@103
+5600¥!
+@104
+5800¥!
+@105
+6200¥!
+Mitähän tekisinkään?
+@106
+6300¥
+6500¥
+6800¥
+En osallistu
+@107
+6300¥!!
+@108
+6500¥!!
+@109
+6800¥!!
+6800¥ tarjottu! Onko muita?
+@110
+Ei auta, rahat loppuivat.
+Onko muita tarjoajia?
+@111
+Myyty tuolle asiakkaalle hintaan 6200¥!
+@114
+6600¥!
+@115
+6900¥!
+@116
+7200¥!
+7200... onkohan minulla niin paljon?
+@117
+7400¥
+7600¥
+8200¥
+En osallistu
+@118
+7400¥!!
+7400¥ tarjottu! Onko muita?
+@120
+8200¥!!
+8200¥ tarjottu! Onko muita?
+@121
+Ei minulla ole niin paljooon.
+@122
+8200¥!
+@123
+8200¥, 8200¥ tarjottu. Onko muita?
+@124
+Myyty tuolle asiakkaalle hintaan 8200¥!
+@127
+8000¥!!
+@128
+Huhhuh! Vielä nostettiin!!
+Ugh, mitä teen?
+@129
+8200¥
+8600¥
+8900¥
+En osallistu
+@131
+8600¥!!
+8600¥ tarjottu! Onko muita?
+@132
+8900¥!!
+Ohoo, tämäpä jotain! Kuinka korkealle tämä nousee!?
+9200¥!!
+@133
+Hiittoooo!!
+@134
+9500¥
+Luovutan
+@135
+9500¥!!
+Sieltä tuli! 9500¥!! No, onko muita!?
+@136
+Ai, rahat eivät riitä!
+@137
+Onko muitaaa?
+@138
+Myyty tuolle asiakkaalle hintaan 9200¥!
+@146
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 7600¥!
+Jee!
+@147
+Onneksi olkoon kaupasta!
+@148
+Onnea ensi kerrallakin.
+@149
+Aah, olipa hauskaa.
+@150
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 7900¥!
+Jee!
+@154
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 6800¥!
+Jee!
+@158
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 8200¥!
+Jee!
+@162
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 8600¥!
+Jee!
+@166
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 9500¥!
+Jee!
+@170
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 7400¥!
+Jee!
+@180#kabuto
+Smilodonadin osat!!
+@180#kuwagata
+Warbanitin osat!!
+@181
+Aloitetaan 3000¥:sta!
+4000¥!
+@183
+5200¥!
+@185
+6000¥!
+Mitähän tekisin?
+@186
+6300¥
+7500¥
+8200¥
+13000¥
+En osallistu
+@188
+7500¥!!
+@190
+8200¥!!
+@192
+13000¥!!
+@195
+8000¥!
+@196
+8500¥!
+@197
+8800¥!
+@198
+9400¥!
+@199
+9500¥!
+@200
+11000¥!
+@201
+12000¥!
+@202
+13500¥!
+@203
+14000¥!
+14000¥... onko se liian kallis?
+@204
+14500¥
+15700¥
+16300¥
+En osallistu
+@205
+14500¥!!
+@207
+15700¥!!
+15700¥ tarjottu! Onko muita?
+@208
+16300¥!!
+16300¥ tarjottu! Onko muita?
+@210
+153000¥!
+@211
+16000¥!
+@212
+19000¥!
+19000¥, 19000¥. Onko
+muita tarjoajia?
+@213
+Kyllä! Myyty tuolle
+asiakkaalle hintaan 19000¥!
+@216
+9000¥!
+@217
+9800¥!
+@218
+11200¥!
+@219
+13000¥!
+Mitähän tekisinkään?
+@220
+13500¥
+14500¥
+15000¥
+En osallistu
+@221
+13500¥!!
+@223
+15000¥!!
+15000¥ tarjottu! Onko muita?
+@225
+Myyty tuolle asiakkaalle hintaan 13000¥!
+@228
+14800¥!
+@229
+14900¥!
+@230
+15000¥!
+15000... onkohan minulla niin paljon?
+@231
+15500¥
+15700¥
+17000¥
+En osallistu
+@234
+17000¥!!
+17000¥ tarjottu! Onko muita?
+@236
+16000¥!
+@237
+16000¥, 16000¥! Onko muita tarjoajia?
+@238
+Myyty tuolle asiakkaalle hintaan 16000¥!
+@241
+16000¥!!
+@243
+17000¥
+18500¥
+20000¥
+En osallistu
+@245
+18500¥!!
+18500¥ tarjottu! Onko muita?
+@246
+20000¥!!
+Ohoo, tämäpä jotain! Kuinka korkealle tämä nousee!?
+21000¥!!
+@248
+22000¥
+Luovutan
+@249
+22000¥!!
+Sieltä tuli! 22000¥!! No, onko muita!?
+@252
+Myyty tuolle asiakkaalle hintaan 21000¥!
+@257
+Myyty tuolle asiakkaalle hintaan 19000¥!
+@260
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 15700¥!
+Jee!
+@264
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 16300¥!
+Jee!
+@268
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 15000¥!
+Jee!
+@272
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 17000¥!
+Jee!
+@276
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 18500¥!
+Jee!
+@280
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 22000¥!
+Jee!
+@284
+Myyty tuolle nutturapäiselle asiakkaalle
+hintaan 15500¥!
+Jee!
+@288
+Tule katsomaan, kun uusia tuotteita tulee♥
+@289
+Mitä, {BUF03}? Aiotko robotella kanssani?
+@290
+Älä puhu minulle, jos sinulla ei ole asiaa.
+@291
+Saat katua, että haastoit minut.
+@292
+No, tämän tasoista.
+@293
+Stray Wolf, medamuutos!!
+@294
+Brown Bison, laser!
+@295
+Ei voi olla! Kaikki kaatuivat yhdellä iskulla!?
+@296
+.....heh
+@297
+Mitä, robotellaanko?
+@298
+Heh, joko pelästyit?
+@299
+Näytän nerohakkeri Iwanoin voiman!
+@300
+Taso ei vielä riitä.
+@301
+Siitäs sait!
+@302
+Mestari! Mieti mitalin ja osien yhteensopivuutta!
+@303
+Brown Bison, laseria!
+@304
+Älä häviä, Stray Wolf! Viillä, viillä, viillä!
+@306
+Voi, Stray Wolf~!
+@308
+Robotteletko kanssani?
+@309
+Mitä, harmi.
+@310
+En säästele.
+@311
+Vaatteet likaantuivat.
+@312
+Ratkaisen ottelun ennen kuin osat likaantuvat.
+@313
+Kas, sinähän siinä, pitkästä aikaa.
+Ai, se ystävällinen mutta outo ihminen missikisasta!
+Tylysti sanottu, mutta ilahduttaa, että muistit minut.
+Muuten, osallistutko sinäkin vapaaseen missikisaan?
+No, jos on aikaa.
+Sitten sinun kannattaa tietää, kuka on tuomarina.
+Minä kerron sinulle ihan kai-ken♥, joten
+tule kysymään, kun haluat tietää tuomarin.
+Jee, kiitos.
+@314
+Kas, haluatko tietää, kuka on tuomarina?
+@315
+Missikisan voitto on
+vaikeaa tuntematta tuomaria♥
+@316
+Tietojeni mukaan seuraavan "missikisan" tuomari on
+@317
+Alexander, kuulemma. Ja Shiratama ei tule.
+@318
+Alexander, kuulemma. Ja Bishounen ei tule.
+@319
+Alexander, kuulemma. Ja Bulldog ei tule.
+@320
+Bishounen, kuulemma. Ja Alexander ei tule.
+@321
+Bishounen, kuulemma. Ja Bulldog ei tule.
+@322
+Bishounen, kuulemma. Ja Shiratama ei tule.
+@323
+Bulldog, kuulemma. Ja Bishounen ei tule.
+@324
+Bulldog, kuulemma. Ja Shiratama ei tule.
+@325
+Bulldog, kuulemma. Ja Alexander ei tule.
+@326
+Shiratama, kuulemma. Ja Bulldog ei tule.
+@327
+Shiratama, kuulemma. Ja Bishounen ei tule.
+@328
+Shiratama, kuulemma. Ja Alexander ei tule.
+@329
+No, kannustan sinua♥
+@333
+Alexander pitää miehekkäistä Medaboteista.
+@334
+Bishounenille paras on miehekäs mitali ja
+naismallin osat: rajoja rikkova Medabotti.
+@335
+Bulldogille paras on naisellinen mitali ja
+miesmallin osat: koreileva Medabotti.
+@336
+Shiratama tykkää tytöistä: söpö Medabotti on paras.
+@337
+Ai, missikisaan osallistujat, nouskaa tästä.
+@338
+Pitää kiertää tuonne päin.
+@339
+Kas, {BUF03}. Etkö kokeilisi missikisaa?
+Vielä yksi, niin meitä on 3.
+@340
+Voi harmi. Haasta, kun innostut♥
+@341
+Odotettua mestarilta! Asetu heti riviin!
+@342
+Kaikki muutkin lavalle!
+@343
+No niin, osallistujat, tulkaa lavalle.
+@344
+Ai, Kinoko!
+Hehe, vaikka vastassa on {BUF03}, en säästele.
+@347
+{BUF03}, tällä kertaa en häviä!
+Retort Lady!
+@350
+Shuri!?
+Hehehe, pärjäätkö kauniille Medabotilleni?
+@353
+Kiitos kaikille, osallistukaa taas♥
+@354
+Haluat tietää missikisan voittosi. Tuota...
+@355
+Mahtavaa, peräti 10 voittoa! Tässä, lahja sinulle.
+@356
+Mahtavaa, peräti 30 voittoa! Tämä on
+Shurin lahja.
+@357
+Haasta taas♥
+@358
+Missikisan osallistujat ovat kyllä kaikki kauniita.
+@359
+Haluan missikisaan siistillä Medabotilla~♥
+@360
+Katsojatkin ovat kaikki Jakunanin oppilaita.
+@361
+Missikisaan osallistuu joskus yllättäviä ihmisiä.

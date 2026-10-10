@@ -1,0 +1,880 @@
+@000
+Ja vielä hyödyllistä tietoa.
+Kylpyläluolan sisäänkäynnistä heti sisään mentäessä
+vasemmalla on umpikuja. Muistatteko sen?
+Siellä sinä eksyit.
+Hahaha, olet ankara.
+Se umpikuja oli alun perin kulkukelpoinen tie.
+Ai, oliko?
+Tie on vain suuren kiven tukkima.
+Roborobo-jengin Franken-malli Gracche...
+Sen pääosalla kiven voi murskata!
+Silloin Kameyama on paljon lähempänä!
+Kiitos! Tästä on apua!!
+Oikeastaan haluaisin tulla mukaanne,
+mutta meidän on suojeltava dojoa nyt, kun mestari on poissa.
+Älä siitä huoli...
+Minä olen {BUF03}:n tukena♪
+H-hei, Arika!
+Ufufu, kuulostaa luotettavalta.
+Ai niin, meillä Libertiesillä
+on tunnussana.
+Tunnussana?
+Sillä tunnistamme toverit.
+Kameyaman ala-asteellakin on tietysti Libertiesin jäseniä.
+He varmasti auttavat teitä.
+Tunnussana on "Lähdetäänkö kahville?"
+Häh?
+Sen voi sanoa kenelle vain, eikä se kuulosta oudolta, eikö?
+(Tytölle ehkä, mutta pojalle se olisi noloa...)
+@001
+Muuten, mitä Retort Ladylle tapahtui?
+Löysiköhän hän Koujin?
+Ahahahahahaha!!
+@002
+Retort Lady!
+@003
+Hei hei, olisitte voineet odottaa,
+että sisko ehtii sanoa iskulauseensa.
+Ai, anteeksi...
+No, olkoon. Mutta nyt on sattunut jotain kamalaa.
+Mitä on tapahtunut?
+Se koskee Karinia.
+Hän ei kuulemma ole enää Kameyamassa.
+@004
+Mitä!?
+Entä Kouji sitten!?
+Hänestäkään ei tiedetä mitään.
+Ei voi olla!?
+Mennään äkkiä apuun!
+Odottakaa, se on vaarallista!
+Emme silti voi jättää heitä.
+Niin, mutta...
+@005
+Ei hätää.
+{BUF03} ja muut eivät ole yksin.
+Myös Liberties yrittää kaikin voimin
+palauttaa rauhan neljän kuninkaan käsistä.
+Ja Kameyaman ala-asteella on minua vahvempi medabottaaja.
+Yhteisvoimin kaikki järjestyy kyllä.
+@006
+......Selvä.
+Minä ja Retort palaamme alkuperäiseen tehtäväämme.
+Voitteko te hoitaa Koujin?
+Neljän kuninkaan kautta Karinkin voi löytyä♪
+Selvä!
+Älkää riskeeratko. Heippa, moikka♥
+@007
+Pidetään kiirettä!
+Joo!
+@008
+No, me lähdemme nyt.
+Toivomme teille voittoa.
+@009
+Tämä on siis Kameyaman ala-aste...
+Se oli tosiaan heti luolan jälkeen~
+Hyvä niin. Ei ole aikaa kierrellä kaupungilla.
+Onpa hiljaista. Eikö täällä ole ketään?
+Sazankan dojokin oli ensin tällainen.
+Kaikki on siis meistä kiinni. Tehdään parhaamme!
+Niin.
+@010
+"Lähdetäänkö kahville?"
+@011
+Mitä tuo on? Yritätkö iskeä?
+Tiedoksi vaan, ettei tuo toimi enää nykyään!
+@012
+Arika, Arika! Ei se niin mene.
+Se ei ole iskurepliikki vaan Libertiesin tunnussana!
+@013
+Häh? Häh?
+@014
+Hitsi! Tosi harhaanjohtavaa!
+@015
+Saimme teistä viestin Sazankan tovereilta,
+ja yksi teistä on kuulemma kadonnut.
+Niin on. Onkohan Kouji kunnossa...
+Gahhahhah! Kumartakaa, te!
+@016
+Hmm~? Mitäs tämä? Teitä en ole ennen nähnyt.
+Joka täällä uhmaa minua, Kokuenia, saa katua.
+@017
+A-anteeksi, Kokuen! He ovat uusia oppilaita!
+Opetan heille tavat kunnolla!
+Hmph. Opeta heidät hyvin, jos et halua arestiin!
+Kyllä, herra!
+@018
+Juuri niin! Hyvä!
+@019
+Huh~ selvisimme.
+Onko tuo ylimielinen tyyppi neljän kuninkaan Kokuen?
+Kyllä, hän on "Genbun Kokuen".
+Jos häntä uhmaa, joutuu arestihuoneeseen.
+Pahempaa kuin Sazankan dojolla.
+Taidan ymmärtää, miksi koulu on näin hiljainen...
+...Täällä ei voi puhua kunnolla.
+Tulisitteko Libertiesin piilopaikkaan?
+Piilopaikkaan? Missä se on?
+Oikean koulurakennuksen 1. kerroksen alaosan iso luokka.
+Olipa tarkka.
+Hyvä vain, helppo löytää.
+Rakennuksemme ovat sokkeloisia.
+Odotan teitä.
+@020
+Mennäänpä katsomaan Libertiesin piilopaikkaa.
+Mennään. Siellä joku voi tietää Koujista.
+Mennään!
+@022
+Tervetuloa Libertiesin piilopaikkaan!
+@023
+Esittelen teidät kaikille.\nSeuratkaa!
+@024
+Hei, kaikki, tulkaa tänne!
+@025
+Olemme kuulleet urotöistänne Sazankassa.
+Liberties toivottaa teidät tervetulleiksi!
+@026
+Tämä huone...?
+Se on alun perin varasto.
+Nyt saamme käyttää sitä Libertiesin piilona.
+Saatte käyttää... Kenen luvalla?
+No...
+@027
+M-mitä!?
+@028
+Esittelen hänet teillekin.
+Kenet?
+@029
+Hauska tavata, Tenlyou {BUF03}.
+Ja Amazake Alika.
+@030
+Kuka tuo on?
+Koulumme rehtori.
+@031
+Rehtori!?
+Miksi televisiossa...?
+Olen nimittäin elään syyn takia poissa Japanista.
+Mutta silti en voi katsoa sivusta, mitä Yoiyami nyt tekee,
+en lehtolina enkä edes opettajana.
+Yoiyami?
+Se on Kokuenin sukunimi.
+Siksi annan Libeltiesin toimia vapaasti.
+Lapset palauttavat lauhan omin käsin...
+Sekin on kasvatusta, joka vahvistaa lasten omatoimisuutta.
+Ahaa, vai niin.
+@032
+Myös tämän luokan käyttö piilopaikkana
+oli mahdollista vain rehtorin luvalla.
+Ymmärrän~
+Mutta miksette sitten palaa äkkiä tänne?
+Minulla on kova kiile kaikenlaisten töiden takia.
+Voin nyt tehdä vain vähän,
+mutta lupaan auttaa kaikin tavoin.
+Yhdistäkää voimanne ja tehkää palhaanne.
+Selvä!
+Luotan teihin.
+@033
+Muuten, onko teillä jo\ntarkka suunnitelma?
+@034
+Ensin on pelastettava Damebotti-kerho.
+Damebotti-kerho?
+Se on haukkumanimi. Oikea on Medabotti-kerho.
+Surkeus on kuitenkin mennyttä. Nykyään kerhon johtaja
+on Kameyaman vahvin medabottaaja.
+Ovatko hekin Libertiesissä?
+Ei, Namishima ei kuulu Libertiesiin.
+Hän taistelee Kokuenia vastaan Damebotti-kerhon nimissä.
+Hän on vahva, eikö?
+Silti hän ei voittanut Kokuenia...
+Siihen on syvä... ei, pikemminkin liian matala syy...
+?
+@035
+Olitpa sinä hankala tapaus...
+Minne veitte johtajan ja muut, jes!
+Turpa kiinni! Katso mieluummin taaksesi.
+?
+@036
+T-tuo on BRA-12 Glow Blaster, jes!!
+Nyt!
+@037
+Ah!
+@038
+Päästäkää minut ulos, jeees!!
+@039
+Gahhahhah! Näin käy, kun uhmaa minua, Kokuenia!
+Hei, Roborobo! Vahdi, ettei hän karkaa!
+@040
+Selvä, robo!
+Senkin huijarit, jes!!
+Voitto ratkaisee, voitto!
+@041
+Ja niin siinä kävi.
+Uskomatonta... monella tapaa.
+Kokuen ei voittanut Rintarouta robottelussa,
+ja jos hän teki tuon vangitakseen hänet,
+se kyllä todistaa, että Rintarou on vahva.
+Rintarou!? Voisiko olla...
+Ai, muistan! Namishima Rintarou!
+Tunnetteko hänet?
+@042
+Rintarou uskoi, että Hikaru on "tarujen medabottaaja",
+ja tuli tapaamaan häntä.
+Silloin hän tapasi meidät. Lisää "Medarot 3":ssa♥
+@043
+Arika, kenelle sinä puhut?
+@044
+Ai, sori sori.
+@045
+Joka tapauksessa tunnemme Rintaroun.
+Asia on helppo!
+Voisitteko pelastaa Rintaroun?
+Parhaat medabottaajamme ovat nyt kaikki
+poissa pelastamassa vangittua johtajaamme!
+Ymmärrän. Koska taisteluvoimaa puuttuu,
+Liberties ei pääse liikkumaan.
+Juuri niin. Häpeällistä.
+Nyt kun opettajatkin tottelevat Kokuenia,
+voimme luottaa vain teihin.
+@046
+Mitä teet, {BUF03}?\nTurha edes kysyä.
+@047
+Rintarou tarvitsee apua! Tietysti menen!
+En usko, että Rintarou pyytäisi apua...
+Mutta en tietenkään vastusta. Mennään äkkiä.
+Kiitos. Taistelemme saman vihollisen kanssa,
+joten haluamme mekin tehdä yhteistyötä.
+@048
+Jätä se minulle!
+Me yritämme sitten jäljittää Koujin.
+Hän meni luultavasti Kokuenin luo...
+@049
+Hoitakaa te se.
+@050
+Kiiruhdetaan sitten!
+Kuulemamme mukaan Rintarou on Damebotti-kerholla koulun takana!
+@051
+Keskitytään nyt\nKameyaman ala-asteeseen.
+@052
+ZZZZZZZ....
+Se nukkuu.
+Nukkuu tosiaan.
+Mitä tehdään?
+...Eikö sen voi jättää rauhaan?
+No, jätetään se sitten.
+@053
+Haaah, hyvät unet, robo.
+Roboroboja on vain yksi. Nyt on tilaisuus, {BUF03}!
+Selvä!
+R-robo!?
+@054
+Roboooooo!?
+@055
+Hyvä!
+Nyt voimme pelastaa Rintaroun!
+@056
+...Hm? Rintarou, sinäkö? Pelastan sinut, hetki...
+Tulta, Kantaros!!
+@057
+Uwaah! Arika, pakoon!
+Häh? Mitä!?
+@058
+Vihdoin pääsin ulos, jes!
+Jes!
+@059
+Auts... Mitä ihmettä?
+@060
+Kantaros, korjaa rikkoutunut ovi, jes!
+Jes!
+@062
+Hei, ryhdistäydy!
+Uhh... Ai, Arika?
+@063
+Onneksi! Älä enää\nsäikäytä minua noin...
+@064
+Korjattu, jes!
+@065
+Jes!
+@066
+Kantaros, siirto, jes!
+@067
+{BUF03}!!
+@068
+Olipa julmaa, Rintarou.
+Anteeksi, jes!
+@069
+En kuullut {BUF03}:n ääntä ollenkaan, jes.
+Et vain kuunnellut!
+@070
+Toisen nimeä en tiedä, jes.
+Olen Amazake Arika,
+tuleva toimittaja! Muista se!
+Pelottavampi kuin tyttöjen kerhon johtaja, jes.
+Muuten, Rintarou,
+tiedätkö, missä muita kerholaisia pidetään vankina?
+@071
+Niin tosiaan, jes!
+Kaikki vangittiin, ja minut suljettiin kerhohuoneeseen, jes.
+Joo, sen kuulin.
+@072
+Missä johtaja ja muut ovat, jes??
+Et siis tiedä...
+@073
+Hankalaa... Palataanko piilopaikkaan?
+Niin... Tuo Roborobo voi kutsua kavereitaan.
+@074
+Niin, jes! Opettaja Tamawo\ntietää varmasti, jes!
+@075
+Opettaja Tamawo?
+Luokkani 6Z:n opettaja ja Medabotti-kerhon ohjaaja, jes!
+Käyn kysymässä, jes!
+@076
+Ah! Rintarou!?
+@077
+Perään, {BUF03}!
+Hän meni varmasti opettajan luo. Mennään opettajainhuoneeseen!
+@078
+Miksi? Oppilaat kärsivät, joten miksi
+opettajat ovat hiljaa? Tämä on ihan väärin.
+@079
+Kaikki alkoi, kun se Kokuen-poika siirtyi tänne.
+Ensin Hasuke ja muut ilmestyivät yhtäkkiä kouluun,
+ja Rintarouakaan ei ole näkynyt eilisen jälkeen...
+@080
+Mitä tässä koulussa oikein tapahtuu...?
+Oppilaatkin käyttäytyvät oudosti...
+@081
+Opettaja Tamawooo!!
+@082
+Auts!
+@083
+Opettaja Tamawo, oletteko\nkunnossa, jes?
+@084
+Ah! Rintarou!
+Onneksi olet kunnossa! Olin huolissani!
+Anteeksi, että huolestutin, jes!
+Mut-ta! Käytävällä ei saa juosta, olen aina sanonut!
+Anteeksi, jees~
+@085
+Oletteko opettaja Tamawo?
+@086
+Häh? Kyllä olen.
+Mutta te ette ole tämän koulun oppilaita.
+A-ahahaha, e-eihän sillä ole väliä♪
+A-ai niin, Rintarou, tulisitko hetkeksi?
+@087
+Mikä hätänä, jes?
+Tule nyt vain!
+@088
+Hei, odota...
+No, minäkin tästä...
+@089
+Häh...?
+@090
+Mitä tuo oli...
+Nuo lapset salaavat jotain...
+@091
+Hyvä on!
+@092
+Missä me oikein olemme, jes?
+Libertiesin piilopaikassa.
+@093
+Libertieskin taistelee\nneljää kuningasta vastaan.
+@094
+En tiennyt, jes.
+Voi sinua...
+Rintarou, tehdään yhteistyötä.
+Neljää kuningasta vastaan on yhdistettävä voimat.
+@095
+.........
+@096
+.........
+@097
+.........
+@098
+Tehdään yhteistyötä, jees!
+Kiitos, Namishima!
+@099
+Muuten, missä Kouji on?
+Luultavasti vanhassa koulussa.
+Vanhassa koulussa?
+Se on Kokuenin ja hänen hännystelijöidensä tukikohta.
+Kouji sellaisessa paikassa...
+Hän on luultavasti jo Kokuenin vankina.
+@100
+Johtajan ja muiden kanssa, jes!
+Pääseekö siihen vanhaan kouluun vapaasti?
+Ei. Kaarti vartioi ainoaa sisäänkäyntiä.
+Pitääkö meidän rynnätä väkisin?
+Se olisi hullua!
+Hmmmmmm...
+@101
+Hei, sinne ei saa mennä!
+@102
+Mitä te oikein teette täällä?
+Opettaja Tamawo on vihainen, jes...
+.........
+.........
+Miksi olette hiljaa? Ettekö voi kertoa opettajalle?
+Kokuenin käskyläisille ei ole mitään kerrottavaa.
+Uuh...
+Haluamme palauttaa rauhan neljän kuninkaan käsistä.
+Sinähän olit se äskeinen...
+Tulemme Omikujin Ginjoun ala-asteelta.
+Nimeni on Tenryou {BUF03}.
+Tunnen Rintaroun vähän...
+Olen Amazake Arika.
+Vai niin...
+Olen Satou Tamawo, Medabotti-kerhon ohjaaja
+ja Rintaroun luokanopettaja. Hauska tavata.
+Opettaja! Pyydän,
+unohtakaa kaikki, mitä näitte täällä!
+Kun {BUF03} ja Rintarou auttavat meitä,
+voimme vihdoin ehkä taistella Kokuenia vastaan!
+Jos tämä paljastuu nyt ja meidät murskataan,
+rauhan palauttaminen jää pelkäksi unelmaksi!
+Minäkin pyydän!
+Minäkin!
+En ihan tajua, mutta minäkin pyydän, jes!
+.........
+@103
+En voi katsoa tätä sormien läpi...
+Eikä!?
+Ajatelkaa nyt...
+Miksi ette kertoneet minulle mitään!?
+@104
+En voi jättää teitä oman onnenne nojaan!
+Opettaja...
+Minäkin autan!
+...Kiitos, opettaja!
+@105
+Hyvä opettaja.
+Niin.
+Joku tietty uusi opettaja voisi ottaa mallia.
+Siirrynköhän tänne, kun neljä kuningasta on kaadettu?
+Häh, muutatko, Arika!?
+Hölmö, vitsihän se oli.
+@106
+Kuulitteko tuon!?
+Kuulin kyllä!
+@107
+Ulkoa, jes!
+@108
+Kyaaa~n
+...Siirtyisinköhän minäkin tänne.
+Mihin sinä oikein katsot?
+@109
+V-vitsi vain!
+Ei kuulostanut vitsiltä!
+@110
+Tsk, se Roborobo päästi Rintaroun karkuun...
+Etsikää! Vaikka joka kiven alta!!
+Tämä on paha juttu!
+Kaupungin valtaus viivästyy jo niiden naisten takia,
+ja jos Kokuen kuulee Rintaroun paosta...
+Turpa kiinni! Jos tiedät sen, etsi Rintarou heti!
+S-selvä!
+@111
+Mitä te teette, jes!!
+Kas, tulit itse esiin!
+Kiitos vain, säästyimme etsimiseltä!!
+Robotelkaa kanssani, jes!!
+@112
+Hei, mitä teet, jes!
+Ilman Medakelloa et sinäkään pärjää...
+@113
+Anna takaisin, jes!
+@114
+Palaa!
+@115
+Kantaroooos!!
+Palautin sen vain Medakelloon! Älä huuda!!
+Päästä irti, jes! Päästä, jes!
+@116
+Jos et pysy aloillasi, paiskaan tämän Medakellon maahan.
+Se... olisi paha, jes...
+Tule sitten nätisti mukaan.
+@117
+Voi ei! Libertiesille\non kerrottava!
+@118
+Hätä! Kaarti vangitsi Rintaroun!!
+Mitä!?
+Rintaroun!?
+Hitsi!
+@119
+Odota, {BUF03}!
+@120
+Opettaja Tamawo?
+Jos menet nyt, jäät vain kiinni!
+Mutta Rintarou...
+Minulla on hyvä idea♥
+Hyvä idea...?
+@121
+{BUF03}, tulisitko hetkeksi?
+Minäkö?
+@122
+...No, mikä se "hyvä idea" on?
+{BUF03}, sinulla on... tosi söpöt kasvot♥
+Öh, kiitos...
+(Minulla on paha aavistus...)
+Mietin, keitä vanhassa koulussa käy.
+Se Kokuen on pannut kaartin ja Roborobo-jengin
+tuomaan hänelle mieleisiään tyttöjä.
+Ne "morsianehdokkaatko"?
+Siksi Karinkin siis siepattiin.
+Eli jotta pääsee vanhaan kouluun jäämättä kiinni,
+pitää vain olla se "mieleinen tyttö".
+Mieleinen tyttö... vai.
+@123
+Aivan!
+@124
+Häh? Tajusitko jo, Arika?
+@125
+Nerokasta, opettaja Tamawo!
+Häh? Häh?
+@126
+Ufufufu, nyt on meidän vuoromme♪
+E-ei kai...!!
+@127
+{BUF03}:lle sopii piikanasu!
+Ei sovi!
+Kas, piikanasu♪
+Söpöä♪
+Eikö?
+Ei, ei käy.
+Juuri niin!
+Sitä on vaikea vaihtaa hätätilanteessa.
+Ei, en tarkoittanut sitä...
+Se on ongelma...
+Eikö sille voi tehdä mitään?
+Ei, kun siis...
+@128
+Odottakaa hetki!
+@129
+Katsokaa tätä!
+Piikanasu!
+Mistä tuo löytyi!?
+Voi opettaja, tämähän on alun perin varasto!
+Näytelmien puvut lojuvat täällä joka paikassa♪
+Tätä voi hyvin muokata helpommin riisuttavaksi.
+@130
+......Tehkää mitä tahdotte.
+@131
+Olet rohkea.
+Rohkeat pojat ovat ihania♥
+Kohdelkaa minua sitten poikana...
+@132
+M-minä jatkan partiointia!
+@133
+Viimeinen toivoni pakeni...
+@134
+No niin, aloitetaan!
+En sittenkään haluaaaaa!!
+@135
+Pujota ensin hihat♥
+Jos muokkaan tästä ja tästä,
+sen saa pois. Muokataan♪
+Jos se riisutaan heti, eikö paitaa tarvitse riisua...?
+@136
+Hei, odottakaa!?
+T-tuota, mitä tälle tehdään...
+Se on minun tehtäväni. Siitä en luovu!
+Et saa pitää sitä itselläsi, Arika!
+Nopeat syövät hitaat♪
+Sitten minä...
+Nyyh nyyh nyyh nyyh...
+@137
+Hame sopii sinulle.
+En ole iloinen...
+Söpö! Luota itseesi♪
+Luotan mihin!?
+Tämä on viimeinen silaus♥
+Ai, kiva...
+Ei ole!
+Ai, tuo on söpö♪
+Ostin sen äskettäin♪
+Valmistaudu nyt!!
+Hei, päästäkää irti!
+Ei hätää, luota minuun♥
+En halua...
+@138
+Valmistaudu! Olethan poika!!
+Siksi en haluakaan!!
+@139
+Tämäkin on rauhan vuoksi!
+Ei todellakaan ole!!
+@140
+Lalalaa~♪
+@141
+Ei meikkiäääää!!
+@142
+Nyyh nyyh nyyh nyyh...
+Tosi söpö...
+Olet suloinen, {BUF03}!
+Kuin kukkakeiju...
+Naisten vaatteet alkavat sopia sinulle~
+Nyyh nyyh nyyh nyyh...
+Näin pääsee vanhaan kouluun!
+Ai!
+Ai...
+Niin, sellainenkin tarkoitus tässä oli.
+Unohdin sen ihan♥
+Opettaja...
+Mutta miksi juuri minä!?
+Olethan poika!
+Juuri siksi tämä on outoa!
+Mitä höpiset! Aiotko panna hennon tytön vaaraan?
+Ei kovin miehekästä~
+Siksi en halua, kun olen poika~
+Kas niin! Ei ole aikaa vitkastella!
+Mennään äkkiä vanhaan kouluun. Nyt Karinin lisäksi
+myös Kouji ja Rintarou ovat kadonneet!
+Miksi näin käy aina...
+@143
+Täydellistä! Nyt pääset sisään pääovesta.
+Voi ei~ opettajakin~
+Tsemppiä♪
+Kannustamme sinua taustalla.
+@144
+{BUF03}!
+...Niin?
+Tsemppiä♥
+..........
+@145
+Tiedät varmaan, mutta\nälä ota riskejä!
+@146
+{BUF03}! Tsemppiä♥
+@147
+Mitä te haluatte? Häipykää!
+@148
+Öh, mitä asiaa teillä on\ntähän rähjäiseen paikkaan?
+@149
+Ulkopuolisia ei päästetä\nsisään. Häivy!
+@150
+S-suloinen....
+Ei kun, neiti, täällä on vaarallista.
+@151
+Ilman Kokuenin lupaa tänne ei pääse.
+Menkää pois!!
+@152
+Kuka sinä olet?
+T-tuota... Kokuen kutsui minut... tänne...
+({BUF03}! Enemmän\nviehätysvoimaa!)
+@153
+(Älä vaadi mahdottomia~)
+@154
+Piikanasu sopii täydellisesti\nKokuenin makuun.
+@155
+Tosiaan suloinen.
+@156
+Juuri minun tyyppiäni.
+@157
+Ei se niin mene!
+@158
+Vien sinut sitten Kokuenin luo.
+@159
+Senkin raakalainen.\nMinä saatan hänet.
+@160
+Ei, lähde treffeille\nminun kanssani.
+@162
+Anteeksi odotus. Näytän tietä.
+(Onnistui!)
+(En haluaaa~!)
+@163
+Tervetuloa tukikohtaamme!
+(Älkää toivottako~~~~~~!)
+@164
+(Hups, tämä on paha.
+Tätä menoa minut viedään suoraan Kokuenin luo,
+vaikka haluan ensin tutkia vanhan koulun.)
+@165
+Onko jokin vialla?
+Mi-minun pitää käydä vessassa♥
+!! ...A-anteeksi.
+@166
+Vessa on tuolla oikealla.
+Kiitoooos♥
+@167
+Tuo on poikien vessa.
+Ai... a-anteeksi.
+@168
+Söpö...
+(Armoa~~~~)
+@169
+Huh, pääsin vahtien silmistä, mutta...
+Tyttöjen vessaan ei voi jäädä loputtomiin.
+@170
+Tämän seinän takana hän on...
+@171
+Mutta ei...
+@172
+Mutta silti...
+@173
+Mitä sinä teet?
+@174
+M-m-m-mm-mitä!?
+Miksi hätäilet?
+Ei mitään, ei mitään!
+No, olkoon. Se Libertiesin johtaja, joka piti tuoda tänne,
+pääsi kuulemma Roboroboilta karkuun. Nyt on hätä.
+Tietääkö Kokuen siitä...
+Ei... emme ole vielä raportoineet.
+Paha juttu! Jos se paljastuu, meille käy huonosti!
+Viimeksi mokannut joutui kalsareissa kiertämään...
+Älä maalaa piruja seinille. Tehdään, mitä voimme.
+Tehostetaan vartiointia ja varaudutaan hyökkäykseen!
+Niin. Mennään!
+@175
+Ne taisivat lähteä. Etsitään muut nyt!
+Rintarou, Kouji ja Libertiesin johtaja
+pääsivät kai pakoon, joten jäljellä ovat kerholaiset ja...
+@176
+Paljon väkeä...
+@177
+Tästä se ei aukea.\nOnko lukko rikki?
+@178
+Kaarti vartioi sisäänkäyntiä.\nTästä ei pääse.
+@179
+Olen tehnyt eilisestä asti paljon ruokaa~
+Onkohan täällä joku suursyömäri?
+@180
+Hm? Täällä tuoksuu\njokin hyvältä.
+@181
+Medabotti laittaa ruokaa!?
+@182
+Hätä, hätä! Pitää\nkiirehtiä, tai myöhästyn!
+@183
+Hei, tuota...
+@184
+Kiire, kiire!
+@185
+Eikö vielä? Jos ruokaa ei viedä pian,
+se ehtii jäähtyä!
+Tuota~
+@186
+Oletko sinäkin piikamalli?
+Hyvä! Veisitkö tämän äkkiä?
+@187
+Ruokaa? Minne?
+@188
+Sano vartijalle "tuon ruokaa", niin pääset läpi.
+Luotan sinuun!
+@189
+Häh? Tuota...
+@190
+Ah, kiire, kiire!
+@191
+Tämä voi olla tilaisuus!
+@192
+Tämä on vankila...\nUlkopuoliset, poistukaa!
+@193
+Tämä on vankila...
+T-tuon ruokaa~
+...Kulje.
+(Onnistui!)
+@194
+...Kulje.
+@195
+Kas, löysit sen!
+Nyt pääsemme täältä, nääs.
+{BUF03}! Anna se äkkiä, jes!
+@196
+No niin, Kantaros!\nMurra tämä ovi, jes!
+@197
+Jes!
+Hyvä juttu, mur.
+Tähän taitaa mennä hetki, nääs.
+Kun tämä on meillä, hoidamme loput itse.
+Ei olisi tyylikästä, jos sinä tekisit kaiken.
+Joo, tsempataan, jes!
+Selvä. Jätän loput teille.
+Nähdään myöhemmin, nääs!
+Kiitos, mur!
+@198
+Hae äkkiä Medakellomme!
+Rintaroun Medakellossa olevalla Glow Blasterilla
+tämän oven voi murtaa, jes!
+Selvä, odottakaa hetki.
+Luotamme sinuun, mur.
+Opettaja Tamawo on varmaan vielä Libertiesin piilossa,
+joten palaan sinne salakäytävää pitkin.
+Rehtorin kertoma salakäytävä on 1. kerroksen vasemmalla!
+@199
+Päästäkää ulos, jeeees!!
+Turhaa, Rintarou. Ulkona oleva botti ei ymmärrä.
+@200
+Turhaa voimien tuhlausta, nääs.
+Me kokeilimme sitä moneen kertaan, nääs.
+Niin, mur.
+Luovuttaminen ei käy, ei käy, ei käyyy, jes!
+@201
+Rauhoitu vähän, nääs!
+Anna olla.
+Nälkä, mur.
+@202
+Tuota...
+@203
+Ruoan tuoksu, mur!
+@204
+Tänään tuojana onkin ihminen eikä Medabotti, nääs.
+Nyt kun mainitsit, minulla on nälkä, jes.
+Nälkäisenä ei voi robotella, jes!
+Ei ihan noin, nääs.
+Hei, tänne!
+@205
+Ah! Rintarou!
+@206
+Tunnetko minut, jes?
+Tyttötuttavakin vielä. Olet aikamoinen, nääs.
+Rintarou, minä tässä! {BUF03}!
+{BUF03}...?
+@207
+Aaaaah! {BUF03}!!!!
+Shhhhh! Liian kovaa!!
+@208
+Miksi olet noin pukeutunut, {BUF03}, jes?
+En tee tätä huvikseni! Tulin pelastamaan teidät!
+@209
+Mitä? Rintarou, tunnetko\nhänet?
+@210
+Kaverini {BUF03}, jes!
+Poikako, nääs...
+...Pervo.
+Sanoin jo, etten tee tätä huvikseni!
+@211
+Liian kovaa, {BUF03}, jes!
+Ai, sori, vahingossa.
+Tuota, ovatko nuo entisen Medabotti-kerhon vanhemmat oppilaat?
+Johtaja ja kerhon kaverit, jes!
+Olen entinen johtaja Samejima Hasuke.
+Kinme Mutsuki, nääs.
+Unikura Bafusaku, mur.
+Olen Tenryou {BUF03}. Hauska tavata.
+@212
+...Joka tapauksessa tälle ovelle on tehtävä jotain...
+Kenellähän avain on?
+Kuka tietää. Ehkä jopa Kokuenilla itsellään.
+Hmm...
+Jos olisi Medabotti, jolla on laser-ominaisuuden osa,
+oven voisi murtaa, nääs.
+Minun karhuni on puristustyyppiä, mur.
+Doggyllänikään ei ole.
+Dongootillani ei ole edes hyökkäysosia, nääs.
+@213
+On, jes!
+Hä? Mitä höpiset?
+Kantaroksella ei ole laser-osaa, eihän?
+Sain sen ennen kiinnijäämistä, jes! BRA-12 Glow Blaster!!
+BRA-mallin Earth Brachion oikean käden osa, nääs!
+Se on tosiaan laser-ominaisuutta, nääs!
+Hyvä, ota se äkkiä esiin!
+@214
+Mikä hätänä, mur?
+Medakelloni vietiin, jes!
+Sitten ei onnistu, nääs...
+@215
+Hei! Etsisitkö sinä Medakellomme?
+Vaikka pääsisimme ulos, ilman Medakelloja emme voi mitään.
+Kaikiltako ne vietiin...
+Minkäs teet, nääs.
+Ne vietiin, kun jäimme kiinni, mur.
+Mutta missä ne ovat?

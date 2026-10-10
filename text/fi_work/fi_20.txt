@@ -1,0 +1,915 @@
+@000
+{BUF03}, robottelitko tänäänkin?
+Joo, tänään kokeiltiin myös Medaspeediä.
+Vai niin. Medaspeed taitaa olla nyt kova muoti.
+Ai niin, kuulin tänään, että Omikujissa niitä on vielä vähän,
+mutta Medaboteilla pelkkää pahaa tekeviä,
+Roborobo-jengin kaltaisia tyyppejä on viime aikoina yhä enemmän.
+Select-joukoilla on kiire. Ole varovainen, {BUF03}.
+Sinullakin on rankkaa, isä.
+Hahhahhah! Tämäkin on työtä.
+@001
+Kiitos, olipa hyvää~
+@002
+Isä ja äiti nukkuvat varmaan jo...
+@003
+Haukotus... hyvää yötä~
+@004
+Selvä, tänäänkin teen parhaani!
+@005
+Jos jään kuljeskelemaan, myöhästyn.
+@006
+Olet myöhässä, {BUF03}! Kokeilepa myöhästyä,
+niin kuulet kyllä siitä sen opettajan suusta.
+@007
+Vierustoveri on yleensä aikaisin,
+mutta tänään hän ei ole vielä tullut. Onkohan hän vilustunut?
+@008
+Vierustoveri taisi olla tänään poissa. Mitähän on sattunut?
+@009
+Kävin eilen Medaropolisissa,
+mutta siellä oli vain Medaspeediä eikä yhtään robottelua.
+@010
+Opettaja vaatii mahdottomia, joten taidan robotella luonnonpuistossa tai Medaropolisissa,
+kerätä osia ja treenata mitaleja ennen kuin menen.
+Varautuminen kannattaa, kuten sanotaan.
+@011
+Huomenta~, {BUF03}. Teitkö läksyt kunnolla?
+@012
+Huh~ tänään Odoro-vuorella. Opettaja Ryuuko on tiukka~
+Mutta jos murehdin, Elizabeth nauraa minulle.
+Tsemppiä, minä!
+@013
+Huomenta, kaikki. Pidetään sitten nimenhuuto.
+@014
+Tämänpäiväinen luokanohjaus pidetään Odoro-vuorella.
+Odoro-vuori on koulun yläpuolella. Tiedättehän?
+Pidämme pienen kokeen, joten valmistautukaa kunnolla.
+Ja meiltä vietiin osat, eikä niitä ole tarpeeksi...
+Kerätään osia Medaropolisissa?
+@015
+Se voisi olla hyvä idea. Samalla voi treenata mitaleja.
+Luonnonpuistokin käy, eikö?
+Edes yksi varasarja osia on kätevä olla mukana.
+@016
+Minullakin on vähän osia. Lähtisinkö keräämään?
+Se taitaisi olla hyvä idea.
+@017
+Selvä! Mennään Medaropolisiin keräämään osia!
+@018
+Kas, sinäkin tulit. No, onko osia kertynyt?
+Tehdään molemmat parhaamme!
+@019
+Kas, tänään Tenryou tuli ensimmäisenä.
+Muut tulevat varmaan pian, joten odota hetki.
+@020
+Ai niin...
+Montako tinpettiä sinulla on, Tenryou?
+Kaksi.
+Voi, ei hyvä.
+Tänään kisaan tarvitaan 3 Medabottia.
+Mitä!?
+Ei auta. Lainaan sinulle yhden.
+Oikeasti!?
+@021
+Kiitos paljon!
+Jos ehdit kiittää, kokoa se nopeasti.
+Jooo...
+@022
+Sinulla on nyt 3 Medabottia. Odota sitten muita.
+@023
+Ovatko kaikki paikalla? Aloitetaan sitten.
+Tiedätte ehkä jo, että huomenna ovat Omikujin kaupunkikisat.
+Lajina on Medaroad-kisa. Tänään tarkistan,
+onko teillä oikeus osallistua siihen.
+Medaroad-kisat...
+@024
+Medaroad-kisat ovat viime aikoina tulleet taas muotiin.
+@025
+Ai, oikeasti?
+Panssarin ja työntövoiman tasapaino on tärkeintä.
+Lisäksi Medavoimaa on vain rajallisesti,
+joten tahti pitää miettiä tarkkaan, tai väsyt heti.
+Ai, Arika, tiedätpä paljon.
+No, toisin kuin Medaspeedissä, esteitä pitää varoa,
+eikä ilman sitä voi voittaa. Se tekee siitä vaikeaa.
+Hmm, kuulostaa vähän vaikealta?
+Te siellä! Hiljaa!
+@026
+Treenataan sitten kaupunkikisoja varten.
+Rata on kivikkorata, selvä?
+Jäsenet vaihdetaan radalla olevissa valkoisissa "Sumiloteissa".
+Jos et koske, säästät vähän aikaa,
+mutta Medavoima tuskin riittää seuraavaan Sumilottiin.
+Tenryou ja Nayuta, sekä Guinomi.
+Te kolme ajatte ensin.
+@027
+Ihan kohtalaisesti... vai mitä?
+Kyllä {BUF03} osaa!
+Elizabethkin on tyytyväinen, kun sai ottaa kunnolla mittaa!
+@028
+Seuraavaksi sitten Amazake ja Kurouma ja... Senju,
+...ai, hän olikin poissa.
+Ei auta. Minä olen kolmas.
+Opettajako!?
+Kas, opettajallakin on Medabotti.
+No niin, mennään.
+@029
+.........
+.........
+.........
+.........vahva.
+Mikä tuo opettaja oikein on?
+Hioin mitaliani niin kovasti,
+enkä silti mahtanut mitään...
+No, nykyisillä taidoillanne tämä on odotettua.
+Harmittaa!
+@030
+Kuunnelkaa, kaikki.
+Kilpailussa ei ole mieltä, ellei voita.
+Toinen tai kolmas sija ei kelpaa. Pitää olla ensimmäinen.
+Ja huomisesta Medaroad-kisasta:
+ensin Tenryou ja toinen... niin,
+osallistukoon Amazake. Hän oli joukosta kohtalainen.
+Muut, harmi kyllä, jättäkää tällä kertaa väliin.
+Tämänpäiväinen tunti päättyy tähän. Hajaantukaa.
+@031
+Tuo opettaja on liian mielivaltainen!
+@032
+Edellinen opettaja oli parempi...
+@033
+Ja minä odotin kisaa niin innolla...
+{BUF03}! Arika!
+Yrittäkää nyt Elizabethinkin puolesta!
+@034
+Tästä tuli vakava juttu. Nyt emme voi hävitä.
+.........
+@035
+Medaroad-kisoissa taktiikka on kyllä vaikeaa.
+.........
+Mikä sinulla on? Olet ihan hiljaa.
+@036
+Opettaja sanoi, että "ilman voittoa ei ole mieltä"...
+? Mitä siitä?
+Ymmärrän kyllä, mitä opettaja tarkoittaa,
+mutta minusta tärkeää ei ole pelkkä voitto tai häviö.
+...No, mikäs siinä? Voitti tai hävisi,
+minä ainakin teen parhaani!
+Tavataan siis huomenna Odoro-vuoren sisäänkäynnillä!
+@037
+Sanoinhan, että tarvitaan 3? Kokoa ne nopeasti.
+@038
+Olen kotona~
+@039
+Tervetuloa kotiin~, {BUF03}. Syödäänkö jo?
+@040
+Hmm, käyn vielä vähän leikkimässä.
+No, varo autoja.
+Tiedän.
+@041
+Joo, syödään.
+No, laitan heti ruuan, odota hetki.
+@042
+Ruoka on valmista~♥
+@043
+Isä soitti äsken, että hän tulee tänään myöhään,
+joten syödään ensin♥
+Onkohan Select-joukoilla nyt noin kiire?
+Kiitos ruoasta~
+@044
+Huomenna on Medaroad-kisa.
+Tsemppiä, äiti tulee kannustamaan!
+Joo, teen parhaani!
+@045
+Kiitos, olipa hyvää~
+Huomenna on kisa, joten mene ajoissa nukkumaan.
+Jooo~
+@046
+Huomenna on kisa, joten menen tänään ajoissa nukkumaan.
+@049
+Mitä, muut katsojat?
+Kaikki hoitavat omia asioitaan otteluiden välillä.
+Minä haluan katsoa eturivistä, joten odotan tässä.
+@050
+Oletko jo valmis?
+@051
+Älä myöhästy ottelusta. Luovutusvoittoja en hyväksy.
+@052
+Katso sitten muiden otteluita.
+Sekin on oppimista.
+@053
+Unohditko? Medaroad-kisaan tarvitaan 3 Medabottia.
+Kokoa ensin 3 Medabottia.
+@055
+Älä myöhästy ottelusta. Seuraavaksi on finaali.
+@056
+Finaali alkaa pian.
+Älä ota noloa ottelua.
+@058
+Hienosti, {BUF03}! Tsemppiä seuraavaankin.
+@059
+Rataa huolletaan nyt. Odota hetki♥
+@060
+Kohta on minun vuoroni...
+E-en minä mitenkään jännitä.
+@061
+Olet myöhässä!
+@062
+Niinkö? Minusta tulin aika aikaisin.
+Unohditko lämmittelyajan?
+Häh?
+@063
+Tämänpäiväinen laji ei ole robottelu, eihän?
+Ahaha! Mutta olihan se hyvä lämmittely?
+@064
+Kisan rata on kuulemma sama, jota harjoittelimme eilen.
+Kivikkorata, vai?
+Juuri se.
+Kisa alkaa pian. Mennäänkö heti kisapaikalle?
+@065
+Vai niin. Aikaa vielä on, joten jos sinulla on valmisteltavaa,
+hoida se nopeasti. Odotan täällä.
+Mutta jos menet kisapaikalle yksin, en anna anteeksi.
+Tiedän. Tulen heti takaisin, odota.
+@066
+Mennään sitten.
+Voitetaan koko kisa ja saadaan se opettaja nielemään sanansa!
+Myös kaikkien niiden puolesta, jotka eivät päässeet mukaan!
+@067
+Hei, hei, {BUF03}.
+Medaroad-kisaan tarvitaan 3 Medabottia.
+Odotan kyllä, kokoa ne nopeasti.
+@068
+Tenryou, sinä ajat ensimmäisessä kisassa.
+Se on pudotuspeli, joten häviön jälkeen ei ole toista mahdollisuutta, selvä?
+@069
+Hyvät naiset ja herrat, kiitos odotuksesta!
+Kolmannet Medaroad-kaupunkikisat alkavat nyt!
+@070
+Minä olen robotteluliiton virallinen tuomari,
+medabottaajien idoli, neiti Chimaki!
+@071
+Medaroad-kisa ja muut robottelun ulkopuoliset lajit
+kuuluvat minun vastuulleni!
+Ai, sellaistako!
+Tähän asti olen nähnyt robotteluliiton virallisista tuomareista
+vain Mister Uruchin!
+Säännöt ovat yksinkertaiset: pudotusturnaus!
+Kaikki kisat ajetaan tällä erikoisradalla,
+ja 3 kertaa voittanut medabottaaja on mestari!
+Ja nyt! Medaroad-kisat Omikujissa
+alkavat tästä hetkestä!!
+@072
+Ensimmäisessä kisassa ajavat Tenryou {BUF03} ja
+Ai, minä.
+Tsemppiä!
+Tiedän.
+@073
+Ja nyt, Medaroad-kisa, aloittakaa!!
+@074
+Voittaja! Tenryou {BUF03}!
+@075
+Hienosti meni!
+Kiitos, Arika.
+Kas kas, onko tuo tyttöystävä?
+Tenryou ei olekaan mikään tavallinen poika~
+E-ei ole!
+Älä ujostele, älä ujostele.
+No niin, katsellaan lämmöllä tätä söpöä punastelua
+ja jatketaan turnausta reippaasti~♥
+@076
+Älä jatka! Älä katsele!!
+@077
+Hiljaa, Amazake.
+No, kilpailuvoittajalle Tenryoulle
+tämä on kai pelkkä läpihuutojuttu?
+@078
+.........
+Mitä tuo nyt oli?
+Seuraavaan kisaan on vielä aikaa.
+Tarvitset varmaan aikaa asetusten tarkistamiseen,
+joten saat liikkua vapaasti, kunnes puhut minulle.
+Selvä.
+@079
+Minun kisani on viides, joten ole takaisin siihen mennessä.
+Joo, selvä.
+@080
+Viidennessä kisassa ajavat Amazake Arika ja...
+Minun vuoroni!
+Tsemppiä.
+Luota minuun.
+@082
+Voittaja! Amazake Arika!!
+Jee!
+@083
+Hienoa, Arika.
+@084
+Näin se käy.
+@085
+Ooh~ nuo kaksi jakavat ilonsa!
+Sydäntälämmittävä näky~♥
+@086
+Eikä ole niin~
+@087
+Älkääkä taputtako!
+@088
+No niin, jatketaan turnausta reippaasti~♪
+@089
+Ja kymmenennessä kisassa...
+Tenryou {BUF03}, tänne!
+@092
+Nyt olet finaalissa!
+Tsemppiä sinullekin, Arika.
+Luota minuun. Kohdataan finaalissa!
+@093
+Rakkaus kukkii kuten aina~♥
+Lemmenpari, lyhyesti "lempari"!
+@094
+Älä lyhennä!!
+Mistä kohtaa sinä niin päättelet!?
+Jätetään se sikseen...
+@095
+Älä jätä!!
+@096
+Rata näyttää olevan valmis.
+11. kisa! Amazake Arika!
+@097
+No, nyt puran kaiken tämän raivon kisaan!
+@098
+P-pelottavaa...
+@101
+Arika, onnea finaalipaikasta!
+@102
+Seuraavaksi saat sanoa "onnea voitosta".
+Uskomatonta! Lemmenpari on
+nyt kumpikin päässyt finaaliin!
+@103
+Eikä ole niin~!
+@104
+Ei sitä tarvitsisi noin kiivaasti kiistää.
+Mutta seuraavaksi on finaali. Kisan alkuun asti
+saat liikkua vapaasti. Tee säädöt.
+Selvä.
+@105
+Kolmannet Medaroad-kisat Omikujissa...
+Finaali alkaa nyt!!
+@106
+Tenryou {BUF03}! Eteen, olkaa hyvä!!
+@107
+Seuraavana Amazake Arika!
+@108
+Voi, mikä käänne!
+@109
+Miksi näiden kahden täytyy kilpailla toisiaan vastaan!
+He ovat kuin nykyajan Romeo ja Julia!!
+@110
+Romeo?
+@111
+Julia?
+@112
+Kuka?
+@113
+Arikako Julia?
+@114
+Ei sovi minulle. Ole sinä Julia.
+Se on vähän...
+@115
+Ja viimeisenä... Touhouken Bunroku!
+@116
+Minä olen mahtikauppias Touhouken Bunroku!
+Unelmani on avata Japanin paras sekatavarakauppa!
+@117
+Tartun tässä kisassa loistavaan voittoon
+ja otan ensimmäisen askeleen kohti suurta unelmaani.
+Vai niin...
+Taas joku outo tyyppi.
+@118
+.........
+N-no, aloitetaan kisa!
+@119
+Okei! Medabottisiirto!! Tule, Marco!!!!
+Ai, tämä ei ole robottelu, joten siirtäkää radalle, kiitos.
+Okei okei kei-kei-kei.
+@120
+No, aloitetaan uudelleen...
+Medaroad-kisa, aloittakaa!!
+@121
+Omikujin kaupunkikisojen voittaja on...
+@122
+Tenryou {BUF03}!
+Onnittelut!
+@123
+Ei voi olla... Hitto, painajainen...
+@124
+Voittopalkintona on Medabotti "Sky Cargo"!!
+@125
+Kunnes taas tapaamme!
+Tässä oli neiti Chimaki!!
+@126
+Kaupunkikisoihin ei pidä tyytyä.
+Mutta onnistuit kai kohtuullisesti. Ansaitset palkkion.
+Saat pitää tinpetin, jonka lainasin sinulle.
+Jee! Kiitos paljon!
+@127
+Epäreilua! Vain {BUF03}!
+Ja sinäkin, {BUF03},
+menet vielä kiittämään!
+Opettajahan tinpettimme vei!
+Kas, niinkö?
+Aioin muuten antaa Amazakellekin jo tinpetin
+ja varasin sellaisen. Etkö tarvitsekaan?
+@128
+Ai! Tarvitsen! Tarvitsen!
+Hihi, olet rehellinen.
+No niin, tänään hajaannutaan. Nähdään huomenna.
+@129
+Hän johtaa meitä täysin, Arika.
+@130
+Mitä~~~!
+@131
+No, sain kuitenkin yhden tinpetin takaisin,
+joten käyn lähikaupassa hankkimassa osia!
+Ai! Mitalikin pitää hankkia!
+Nähdään huomenna.
+@132
+Unohdin sanoa yhden asian.
+@133
+Onnea voitosta.
+@135
+Tervetuloa kotiin~, {BUF03}. Hyvää työtä tänään.
+Syödäänkö jo?
+@136
+Hmm, käyn vielä vähän leikkimässä.
+No, älä rasita itseäsi, jos olet väsynyt.
+Tiedän.
+@137
+Joo, syödään.
+No, laitan heti ruuan, odota hetki.
+@138
+Kiitos odotuksesta~♥
+@139
+Tuleeko isä tänäänkin myöhään?
+Hän tulee pian kotiin.
+@140
+Olen kotona~
+@141
+Ai, tervetuloa kotiin, isä.
+@142
+Isä, pesitkö kädet kunnolla?
+Hups, niin tosiaan.
+@143
+Kiitos ruoasta~
+@144
+Ai niin, {BUF03}, miten tämänpäiväinen kisa meni?
+Heh-heh, arvaa! Voitin koko kisan!!
+Ooh, mahtavaa!
+Olisit tullut sinäkin katsomaan.
+Hahhahhah, ei auttanut, oli töitä.
+Onko sinulla noin kiire, isä?
+Viime aikoina on ollut sarja tyttöjen sieppauksia.
+Sieppauksia!?
+Voi, onpa pelottavaa.
+{BUF03}, sinun pitää suojella Arikaa.
+Tiedän.
+Vaikka Arika kyllä pärjää varmasti...
+@145
+Kiitos, olipa hyvää~
+{BUF03}, älä valvo liian myöhään.
+T-tiedän.
+@146
+Tänään väsyttää, joten menen ajoissa nukkumaan.
+@149
+Samaan aikaan...
+@150
+Kouji, nyt on hätä!
+Kameyaman ala-asteen oppilaat hyökkäsivät tänne...
+@151
+Mitä!
+@152#kabuto
+Mennään, Exise!
+@152#kuwagata
+Mennään, Unitris!
+@153#kabuto
+Selvä!
+@153#kuwagata
+Selvä!
+@154
+Mitä! Keitä te olette!
+Kuunnelkaa tarkkaan! Tästä päivästä alkaen tämä koulu
+on "Genbun Kokuenin" vallan alla!!
+@155
+Ilmestytte tyhjästä ja puhutte mitä sattuu!
+@156
+Uwaaah!!
+@157
+En anna teidän tehdä mitä haluatte.
+@158
+Minä suojelen Hanazono-akatemiaa.
+Lakatkaa vastustamasta, lapset.
+@159
+Rehtori!
+Oi, Kouji, olet kunnossa.
+Hmph...
+@160
+Kas? Mitä teille on tapahtunut?
+Mitä, Karin! Älä tule!
+@161
+Kyaa! Mitä nyt?
+Senkin konna! Pelkuri! Päästä Karin irti!
+Hahahaha! Jos haluat tytön takaisin,
+pysy kiltisti etkä vastusta meitä!
+@162
+K-kamalaa! Pitää ilmoittaa Select-joukoille!
+@163
+Select-joukkojen varaan en tätä jätä!
+@164
+O-odota, Kouji!
+@165
+Kas niin! Ruokaa, ruokaa!
+@166
+Huomenta~
+@167
+Ai, huomenta~, Arika.
+@168
+{BUF03}!!
+@169
+{BUF03}!?
+@170
+Mikä hätänä, Kouji?
+Karin... Karin siepattiin!
+@171
+Mitä!?
+Kuka? Milloin? Missä?
+Silmieni edessä...! Kameyaman koulun tyypit!
+He puhuivat jostain "Genbun Kokuenista"!
+Missä se Kameyaman koulu on?
+Odoro-vuoren takana, vielä pohjoisempana.
+Kaukana... Ja he tulivat sieltä asti.
+Onko nyt aika ihailla? Pitää mennä pelastamaan hänet!
+Entä koulu... no, nyt ei ole sen aika.
+Juuri niin. Mennään!
+@172
+Lintsaavana ei ole viisasta kävellä sisään.
+@173
+Ei onnistu, en pääse sisään.
+Mitä se Kokuen oikein haluaa?
+@174
+Voi että, mitä tämä on!
+Mikä hätänä?
+Kysy itse ylhäällä olevilta Select-joukoilta!
+Mitä he sanoivat?
+@175
+Hankalaa...
+Mikä hätänä?
+Select-joukot pysäyttävät kaikki.
+Käy sinäkin kokeilemassa. Tuskin onnistut.
+@176
+Täältä eteenpäin pääsy on kielletty!
+@177
+Arvasin, ettei onnistu.
+Joo, he eivät päästä läpi.
+Minutkin pysäytettiin.
+Mitä nyt? Näin emme pääse eteenpäin.
+@178
+Hitto! Ratkaistaan tämä robottelulla!
+@179
+Vaikka voittaisit minut robottelussa, läpi ei päästetä.
+...No, niinhän se on.
+@180
+Ei auta. Etsitään toinen keino.
+Minä en luovuta!
+@181
+Minäkin etsin toista keinoa.
+@183
+Entä jos kulkisimme tämän metsikön läpi?
+Tuskin onnistuu.
+Niin, arvasinkin...
+@184#kabuto
+Varmistan, ettei mestari tee mitään liian hurjaa...
+@184#kuwagata
+Varmistan, ettei mestari tee mitään liian hurjaa...
+@185
+Kameyama oli Odoro-vuoren pohjoispuolella?
+@186
+Niin, mutta sitä varten pitää laskeutua jyrkänteen alle.
+@187
+Mi-mitä!? Jyrkänteen alle!?
+Tuulen siivillä pääsisi, mutta minulla ei ole niitä, ja teiltä
+pyyhittiin tiedot, eikö?
+Pitää keksiä toinen reitti.
+@188
+Etsin tuolta toiseltakin puolelta,
+mutta syvemmälle vievää reittiä ei ollut.
+Toinen reitti, vai...
+Ai niin, putosin kerran vesiputouksesta alas asti.
+Tämän putouksen alla asuu mummo nimeltä "Kan"
+Medabottiensa kanssa. ...Ovatkohan kaikki kunnossa?
+@189
+Hei, saisitko yhteyden siihen mummoon?
+@190
+Kanilla ei ollut puhelinta tai mitään.
+@191
+Vesiputous, vai...
+@192
+Kouji, tiedät varmaan, mutta...
+@193
+Tiedän.
+En minäkään aio hypätä putoukseen tahallani.
+@194
+Miten Kameyaman tyypit oikein tulivat tänne?
+@195
+No, tuulen siivillä tietysti...
+@196
+Niin! Hei, tullaanko tänne uudestaan illalla?
+@197
+Häh? Illalla?
+Illalla Select-joukkojen vartio on varmasti harvempi!
+Mennään sillan yli yön aikana!
+...........
+Mikä hätänä, {BUF03}?
+K-kun tämä on "Odoro-vuori"...
+Täällä taitaa öisin kummitella...
+Mitä? Pelottaako?
+Karinin takia! Minä menen!
+Niin... kellonajan takia, kun lähdette kotoa,
+sanokaa kotiväelle, että yövytte minun luonani.
+Niin, muuten emme pääsisi ulos illalla.
+Selvä.
+Sovittu! Nähdään täällä illalla!
+@198
+Karin, minä pelastan sinut ehdottomasti...
+@200
+Tervetuloa kotiin~, {BUF03}. Syödäänkö jo?
+Joo, syödään.
+No, laitan heti ruuan, odota hetki.
+@203
+Kiitos, olipa hyvää~
+Kas, olet tänään nopea.
+Joo, yövyn tänään Koujin luona.
+Vai niin. Älä aiheuta harmia.
+T-tiedän.
+@204
+Nukun nyt, jotta jaksan illalla.
+@205
+Nukun vähän ennen lähtöä.
+@206
+No niin, lähdetään.
+@207
+Ole varovainen.
+@208
+Onkohan Arika jo Odoro-vuorella?
+@209
+Koulu yöllä on pelottava.
+@210
+Täällä ei näytä olevan ketään.
+@211
+Jos menen nyt, saan kuulla siitä.
+@212
+Odoro-vuori on ylempänä. Ei tännepäin!
+@214
+Pitää kiirehtiä Odoro-vuorelle.
+@215
+Häh? Eivätkö muut ole vielä tulleet?
+@216
+Ei auta, odotetaan tässä hetki.
+@217
+Vaikka tämä on Karinin takia, omatunto vähän kolkuttaa.
+@218
+Pirrrrrrr...
+Sirr sirr, sirr sirr...
+Tsik tsik...
+Huu huu...
+......Kun on hiljaa, kuulee kaikenlaisia ääniä.
+@219
+Fii fii
+Mikähän tuo ääni oli? Jokin hyönteinen?
+@220
+Buu buu
+Härkäsammakko... kai?
+@221
+Zii zii
+@222
+Robo-robo, robo-robo
+@223
+Kroo kroo kroo kroo
+Tuo oli... tuota........
+@224
+.......Hm? Ääntelevätkö hyönteiset "robo-robo"...?
+@225
+Roborobo-jengi!
+@226
+Ääni kuului tuolta!
+@227
+Robo!!
+@228
+Ah! Odota!
+@229
+Kepposjengi Roborobo!
+Te olette yhä täällä!
+@230
+Roborobo-jengi on kuolematon, robo! Taustallamme pyörii
+aina mahtavia suunnitelmia, robo!
+@231
+Taas jotain kurjaa kai mietitte!
+Kuulustelen teiltä kaikki juonenne!
+@232
+Robotellaan!
+Menoksi, robooo!!
+@233
+Jee!
+@234
+Häh?
+@235
+Waaaaaah~~~!!!!
+@236
+E-en tiedä mitään, robo! Minä en tiedä mitään, robo!!
+@237
+...{BUF03}, minne sinä oikein katosit...
+@238
+Löytyikö {BUF03}?
+@239
+Ei vielä, häntä ei ole missään.
+Minne ihmeessä hän meni?
+@240
+Minä etsin tuolta päin.
+@241
+Ja minä kun juuri sain "tuulen siivet"!
+@242
+Mitä nyt?
+Roborobo. Nappasin sen tuosta.
+Robo~...
+Roborobo-jengi vielä olemassa...
+Hetkinen, eihän vain!
+Kuulehan, Roborobo!
+Mitä teit {BUF03}:lle!?
+@243
+M-minä vain robottelin, robo!
+Hän putosi itse, robo!
+@244
+Mitä!? Senkin!!
+@245
+Nyt pudotan sinutkin täältä!
+Älä, robooo!!
+@246
+Kouji! Kouji! Rauhoitu!
+Ei siitä ole mitään hyötyä!
+Pitää mennä nopeasti alas, {BUF03} pitää löytää!
+@247
+N-niin tosiaan...
+Pidetään kiirettä!
+@248
+Pois tieltä!
+@249
+Robo?
+@250
+Robooooooooo!!
+@251
+Minne olenkaan pannut tyttärentyttären merimiespuvun...
+kun tuli lapsi, jolle se sopisi...
+(Aikoiko hän pukea sen minulle...)
+@252
+Häh...? Missä minä olen...
+@253
+Heräsi! Heräsi!
+@254
+Heräsitkö? Hihhih.
+Ah! Kan!
+Muistit minut. Hihhih.
+Eli minä...
+Niin. Kun ajelehdit taas jokea pitkin,
+meidän lapsi nosti sinut.
+Nosti! Nosti!
+@255
+Kiitos, pelastit minut.
+@256
+Ja taas tämä asu...
+@257
+Se on tyttärentyttären.
+Nuorille sopii söpö asu. Hihhih.
+.........
+@258
+Tuliko tänne muuten poika ja tyttö minun lisäkseni?
+Kas vain, eksyitkö ystävistäsi?
+Täällä on ollut viime aikoina levotonta,
+kunpa heille ei olisi sattunut mitään.
+Ka-kamalaa! Pitää mennä etsimään!
+@259
+{BUF03}!!
+@260
+Ah! Kouji!
+Huh, olet kunnossa. Säikäytit minut.
+...Pfft, mikä asu tuo on! Hahahahahaha!
+@261
+Lakkaa nauramasta!!
+Sori, sori. Makuja on monia.
+Sinä olet aina...
+Sanoinhan, etten tee tätä huvikseni!
+Vai niin...
+Mitä tuo epäluuloinen katse on...
+@262
+Entä Arika?
+@263
+Anteeksi, {BUF03}. Asia on niin, että...
+@264
+Mitäää!? Arika siepattiin!?
+Niin...
+Kuulin Arikan huudon ja palasin, mutta hän oli jo poissa.
+Anteeksi, {BUF03}. Vaikka olin mukana...!
+Ka-kamalaa! Pitää mennä etsimään!
+...Mutta tämä paikka on aika laaja.
+Jaetaan sitten etsintä. Mennään!
+@265
+Hitto... vaikka olin mukana...
+@266
+Löysitkö mitään, Kouji?
+En mitään. Entä sinä?
+En minäkään löytänyt mitään...
+@267
+M-mitä nuo ovat!?
+@268
+Hei hei hei hei! Minä olen Aodaisho, piru vie!!
+Mie oon Naniwan Akadaisho! No, tuu päälle!!
+@269
+Kuulehan, Punainen!
+Tänään ratkaistaan, kumpi on parempi!
+Sanoit sen, Sininen!
+Medaroad-kisat on liian hidasta!
+Saat maistaa mun rautanyrkkiä!!
+Tuli ja tappelu ovat Edon kukka, piru vie!
+@270
+Ä-äh? Ne katosivat...
+Mitä tuo oli? Ne tyypit.
+Kuka tietää?
+@271
+No, tämä on jo liikaa...
+@272
+Pilkkaatteko "viisautemme helmeä", robo!?
+Tämän korin nostaisimme mekin, Medaboteista puhumattakaan.
+Robo......?
+Sitä ei laskettu, robooo!!
+Voi voi...
+@273
+? Mikä tämä on?
+Kun sisällä olevan osan ottaa, keppi kaatuu ja kori
+putoaa päälle, sellainenko?
+@274
+Jääkö tuohon kukaan?
+@275
+Ehkä vain Roborobo-jengi?
+Löysitkö muuten Arikan?
+En, tuolla häntä ei ollut.
+Etsitään sitten ylempää.
+Selvä, minä tulen mukaan.
+@276
+Apua, robo~
+Hm?
+Kuulitko jotain?
+Tuskin se oli Arika...
+Mennään katsomaan! Ääni kuului vasemmalta.
+@277
+Haudataan tämä nyt ainakin.
+Niin tehdään.
+@278
+Aah, julmaa, robo! Meidän mestariteoksemme!
+@279
+Julmaa, robo~~~...
+Kuulkaa, tehkää jotain, mistä on muille hyötyä.
+Jos sellaista tekisi, ei olisi Roborobo-jengi, robo!
+Niinhän se on.
+On surullista, että tuohon suostutaan, robo...
+@280
+{BUF03}, tiedätkö mikä tuo on?
+Ansakuoppa... luulisin.
+Olet kumman epävarma.
+Kun se on näin ilmeinen...
+Niin kai...
+Tämä on Roborobo-jengin työtä.
+Roborobo-jengin työtä tämä on.
+Ne eivät opi koskaan.
+Roborobo-jengiä tällaisessa paikassakin...
+@281
+No, ne ovat kuin torakat, niitä on joka paikassa.
+Silti, kun ne virittävät ansoja,
+tuntuu, että ne juonivat taas jotain kurjaa.
+Mutta niiden tuntien ne jäävät itse ansaan.
+Tuskin...
+@282
+Joku, auttakaa, robooo!
+@283
+...Mitä sanoin?
+.......
+E-ei, vielä ei voi tietää.
+Ehkä sen kimppuun on hyökännyt villi karhu.
+Sepä vasta olisi...
+Tai se äskeinen kulkuri-Medabotti...
+Mennään nyt katsomaan. Ehkä se tietää jotain.
+...Niin kai.
+@284
+...Mitä sinä oikein teet?
+Jäin omaan ansaani, robo!
+Auttakaa, robo!
+Ei auta...
+@285
+Pelastuin, robo. Kiitos, robo.
+Hyvä niin.
+Muuten, tiedätkö pinkkihaalarista tyttöä?

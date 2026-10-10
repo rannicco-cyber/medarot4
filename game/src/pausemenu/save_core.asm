@@ -52,13 +52,13 @@ SaveMenuMappingState::
   cbcall DecompressAttribmap0
   ld bc, W_PlayerName
   ld a, 8
-  call GetTileBasedCentringOffset
+  call PutStringVWFOffset ; was GetTileBasedCentringOffset
   ld d, 0
   ld e, a
   ld hl, $9822
   add hl, de
   ld a, 8
-  call PutStringVariableLength
+  call PutStringVWFCentered ; was PutStringVariableLength
   call $58E7
   call $5914
   call $5948

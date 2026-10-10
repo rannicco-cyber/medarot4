@@ -1,0 +1,122 @@
+@000
+Aseta hahmot paikoilleen!
+@001
+Iskee etummaisiin vihollisiin\nenintään 4 linjan päähän
+@002
+Iskee 3 valittuun kohtaan
+@003
+Iskee samalle akselille
+@004
+Iskee samalle linjalle
+@005
+Iskee valittuun kohtaan\nja 4 viereiseen
+@006
+Iskee kohtaan ja 8 ympärille,\nohittaa suojaukset
+@007
+Iskee etummaisiin 3 linjalla,\nsitten 1/3 epäonnistuu
+@008
+Iskee etummaisiin 3 linjalla,\nkohde ei liiku seuraavaksi
+@009
+Iskee etummaisiin 3 linjalla,\n2 vahinkoa joka vuoro
+@010
+Iskee etummaisiin 2 linjalla,\nkohde ei toimi seuraavaksi
+@011
+Iskee etummaisiin 4 linjalla,\nohittaa asennukset
+@012
+Suojaa 8 ympäröivän\nkohdan omia Medabotteja
+@013
+Havaitsee akselin sekä\nlinjat sen ylä- ja alapuolella
+@014
+Naamioi itsensä:\nhavainto ei löydä sitä
+@015
+Antaa lähi-iskun tekijälle\nensin 10 vahinkoa
+@016
+Korjaa 4 viereistä Medabottia\ntai poistaa niiden tilat
+@017
+Laskee itseen osuvien\nampumaiskujen vahingon 1:een
+@018
+Seuraava oma voi\niskeä 2 kertaa peräkkäin
+@019
+Lähellä olevat viholliset eivät\nvoi toistaa edellistä toimintoa
+@020
+Siirtyy viereiseen kohtaan,\nvaihtaa paikkaa oman kanssa
+@021
+Oma isku
+@022
+Vihollisen isku
+@023
+Vihollinen hiiviskelee
+@024
+{BUF0D}: {BUF0E#20} vahinkoa
+@025
+Vihollis-Medabotille {BUF0E#20} vahinkoa
+@026
+{BUF0D} oli asentanut
+@027
+Vihollis-Medabotti oli asentanut
+@028
+{BUF0D} puolustautui
+@029
+Vihollis-Medabotti puolustautui
+@030
+{BUF0D} kärsii: {BUF0E}
+@031
+Medabotti kärsii: {BUF0E}
+@032
+Tällä alueella\nei ole Medabotteja
+@033
+Isku osui
+@034
+Ansa oli asetettu!
+@035
+Medabotti sai\nerikoislähi-iskun vahinkoa
+@036
+Medabotin toiminta lakkasi
+@037
+Medabotti suojasi tovereitaan
+@038
+Medabotti\npurki iskun
+@039
+Medabotti sai\nerikoisampumisvahinkoa
+@040
+Medabotti aloitti havainnoinnin
+@041
+Alueen Medabotit saivat\nhäirintätilan
+@042
+Alueen Medabotit\nhavaitaan
+@043
+{BUF0D}\nkorjasi {BUF0E#20} vahinkoa
+@044
+Kaikkien omien toiminta lakkasi!
+@045
+Kaikkien vihollisten toiminta lakkasi!
+@046
+Kling! Klang! Klong! Loppu!\nAika on nyt loppunut!
+Katsotaan tuomarin päätös!\nPäätös on...
+Vihollisjoukkue voittaa!
+@047
+Kling! Klang! Klong! Loppu!\nAika on nyt loppunut!
+Katsotaan tuomarin päätös!\nPäätös on...
+Oma joukkue voittaa!
+@048
+Medabotin toiminto epäonnistui\nvaihtelutilan takia!
+@049
+Huh, se oli täpärällä
+@050
+Jes, tällä kertaa näin
+@051
+Jes, helppoa kuin mikä!
+@052
+Ihan vähän jäi puuttumaan...
+@053
+Ensi kerralla voitan!
+@054
+Ei mennyt yhtään...
+@055
+Medabotti sai\njatkuvaa vahinkoa!
+@056
+Taistelu alkaa!
+@057
+Enempää ei voi korjata!
+@058
+Pimeä robottelu päättyi.\nYhteys katkaistaan!

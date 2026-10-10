@@ -1,0 +1,874 @@
+@000
+No, nyt ei ole aikaa miettiä sellaista.
+Mitähän {BUF03} ja muut tekevät?
+Niin! Tällä näytöllä näkee auditorion...
+@001
+Lavalla seisoo {BUF03}!
+Sanoin, ettei saa herättää huomiota, ja hän on
+keskipisteenä!
+...Päänsärky.
+@002
+(...Hups! Nyt ei ole aikaa leikkiä!
+Hitsi! Nyt mennään täysillä! ...No niin!)
+Kuunnelkaa kaikki.
+@003
+En ole tähän mennessä koskaan ajatellut,
+"onko Medabotti onnellinen".
+Mutta minä olen onnellinen Medabottien kanssa.
+Siksi olen ehkä vain olettanut, että Medabottini
+on onnellinen kanssani...
+En ole myöskään miettinyt syvällisesti, mitä tarkoittaa,
+että Medaboteilla on "Medabotin 3 laki".
+En osaa selittää hyvin... En vielä tiedä,
+onko "Medabotin 3 laki"
+Medaboteille onnettomuus vai ei.
+Mutta haluan, että rakkaat Medabottini
+ovat onnellisia. Siksi haluan löytää
+keinon siihen.
+@004
+Tänään herra Byakuya\npuhuu ihan eri tavalla...
+@005
+Mutta jotenkin ihmeellistä, se kosketti vähän.
+Niin, ihmeellistä. Yleensä luento on vain pitkä ja nukuttava.
+@006
+"Medabotit ja lähimmäisenrakkaus", vai.
+Ei hassumpi.
+Toisin kuin yleensä, herra Byakuyan tämänpäiväinen luento
+koskettaa sydäntä.
+@007
+Mitä te oikein nyökyttelette!!
+@008
+Herra Byakuya!?
+@009
+Mahdotonta!?
+@010
+Ei mitään mahdotonta!! Tuo tuolla on väärennös!
+Minulle kävi kamalasti.
+Univormuni vietiin ja minut heitettiin ulos...!
+Onneksi oli varaunivormu!
+Ettekö te tosiaan erota
+aitoa väärennöksestä!?
+Herra Byakuya heitettiin ulos ilman univormua... pfft.
+@011
+Älkää naureskelko!!
+Ottakaa se tunkeilija äkkiä kiinni!
+@012
+(Se poika sanoi nimekseen {BUF03}...
+"Ystävä"... vai.
+Ympärilläni on ihmisiä, jotka uskovat minuun ja seuraavat minua,
+mutta ei ystäviä...)
+@013
+...Saat tulla sisään.
+@014
+Herra Hakuma, kokous alkaa...
+Ei tarvitse. Katson näytöltä täältä.
+Vai niin... Selvä.
+@015
+(...Huh, omaa tehtävää ei voi paeta.
+5. tunnilla oli muistaakseni Byakuyan luento.)
+(Fufu, unohdin muuten tarkistaa hänen käsikirjoituksensa.)
+@016
+(Ei! ...Kasvot eivät näy, mutta tuo ei ole Byakuya!
+Byakuya ei sanoisi tuollaista, ja tuo ääni...
+{BUF03}...!?)
+@017
+(Heh, se tyyppi...\nsanoo, mitä ajattelee.)
+@018
+Täällä Kouji valvomosta. Kuuluuko? ...Vastaa.
+Mitä~ Minulla on nyt kiire!
+Miten siellä menee?
+Vähän vartijoita oli jäljellä, joten
+vääntelin heitä vähän~ Nyt päästän
+vangittuja ulos~
+Entä Libertiesin johtaja?
+Hehheh~ Löysin hänet! Hän oli Toranishin oppilaiden joukossa
+odottamassa tilaisuutta pelastaa jäsenet~
+Johtaja keräsi jäseniä muualtakin, joten nyt
+meillä on aikamoinen taisteluvoima~!
+Hee, hienoa! Tulen heti mukaan!
+Ihan sama~ Mutta kun sinä tulet,
+sinulle ei ehkä ole enää tehtävää~ Heippa~
+@019
+No, seuraavaksi...
+@020
+Täällä Kouji valvomosta. ...Vastaa.
+Kouji? Miten siellä menee?
+Minun osaltani hyvin.
+Mutta...
+Mutta? Mitä? Nyt kiinnostaa.
+{BUF03} teki jotain hullua.
+Hänet paljastetaan pian.
+Häh!? Mitä tuo tarkoittaa!
+No, niin se on.
+Uusi suunnitelma: suoraan päin!
+Häh, mitä sinä höpiset? Olemme vielä akatemiassa!
+...Hei!
+@021
+No niin, mennään!
+@022
+Ah, Kouji! Hei!
+Hitsi.
+Ei voi mitään. Alun perinkin oli virhe
+tehdä suunnitelmia tällä porukalla.
+No, kun {BUF03} on pulassa,
+en voi vitkastella. Minäkin riehun!
+@023
+Tunkeilija havaittu!
+@024
+Odottakaa!
+@025
+Löysin sinut!
+@026
+Ottakaa väärennös kiinni!
+@027
+(Hups! Paljastuin!)
+@028
+M-mitä nyt?
+@029
+Waaah!
+@030
+Kyaa, mitä!?
+@031
+Waah!
+@032
+M-mitä tapahtuu!
+@033
+H-h-hätä!
+@034
+H-hätä!
+Liberties! Liberties hyökkää!!
+@035
+Mitä! Käskin sulkea Libertiesin jäsenet
+arestihuoneeseen heti, kun heidät löydetään!
+N-niin, mutta joku päästi heidät karkuun...!
+@036
+Huolimatonta! Ymmärrättekö,
+mitä teitte!?
+H-herra Byakuya, rauhoittukaa! P-paetkaa nyt!
+@037
+Niin! Herra Hakumaa on suojeltava!!
+Mennään, te!
+@038
+Öh, tuota, häh??\nOliko tämä suunnitelmassa??
+@039
+Pakene sinäkin äkkiä! Tänne!
+@040
+Häh? Kuka sinä olet?
+Tule nyt!
+@041
+Huh, huh, huh.
+@042
+Täällä on toistaiseksi turvallista.
+Jäsenet hyökkäävät ensin auditorioon,
+mutta kun selviää, ettei itse Hakuma ole siellä,
+he rynnistävät heti tänne!
+@043
+Niin! Hakuma!\nHakuma on pelastettava!
+@044
+Olet outo. Pelastatko vihollisen?
+Hakuma ei ole vihollinen! Minä ja Hakuma
+olemme ystäviä...!
+Joo joo, voi sinua. Olet tosiaan hauska tyyppi.
+Hakuman huone on 3. kerroksessa. Kiirehdi!
+"Tosiaan"? Tunnetko sinä minut...?
+Minulla on vielä tekemistä ulkona. Nähdään!
+@045
+Tunteeko se tyttö minut??
+J-joka tapauksessa, äkkiä Hakuman luo!
+Hän sanoi, että 3. kerroksessa!
+@046
+Juuri nyt herra Hakumaa\non suojeltava...
+@047
+Ei ulos! 3. kerrokseen!
+@048
+Nyt ei ole aikaa mennä tänne!
+@049
+Nyt ei ole aikaa mennä luokkiin!
+@050
+Ei ole aikaa mennä luokkaan!!
+@051
+Hakuman luo äkkiä!!
+@052
+Hakuman huone on\n3. kerroksessa! Kiire!!
+@053
+Jos en kiirehdi, Hakuma\non vaarassa!
+@054
+Pitää kiirehtiä Hakuman luo!
+@055
+Portaat eivät ole tässä!
+Onko minulla huono suuntavaisto...
+@056
+Valvomo on Koujin hoidossa.\nHakuman luo äkkiä!
+@057
+Ei ole aikaa mennä\noppilaskunnan huoneeseen!
+@058
+Pitää ehtiä Hakuman luo!!
+@059
+Nyt ei ole aikaa unioppimiselle!
+@060
+Ei ole aikaa poiketa muualle!!!
+@061
+Seis!!!
+@062
+Aiot herra Hakuman luo? ...Tästä et pääse.
+Häh!? O-odota nyt!
+Olen tyttö... mutta sydämeltäni Hakuma-kaartia!
+@063
+Tyttö ei siis sovi kaartiin...
+Ei se niin ole! Tunteesi Hakumaa kohtaan
+tuntuivat paljon suuremmilta kuin muun kaartin.
+Minä pelastan Hakuman, joten luota minuun.
+...........Kiitos.
+...Niin, käytä tätä tinpettiäni!
+Häh!? Saanko?
+Jos pelastat sillä Hakuman,
+olen tyytyväinen. Onnea!
+@064
+Aiot herra Hakuman luo? ...Tästä et pääse.
+Häh!? O-odota nyt!
+Olen tyttö... mutta sydämeltäni Hakuma-kaartia!
+@065
+Tyttö ei siis sovi kaartiin...
+Ei se niin ole! Tunteesi Hakumaa kohtaan
+tuntuivat paljon suuremmilta kuin muun kaartin.
+Minä pelastan Hakuman, joten luota minuun.
+...........Kiitos.
+...Niin! Käytä tätä tinpettiäni!
+Häh!? Saanko?
+Jos pelastat tällä tinpetillä herra Hakuman,
+olen tyytyväinen. Onnea!
+@066
+Mekin voitimme hänet.
+Mutta jotenkin ei tunnu voitolta...
+@067
+Hän robottelee heikosti,\nmutta ei myönnä tappiota.
+@068
+Ansiostasi oloni keveni vähän.
+@069
+H-hitto!
+@070
+Mikä tyyppi...!
+@071
+Fufufu... Teidän ja minun välillä
+on tasoero, tasoero! Robotteluottelu kanssani
+on teille liian aikaista!
+@072
+Robotellaan sitten\nminun kanssani!
+@073
+Heh... Hyvä on. Näytän sinulle,
+mitä tasoero tarkoittaa!
+@074
+Mitäs nyt!
+Fufufu... Sinä hävisit!
+Häh?
+Äskeisessä robottelussa näin täysin taktiikkasi
+ja taitosi. No, lopulta et ollut
+vastustaja, jota vastaan minun tarvitsisi taistella tosissani.
+Mitä tuo on! Etkö siis ollut tosissasi!?
+Juuri niin. Joten jos robotellaan uudestaan,
+et ikinä voita minua!
+Robotellaan sitten uudestaan!
+Heh...
+Minulla ei ole aikaa robotteluun,
+jonka tiedän voittavani. Kun saat kunnon taidot,
+voin ehkä ottaa sinut vastaan uudestaan...
+Minulla on kiire, joten lähden nyt.
+No, tee parhaasi. Fufufu...
+@075
+(I-inhottava tyyppi...!)
+@076
+Tämän takana on Hakuma...\nHyvä! Mennään!
+@077
+Herra Hakuma!
+Ulkona näyttää olevan meteliä.
+Paetkaa äkkiä! Libertiesiksi itseään kutsuvat
+ovat jo aivan lähellä!
+Miksi kaikki haluavat riidellä...
+Hakuma!
+@078
+Sinä tulit tänne asti!!\nKaikki on sinun syytäsi...!!
+@079
+Vaikka aiheutin tämän tilanteen, en tullut
+satuttamaan sinua!
+Minä...
+@080
+En lähde.
+Miksi?
+@081
+Tiedätkö "S-R-suunnitelman"?
+"S-R-suunnitelman"?
+Sen keksi henkilö, jota kunnioitan.
+Olen tullut tänne asti uskoen häneen. Nyt ei voi kääntyä takaisin.
+Millainen suunnitelma? Kuka on se "kunnioitettu"?
+"S-R" tarkoittaa "SELF-RELIANCE"... eli
+"omillaan seisomista". Ihmiset ja Medabotit
+vapautetaan hallinnasta ja kahleista ja perustetaan itsenäinen valtio.
+Siinä ihannemaailmassa sekä ihmiset että Medabotit
+voivat elää onnellisina.
+"Ihannemaailma"...? Puheesi ovat vaikeita,
+en oikein ymmärrä.
+Mutta jos se, mitä teit, oli tuon ihannemaailman
+rakentamista, minusta se on
+väärin! Sillä tottelemattomien lasten vangitseminen
+ja pakottaminen tottelemaan...!!
+@082
+(Säpsähdys!!)
+...Onko se totta, Byakuya? En muista
+pyytäneeni sellaista.
+@083
+S-se, tuota...
+Herra Hakuman suunnitelmaan sopimattomat... omasta harkinnastani
+...tuota...
+Koska takerruin liikaa suunnitelmaan... sait sinä
+tehdä sellaisen synnin...
+Herra Hakuma...
+(Hakuma ei siis tiennyt,
+että Libertiesin väkeä vangittiin.)
+Enkö minä... ollut avuksi herra Hakumalle...?
+@084
+Nimi: "Zipangu-minä"\nTekijä: "Mister Touhouken"
+...Mikä tämä on?
+...Hm? Aah! Tämän sisällä on tinpetti!
+Mikä käyttötapa tuo on!
+Pitää käyttää sitä kunnolla, muuten tinpetti on raukka.
+@085
+Nimi: "Zipangu-minä"\nTekijä: "Mr. Touhouken"
+Outoa.
+@086
+Iso ruukku...
+Ah! Sisällä mustekala!
+...Ei tietenkään.
+@087
+M-mitä te olette!
+@088
+Mitä sinä teet, {BUF03}!
+Liberties tulee pian tännekin!
+Jos vitkastelet, joudut sinäkin mukaan!
+@089
+Libertiesin voitto on käytännössä varma!
+Enää...
+@090
+Hei, hauska tavata... kai?
+Te olette {BUF03}:n ystäviä.
+@091
+Sinä olet siis neljän kuninkaan "Byakkon Hakuma"!
+Kerrot meille Karinista!
+@092
+Hmm, sinä siis olet Hakuma.
+@093
+En pidä sinusta!\nAikuismaiset silmät!
+@094
+H-hei... Arika!
+@095
+{BUF03}, ole hiljaa!
+@096
+Onko tämä oikeasti hauskaa sinusta?
+Hauskaa? En ole koskaan...
+Tärkeintä on "mikä on oikein"...
+Oletko tosissasi? Että ikävä asia on oikein?
+Jos sinusta se ei ole hauskaa, niille, joille ajatuksiasi tyrkytetään,
+se on vielä ikävämpää!
+@097
+Mitä! Epäkohteliasta herra Hakumaa kohtaan!!
+Arika, nyt menit liian pitkälle...
+@098
+Ole hiljaa!
+@099
+Ehkä te olette oikeassa...
+Mutta minun on kuljettava tieni, johon uskon.
+Hakuma, miksi niin itsepäisesti?
+@100
+{BUF03}! Jääräpään kanssa on paras
+tapella tosissaan! Samalla urkitaan
+Karinin olinpaikka!
+@101
+Minäkin olen samaa mieltä!
+@102
+Herra Hakuma! Unohtakaa nämä!
+Paetkaa äkkiä!
+......
+Herra Hakuma...?
+Olenko minä oikeassa vai te...
+Totuus on vain yksi. Ratkaistaan asia.
+Emme häviä! Ottelu, Hakuma!
+@103
+Ngh... Kaarti! Auttakaa
+herra Hakumaa!
+@104
+Luulin, että tie, johon uskoin, oli ehdottomasti oikea...
+Herra Hakuma...
+Ei hätää. Sinä pystyt varmasti muuttumaan.
+Waa! Waa!
+@105
+Liberties on jo ihan lähellä!
+@106
+Herra Hakuma, lähdetään!
+Mihin johtopäätökseen herra Hakuma päätyykin,
+seuraan herra Hakumaa minne tahansa!
+...Joten nyt!
+@107
+Joo, nyt on parempi lähteä täältä. Mutta ennen sitä,
+kerro, missä Karin on.
+Sen tytön vei etelän kuninkaan "Suzakun Shurin"
+alainen.
+@108
+M...mitä te aiotte tehdä Karinille!
+Kaikki on neljää kuningasta hallitsevan kuninkaan mielessä.
+Minunlaiseni ei voi sitä tietää.
+Etkö oikeasti tiedä, Hakuma?
+Siitä henkilöstä...
+Tännepäin! Mennään!
+@109
+Pitäkää kiirettä, herra\nHakuma!
+@110
+...Ngh! Meitä pompotellaan\npaikasta toiseen!
+@111
+Meidän kohtalomme on kai kohdata neljä kuningasta.
+Täällä ei kannata olla enää. Mennään ulos!
+@112
+Mennään, {BUF03}.
+@113
+Muut odottavat varmaan.\nPitää mennä äkkiä.
+@114
+Vihdoin vähän helpottaa.
+Huh huh.
+@115
+Toranishi-akatemia on\nvallattu!
+@116
+Likasin vaatteet.
+@117
+No, tietysti~
+@118
+Hei, väistä~
+Ai, anteeksi...
+@119
+Yhtä röyhkeitä kuin aina.
+No, tällä kertaa Screwsin avun ansiosta
+osa asioista ratkesi, joten katsotaan sormien läpi.
+Niin.
+@120
+{BUF03}!
+Tuota, sinä autoit minua auditoriossa...
+Minä se olen, Kinoko.
+@121
+Häh, olitko se sinä, Kinoko!?
+Univormu hämäsi minut.
+Ei käy~ Sinun pitää tunnistaa minut missä asussa tahansa♥
+@122
+? Kuka tuo on?
+Ai, esittelen. Tämä tyttö on Libertiesin...
+@123
+...johtaja Maitake Kinoko♥
+Niin, johtaja...
+@124
+Mitä!? Johtaja!?
+@125
+Niin, Libertiesin johtaja ja naamioitumisen mestari,
+ja oikealta nimeltään!
+@126
+Suloinen kaunotar Kinoko, ufu♥
+Häääh!
+Skuuppi!
+@127
+Neljän kuninkaan voiman takia emme päässeet liikkeelle,
+mutta teidän ansiostanne pääsimme.
+Menen taas toiseen kaupunkiin pelastamaan tovereita♥
+Jos jotain sattuu, autan.
+Joten jatkossakin, o-le-han
+@128
+kiltisti♥
+@129
+(Aika siisti, ehkä...)
+@130
+Niin niin, nyt on työtä\ntekevien naisten aika.
+@131
+Seuraavaksi etelän kuningas...
+@132
+Joka tapauksessa palataan\nensin Omikujiin!
+@133
+...Herra Hakuma?
+(Palaan vielä varmasti. Kun tapaamme taas...
+{BUF03}, minusta tuntuu, että voimme
+olla oikeita ystäviä.)
+@134
+Täällä on aina hyvä valikoima.
+@135
+Stressiin auttaa shoppailu!
+@136
+Huh, ilmastointi on liian\nkova, selkää särkee.
+@137
+Istun täällä joka päivä tauolla ja lasken, montako
+kompastuu rullaportaista noustessa.
+(Mitä hän oikein tekee...)
+@138
+Zzz... zzz...
+@139
+Pappa! Herää!
+@140
+Tervetuloa.
+@141
+Ai, tulit sopivasti.\nVahdi kauppaa hetki.
+@142
+Häh, ah, ah...
+@144
+Miksi {BUF03} on täällä!?
+Minua pyydettiin vahtimaan kauppaa.
+Entä sinä, Kouji, mitä asiaa?
+Ai, antaisitko tusinan "Sharin"-osia?
+Tusina "Sharinia"!? Kouji on tosiaan...
+Ei ole minun vikani, että olen rikas!
+Jos vahdit kauppaa, myy nyt äkkiä.
+@145
+Tässä, tusina "Sharinia".
+Kiitti. Maksan kortilla.
+(Sharin-Kouji.)
+Nähdään.
+@146
+Anteeksi äkillinen pyyntö. Menikö hyvin?
+Joo, jotenkin.
+@147
+Kiitos. Ota tämä pieni lahja.
+@148
+Kiitos.
+@149
+Viihtykää.
+@150
+Telkkari hajosi vuosi sitten... Jos olisi tv-malli,
+ostaisin heti.
+@151
+"Medabottiyhtiö"
+Asiat tutkijoille.
+@152
+Kerrostalo Risotto
+Täällä Hikaru ja Kirara asuvat.
+@153
+Valikoima ja hinnat! Osta\n"Medatavaratalosta"!
+@154
+Päivää. Taas kaunis ilma.
+@155
+Bonaparte-patsas on kadonnut.
+Se oli niin hyvä tapaamispaikan maamerkki.
+@156
+Tätä aukiota kutsutaan "rakastavaisten aukioksi".
+Ymmärrät, kun kasvat aikuiseksi.
+@157
+Milloinkohan Medaroaseman\njunat kulkevat?
+@158
+Oma auto, oma auto,\nkiil kiil kiil♪
+@159
+Robotellaan Medabottikorteilla!
+En häviä!
+@160
+Tämä on Medaropolis 2, jossa on "Medatavaratalo".
+Medaropoliksen keskusta.
+@161
+Olen aina vierelläsi.
+@162
+Poikaystäväni on kiltti, mutta tosi mustasukkainen,
+se on hänen ainoa vikansa.
+@163
+Tervetuloa yritykseen,\njossa työmoraali on nolla.
+@164
+Firmassamme ei ole\nyhtään naista.
+@165
+Umineko Resort Hotelin mainos.
+@166
+Kuuma. Haluaisin lopettaa\ntyöt ja mennä merelle.
+@167
+Huh, kuuma... Miksi täällä on vain
+"lämpimiä" juomia?
+@168
+Tervetuloa, viihdy.
+@169
+Täkäläinen trooppinen mehu\non nyt tosi suosittu.
+@170
+Kiivi, papaija ja mango\nsekoittuvat täydellisesti♥
+@171
+Sekamehun päällä on paljon hedelmiä
+ja niiden päällä vielä kakku! Kiinnostaaa!!
+@172
+Odotan kaveria, mutta hän ei tule.
+Tulisipa hän pian.
+@173
+Kaverin pitäisi odottaa\ntäällä. Outoa?
+@174
+Tilaa jotain ja syö omin päin.
+(Ei kovin innokas...)
+@175
+Täkäläinen äyriäiscurry on kuulemma kuuluisan pahaa,
+joten tilasin sitä, mutta tämä...
+@176
+Katkarapuriisi, jonka päällä on raakoja ostereita
+ja kaiken päälle curryä...
+@177
+Kun juna kulkee ohi, ääni\nkaikuu tässä talossa.
+@178
+Kuulitko.
+@179
+Huh, juna on niin äänekäs,\netten voi keskittyä töihin.
+@180
+Tämä on Medaropolis 4.
+Täällä on Medabotit kehittänyt Medabottiyhtiö.
+@181
+Medaropolis 4
+on kuuluisa "Medabottiyhtiöstä",
+mutta muuten täällä ei ole mitään kiinnostavaa.
+@182
+Medabottiyhtiön tutkimus on huippusalaista,
+joten vahdin, ettei outoja tyyppejä pääse sisään.
+@183
+Medabottiprofessori on todella upea ihminen.
+Saan tutkia hänen lähellään, olen niin onnekas~
+@184
+Olen viime aikoina ollut\nvähän väsynyt~
+@185
+Jos aiotte syödä, ostakaa
+ruokalippu oikealla olevasta automaatista.
+@186
+Lippuautomaatti. Tuota...
+@187#kabuto
+"Katsucurry-udon-ateria"
+Kiinnostaa!
+@187#kuwagata
+"Kermamuhennos-udon-ateria"
+Kiinnostaa!
+@188
+Kutsumme, kun paikka\nvapautuu. Jonottakaa.
+@189
+Katsucurry-udon-ateria.
+@190
+Kermamuhennos-udon-ateria.
+@191
+Mums mums, mums mums...
+Näin täynnä ei voi syödä rauhassa.
+@192
+Täällä on halpaa ja aika hyvää,
+joten tulen, vaikka on vähän ruuhkaa.
+@193
+Toimistotyöläisellekin\nlounas on taistelua!
+@194
+Vähän aikaa sitten tässä vasemmalla oli tyylikäs kahvila,
+mutta kun se lopetti, kaikki asiakkaat
+tulevat nyt tänne.
+@195
+Tervetuloa. Tänään voileivän ja kahvin
+aamiaissetti on tarjouksessa.
+@196
+Täkäläinen kahvi on\naika hyvää.
+@197
+Maku ei ole paha, mutta automaatista ostaminen
+on vähän niin ja näin~
+@198
+Medabottiyhtiö on lähellä, asiakkaat
+ovat tutkijoita.
+@199
+Väärin! Medabotit pitää\ntehdä lapsia ajatellen!
+@200
+Väärin! Medabotit pitää\ntehdä aikuisiakin ajatellen!
+@201
+Nuo kaksi kiistelevät\naina samasta asiasta.
+@202
+Täkäläiset asiakkaat pitävät kaikki robottelusta,
+joten ole varovainen, kun puhut heille.
+@203
+Hmm~ Rohkeaa haastaa minut.
+Hyvä on. Robottelu alkaa!
+@204
+Käytän nykyään Medabotteja paljon myyntityössä,
+joten robottelutaitoni ovat hyvät. Kokeillaanko?
+@205
+Aloitetaan sitten.
+@206
+Medabotti on elinikäinen\nkumppani. Pidä siitä huolta.
+@207
+Ei, minulla ei ole Medabottia.
+@208
+No niin, hyvät herrat,\ntehdään näin. Kiitti~
+@209
+Kun tämä työ on valmis, aion lähteä matkalle,
+mutta milloinkohan se valmistuu...
+@210
+Uhuhuu♪ Juustoa♪ Juustoa♪
+@211
+Lopeta! Älä syö juustoa\nlähelläni!!
+@212
+Häh? Söinkö lounasta...\nAi, söin, söin.
+@213
+Puhun kuulemma paljon\noutoja itsekseni...
+@214
+Tässä bugi! Tässäkin!\nTarkasti etsien loputonta.
+@215
+Tuota, ompelukone,\nompelukone...
+@216
+Tilataanko kohta curryä?\nAi, söimmekö eilenkin curryä?
+@217
+Lähetän paketin. Haluaako\njoku lähettää jotain~?
+@218
+Fufufu, pöydän pitää\nolla kiiltävän puhdas.
+@219
+Totta, pöytä on\nkiiltävän puhdas!
+@220
+T-tämä! Tietokoneen\nruudulla on Shiratama!
+@221
+Fufufu, hän on yhtiön\nomalaatuisimpia.
+@222
+Kuule~ Halusit tavata, ja odotutat päiväkausia?
+Kun minua jännitti...
+Olen tullut tänne joka päivä monta päivää.
+Anteeksi... Ai, tässä lahja. Ostin sen Medatavaratalosta.
+Uuh~~~~~~ Tuntuu, että minua huijataan,
+mutta olkoon~ Kakun takia annan anteeksi.
+Kiitos!
+Huoh, miksi rakastuin tällaiseen...
+@223
+No, olkoon, kunhan olen\nonnellinen♪
+@224
+No niin, syödään kakkua meillä♥
+Syödään♥
+@225
+Tutkimuskin tarvitsee lomaa.
+@226
+Tuo on noin, joten...\ntämä menee näin... mutinaa
+@227
+Hmm, kun tutkimus jumittaa,\nkahvia!
+@228
+Ah! Sain juuri hyvän idean,\nmutta unohdin sen!
+@229
+Huh~ Tänään väsyttää.
+@230
+Älä häiritse töitä.
+@231
+Zzz... zzz...
+Hän nukkuu.
+@232
+Olen hereillä~ Zzz... zzz...
+@233
+Täällä tutkitaan Medabotteja\nyötä päivää!
+@234
+Robottelu ei ole Medabottien\nainoa viehätys!
+@235
+Käyt täällä usein.\nOvatko Medabotit hauskoja?
+@236
+Kirara katoaa välillä jonnekin,
+mutta palaa aina huomaamatta.
+@237
+Mitalit ovat syvällisiä. Näin paljon tutkittuakin
+on vielä paljon selvittämättä.
+@238
+Kuule! Kehitän ympäristöystävällistä
+ekologista Medabottia!
+Mikä se on...?
+@239
+Täällä on aukko.
+Tästä valmistetut asiat tulevat ulos.
+@240
+Unelmakone... Tekisinkö minäkin jotain?
+...Mutta mitä sinne pitäisi laittaa?
+Laitanko Roborobo-mitalin?
+@241
+Ei sittenkään.
+@242
+Hep!
+@243
+......Ptuh!
+@244
+Uwaa! Se sylki sen ulos!
+Hei poju, mitä sä tällasta syötät?
+Ookko sä syöny Roborobo-mitalia? Se on ihan hirveetä!
+@245
+Se puhui!? Unelmakone!?
+Mitä, enkö mä saa puhua? Medabotit saa puhua,
+mutta mä en saa?
+Ei se sitä...
+Mä oon laajasydäminen. Tuo herkkuja,
+niin annan anteeks.
+Ei yhtään laajasydäminen...
+Eka "kengät". Mitä nopeemmat kengät, sitä parempi maku.
+(Ei kuuntele yhtään...)
+Ja "viestinauha".
+Sekin on herkkua!
+Mikä outo syöppö...
+Ja "paperilennokki" olis hyvä. Tarkasti taiteltu
+muuttaa suun taivaaksi yhdellä haukulla.
+Paperilennokki...?
+Lopuks "pimeänäkölasit". Ne parantaa
+näön heti. Pitäähän syödä terveellistä?
+Ei ne oo ruokaa...
+Eli tuo ne kaikki kerralla.
+Mitä! Kerralla!?
+Kaikki kerralla on parasta!
+Syötkö sä salaatin ja kastikkeen erikseen!?
+Selvä, selvä! Tuon ne!
+Vauhtia.
+@246
+Ai, minulla ei ole\nRoborobo-mitalia.
+@247
+Toitko ne?
+@248
+Älä nyt. "Kengät", "viestinauha",
+"paperilennokki" ja "pimeänäkölasit".
+Vauhtia nyt.
+(Mikä tämä on...)
+@249
+Oho! Arvasin, et susta on siihen, poju!
+Katotaanpa...
+@250
+Mahtavaa! Sitten heti...
+@251
+...Herkkua! Tähän jää koukkuun~
+Kuule, eikö Unelmakone tee jotain?
+Ai niin, semmosestakin oli puhe.
+Hmm, äsken syödyistä vois tehdä jotain.
+Ei voi olla!
+Totta! Usko jo! Mut tarviin piirustukset.
+Piirustukset...
+@252
+"Shurin nimikirjoitus"... käykö?
+Oho! Tää on mahtava! Ootappa hetki, poju!
+@253
+Valmista!
+@254
+......!!!
+@255
+Ei voi olla!
+Totta!
+@256
+Hei hei hei hei! Ei riitä, poju!
+Älä nyt.
+@257
+Minulla ei ole sellaista...
+Sit ei onnistu. Harmi~
+@258
+Oho! Löysitkö piirustukset?
+@264
+Sun tuomat ruuat oli\naika hyviä, poju~
+@265
+Hyvä, kun on tämä ja tämä...
+Tuota...
+@266
+Huh.
+@267
+Hm?
+Oo, poika! Tervetuloa.
+@268
+Katso! Tämä on teknologiamme huipentuma,
+"Unelmakone"! Kun sisään laittaa materiaalit ja piirustukset,
+se tekee halutun asian automaattisesti.
+Todellinen unelmien masiina!
+Ai, se kone, joka oli ennen Heavens-tornissa.
+...Et kovin vaikuttunut.
+No, olkoon. Juuri nyt valmistuu
+se, mitä tilasin.
+@269
+K-katsucurry-udon- ateria!
+@270
+Katsu, curry-udon ja ateria yhdessä,
+se on "katsucurry-udon-ateria"!
+@271
+......Liian tulista!
+@272
+Parannettavaa näyttää\nolevan...
+@274
+Tämä Medalink ottaa vastaan haastajia
+sijoilta 55-51.
+Sijalla 55 on Yukie. Pelaatko Medalinkiä?

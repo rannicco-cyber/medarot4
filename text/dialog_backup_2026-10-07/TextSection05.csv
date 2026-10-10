@@ -1,0 +1,113 @@
+﻿Index[#version],Pointer[#version|],Original,Translated
+000,0x1221ba,<SFF>ソ-ド攻撃<CD>スピ-ドの はやい かくとう攻撃<*04>,<SFF>Sword attack<D3>Fast melee attack<*04>
+001,0x1221bc,<SFF>ハンマ-攻撃<CD>スピ-ドの はやい かくとう攻撃<*04>,<SFF>Hammer attack<D3>Fast melee attack<*04>
+002,0x1221be,<SFF>ふういんぶき攻撃     (コンボ)<CD>「ふういんかいじょ」で 使用できる<*04>,"<SFF>Seal weapon attack (Combo)<D3>Usable with ""Seal Release""<*04>"
+003,0x1221c0,<SFF>ライフル攻撃<CD>スピ-ドの はやい しゃげき攻撃<*04>,<SFF>Rifle attack<D3>Fast ranged attack<*04>
+004,0x1221c2,<SFF>ガトリング攻撃<CD>スピ-ドの はやい しゃげき攻撃<*04>,<SFF>Gatling attack<D3>Fast ranged attack<*04>
+005,0x1221c4,<SFF>こくいんぶき攻撃     (コンボ)<CD>「こくいんふか」で 使用できる<*04>,"<SFF>Inscription weapon attack (Combo)<D3>Usable with ""Inscription""<*04>"
+006,0x1221c6,<SFF>レ-ザ-攻撃<CD>いリょくが 2ばいになる<*04>,<SFF>Laser attack<D3>Power is doubled<*04>
+007,0x1221c8,<SFF>ビ-ム攻撃<CD>いリょくが 2ばいになる<*04>,<SFF>Beam attack<D3>Power is doubled<*04>
+008,0x1221ca,<SFF>ミサイル攻撃<CD>ぜったいヒットと かんつうダメ-ジ<*04>,<SFF>Missile attack<D3>Sure hit and piercing damage<*04>
+009,0x1221cc,<SFF>ナパ-ム攻撃<CD>ぜったいヒットと かんつうダメ-ジ<*04>,<SFF>Napalm attack<D3>Sure hit and piercing damage<*04>
+010,0x1221ce,<SFF>ブレイク攻撃<CD>せいこうが 2ばいになる<*04>,<SFF>Break attack<D3>Success rate is doubled<*04>
+011,0x1221d0,<SFF>プレス攻撃<CD>せいこうが 2ばいになる<*04>,<SFF>Press attack<D3>Success rate is doubled<*04>
+012,0x1221d2,<SFF>デストロイ攻撃    (ダイレクト)<CD>せなかを むけた てきを はかいする<*04>,<SFF>Destroy attack (Direct)<D3>Destroy an enemy facing away<*04>
+013,0x1221d4,<SFF>サクリファイス攻撃  (ダイレクト)<CD>パ-ツを ぎせいにして 大ダメ-ジ<*04>,<SFF>Sacrifice attack (Direct)<D3>Sacrifice a part for heavy damage<*04>
+014,0x1221d6,<SFF>タイムアタック攻撃<CD>じかんが すぎるほど 攻撃力アップ<*04>,<SFF>Time Attack<D3>Attack power rises as time passes<*04>
+015,0x1221d8,<SFF>スタティック攻撃   (ダイレクト)<CD>そうこうが 1/4になる<*04>,<SFF>Static attack (Direct)<D3>Armor becomes 1/4<*04>
+016,0x1221da,<SFF>バグ攻撃<CD>行動の せいこうリつを 下げる<*04>,<SFF>Bug attack<D3>Reduces action success rate<*04>
+017,0x1221dc,<SFF>ウィルス攻撃<CD>行動の せいこうリつを 下げる<*04>,<SFF>Virus attack<D3>Reduces action success rate<*04>
+018,0x1221de,<SFF>ウェ-ブ攻撃<CD>じゅんび時間を ながくする<*04>,<SFF>Wave attack<D3>Lengthens preparation time<*04>
+019,0x1221e0,<SFF>ホ-ルド攻撃<CD>じゅんび時間を ながくする<*04>,<SFF>Hold attack<D3>Lengthens preparation time<*04>
+020,0x1221e2,<SFF>ファイヤ-攻撃<CD>じゅんび中も ダメ-ジをあたえる<*04>,<SFF>Fire attack<D3>Deals damage during preparation<*04>
+021,0x1221e4,<SFF>メルト攻撃<CD>じゅんび中も ダメ-ジをあたえる<*04>,<SFF>Melt attack<D3>Deals damage during preparation<*04>
+022,0x1221e6,<SFF>サンダ-攻撃<CD>あいての 動きを ストップさせる<*04>,<SFF>Thunder attack<D3>Stops the enemy's movement<*04>
+023,0x1221e8,<SFF>フリ-ズ攻撃<CD>あいての 動きを ストップさせる<*04>,<SFF>Freeze attack<D3>Stops the enemy's movement<*04>
+024,0x1221ea,<SFF>カウントダウン攻撃  (ダイレクト)<CD>カウントが 0になると きのうていし<*04>,<SFF>Countdown attack (Direct)<D3>Disables function at zero<*04>
+025,0x1221ec,<SFF>ホ-ムシック攻撃   (ダイレクト)<CD>時々 行動せずに 引きかえす<*04>,<SFF>Homesick attack (Direct)<D3>Sometimes retreats without acting<*04>
+026,0x1221ee,<SFF>カウントアタック攻撃<CD>かいすうが ふえるほど 攻撃力アップ<*04>,<SFF>Count Attack<D3>Attack power rises with each count<*04>
+027,0x1221f0,<SFF>アサッシン攻撃    (ダイレクト)<CD>ぜったいに クリティカルする<*04>,<SFF>Assassin attack (Direct)<D3>Always scores a critical hit<*04>
+028,0x1221f2,<SFF>ぼうぎょ行動     (アクティブ)<CD>みかたの メダロットを えんごする<*04>,<SFF>Defense action (Active)<D3>Supports allied Medarots<*04>
+029,0x1221f4,<SFF>かんぜんぼうぎょ行動 (アクティブ)<CD>みかたヘの 攻撃を ブロックする<*04>,<SFF>Perfect defense (Active)<D3>Blocks attacks on allies<*04>
+030,0x1221f6,<SFF>みまんぼうぎょ行動  (アクティブ)<CD>よわい攻撃を ブロックする<*04>,<SFF>Partial defense (Active)<D3>Blocks weak attacks<*04>
+031,0x1221f8,<SFF>アンチエア攻撃<CD>ひこうメダロットに 大ダメ-ジ<*04>,<SFF>Anti-Air attack<D3>Heavy damage to flying Medarots<*04>
+032,0x1221fa,<SFF>アンチシ-攻撃<CD>せんすいメダロットに 大ダメ-ジ<*04>,<SFF>Anti-Sea attack<D3>Heavy damage to swimming Medarots<*04>
+033,0x1221fc,<SFF>さくてき行動<CD>みかたの 攻撃を あてやすくする<*04>,<SFF>Search action<D3>Makes allied attacks more accurate<*04>
+034,0x1221fe,<SFF>いんペい行動<CD>てきの 攻撃を よけやすくなる<*04>,<SFF>Conceal action<D3>Makes attacks easier to evade<*04>
+035,0x122200,<SFF>きゅうしゅう行動   (アクティブ)<CD>全ての タ-ゲットを きゅうしゅう<*04>,<SFF>Absorption action (Active)<D3>Draws all targets in<*04>
+036,0x122202,<SFF>かくとうトラップ行動  (トラップ)<CD>「なぐる.がむしゃら」攻撃にダメ-ジ<*04>,"<SFF>Melee trap action (Trap)<D3>Damages ""Strike"" and ""Berserk"" attacks<*04>"
+037,0x122204,<SFF>しゃげきトラップ行動  (トラップ)<CD>「うつ.ねらいうち」攻撃にダメ-ジ<*04>,"<SFF>Ranged trap action (Trap)<D3>Damages ""Shoot"" and ""Snipe"" attacks<*04>"
+038,0x122206,<SFF>フォ-スプラント行動  (トラップ)<CD>行動するたびに フォ-スアップ<*04>,<SFF>Force Plant action (Trap)<D3>Raises Force with each action<*04>
+039,0x122208,<SFF>さくてきクリア行動   (トラップ)<CD>さくてきの こうかを ぼうがいする<*04>,<SFF>Search Clear action (Trap)<D3>Disrupts Search effects<*04>
+040,0x12220a,<SFF>いんペいクリア行動   (トラップ)<CD>いんペいの こうかを ぼうがいする<*04>,<SFF>Conceal Clear action (Trap)<D3>Disrupts Conceal effects<*04>
+041,0x12220c,<SFF>たんぱつクリア行動   (トラップ)<CD>攻撃を 1回だけ ふせぐ<*04>,<SFF>Single Clear action (Trap)<D3>Blocks one attack<*04>
+042,0x12220e,<SFF>ファ-ストエイド行動  (トラップ)<CD>こわれたパ-ツを ふっかつさせる<*04>,<SFF>First Aid action (Trap)<D3>Revives a broken part<*04>
+043,0x122210,<SFF>クロス攻撃セット行動  (トラップ)<CD>「クロス攻撃」を セットする<*04>,"<SFF>Cross Attack Set action (Trap)<D3>Sets ""Cross Attack""<*04>"
+044,0x122212,<SFF>クロス攻撃ファイア行動A (コンボ)<CD>「クロス攻撃」で 1体を攻撃<*04>,"<SFF>Cross Attack Fire A (Combo)<D3>Attacks one target with ""Cross Attack""<*04>"
+045,0x122214,<SFF>クロス攻撃ファイア行動B (コンボ)<CD>「クロス攻撃」で 全パ-ツを攻撃<*04>,"<SFF>Cross Attack Fire B (Combo)<D3>Attacks all parts with ""Cross Attack""<*04>"
+046,0x122216,<SFF>クロス攻撃ファイア行動C (コンボ)<CD>「クロス攻撃」で 全体を攻撃<*04>,"<SFF>Cross Attack Fire C (Combo)<D3>Attacks everyone with ""Cross Attack""<*04>"
+047,0x122218,<SFF>マイナス症状クリア行動<CD>マイナス症状を かいじょする<*04>,<SFF>Negative Status Clear<D3>Removes negative status effects<*04>
+048,0x12221a,<SFF>トラップクリア行動   (トラップ)<CD>「トラップ」を はかいする<*04>,"<SFF>Trap Clear action (Trap)<D3>Destroys ""Traps""<*04>"
+049,0x12221c,<SFF>フォ-スせいぎょ行動<CD>「メダフォ-ス」を 使えなくする<*04>,"<SFF>Force Control action<D3>Prevents use of ""Medaforce""<*04>"
+050,0x12221e,<SFF>かいふく行動<CD>ダメ-ジをうけたパ-ツを かいふく<*04>,<SFF>Recovery action<D3>Restores damaged parts<*04>
+051,0x122220,<SFF>ふっかつ行動<CD>きのうていしパ-ツを ふっかつさせる<*04>,<SFF>Revival action<D3>Restores disabled parts<*04>
+052,0x122222,<SFF>そせい行動<CD>たおれた みかたを ふっかつさせる<*04>,<SFF>Resuscitation action<D3>Revives a fallen ally<*04>
+053,0x122224,<SFF>レベルドレイン行動<CD>てきの レベルを うばいとる<*04>,<SFF>Level Drain action<D3>Steals the enemy's level<*04>
+054,0x122226,<SFF>かんぜんむこう行動  (アクティブ)<CD>全ての 攻撃を むこうにする<*04>,<SFF>Perfect Nullify (Active)<D3>Nullifies all attacks<*04>
+055,0x122228,<SFF>かご行動       (アクティブ)<CD>みかたの 1たいを きょうかする<*04>,<SFF>Protection action (Active)<D3>Strengthens one ally<*04>
+056,0x12222a,<SFF>たいせいはかい行動<CD>「えんご」「かまえ」を はかいする<*04>,"<SFF>Resistance Break action<D3>Destroys ""Support"" and ""Stance""<*04>"
+057,0x12222c,<SFF>こうがく むこう行動   (そうび)<CD>「レ-ザ-」「ビ-ム」を ブロック<*04>,"<SFF>Optical Nullify (Equipment)<D3>Blocks ""Laser"" and ""Beam""<*04>"
+058,0x12222e,<SFF>かやく むこう行動    (そうび)<CD>「ミサイル」「ナパ-ム」を ブロック<*04>,"<SFF>Explosive Nullify (Equipment)<D3>Blocks ""Missile"" and ""Napalm""<*04>"
+059,0x122230,<SFF>じゅうリょく むこう行動 (そうび)<CD>「ブレイク」「プレス」を ブロック<*04>,"<SFF>Gravity Nullify (Equipment)<D3>Blocks ""Break"" and ""Press""<*04>"
+060,0x122232,<SFF>症状クリア        (そうび)<CD>全ての 症状が つかない<*04>,<SFF>Status Clear (Equipment)<D3>Prevents all status effects<*04>
+061,0x122234,<SFF>けいぞくリペア行動<CD>じゅんび中も ダメ-ジをかいふく<*04>,<SFF>Continuous Repair action<D3>Heals damage during preparation<*04>
+062,0x122236,<SFF>ダメ-ジげんしょう行動(アクティブ)<CD>うけるダメ-ジを ヘらす<*04>,<SFF>Damage Reduction (Active)<D3>Reduces damage taken<*04>
+063,0x122238,<SFF>はんしゃ行動     (アクティブ)<CD>あいての 攻撃を はじきかえす<*04>,<SFF>Reflection action (Active)<D3>Repels enemy attacks<*04>
+064,0x12223a,<SFF>はんげき行動     (アクティブ)<CD>つよい攻撃だけを はじきかえす<*04>,<SFF>Counterattack action (Active)<D3>Repels only strong attacks<*04>
+065,0x12223c,<SFF>じゅうリょくせいぎょ   (そうび)<CD>じゅんび時間を いっていにする<*04>,<SFF>Gravity Control (Equipment)<D3>Sets preparation time<*04>
+066,0x12223e,<SFF>てきえい かんち     (そうび)<CD>タ-ゲットセット と せいのうアップ<*04>,<SFF>Enemy Detection (Equipment)<D3>Target set and performance boost<*04>
+067,0x122240,<SFF>ちょくぜんせんたく    (そうび)<CD>タ-ゲットクリア と せいのうアップ<*04>,<SFF>Preemptive Selection (Equipment)<D3>Target clear and performance boost<*04>
+068,0x122242,<SFF>じこしゅうふく      (そうび)<CD>じどうてきに ダメ-ジを かいふく<*04>,<SFF>Self-Repair (Equipment)<D3>Automatically restores damage<*04>
+069,0x122244,<SFF>きゅうそくチャ-ジ行動<CD>じゅんび時間を ゼロにする<*04>,<SFF>Quick Charge action<D3>Sets preparation time to zero<*04>
+070,0x122246,<SFF>ほじょチャ-ジ行動<CD>じゅんび時間を みじかくする<*04>,<SFF>Assist Charge action<D3>Shortens preparation time<*04>
+071,0x122248,<SFF>じょうじチャ-ジ     (そうび)<CD>じゅんび時間が みじかくなる<*04>,<SFF>Constant Charge (Equipment)<D3>Shortens preparation time<*04>
+072,0x12224a,<SFF>チャ-ジドレイン行動<CD>じゅんび時間を うばいとる<*04>,<SFF>Charge Drain action<D3>Steals preparation time<*04>
+073,0x12224c,<SFF>てんとう行動<CD>ころばせて めいれいを わすれさせる<*04>,<SFF>Knockdown action<D3>Knocks down the target and erases its command<*04>
+074,0x12224e,<SFF>フォ-スアップ行動<CD>メダフォ-スを ふやす<*04>,<SFF>Force Up action<D3>Increases Medaforce<*04>
+075,0x122250,<SFF>ヘんか行動<CD>ベつのパ-ツに ヘんかする<*04>,<SFF>Change action<D3>Changes into another part<*04>
+076,0x122252,<SFF>ヘんか(そくど)行動<CD>「スピ-ド」のパ-ツに ヘんかする<*04>,"<SFF>Change (Speed) action<D3>Changes into a ""Speed"" part<*04>"
+077,0x122254,<SFF>ヘんか(いリょく)行動<CD>「いリょく」のパ-ツに ヘんかする<*04>,"<SFF>Change (Power) action<D3>Changes into a ""Power"" part<*04>"
+078,0x122256,<SFF>ヘんか(症状)行動<CD>「症状」のパ-ツに ヘんかする<*04>,"<SFF>Change (Status) action<D3>Changes into a ""Status"" part<*04>"
+079,0x122258,<SFF>ヘんか(えんご)行動<CD>「えんご」パ-ツに ヘんかする<*04>,"<SFF>Change (Support) action<D3>Changes into a ""Support"" part<*04>"
+080,0x12225a,<SFF>ヘんか(かいふく)行動<CD>「かいふく」パ-ツに ヘんかする<*04>,"<SFF>Change (Recovery) action<D3>Changes into a ""Recovery"" part<*04>"
+081,0x12225c,<SFF>ヘんか(しえん)行動<CD>「ぼうがい」パ-ツに ヘんかする<*04>,"<SFF>Change (Assist) action<D3>Changes into an ""Interference"" part<*04>"
+082,0x12225e,<SFF>ふういんかいじょ行動<CD>「ふういんぶき」を セットする<*04>,"<SFF>Seal Release action<D3>Sets ""Seal Weapon""<*04>"
+083,0x122260,<SFF>ちけいこうか行動<CD>フィ-ルドイベントを はっせいさせる<*04>,<SFF>Terrain Effect action<D3>Triggers a field event<*04>
+084,0x122262,<SFF>プラス症状クリア行動<CD>プラス症状を かいじょする<*04>,<SFF>Positive Status Clear<D3>Removes positive status effects<*04>
+085,0x122264,<SFF>使用ふのう行動<CD>パ-ツが 使えなくなる<*04>,<SFF>Disable action<D3>Prevents parts from being used<*04>
+086,0x122266,<SFF>こんらん行動<CD>攻撃の あいてを きめられない<*04>,<SFF>Confusion action<D3>Cannot choose an attack target<*04>
+087,0x122268,<SFF>回数ドレイン行動<CD>頭パ-ツの 回数を うばいとる<*04>,<SFF>Count Drain action<D3>Steals uses from the head part<*04>
+088,0x12226a,<SFF>かいひふのう行動<CD>かいひを できなくする<*04>,<SFF>Evade Disable action<D3>Prevents evasion<*04>
+089,0x12226c,<SFF>ぼうぎょふのう行動<CD>ぼうぎょを できなくする<*04>,<SFF>Defense Disable action<D3>Prevents defense<*04>
+090,0x12226e,<SFF>フォ-スドレイン行動<CD>メダフォ-スを うばいとる<*04>,<SFF>Force Drain action<D3>Steals Medaforce<*04>
+091,0x122270,<SFF>こくいんふか行動<CD>「こくいんぶき」を セットする<*04>,"<SFF>Inscription action<D3>Sets ""Inscription Weapon""<*04>"
+092,0x122272,<SFF>行動ゆうはつ行動<CD>おなじパ-ツを むリやリ 使わせる<*04>,<SFF>Forced Action action<D3>Forces the same part to be used<*04>
+093,0x122274,<SFF>ひこうメダロット<CD>「さばく」「アリじごく」に つよい<*04>,"<SFF>Flying Medarot<D3>Strong in ""Desert"" and ""Antlion Pit""<*04>"
+094,0x122284,<SFF>ふゆうメダロット<CD>どのフィ-ルドも とくい<*04>,<SFF>Hovering Medarot<D3>Good on every field<*04>
+095,0x122286,<SFF>たきゃくメダロット<CD>「さんち」「かざん」に つよい<*04>,"<SFF>Quad-leg Medarot<D3>Strong in ""Mountain"" and ""Volcano""<*04>"
+096,0x122288,<SFF>にきゃくメダロット<CD>「しんリん」「ジャングル」に つよい<*04>,"<SFF>Two-leg Medarot<D3>Strong in ""Forest"" and ""Jungle""<*04>"
+097,0x12228a,<SFF>くるまメダロット<CD>「まちなか」「スタジアム」に つよい<*04>,"<SFF>Vehicle Medarot<D3>Strong in ""Town"" and ""Stadium""<*04>"
+098,0x12228c,<SFF>せんしゃメダロット<CD>フィ-ルドに えいきょうされない<*04>,<SFF>Tank Medarot<D3>Unaffected by the field<*04>
+099,0x12228e,<SFF>せんすいメダロット<CD>「すいちゅう」「ひょうが」に つよい<*04>,"<SFF>Swimming Medarot<D3>Strong in ""Underwater"" and ""Glacier""<*04>"
+100,0x122290,<FINAL>,
+101,0x122276,@0x122274,@0x122274
+102,0x122278,@0x122274,@0x122274
+103,0x12227a,@0x122274,@0x122274
+104,0x12227c,@0x122274,@0x122274
+105,0x12227e,@0x122274,@0x122274
+106,0x122280,@0x122274,@0x122274
+107,0x122282,@0x122274,@0x122274
+108,0x122292,@0x122290,@0x122290
+109,0x122294,@0x122290,@0x122290
+110,0x122296,@0x122290,@0x122290
+111,0x122298,@0x122290,@0x122290

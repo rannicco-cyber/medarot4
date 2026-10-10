@@ -46,24 +46,28 @@ PlayerNamingScreenInitState::
   ld bc, $80
   call memclr
   ld hl, W_NamingScreenEnteredTextBuffer
-  ld a, $02 ; 'イ'
+  ; Default name "Ikki", stored with VWF/ASCII character codes so that
+  ; dialogs (which draw it through the VWF) show it correctly.
+  ld a, $49 ; 'I'
   ld [hli], a
-  ld a, $34 ; 'ッ'
+  ld a, $6B ; 'k'
   ld [hli], a
-  ld a, $07 ; 'キ'
+  ld a, $6B ; 'k'
+  ld [hli], a
+  ld a, $69 ; 'i'
+  ld [hli], a
+  ld a, $CB ; terminator (normally written by the text entry state)
   ld [hli], a
   xor a
   ld [hli], a
   ld [hli], a
   ld [hli], a
   ld [hli], a
-  ld [hli], a
-  ld [hli], a
-  ld a, 3 ; Initial Name Length
-  ld [W_NamingScreenEnteredTextLength], a
-  xor a
-  ld [W_NamingScreenTypeIndex], a
-  jp IncNamingScreenSubSubStateIndex
+  ; Name entry is skipped: the default name is used as is.
+  ; Jump straight to PlayerNamingScreenCopyNameState (substate $A).
+  ld a, $0A
+  ld [W_NamingScreenSubSubStateIndex], a
+  ret
 
 PlayerNamingScreenPrepareFadeOutFromOverworldState::
   ld hl, 0

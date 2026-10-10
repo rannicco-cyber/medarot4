@@ -1,0 +1,948 @@
+@000
+Huomenna on rantaleirikoulu. Paikka on Umineko-ranta.
+@001
+Umineko-rantahan on kuuluisa lomakohde!
+Kesä! Meri! Umineko-ranta! ...tyyliin.
+Uidaan paljon!
+@002
+(...Ja neljää kuningasta ei saa unohtaa!)
+@003
+Rauhoitu siellä.
+Joo~
+Hölmö, liikaa innostusta!
+@004
+Umineko-rannalla järjestetään "triathlonkisa".
+Te kaikki osallistutte siihen.
+Triathlon?
+...Eikö se ollut kilpailu, jossa kisataan monessa lajissa?
+Vaikka puhutaan "triathlonkisasta", kilpailijoina
+eivät ole ihmiset vaan Medabotit. Mutta ilman medabottaajaa
+siitä ei tietenkään tule mitään. Missä tahansa kilpailussa
+Medabotti ja sen mestari, medabottaaja,
+ovat yhtä sielua ja ruumista.
+(Medabotti ja medabottaaja ovat yhtä sielua ja ruumista...
+...opettaja sanoi hienosti.)
+...Joten aloitetaan heti treeni!
+Ymmärrätte varmaan, ettette saa nolottavilla tuloksilla
+tuottaa minulle, luokanopettajallenne, häpeää.
+(Nyyh nyyh...)
+Parhaat saavat Ryutou-akatemialta
+kutsun ystävyysotteluun.
+@005
+Ryutou-akatemia!!
+@006
+(Se akatemia, josta Shuri puhui... Tämä tarkoittaa,
+että meidän on pakko sijoittua kärkeen.)
+@007
+(J-joo.)
+Aloitetaan sitten. Ensin Medaspeed-kuningas.
+@008
+Pitää mennä nopeasti muiden luo!
+@009
+Seuraava harjoituspaikka ei ole täällä!
+@011
+{BUF03}, sinun vuorosi! Tsemppiä!
+@012
+Opettaja Ryuuko on vähän liian tiukka.
+@013
+Minä tykkään sittenkin enemmän robottelusta.
+@014
+Kaikki muut ovat jo valmiita. Pidä kiirettä, Tenryou.
+@015
+Vielä on matkaa...
+@016
+Mitä? Pakeneminen on turhaa, Tenryou.
+Opettaja.........
+@017
+Jee!
+Ihan kelvollinen.
+.........
+@018
+Ei onnistunut...
+Olet veltto.
+.........
+@019
+Kun kaikki ovat valmiita, mennään seuraavalle paikalle.
+Seuraavaksi Medaroad-kisa.
+@020
+Okei! Hoidetaan tämä nopeasti alta pois!
+@021
+Niin... kärsimys kannattaa hoitaa nopeasti...
+@022
+Aah... montako vielä tänään tehdään?
+Kuka tietää~?
+@023
+Kaikki ovat nopeita.
+@024
+Seuraavaksi Medaroad. Harjoituspaikka on alhaalla.
+@025
+Seuraava harjoituspaikka ei ole tällä suunnalla.
+@026
+Vaikeinta on edetä törmäilemättä.
+@027
+Tykkään Medaroadista! ...vaikka olen huono.
+@028
+Voi voi, miksi minä olen tällainen...
+@029
+Häh? Tenryou, etkö ole vielä tehnyt?
+@030
+No niin! Nopeasti, nopeasti!
+@031
+Mitä sinä teet? Pidä kiirettä.
+@032
+Huh, oli kova vastus.
+@033
+Uuuuh...
+@034
+No niin, seuraavaksi. Kokoontukaa
+Medabirdin harjoituspaikalle.
+@035
+{BUF03}! Mennään!
+@036
+Mennään minäkin. Medabirdin harjoituspaikka
+on täältä ulos ja vasemmalle.
+@037
+Ai! En ole koonnut 3 Medabottia!
+@038
+Seuraavaksi Tenryou. Kun olet valmis,
+nouse lavalle.
+@039
+Anna palaaa!
+@040
+Voi että! Mitä sinä teet!
+@041
+Huolimaton!
+@042
+Seuraavaksi Medabird...
+Ai! En ole koonnut 3 Medabottia!
+@043
+Ai, vielä vähän! Vielä vähän! ...Harmi!
+@045
+Kas, Tenryou. Väisty, niin pääset läpi.
+J-joo.
+@046
+Mitä teet, {BUF03}! Sinun vuorosi! Nopeasti!
+@047
+Ai! Niin.
+@048
+Okei! Tehdään se!
+@049
+Hienoa, {BUF03}!
+@050
+Et ole hassumpi, Tenryou!
+@051
+No~ niinköhän~?
+@052
+Älä heti ylpisty!
+Jooh...
+Mutta onnistuit aika hyvin, eikö?
+@053
+Häh... mitä!? (Kehuiko hän minua!?)
+@054
+Voi että! En voi katsoa. Pärjäätkö
+oikeasti noin?
+Tenryou, noloa~!
+Kerrassaan, tulevaisuus huolestuttaa!
+Jää tämän jälkeen harjoittelemaan yksin!
+Nyyh nyyh...
+@055
+No niin, kaikki, seuratkaa minua!
+@056
+Tunti päättyy. Älkää myöhästykö huomenna.
+Kysyttävää?
+@057
+Opettaja! Lasketaanko banaani välipalaksi?
+Banaani on hedelmä. Seuraava!
+Saako pukea söpön uimapuvun?
+Uimapuku on koulun uimapuku. Seuraava!
+@058
+Saako kisan aikana kuvata?
+Jos ei ole oma vuoro. Seuraava!
+Onko rantakahvilassa katsukarri-udon-ateriaa?
+@059
+Häh? Häh?
+@060
+Mitä sinä puhut, Tenryou?
+@061
+...Kuka tuon vitsin muka ymmärtää?
+Ugh...
+@062
+.........Hajaantukaa.
+@063
+Hei, {BUF03}. Mennäänkö
+Medabottiyhtiöön?
+@064
+? Mitä tekemään?
+Tutkimaan vakoojaa! Tokkurihan sanoi.
+Medabottiyhtiössä on varmasti vakooja!
+N-niinköhän~?
+Tietysti on! No, mennään!
+@065
+Medabottiyhtiö on kaupungin kaakkoisosassa.
+Mennäänpä.
+@066
+Nyt minulla ei ole asiaa tänne.
+@069
+Kotiin meneminen nyt ei auta.
+@072
+Hikaruuu!
+Häh? Tänään hän ei olekaan täällä...
+@077
+Arikan pitäisi olla täällä...? Minne hän meni?
+@078
+Tuota...
+@079
+Ai! Arika!
+@080
+Selvisikö jotain?
+Ei yhtään mitään! Kaikki vain toistavat
+"en tiedä mitään"! Kirarakin
+salailee jotain eikä kerro minulle!
+Inhottavaa!
+Vakoojakin kiinnostaa, mutta... eikö nyt kannattaisi
+mennä kotiin lepäämään huomista varten?
+Ei voi mitään, tutkitaan myöhemmin uudelleen.
+No, minä lähden kotiin!
+@081
+Tuota...
+Kun tulin, tapaan Kiraran
+ennen lähtöä.
+@082
+Tapaan Kiraran ennen kotiinlähtöä.
+@084
+Päivää, Kirara!
+@085
+Kas, {BUF03}. Päivää.
+Tulitko tapaamaan minua?
+Häh? Hehe, tuota...
+Tiedän kyllä! Tulit Arikan perässä, eikö?
+Arikalle vastasin, että "en vielä oikein tiedä",
+mutta...
+Vai niin, ettekö tekään oikein tiedä...
+...No, jätetään se aihe sikseen!
+Hei! Kerro jotain hauskaa! Viime aikoina en ole kuullut
+yhtään hyviä uutisia, joten kerro jotain!
+Häh? Hauskaa? Tuota noin...
+@086
+Huomenna on leirikoulu. Olen triathlonkisassa!
+Hee! Mahtavaa! Millainen kisa?
+Kun sijoittuu kärkeen, pääsee
+Ryutou-akatemiaan ystävyysotteluun.
+Hmm, Ryutou-akatemia...
+Tiedättekö sen?
+En yhtään!
+{BUF03}, niin! Tässä sinulle!
+@087
+Vau! Saanko?
+Tietysti! Tsemppaa ja voita!
+Kyllä! Teen parhaani! Kiitos paljon!
+@088
+No niin, minunkin pitää yrittää!
+Löydän sen vakoojan, maksoi mitä maksoi!
+@089
+No niin! Huomenna on leirikoulu! Tänään menen kotiin
+lepäämään kunnolla.
+@090
+Tuota, nämä tiedot...
+Voi ei, mitä tässä on tapahtunut~?
+Kirara?
+@091
+Anteeksi, {BUF03}, minulla on nyt kädet täynnä.
+A, kyllä, ymmärrän!
+@092
+Tuota, tämä on näin, joten...
+Kiraralla näyttää olevan kiire. Annetaan hänen olla.
+@093
+Huomenna on aikainen herätys, eikö?
+Älä kuljeskele, mene ajoissa nukkumaan!
+@094
+Huomenta, {BUF03}.
+@095
+Olen kotonaaa!
+...Ai!
+@096
+Jee! Ruoka on jo valmista♥
+@097
+Hei hei, pese ensin kädet!
+Isi pesi jo!
+@098
+Joo~!
+@099
+No, syödään.
+Joo, hyvää ruokahalua!
+Hyvää ruokahalua!
+@100
+Olipa hyvää~ kiitos ruoasta♥
+Kiitos ruoasta, äiti. Äidin ruoka on herkullista.
+Hihi, niinkö?
+@101
+No niin, {BUF03}, sinun on aika mennä
+nukkumaan. Huomenna on iso päivä.
+Joo~!
+@102
+No niin! Tänään menen ajoissa nukkumaan ja huomenna
+teen parhaani! Odotan innolla♥
+@103
+Huomenna on aikainen herätys, pitää mennä nukkumaan!
+@104
+Löytyi!
+@106
+No, menisinkö nukkumaan...
+Ai! En ole koonnut 3 Medabottia!
+Näin en voi osallistua Medaroadiin enkä Medabirdiin...
+@107
+Niin muuten... laitoinko osia laatikkoon...
+@108
+Hyvää yötä...
+@109
+Lähden nyyt!
+@110
+Onko eväät mukana?
+@111
+Joo!
+@112
+Eikö mitään unohtunut?
+@113
+Ei!
+Ole varovainen.
+@114
+Joo! Heippa!
+@115
+Uidaaan!
+@116
+Merii♪
+@117
+Mitä teette? Kisa on pian.
+Tulkaa nopeasti! Treenataan!
+@118
+Se opettaja on pelottava, mennään nopeasti.
+@119
+Haa~ demonivalmentajan treeniä...
+@120
+Sanoitko jotain?
+@121
+E-en mitään!
+@122
+(Iik, hänellä on paholaisen korvat!)
+@123
+{BUF03}, nopeasti, nopeasti!
+@124
+Kaikki ovat paikalla. Aloitetaan.
+Ensin Medaspeed-kuningas.
+@125
+Seuraavaksi! Medaroad-kisa!
+@126
+Seuraavaksi! Medabird!
+@127
+Seuraavaksi...
+Opettajaaa...
+Väsyttää~
+......
+...Heh. Hyvä on, lopetetaan tältä päivältä!
+Hotelli on oikealla puolella oleva rakennus, älkää unohtako.
+Hajaantukaa!
+@128
+L-loppui viimein~
+Miksi medabottaajienkin pitää
+treenata mukana~
+Koska ollaan "yhtä sielua ja ruumista", eikö?
+Haaa~
+Opettaja Ryuuko...
+Mitä sille demonivalmentajalle?
+Ajattelin vain, että hän on alkanut hymyillä useammin.
+Kuvittelet vain.
+Se opettaja on ollut rautanaama siitä asti, kun tuli.
+Niinköhän~ kuvittelenko vain~?
+Kuvittelet!
+Sitä paitsi, heti saavuttua piti treenata, ja nyt olen
+ihan poikki! Haluan nopeasti hotellille lepäämään.
+Mutta en halua, että päivä päättyy uimatta kertaakaan!!
+@129
+Hei, {BUF03}!
+Uidaan vähän ennen lähtöä! Eikö? Eikö?
+Selvä, selvä.
+@130
+Jee!!
+@131
+Arika on kyllä energinen.........
+@132
+Jos en seuraa, hän tulee taas pahalle tuulelle...
+@133
+!! Unohdin ottaa uimarenkaan!
+En osaa uida ilman uimarengasta!
+Mitä nyt...
+@134
+Meren mies on antelias! Tässä!
+@135
+Vau! Kiitos!
+@136
+Minä olen meren mies!
+@141
+Minä olen meren mies!!!
+...Mutta joskus on yksinäistä. Hei sinä, kerro vanha tarina.
+Häh!? Tuota... Olipa kerran...
+Vain Shanghain kansantarinoita!
+Kohtuutonta!
+@142
+Et ole hassumpi, poju.
+@143
+Minä olen meren mies!!! Tule vain!
+@145
+Tyttöystäväni myöhästyy aina treffeiltä.
+@146
+En voi kuitenkaan jättää Arikaa ja lähteä.
+@147
+Pitää mennä hotellille! (Ja samalla uimarengas!)
+@148
+Kopioidaan rahaa!
+...Ei saa, eihän?
+@149
+Kesällä jäätelöä!
+@150
+Tämä lehti esittelee Umineko Resort -hotellia.
+@151
+Tässä on sanomalehti.
+Ei mitään kiinnostavaa juttua.
+@152
+"Paljastuskirja: Bunroku Touhoukenin pahat teot!"
+Kirjoittanut Marco... kuulemma.
+Voi sentään.
+@153
+"Vain Uminekossa! Merisiirajuoma!"
+Kiinnostaa... mutta en halua juoda...
+@154
+"Uutuus! Sedän luonnonvesi!"
+...En ikinä halua juoda.
+@155
+Tavallista mehua.
+@158
+Paljon mehuja!
+@159
+Kandisokeria! Odotettua merenrannan lähikaupalta.
+@160
+Ai! Leivässä on Roborobo-jengin tarra!
+Sinnikästä ruohonjuuritason toimintaa...
+@161
+Tässä on tinpetti!?
+"Ilmainen lahja vain ensimmäiselle!" lukee siinä!
+Liian onnekasta.
+@162
+Olipa onnekasta.
+@163
+"Kiharasämpylä"
+Mitenkähän se eroaa tavallisesta sämpylästä...?
+@164
+Hyllyssä on Medabottien huoltotuotteita.
+"Edeltäjäänsä paljon parempi! Medaflex 2 on täällä!"
+@165
+Hyllyssä on Medabottien huoltotuotteita.
+"Kalaan Medabotin kanssa! Medabotti Fisherman!"
+@166
+Hyllyssä on Medabottien huoltotuotteita.
+"Liimaa kaikki osat! Kiitos Medabondista!"
+@167
+Hyllyssä on Medabottien huoltotuotteita.
+"Voita Medaspeedkin! Medaro-Up 2020 voittaa!"
+@168
+Hm? Tähän on kirjoitettu jotain.
+"Olen Idolipomo (3)! Toranishin lähikaupan takana
+pensaissa piileskellessäni nukahdin harmikseni.
+Yhtäkkiä Karin-kultsi oli jo pelastettu...
+Mitä minun pitäisi tehdä!?"
+@169
+Hm? Mikähän tämä juliste on?
+@170
+"Laulakaa mukana!
+Ka ka ka Kagamiyama♪ Ka ka ka Kagamiyama♪
+on maa-il-man♪ VAH-VIN kai-kis-ta~♪"
+Miksi Kagamiyama...?
+@171
+Lähikauppaan kuuluu kopiokone.
+@172
+Hmm, täältä tulee haaleaa tuulta.
+Häh!?
+@173
+Ai! Lehti.
+"Medaropoliksen sieppaustapaus ratkesi onnellisesti!"
+Onneksi se ratkesi.
+@174
+"Kuinka kasvattaa eliittiä"
+Onpa paksu kirja!
+@175
+"Eläminen Medabottien kanssa"
+Hakuman kirja!
+@176
+Osa näyttää herkullisilta, osaa en ikinä haluaisi juoda.
+@177
+Sekamehu!
+...Siinä ei lue yhtään, mitä on sekoitettu...
+@178
+Mehuja on aika monta lajia.
+@179
+Mehua on tosiaan tarjolla.
+@180
+Juustosämpylä!
+@181
+Juusto-anpan!
+@182
+Juustokermapulla!
+@183
+Juustocurrypulla!
+@184
+Hyllyssä on Medabottien huoltotuotteita.
+"Liikkuvuus nousee rajusti! Medashaper on maailman paras!"
+@185
+Hyllyssä on Medabottien huoltotuotteita.
+"Kauan odotettu uusi versio! Medaro-aurinkolasit Extra!"
+@186
+Hyllyssä on Medabottien huoltotuotteita.
+"Piikamallien must-paistinpannu! Medaro Inginho myynnissä!"
+@187
+Hyllyssä on Medabottien huoltotuotteita.
+"Tuntuu toimivan! Meda-G Strider vie voittoon!"
+@188
+Hm? Tähän on kirjoitettu jotain.
+"Olen Idolipomo (4)! Karin näyttää pelastuneen,
+joten lähden kohta täältä. Maailman ääristä
+löytyy varmasti vielä enemmän idoleita! Odottakaa
+minua, idolini!"
+Mikä tämä on...
+@189
+Mitä teet, Arika? Etkö aikonut uida?
+@190
+Kun täällä on inhottavia tyyppejä!
+Inhottavia tyyppejä?
+@193
+Kas, {BUF03}. Teidän luokallanne on rankkaa.
+Demoniopettaja piiskaa, ettekä saa uida vapaasti.
+@194
+Kaikilla on samanlaiset asut, joten en oikein erota,
+mutta te olette Screws!
+Kiitos selityksestä.
+@195
+Älä kiitä outoja!
+@196
+Me nimittäin, toisin kuin te, saimme tänään
+leikkiä ihan täysillä koko päivän.
+@197
+Teitä piiskaa joka päivä spartalainen opettaja!
+@198
+Vesi on viileää ja ihanaa!
+Mitä! Älkää puhuko mitä huvittaa!
+Emme me tätä huvikseen tee!
+@199
+Hei, jos harmittaa, tulkaa tänne asti!
+Tähän päättyy teidän kesänne.
+@200
+Harmittaa! Harmittaa! Harmittaaa!!
+@201
+Ai, Arika, rauhoitu...
+@202
+Miten voit pysyä rauhallisena,
+kun ne sanovat tuollaista!
+@203
+...Nyt ei enää huvita uida!
+Mennään hotellille, {BUF03}!
+A, joo. Tehdään niin.
+(Ehkä pelastuin uimiselta.)
+@204
+Ai! Tuolla on Kouji ja
+Karin-kultaa...♥
+Häh? Missä missä?
+@205
+Mmh
+Osallistuvatko Karin ja Kouji myös triathlonkisaan?
+Joo! Karin saatiin takaisin, ja viimeisestä kuninkaasta
+ei vielä tiedetä paljon. Ei kannata hätäillä, eikö?
+Hakuman mainitsema "S-R-suunnitelma"
+ja Roborobo-jengin pomot...
+Kaikista on näköjään tullut neljän kuninkaan kätyreitä. Tuntuu,
+että jos asian jättää, se pahenee vain.
+Ei hätää! Vaikka jättäisi, ne tulevat itse
+tervehtimään.
+N-niinköhän~
+Niinpä. Jotenkin {BUF03}:n kanssa tuntuu aina,
+että tapaukset tulevat itsestään.
+Häh~? Onko se minun vikani?
+...Totta.
+{BUF03}, tapauksetkin pitävät sinusta.
+Ei~ Karinkin~
+Muuten, olitteko te menossa jonnekin?
+Hotellissa istuminen olisi ajan tuhlausta.
+Hanazono-akatemian hotelli?
+@206
+Tuolla se on.
+@207
+Hää, valtava!
+@208
+Superluksushotellihan tuo on!
+Saavuttuamme lepäsimme hetken hotellissa.
+...Joten meidän treenimme alkaa vasta nyt.
+No, odotan innolla kisaa!
+Hyvää päivänjatkoa kaikille.
+@209
+Siksi rikkaat ovatkin inhottavia~
+@210
+No, mitä sitten.
+Mennään mekin nopeasti hotellille lepäämään.
+@211
+Huh~ superluksushotellin
+hiilihappokylpy on parasta♥
+Vaikka se, että se on sen miehen ansiota, ei miellytä.
+@212
+Herra Sakekasu, puhelu...
+@213
+H-hei!
+Kuka nyt tulee sisään koputtamatta!
+Odota ulkona!
+S-selvä, robo!
+@214
+Okei, otto 2. Saat tulla.
+@215
+Herra Sakekasu, puhelu, robo.
+@216
+Hmm, siltä mieheltäkö?
+Siltä mieheltä? Ei se sen niminen ollut, robo.
+Riittää. Sinulta kysyminen oli virhe.
+@217
+...Haloo? Sinäkö. Hmm hmm? Vihdoin ne tulivat.
+Tiedän kyllä. Pitää vain panna ne katumaan, eikö?
+Hmph, jätä se minulle. Hei.
+@218
+Hmph, vaikkei se mies käskisi, ne ovat tähän asti
+juottaneet minulle karvasta kaljaa.
+Sanonta on "karvas kalkki", robo.
+@219
+Hiljaa! Ota kännykkä ja häivy!
+Robooo!!
+@220
+Kakarat. Minä vielä näytän niille.
+@221
+No niin! Hotelli, hotelli♪
+Olet tosi innoissasi, vaikka menemme vain lepäämään.
+Onko jotain tiedossa?
+(...Hups!) Häh? Ei, kuvittelet vain?
+Ihanko totta~? ...No, olkoon.
+(Pitää ostaa uimarengas huomiseen mennessä.)
+@222
+Sisään ei näytä pääsevän ilman henkilökorttia.
+@223
+Mennään ensin hotellille.
+@224
+Tuota, me olemme Ginjoun ala-asteelta...
+Kyllä, Tenryou {BUF03}
+ja Amazake Arika, eikö niin.
+Tenryoun huone on 2. kerroksessa
+oikealla ylhäällä.
+Amazaken huone on 2. kerroksessa vasemmalla ylhäällä.
+Tässä avaimet.
+@225
+A, kyllä, selvä. Kiitos paljon.
+@226
+Miten vastaanoton neiti
+tiesi nimemme?
+Tietysti siksi, että kirjauduimme
+viimeisinä sisään.
+Ai, niin.
+@227
+Nyt ei ole jano.
+@228
+Hotellissa pelaaminen on jotenkin kivaa.
+@229
+Miksi hotellien pelit ovat aina niin vanhoja?
+@230
+Hyaa! Toraa!
+Hei...
+Pelikin on tosissaan pelattavaa! Älä häiritse!
+Onpa intoa...
+@231
+Hei! Hei!
+En häviä pojille!
+@232
+Mikä tämä on! Miksi täällä on vain "lämpimiä"!?
+@233
+Hotellissa tietysti ostetaan matkamuistoja!!
+@234
+Pehmolelujen
+nerokas asettelu! Ammattilaisen työtä...
+@235
+Mennään hotellihuoneeseen. Minun huoneeni oli
+2. kerroksessa oikealla ylhäällä.
+@236
+Nyt ei ole aika lähteä hotellista.
+@237
+Pitää palata huoneeseen.
+@238
+Tervetuloa. Rentoutukaa rauhassa.
+@239
+{BUF03}, minun huoneeni on toisella puolella.
+Joo, nähdään.
+@240
+Arika näyttää vielä energiseltä.
+No niin, minä...
+@241
+Tuota, ensin menen huoneeseen ja vaihdan vaatteet.
+Uimarengas sitten.
+Uimarenkaita myytiin kai hotellin 1. kerroksen myymälässä.
+@242
+Hm? Mitä nyt, {BUF03}? Onko asiaa?
+Häh? Ei, ei mitään asiaa, muuten vain...
+@243
+Hm?
+@244
+Ei mennä nyt lähelle.
+@245
+Tässä on juliste. Tuota...
+"Arika vaihtaa vaatteita! Jos kurkit, pääset
+huomenna etusivulle!"
+...............
+@247
+Ruo-ka, jo-ko val-mis♪
+@248
+Täkäläinen ruoka on aika hyvää!
+@249
+Tämän hotellin leppoisat ateriat loppuvat jo~
+@250
+Väsyttääää!
+Miten vain ajattelee, vain meidän luokallamme ei ole
+leirikoulufiilistä...
+@251
+Väsymys kasautuu...
+@252
+Vihdoin kisa...
+@253
+Televisio-ohjelmat ovat erilaisia kuin Omikujissa.
+@254
+Haluaisin aina vain rentoutua täällä...
+@255
+Tulee vähän koti-ikävä.
+@256
+Uwaa! Musta Pekka!
+@257
+Toinen on Musta Pekka... Ratkaiseva hetki!
+@258
+Tule, Pekka! Tule, Pekka!
+@259
+Jes!
+...Kahden hengen Musta Pekka ei ole kovin hauska.
+@260
+No... nosta... nosta se! Minun Pekkani!
+@261
+Musta Pekka kyllästytti, joten nyt pokeria!
+@262
+Kaikesta huolimatta rantaleirikoulu
+on hauska~
+@263
+En halua vielä kotiiin!
+@264
+Haa... vielä 1 päivä, ja sitten pitää lähteä...
+@265
+......
+Hän nukahti väsyneenä.
+@266
+Ensin pitää vaihtaa vaatteet.
+@267
+Sitten ripustan uimapuvun jonnekin kuivumaan.
+Tuota...
+@268
+Tässä sängyn vieressä on hyvä paikka?
+@269
+Huomiseksi se kuivuu.
+Mennään ostamaan uimarengas.
+@270
+Ensin vaihdan vaatteet huoneessa.
+@271
+Huomiseksi se kuivuu.
+@272
+Ai! Kuivunut, kuivunut.
+@273
+No niin! Mennään!
+@274
+Ai, enhän ole koonnut 3 Medabottia! Näin en voi
+osallistua Medaroadiin enkä Medabirdiin!
+Aah, sataisipa taivaalta osia...
+@275
+!!!!!
+@276
+............
+@277
+Pitää ostaa uimarengas.
+@278
+Uuh... sattuu... sattuu...
+@279
+...Mikähän? Se kuului tuolta.
+@280
+Tuo ääni vaivaa. Mennään katsomaan.
+@281
+Löytyi! Uimarengas! Ostetaan heti.
+@282
+Onneksi minulla on uimarengas. Oikeasti.
+@283
+Ensin palaan huoneeseen vaihtamaan vaatteet.
+@284
+Tuota...
+Kyllä, etsittekö jotain?
+Yksi uimarengas, kiitos.
+Uimarengas? Ne ovat vasemmalla perällä hyllyssä.
+A, kiitos paljon. (Hyvä!)
+@285
+Ostan tämän uimarenkaan!
+Se tekee 50000 rupia-yuania.
+.........
+Vitsi vitsi. Se on ilmainen.
+Häh! Oikeasti!? Jee!
+Mutta se on vain vuokrattavissa.
+Ai, vai niin.
+@286
+Tuliaiseksi pussillinen "pallokalacurrya"?
+P-"pallokalacurrya"!?
+Kiinnostaa!
+@287
+3000¥♥
+(Kallista... jätän väliin.)
+@288
+Tuota... täällä ei ole yhtään ihmisiä.
+Sesongin ulkopuolella hotellit ovat tällaisia, huh.
+Ugh...! Asenne on ihan eri kuin viimeksi...
+No, kun kerran tulit, saat tämän.
+@289
+A, kiitos paljon...
+@290
+Aah, onpa tylsää.
+@291
+Hm?
+@292
+Häh? Screws. Mitä ne tekevät?
+@293
+Pomo~ kroppa~
+@294
+Kroppa... kirvelee...
+@295
+Ä-älä tule lähelle!
+@296
+Sattuu~ sattuu~
+@297
+(Vai niin, ne ovat ottaneet liikaa aurinkoa,
+ja iho kirvelee.)
+@298
+Päivällä teillä näytti olevan tosi hauskaa,
+mikä hätänä~?
+@299
+!!!!!!!...Kyaaaaah!!
+@300
+Ai, pomo!
+Ryhdistäydy!
+@301
+Mitä sinä teet!
+Mitäkö? Tervehdin.
+Ä-ä-älä koske minuun!
+Kielletty houkuttaa koskemaan.
+K-karmea tyyppi!!
+Hehehe...
+@302
+Hei!
+@303
+Kyaaaaah!!!
+@304
+Mitä teet pomolle!
+@305
+Sitten sinulle.
+@306
+Gugyaaaah!!!!
+@308
+Ugyaaaah!!!!
+@309
+Ä...älä tule!!
+@310
+Tämä on kostoa äskeisestä!
+@311
+Älkää juosko käytävillä!
+@312
+Joo~
+@313
+Muista tämä vielä!!
+@314
+Muistakaa tämä!
+@315
+V-väsyttää.
+@316
+Aah, olipa hauskaa. Jos Arikakin olisi ollut täällä,
+olisi ollut vielä hauskempaa.
+Haukotus~ olen kyllä väsynyt. Menen huoneeseen lepäämään.
+@317
+Ai, Medaprize-kone. "100¥ kerta"
+Kokeilisinko?
+@318
+Ai, rahat eivät riitä.
+@319
+Ei sittenkään.
+@320
+Täällä on ruokaa!
+@321
+Hmm, tässä hotellissa ruoka tuodaan huoneeseen.
+Niin muuten, minulla on ihan kauhea nälkä.
+Nam, otetaaan♥
+@322
+Olipa hyvää~ kiitos ruoasta!
+...Mutta jos en olisi ollut yksin vaan
+jonkun kanssa, se olisi ollut vielä herkullisempaa...
+...No, olkoon. Maha on täynnä,
+joten menen nukkumaan.
+@323
+Lihaa, keittoa, leipää ja riisiä!
+...Leipää ja riisiä...?
+@324
+Nam, otetaaan!
+@325
+Kiitos ruoasta!
+Täkäläinen ruoka on hyvää, mutta äidin ruoka tuntuu
+paremmalta, koska syömme kaikki yhdessä.
+...Tuli vähän koti-ikävä...
+Ei ei! Huomenna on kisa! Nyt ei ole sen aika!
+...No, menen nukkumaan.
+@326
+No niin, kohta...
+@327
+Siis! Menen ostamaan uimarenkaan!
+@328
+Hyvää yötä, isi, äiti.
+@329
+Mutta... eikö leirikoulussa tavallisesti
+yövytä kaikki samassa huoneessa ja hälistä
+ja heitellä tyynyjä koko yö?
+Vaikkei olisi tällaista hotellia, kaikkien kanssa
+olisi varmasti hauskempaa.
+Äsken oli aika hauskaa juoksennella Screwsin kanssa.
+En oikein tiedä, mutta eikö opettaja Ryuuko
+mieti sellaisia asioita?
+Hänellä on melkein aina vakava ilme...
+Millainen ihminen hän oikein on? Opettaja Ryuuko... mumble
+@330
+{BUF03}....
+Vielä 5 minuuttia...
+@331
+{BUF03}!
+@332
+Uwaa! Myöhästyn!
+@333
+Auts...
+@334
+Olin unenpöpperössä.
+@335
+Mitä sinä oikein teet~ Syö nopeasti,
+vaihda uimapuku ja kokoonnu ulos!
+Ja nukut vielä ovi lukitsematta!
+@336
+Häh? Eikö tässä olekaan automaattilukkoa...
+Voi että, olet ihan unenpöpperössä! Aikaa ei ole!
+@337
+Häh? Kaksi ateriaa!?
+@338
+Toitko oman annoksesi tänne asti, Arika?
+@339
+M-mitä sitten? Saan syödä missä haluan.
+Istu nopeasti tuolle puolelle.
+@341
+Maha ihan tyhjänä!
+Okei, syödään! Nam, otetaaan!
+Hyvää ruokahalua!

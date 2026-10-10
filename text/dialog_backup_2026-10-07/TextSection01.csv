@@ -1,0 +1,145 @@
+﻿Index[#version],Pointer[#version|],Original,Translated
+000,0x118000,<SFF>ロ-テ-ションをきめる<CD>メダロットを 選んでください<*04>,<SFF>Määritä rotaatio<CD>Valitse Medabotti<*04>
+001,0x118022,<SFF>メダロットが 自分で考えて行動します<*04>,<SFF>Medabotti ajattelee ja<CD>toimii itse<*04>
+002,0x118024,<SFF>頭パ-ツを使います<CD>変形の時は ドライブAを使います<*04>,<SFF>Käyttää pääosaa<CF>Muodonmuutoksen aikana<CD>käyttää Drive A:ta<*04>
+003,0x118026,<SFF>右院パ-ツを使います<CD>変形の時は ドライブBを使います<*04>,<SFF>Käyttää<CD>oikean käsivarren osaa<CF>Muodonmuutoksen aikana<CD>käyttää Drive B:tä<*04>
+004,0x118028,<SFF>左院パ-ツを使います<CD>変形の時は ドライブCを使います<*04>,<SFF>Käyttää<CD>vasemman käsivarren osaa<CF>Muodonmuutoksen aikana<CD>käyttää Drive C:tä<*04>
+005,0x11802a,<SFF>メダフォ-スをためます<*04>,<SFF>Varastoi Medavoimaa<*04>
+006,0x11802c,<SFF>メダフォ-ス1を使います<*04>,<SFF>Käyttää Medaforce 1:tä<*04>
+007,0x11802e,<SFF>メダフォ-ス2を使います<*04>,<SFF>Käyttää Medavoima 2:ta<*04>
+008,0x118030,<SFF>メダフォ-ス3を使います<*04>,<SFF>Käyttää Medavoima 3:a<*04>
+009,0x118032,<SFF>変形します<CD>すでに 変形している時は ?と同じ<*04>,"<SFF>Muuntautuu<CF>Jos on jo muuntautunut,<CD>sama kuin ?<*04>"
+010,0x118034,<SFF>変形をかいじょします<CD>変形していない時は ?と同じ<*04>,"<SFF>Purkaa muodonmuutoksen<CF>Jos ei ole muuntunut,<CD>sama kuin ?<*04>"
+011,0x118036,<SFF>左右キ-で ロ-テ-ションポイントを<CD>選んでください<*04>,<SFF>Valitse vasemmalla/oikealla<CD>näppäimellä rotaatiopiste<*04>
+012,0x118038,<SFF>スタ-トボタンで<CD>ロ-テ-ションのくみかえ<*04>,<SFF>START-painikkeella<CD>rotaation kokoonpano<*04>
+013,0x11803a,このアイテムは 使えません!<*03>,Tätä esinettä ei voi käyttää!<*03>
+014,0x118042,ここでは 使えません!<*03>,Täällä ei voi käyttää!<*03>
+015,0x118044,今は 使えません!<*03>,Nyt ei voi käyttää!<*03>
+016,0x118046,今は セ-ブできません!,Nyt ei voi tallentaa!
+017,0x118048,ここでは 使えません!,Täällä ei voi käyttää!
+018,0x11804a,今は 使えません!,Nyt ei voi käyttää!
+019,0x11804c,メダロット「ヴェイパ-レ-ル」が<CD>租まれてないよ!<CF>頭パ-ツ 「スチ-ムボ-ド」!<CD>右院パ-ツ 「スチ-ムド-リン」!<CF>左院パ-ツ 「スチ-ムパイプ」!<CD>脚部パ-ツ 「スチ-ムタ-ビン」!<CF>メダロット「ヴェイパ-レ-ル」が<CD>かんせいだよ!,"Medabotti ""Vapor Rail""<CD>ei ole koottu!<CF>Pääosa ""Steam Board""!<CF>Oikean käsivarren osa<CD>""Steam Drain""!<CF>Vasemman käsivarren osa<CD>""Steam Pipe""!<CF>Jalkojen osa ""Steam Turbine""!<CF>Medabotti ""Vapor Rail""<CD>on valmis!"
+020,0x11804e,メダロット「スカイカ-ゴ」が<CD>租まれてないよ!<CF>頭パ-ツ 「エアフライト」!<CD>右院パ-ツ 「エアウィング」!<CF>左院パ-ツ 「エアフィン」!<CD>脚部パ-ツ 「エアタ-ビン」!<CF>メダロット「スカイカ-ゴ」が<CD>かんせいだよ!,"Medabotti ""Sky Cargo""<CD>ei ole koottu!<CF>Pääosa ""Air Flight""!<CF>Oikean käsivarren osa<CD>""Air Wing""!<CF>Vasemman käsivarren osa<CD>""Air Fin""!<CF>Jalkojen osa ""Air Turbine""!<CF>Medabotti ""Sky Cargo""<CD>on valmis!"
+021,0x118050,メダロット「オ-トクル-ズ」が<CD>租まれてないよ!<CF>頭パ-ツ 「ウォ-タフリ-ト」!<CD>右院パ-ツ 「ウォ-タホ-ル」!<CF>左院パ-ツ 「ウォ-タポ-ト」!<CD>脚部パ-ツ 「ウォ-タタ-ビン」!<CF>メダロット「オ-トクル-ズ」が<CD>かんせいだよ!,"Medabotti ""Auto Cruise""<CD>ei ole koottu!<CF>Pääosa ""Water Fleet""!<CF>Oikean käsivarren osa<CD>""Water Hole""!<CF>Vasemman käsivarren osa<CD>""Water Port""!<CF>Jalkojen osa ""Water Turbine""!<CF>Medabotti ""Auto Cruise""<CD>on valmis!"
+022,0x118052,このバ-ジョンでは セ-ブできません,Tässä versiossa ei<CD>voi tallentaa
+023,0x118054,"<@RL,0A,01>ざんねん! このバ-ジョンでは<CD>つうしんできません!<*03>","<@RL,0A,01>Harmi! Tässä versiossa<CD>ei voi käyttää yhteyttä!<*03>"
+024,0x118056,このアイテムは のリもので<CD>使ってください!<*03>,Käytä tätä esinettä ajo-<CD>neuvona ja yritä uudelleen!<*03>
+025,0x118058,"<@RL,0A,01>つうしん前に セ-ブします!<CD>よろしいですか?<*04>","<@RL,0A,01>Tallennetaan ennen yhteyttä!<CD>Sopiiko?<*04>"
+026,0x118062,"<@RL,0A,00>つうしんを あきらめた!","<@RL,0A,00>Luovuit yhteydestä!"
+027,0x118064,"<@RL,0A,02>つうしんネットに せつぞくします!<S46><*04>","<@RL,0A,02>Yhdistetään yhteysverkkoon!<S46><*04>"
+028,0x118066,"<@RL,0A,00>つうしんネットヘの せつぞくに<CD>しっぱいした!","<@RL,0A,00>Yhteys yhteysverkkoon<CD>epäonnistui!"
+029,0x118068,セ-ブ中!<*04>,Tallennetaan!<*04>
+030,0x11806a,<SFF>ともだちと きがるに ロボトル!<*04>,<SFF>Rento robottelu<CD>ystävän kanssa!<*04>
+031,0x11806c,<SFF>ともだちと パ-ツをかけた<CD>しんけんロボトル!<*04>,"<SFF>Vakava robottelu<CD>ystävän kanssa,<CF>osat panoksena!<*04>"
+032,0x11806e,<SFF>ともだちと パ-ツトレ-ド!<*04>,<SFF>Vaihda osia ystävän kanssa!<*04>
+033,0x118070,<SFF>ともだちに メダルをあげます!<*04>,<SFF>Anna mitali ystävälle!<*04>
+034,0x118072,<SFF>つうしんネットを おわる時は<CD>かならず 選択してください!<*04>,"<SFF>Kun lopetat yhteysverkon,<CD>muista valita tämä!<*04>"
+035,0x118074,2体いじょう 租まれた<CD>メダロットがないと できません!<S46><*04>,Ilman vähintään kahta koot-<CD>tua Medabottia ei voi tehdä!<S46><*04>
+036,0x118076,さあ しょうぶだ!<S5A><*04>,Nyt otetaan miehestä mittaa!<S5A><*04>
+037,0x118078,デ-タ転送エラ-!<S5A><*04>,Tiedonsiirtovirhe!<S5A><*04>
+038,0x11807a,モ-ドを 選んでください!<*04>,Valitse tila!<*04>
+039,0x11807c,つうしんチェック中!<*04>,Tarkistetaan yhteyttä!<*04>
+040,0x11807e,ロボトルに 勝ちました!<CD>つうしんロボトル <&BUF02>勝<&BUF01>敗<*03>,Voitit robottelun!<CF>Yhteysrobottelu<CD><&BUF02> voittoa <&BUF01> tappiota<*03>
+041,0x118080,ロボトルに まけました!<CD>つうしんロボトル <&BUF02>勝<&BUF01>敗<*03>,Hävisit robottelun!<CF>Yhteysrobottelu<CD><&BUF02> voittoa <&BUF01> tappiota<*03>
+042,0x118082,つうしんデ-タ てんそう中!<*04>,Siirretään yhteystietoja!<*04>
+043,0x118084,あいてが 「ロボと-る」中です!<S5A><*04>,"Vastustaja pelaa<CD>""Robotor""-peliä!<S5A><*04>"
+044,0x118086,タイミングよく Aボタンを おして<CD>パ-ツを ゲットしよう!<S5A><*04>,Paina A:ta oikealla hetkellä<CD>napataksesi osan!<S5A><*04>
+045,0x118088,ざんねん! 「ハズレ」です!<CD>何も ゲットできなかった!<*03>,"Harmi! ""Huti""!<CD>Et saanut mitään!<*03>"
+046,0x11808a,ラッキ-! 「ハズレ」です!<CD>何も とられなかった!<*03>,"Onnea! ""Huti""!<CD>Sinulta ei viety mitään!<*03>"
+047,0x11808c,<&BUF03>は <&BUF01>パ-ツ<CD><&BUF04>を 手に入れた!<*03>,<&BUF03> sai <&BUF01>-osan<CD><&BUF04>!<*03>
+048,0x11808e,<&BUF03>は <&BUF01>パ-ツ<CD><&BUF04>を とられた!<*03>,<&BUF03>lta vietiin <&BUF01>-osa<CD><&BUF04>!<*03>
+049,0x118090,あっ!!<CD>つうしんロボトル 20回目です!<CF>メダロット社から きねんに<CD>はいごれい型メダロットいっしきを<CF>プレゼントいたします!<CF>あとで パ-ツデ-タを<CD>かくにんしてね!<*03>,Oi!!<CD>20. yhteysrobottelu!<CF>Medabottiyhtiö antaa<CD>muistoksi yhden<CF>Haigorei-tyypin<CD>Medabotin lahjaksi!<CF>Tarkista osatiedot<CD>myöhemmin!<*03>
+050,0x118092,あっ!!<CD>つうしんロボトル 40回目です!<CF>メダロット社から きねんに<CD>かみ型メダロットいっしきを<CF>プレゼントいたします!<CF>あとで パ-ツデ-タを<CD>かくにんしてね!<*03>,Oi!!<CD>40. yhteysrobottelu!<CF>Medabottiyhtiö antaa<CD>muistoksi yhden<CF>Kami-tyypin<CD>Medabotin lahjaksi!<CF>Tarkista osatiedot<CD>myöhemmin!<*03>
+051,0x118094,パ-ツ転送!<S5A><*04>,Osien siirto!<S5A><*04>
+052,0x11809a,<&BUF03>は <&BUF00>パ-ツ<CD><&BUF01>を 手に入れた!<*03>,<&BUF03> sai <&BUF00>-osan<CD><&BUF01>!<*03>
+053,0x11809c,そうびされている メダルは<CD>あげることが できません!,Varustettua mitalia<CD>ei voi antaa!
+054,0x11809e,メダリアのついている メダルは<CD>あげることが できません!,Medalialla varustettua mitalia<CD>ei voi antaa!
+055,0x1180a0,あれ! このメダルは<CD>あいても 持っていますよ!,Häh! Tämän mitalin<CD>omistaa myös vastustaja!
+056,0x1180a2,あいてが メダルを選択しています!<CD>ちょっとまってね!<*04>,Vastustaja valitsee mitalia!<CD>Odota hetki!<*04>
+057,0x1180a4,メダル転送!<S5A><*04>,Mitalin siirto!<S5A><*04>
+058,0x1180a6,<&BUF03>は<CD><&BUF05>メダルを 手に入れた!<*03>,<&BUF03> sai<CD><&BUF05>-mitalin!<*03>
+059,0x1180a8,<&BUF03>の<CD><&BUF05>メダルが なくなった!<*03>,<&BUF03>:n<CD><&BUF05>-mitali katosi!<*03>
+060,0x1180aa,パ-トナ-の<CD>メダロットを租んで下さい!<*03>,Valitse kumppanin<CD>Medabotti!<*03>
+061,0x1180ac,何が 知リたいのかな?<*04>,Mitä haluat tietää?<*04>
+062,0x1180ae,今は コマンドを ひらけません!,Komentoa ei voi nyt avata!
+063,0x1180b0,OBJオ-バ- フリ-ズ!!<*04>,OBJ-ylivuodon jäätyminen!!<*04>
+064,0x1180b2,<SFF>かならず パ-トナ-を<CD>出場させてください!,<SFF>Muista laittaa kumppani<CD>osallistumaan!
+065,0x1180b4,「<&BUF04>」メダルで<CD>パ-トナ-を租んで下さい!<*03>,"Valitse kumppani<CD>""<&BUF04>""-mitalilla!<*03>"
+066,0x1180b6,色を 変えたい メダロットを<CD>選んでや~!<*04>,"Valitse Medabotti,<CD>jonka väriä haluat vaihtaa!<*04>"
+067,0x1180b8,色を もどすんけ?<CD>メダロットを 選んでや<*04>,Palautetaanko väri?<CD>Valitse Medabotti<*04>
+068,0x1180ba,<SFF>使用するパ-ツをえらんでください!<*04>,<SFF>Valitse käytettävä osa!<*04>
+069,0x1180bc,<SFF>メダバ-ドでは パ-トナ-を<CD>リ-ダ-に してください!,<SFF>Medabirdissa tee kumppanista<CD>johtaja!
+070,0x1180be,ペイントしてないやんけ!<*03>,Et ole maalannut sitä!<*03>
+071,0x1180c0,Aボタンでパネルがめくれます<CD>パ-ツのいちを おぼえてください!<*04>,Käännä paneelit A-painikkeella<CD>ja opettele osien sijainnit!<*04>
+072,0x1180c2,タイミングよく Aボタンを おして<CD>パ-ツを ゲットしよう!<S1E><*04>,Paina A:ta oikealla hetkellä<CD>napataksesi osan!<S1E><*04>
+073,0x1180c4,ざんねん! 「ハズレ」です!<CD>何も ゲットできなかった!<*03>,"Harmi! ""Huti""!<CD>Et saanut mitään!<*03>"
+074,0x1180c6,<&BUF03>は <&BUF01>パ-ツ<CD><&BUF04>を 手に入れた!<*03>,<&BUF03> sai <&BUF01>-osan<CD><&BUF04>!<*03>
+075,0x1180c8,あいてが 「ロボト-ル」中です!<*04>,"Vastustaja pelaa<CD>""Robotor""-peliä!<*04>"
+076,0x1180ca,ラッキ-! 「ハズレ」です!<CD>何も とられなかった!<*03>,"Onnea! ""Huti""!<CD>Sinulta ei viety mitään!<*03>"
+077,0x1180cc,<&BUF03>は <&BUF01>パ-ツ<CD><&BUF04>を とられた!<*03>,<&BUF03>lta vietiin <&BUF01>-osa<CD><&BUF04>!<*03>
+078,0x1180ce,"<@RL,0A,02>メダロット3とパ-ツトレ-ドします<CD>つうしんチェック中!<*04>","<@RL,0A,02>Vaihdetaan osia<CD>Medarot 3:n kanssa<CF>Tarkistetaan yhteyttä!<*04>"
+079,0x1180d0,"<@RL,0A,00>つうしんに しっぱいした!<S5A><*04>","<@RL,0A,00>Yhteys epäonnistui!<S5A><*04>"
+080,0x1180d2,"<@RL,0A,00>「メダ3パスポ-ト」がないと<CD>メダロット3とは つうしんできません<S78><*04>","<@RL,0A,00>Ilman ""Medarot 3 -passia""<CD>ei voi muodostaa<CF>yhteyttä Medarot 3:een<S78><*04>"
+081,0x1180d4,もういちど<CD>パ-ツトレ-ドをしますか?<*04>,Tehdäänkö osien vaihto<CD>vielä kerran?<*04>
+082,0x1180d6,つうしんをおわリます!<S5A><*04>,Lopetetaan yhteys!<S5A><*04>
+083,0x1180d8,パ-ツトレ-ドを できるパ-ツが<CD>ないので つうしんをきリます!<S5A><*04>,"Osien vaihtoon sopivia osia<CD>ei ole,<CF>joten yhteys katkaistaan!<S5A><*04>"
+084,0x1180da,パ-ツトレ-ドを<CD>できるパ-ツがあリません!<S46><*04>,Osien vaihtoon<CD>ei ole sopivia osia!<S46><*04>
+085,0x1180dc,<SFF>色を もどすんけ?<CD>メダロットを 選んでや<*04>,<SFF>Palautetaanko väri?<CD>Valitse Medabotti<*04>
+086,0x1180de,せんたくした フィ-ルドが<CD>ちがうので ランダムになリます<S5A><*04>,"Valittu kenttä<CD>on eri,<CF>joten valitaan satunnaisesti<S5A><*04>"
+087,0x1180e0,<SFF>たいせんする フィ-ルドを<CD>ランダムに えらびます<*04>,<SFF>Taistelukenttä<CD>valitaan satunnaisesti<*04>
+088,0x1180e2,<SFF>しかいの ひらけた さばくは<CD>「ひこう」タイプに ゆうリ!<*04>,"<SFF>Autiomaa avaralla näkymällä<CD>on ""lento""-tyypille edullinen!<*04>"
+089,0x1180e4,<SFF>まんなかに アリジゴクが あらわれ<CD>ぜんいんを ひきよせる!<*04>,<SFF>Keskelle ilmestyy<CD>muurahaisleijonan kuoppa<CF>ja vetää kaikki luokseen!<*04>
+090,0x1180e6,<SFF>いどうしているだけで<CD>ぜんいんに ダメ-ジ!<*04>,<SFF>Pelkkä liikkuminen<CD>aiheuttaa vahinkoa kaikille!<*04>
+091,0x1180e8,<SFF>あしばの わるい さんちは<CD>「たきゃく」タイプに ゆうリ!<*04>,"<SFF>Epätasainen vuoristo on<CD>""monijalka""-tyypille edullinen!<*04>"
+092,0x1180ea,<SFF>がんせきが とんできて<CD>1体に けいぞくダメ-ジの症状!<*04>,<SFF>Kivenlohkare lentää ja<CD>aiheuttaa yhdelle<CF>jatkuvaa vahinkoa!<*04>
+093,0x1180ec,<SFF>ひばしらが ふきあがリ<CD>ぜんいんに けいぞくダメ-ジの症状!<*04>,<SFF>Liekit suihkuavat ylös ja<CD>aiheuttavat kaikille<CF>jatkuvaa vahinkoa!<*04>
+094,0x1180ee,<SFF>かくれるもの おおい しんリんは<CD>「にきゃく」タイプに ゆうリ!<*04>,"<SFF>Paljon piilopaikkoja sisältävä<CD>metsä on<CF>""kaksijalka""-tyypille edullinen!<*04>"
+095,0x1180f0,<SFF>サルが あらわれて<CD>1体に そくばくの症状!<*04>,<SFF>Apina ilmestyy ja aiheuttaa<CD>yhdelle sitoutumisen tilan!<*04>
+096,0x1180f2,<SFF>いリくんだ 木に はばまれて<CD>タイミングが はかリにくい!<*04>,<SFF>Mutkittelevat puut estävät<CD>ja ajoitusta<CF>on vaikea arvioida!<*04>
+097,0x1180f4,<SFF>じめんが ほそうされた まちなかは<CD>「しゃリょう」タイプに ゆうリ!<*04>,"<SFF>Asfaltoitu kaupunkialue on<CD>""ajoneuvo""-tyypille edullinen!<*04>"
+098,0x1180f6,<SFF>チアガ-ルが 出てきて<CD>1体の こうげきを パワ-アップ!<*04>,<SFF>Cheerleader ilmestyy ja<CD>vahvistaa yhden hyökkäystä!<*04>
+099,0x1180f8,<SFF>アイドルの ラブリ-ボイスで<CD>メダフォ-スを せいぎょ!<*04>,<SFF>Idolin suloisella äänellä<CD>hallitaan Medaforcea!<*04>
+100,0x1180fa,<SFF>ていこうの おおい すいちゅうは<CD>「せんすい」タイプに ゆうリ!<*04>,"<SFF>Vastusta täynnä oleva<CD>vedenalainen alue on<CF>""sukellus""-tyypille edullinen!<*04>"
+101,0x1180fc,<SFF>ゆきだまが とびだして<CD>1体に ていしの症状!<*04>,<SFF>Syöksyvä lumipallo aiheuttaa<CD>yhdelle pysäytystilan!<*04>
+102,0x1180fe,<SFF>きょうれつな すいあつで<CD>ぜんいんの スピ-ドが ダウン!<*04>,<SFF>Voimakkaan vedenpaineen<CD>vuoksi kaikkien nopeus laskee!<*04>
+103,0x118100,<SFF>ちじょうように かいはつされた<CD>メダロットは うちゅうが にがて!<*04>,<SFF>Maanpinnalle kehitetyt<CD>Medabotit<CF>eivät viihdy avaruudessa!<*04>
+104,0x118102,<SFF>どこからともなく UFOが あらわれ<CD>1体の メダロットを てんとう!<*04>,<SFF>UFO ilmestyy tyhjästä<CD>ja kaataa yhden Medabotin!<*04>
+105,0x118104,<SFF>メダロットが ちぢんで<CD>スピ-ドが いっきに ダウン!<*04>,<SFF>Medabotit kutistuvat<CD>ja nopeus laskee kerralla!<*04>
+106,0x118106,<FINAL>,<FINAL>
+107,0x118002,@0x118000,@0x118000
+108,0x118004,@0x118000,@0x118000
+109,0x118006,@0x118000,@0x118000
+110,0x118008,@0x118000,@0x118000
+111,0x11800a,@0x118000,@0x118000
+112,0x11800c,@0x118000,@0x118000
+113,0x11800e,@0x118000,@0x118000
+114,0x118010,@0x118000,@0x118000
+115,0x118012,@0x118000,@0x118000
+116,0x118014,@0x118000,@0x118000
+117,0x118016,@0x118000,@0x118000
+118,0x118018,@0x118000,@0x118000
+119,0x11801a,@0x118000,@0x118000
+120,0x11801c,@0x118000,@0x118000
+121,0x11801e,@0x118000,@0x118000
+122,0x118020,@0x118000,@0x118000
+123,0x11803c,@0x11803a,@0x11803a
+124,0x11803e,@0x11803a,@0x11803a
+125,0x118040,@0x11803a,@0x11803a
+126,0x11805a,@0x118058,@0x118058
+127,0x11805c,@0x118058,@0x118058
+128,0x11805e,@0x118058,@0x118058
+129,0x118060,@0x118058,@0x118058
+130,0x118096,@0x118094,@0x118094
+131,0x118098,@0x118094,@0x118094
+132,0x118108,@0x118106,@0x118106
+133,0x11810a,@0x118106,@0x118106
+134,0x11810c,@0x118106,@0x118106
+135,0x11810e,@0x118106,@0x118106
+136,0x118110,@0x118106,@0x118106
+137,0x118112,@0x118106,@0x118106
+138,0x118114,@0x118106,@0x118106
+139,0x118116,@0x118106,@0x118106
+140,0x118118,@0x118106,@0x118106
+141,0x11811a,@0x118106,@0x118106
+142,0x11811c,@0x118106,@0x118106
+143,0x11811e,@0x118106,@0x118106

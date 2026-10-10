@@ -1,0 +1,830 @@
+@000
+Luuletko, että minä, Arika, pysyn hiljaa, kun
+minua pilkataan näin!? Mennääään!
+@001
+Ai! Arika!
+@002
+Heh, tällä kertaa Arika ehti ensin.
+@003
+{BUF03}, jätän päätöksen sinulle.
+Menetkö oikealle?
+@004
+Sitten minäkin menen oikealle.
+Vai niin...
+Sitten minä menen vasemmalle!
+{BUF03}! Pidä huolta Karinista!
+S-selvä!
+@005
+Mennäänkö sitten, {BUF03}?
+@007
+Sinä menet siis vasemmalle! Karin! Me menemme oikealle!
+Selvä.
+@008
+No niin, {BUF03}. Nähdään myöhemmin.
+Ai, joo. Ole sinäkin varovainen, Karin.
+@009
+No niin, minä menen vasemmalle! Seurataan Arikaa.
+...Mizuchi, minä pääsen vielä
+sinun luoksesi!
+@010
+Hei! Aioitko antaa minun mennä yksin?
+Siksihän minä tulin...
+No, olkoon. Mennään!
+@011
+Jätetään tämä puoli Koujille!
+@013
+Shiokara! Miksi olet täällä!?
+Kakara! Sinun takiasi minut... minut
+ajettiin tällaiseen paikkaan! Kostan kaiken kerralla!
+@014
+No niin! Pois tieltä!
+......Hmph, ehkä minunkin on aika vetäytyä.
+@015
+Shiokara...
+Antaa olla. Painetaan nopeasti kytkintä.
+@016
+Tämä on se kytkin.
+@017
+Oletteko siellä valmiita, Kouji?
+Jep, täällä on hoideltu!
+Painetaan kytkintä yhtä aikaa, kun sanon.
+Selvä!
+...Nyt! Klik.
+@018
+...Jes! Se aukesi. Mennään!
+@019
+Sinä olet Salami!
+Sä se oot! Sun takia herra Hakuma
+hylkäsi meidät ja lähti!
+Mutta Salami...!
+Selityksiä mä en kuuntele!
+@020
+Uuuuuaaaaah!! Ensimmäistä kertaa mä
+tapasin jonkun, jota voin kunnioittaa!!
+Salami...
+Mä lähden matkalle. Älkää etsikö mua...
+@021
+......
+...{BUF03}.
+Ei tarvitse huolehtia niin paljon. Hän palaa
+varmasti pian kuin ei mitään.
+@022
+Pelkään vain, että hän tekee jossain pahojaan...
+@026
+Kaikki näyttävät olevan paikalla.
+@027
+Koska olette kaikki koolla, avaan oven.
+@028
+Seuraava näyttämö on 2. kerros.
+@029
+Senkin! Älä pelleile!
+Tule esiin ja ottele reilusti!!
+@030
+Niinpä! Kuka sinä luulet olevasi!? Lopeta
+meidän pilkkaamisemme!!
+@031
+Mennään, kaikki.
+@032
+Päätin ottaa Mizuchin haasteen vastaan!
+Se on ainoa keino auttaa Medabotteja.
+@033
+...Eikö niin, Mizuchi?
+..........
+@034
+...Hmph, hyvä on. Lähdetään leikkiin mukaan!
+Ja nujerran samalla sinun ylpeytesi!
+@035
+Pääsemme varmasti
+sinun luoksesi asti.
+@036
+Odota vain, saat vielä nähdä!
+...Yrittäkää parhaanne.
+@037
+Voi että! Mikä tyyppi! Uskomatonta!
+Nyt mennään loppuun asti!
+@038
+Hei! Odota!
+@039
+Voi voi, jos kiirehdit noin, kaadut vielä.
+@040
+Seuraavaksi 2. kerros... Mitä sinä mietit, Mizuchi?
+@041
+Avasin oven. Jatkakaa.
+Menemme ilman käskyäkin!
+@042
+Hoidetaan tämä nopeasti!
+@043
+Minäkin...!
+@044
+Mennäänkö me yhdessä?
+@045
+Ai, joo, mennään. (Hän saa minut ihan sekaisin...)
+@046
+Pitää kiirehtiä!
+@067
+Minunkin pitää mennä!
+@068
+Kouji!
+Mitä sinä teet! Jätä tämä minulle
+ja mene jo!
+Vaikka sanot niin, en pääse eteenpäin, kun seisot siinä.
+@069
+Kierrä tuolta puolelta!!
+A-anteeksi.
+@070#kabuto
+Mene, Exise!
+Jättäkää se minulle, mestari!
+@070#kuwagata
+Mene, Unitris!
+Jättäkää se minulle, mestari!
+@071
+Mene, Brass!
+(Liian innoissaan...)
+@072
+Kouji! Arika! Oletteko kunnossa!?
+Älä välitä meistä! Sinun vihollisesi on...
+Ohohohohohohohoo!
+@073
+Olen odottanut väsyksiin asti, Tenryou {BUF03}!
+@074
+Surume!!
+@075
+Teidän takianne merkkilaukkuhankkeeni
+on raunioina! Tänään en säästä
+teitä yhtään!
+Teitä vain käytettiin hyväksi alusta asti!
+Herätkää jo...
+@076
+Kyah!?
+@077
+Karin!
+Ohohohoo! Sinun vastustajasi olen
+minä! Täältä tullaan!
+@078
+Ei! Ei! Miksi, miksi!!!
+Surume... olen aikonut sanoa tämän jo kauan...
+Kiiii!! Tiedän kyllä sanomattakin!
+Ettei unelmani toteudu, niin kauan kuin olen Roborobo-jengissä!
+@079
+En minä ole luovuttanut!
+@080
+Karin, oletko kunnossa!?
+@081
+Kyllä, mutta muut ovat jo menneet edeltä.
+@082
+Voi että! Nämä ovat tosi sitkeitä!
+@083
+Hyah! Hyah!
+@085
+{BUF03}! Mene sinä nopeasti!
+@086#kabuto
+Mestari! Seuraava käsky!
+@086#kuwagata
+Ota tästä!
+@088
+Nyt ei ole aika palata!
+@089
+Kouji! Arika!
+@090
+Voi ei! Montako niitä oikein tulee!
+@091
+Hitto! Sitkeitä tyyppejä!
+@092
+Nyt ei ole aika palata!
+@093
+Karin...!
+Kas, koulun sisällä on aika iso lampi.
+Karin...
+@094
+{BUF03}.
+@095
+M-mikä hätänä, Karin?
+@096
+Medabottisiirto!
+@097
+Me hoidamme tämän,
+joten mene sinä, {BUF03}, edeltä lammen toiselle puolelle.
+@098
+Ei...! En voi jättää teitä!
+Jos jäämme tänne, tämä ei lopu koskaan.
+Mutta...
+Ei hätää. Saavutamme sinut pian.
+.................
+......Hyvä on, selvä.
+@099
+Mennään!
+@100
+Tulit siis. Hehheh.
+@101
+Et pääse pakoon, Roborobo-pomo Sakekasu!
+Meillä on nyt voimakas sponsori.
+Niin kauan kuin hän on olemassa, on turha
+napata meitä kerta toisensa jälkeen.
+En usko, että Medabottiyhtiö
+päästi teidät vapaaksi!
+Vai niin! Maailmalla siis luullaan, että
+Medabottiyhtiö päästi meidät! Hahahahaha! Ei hassumpi
+temppu häneltä!
+Mitä tarkoitat?
+Luultavasti se professori Hebereken
+oppilaana ollut mies tunkeutui Medabottiyhtiön linjoille.
+Häntä kai kutsutaan "Beast Kingiksi"?
+Professori Hebereken oppilas!?
+...Kun muistelen, me Roborobo-jengi
+jouduimme kerran professori Hebereken käyttämiksi ja hylkäämiksi!
+Grrrrr, harmittaa!!!!
+@102
+Suoooraan sanottuna en pidä siitä oppilaasta!
+Mutta nyt minä käytän häntä
+hyväkseni kunnianhimomme vuoksi!
+Mitä kiusaa te nyt olette keksineet?
+Haluatko tietää? Hehheh.
+Kerronpa: Roborobo-jengi laajenee avaruuteen
+ja valloittaa universumin!
+Vai niin. No sitten, robottelu alkaa.
+Mitä! Miksi olet noin välinpitämätön!
+@103
+Antaudu, Sakekasu! Alaisesi ovat kaikki
+riisuneet Roborobo-asunsa! Olet nyt yksin!
+Mitääh! S-senkin~~~!!
+@104
+Hitsit! Tästä saat vielä maksaa!!
+@105
+.........Huh.
+@106
+Karin! Missä Arika ja Kouji ovat!?
+Heillä näyttää olevan aika paljon vaikeuksia
+Medabottien kanssa robotellessa.
+@107
+Minun pitää mennä auttamaan!
+@108
+Ai! {BUF03}!
+@109
+Kouji ja Arika lähettivät viestin.
+"Jätä tämä meille ja mene edeltä"... niin.
+@110
+Mitä!? Mutta...
+Ei hätää, {BUF03}.
+Minä jään tänne
+odottamaan heitä.
+Mutta...!
+Jonkun on pysäytettävä nuo, tai kukaan
+ei pääse eteenpäin.
+Luota ystäviisi. Nähdään myöhemmin.
+Karin...
+@111
+Selvä! Menen edeltä ja odotan teitä!
+...Kyllä!
+@112
+Mene nyt! Jatka eteenpäin!
+@113
+Ovatkohan he kunnossa...
+...Teen sen, mitä voin juuri nyt!
+@114
+Lukossa.
+@116
+Ovi on kiinni!
+@117
+Miltä tuntuu, kun ei voi enää perääntyä?
+@118
+Mitä nyt, Mizuchi! Mitä sinä aiot?
+Tämä on näyttämö, jonka valmistin vain sinua varten.
+Jatka eteenpäin ja mene huoneeseen. Kun selvität sen,
+avaan huoneen toisella puolella olevan oven.
+Miksi näet niin paljon vaivaa?
+Sanoinhan: "autat testeissä".
+Tämä on yksi niistä.
+Mizu...!
+..........
+@119
+Ei auta kuin mennä.
+@120
+...Miksi täällä on Medabotti?
+Ai! Tämä osa näyttää käyttökelpoiselta!
+@121
+Se on lukossa, eikä aukea.
+@122
+Vihdoin tulit.
+@123
+Sinä... Kokuen!!
+Sinun takiasi minut ajettiin pois koulusta!
+Jos et olisi tullut, se henkilö olisi
+antanut minulle osan maailmasta!
+@124
+Kokuen!!
+@125
+Mutta nyt minulla on tämä laite. Sinä... sinä...!!
+@126
+Kokuen! Odota!
+@127
+Vielä kerran... ugh.
+Oletko kunnossa!? Kokuen!
+Älä koske minuun!
+@128
+Hitto! Hitto!!
+Kokuen, miksi sinä...
+Minäkin haluan tulla vahvaksi! Heikot jäävät jalkoihin.
+Minä, pieni ja heikko, olen raivannut tieni
+tänne asti verta ja hikeä vuodattaen!
+Ja sinä, joka ilmestyit yhtäkkiä,
+tuhosit sen hetkessä!
+Jos et olisi... jos et olisi tullut...!!
+Kokuen... jos yrittää alistaa muita voimalla, jonain päivänä
+itsekin joutuu alistetuksi voimalla.
+Minä jouduin alistamaan sinut voimalla, mutta oikeasti
+en halunnut tehdä niin.
+Älä tule tänne kauniine puheinesi!! Maailmassa lopulta
+vahvat ovat ylimpänä! Ilman voimaa joutuu syödyksi!!
+Syy siihen, että minä voitin ja sinä hävisit...
+Sinä taistelit yksin. Minä en ollut yksin.
+...Luulen, että siitä on kyse.
+@129
+Hiljaa! Hiljaa, hiljaa!!
+@130
+Kokuen...
+@131
+Kyllä Kokuenkin oikeasti ymmärtää sen.
+...Toivottavasti.
+@132
+Hmph, kiero tyyppi.
+Palautan nuo sanat sinulle sellaisinaan.
+@133
+Ikävä tyyppi! En usko, että voisin pitää hänestä!
+Jätetään hänet!
+...Hmm.
+@134
+Onpa jääräpäinen tyyppi!
+Tuskin hän haluaa kuulla sitä sinulta.
+@135
+Ei ole kovin rehellinen itselleen.
+Sinäkö sen sanot?
+@136
+Kyllä se siitä. Sanasi menivät
+varmasti hänelle perille.
+Niinköhän...?
+@137
+Hän... vaikutti jotenkin kärsivältä.
+Onko varmasti hyvä, ettemme mene perään?
+Joo... mutta minun on jo mentävä.
+@138
+Etkö mene sen pojan perään? Eikö ihan
+varmasti tarvitse? Minä olen jotenkin huolissani.
+Olet kiltti. Mutta minun on jo mentävä.
+@139
+Ah, inhottavaa. Tuollaiset vatvovat
+turhia juttuja.
+Mutta eikö ihmisen huolet ja tuskat
+ymmärrä vain hän...?
+Hmm, sellaistako se on?
+@140
+Edes järjestelmän voimalla Kokuen ei näköjään pärjännyt.
+Mizuchi, ei saa! En tiedä, kuinka hieno järjestelmä
+se on, mutta ihmisillä ei saa tehdä kokeita!
+Hmph, hän teki sen omasta halustaan.
+Avasin oven. Jatka.
+...Seuraavaksi vihdoin ylin, 5. kerros.
+Odotan siellä.
+Mizuchi...
+@141
+Lukossa...
+@143
+Kaikki! ...Huh, hyvä!
+Ei se mikään hyvä ole!
+Ovet olivat kiinni, joten jouduimme
+kiertämään tosi pitkän matkan takaisin!
+Taas sen Mizuchi-retkun oikkuja.
+Mutta koska te kaksi olitte mukana, en eksynyt!
+Hyvä, hyvä.
+Ei ole hyvä!
+...No, ei tästä jauhamisesta mitään tule.
+Jatketaan.
+Mizuchi sanoi, että seuraavaksi on 5. kerros.
+Kaipa muualle ei taaskaan pääse?
+Mennään.
+Mitä sinä mietit, Mizuchi?
+@144
+Waa!
+Mitä!?
+@145
+Mitä nyt taas!
+@146
+Onnittelut. Viimeinen testi lähestyy.
+Koko tähän kerrokseen on
+asennettu Resonanssijärjestelmä. Kaikki täällä olevat
+Medabotit ovat marionettejani. Saatte osallistua
+sotilaideni testirobotteluun.
+@147
+Voi että! Ärsyttävää!
+Nyt rynnätään läpi väkisin!
+Kukin kaataa edessään olevan vihollisen ja etenee!
+@148
+Karin... pystytkö sinäkin?
+Kyllä!
+@149
+Selvä, mennään!!
+@150#kabuto
+Exise, siirto!!
+@150#kuwagata
+Unitris, siirto!!
+@151
+Mitä tuo oli! Ei mitään suunnitelmallisuutta!
+...Hän on kuin villisika.
+No niin, mennään!!
+@152
+Medabottisiirto!
+@153
+Mennään, Brass!
+Selvä, Arika.
+Arika on ihan yhtä lailla villisika!
+Minäkin menen!
+@154
+...Selvä! Minäkin menen!
+@155
+Ei onnistu... Ovi on kiinni, enkä pääse eteenpäin.
+@159
+Pitää jatkaa eteenpäin!
+@160
+TUNKEILIJA! TUHOA!
+@161#kabuto
+Uoooooh!!!
+@161#kuwagata
+Ota tästä!!!
+@162
+En säästä ketään, joka on tielläni!
+@164
+Mene, Brass!
+@165
+Selvä, Arika!
+@167
+Hyaah!
+@168
+Nurse, Holy Ground!
+@169
+Gu...gaga...
+Tuolta tuli Medabotti!
+@171
+Tuo Medabotti tuli tuolta edestä... eli
+@172
+Tie siis jatkuu tästä eteenpäin.
+On niin pimeää, etten näe tietä ollenkaan...
+Antaa mennä! Odotti edessä mitä tahansa, on pakko mennä!
+@173
+Tänne...
+@174
+Tuo oli Mizuchin ääni!
+Onko hän tuolla sisällä!?
+@175
+Mizuchi on täällä. En voi ohittaa tätä huonetta.
+@176
+Tämä huone... taas se...
+@177
+Niin... jos tässäkin huoneessa on se laite,
+joka ohjailee Medabotteja, se on tuhottava...
+@178
+Sitä en voi sallia.
+@179
+Mizuchi...
+Sekin, että vain sinä pääsit tänne, oli suunnitelmaa.
+...Vaikka matkalla oli yksi suunnittelematon petos.
+Opettaja Ryuukoako? Hän on kai kunnossa?
+Et kai sinäkään omaa siskoasi...
+Mitä jos huolehtisit itsestäsi muiden sijaan?
+Sitä tuskin tarvitsee sanoakaan, mutta minä, "Seiryuun Mizuchi",
+olen viimeinen neljästä kuninkaasta.
+........
+...Heh, et sano mitään.
+...Kuule, Mizuchi. Miksi sinä...
+@180
+Mizuchi...?
+@181
+Se laite, jonka sanoit äsken aikovasi tuhota,
+on nimeltään "ekolaite".
+Se muuntaa medabottaajan aivoaallot sähkösignaaleiksi
+ja ohjaa niillä Medabotteja.
+Sitä käyttävä "Resonanssijärjestelmä"
+on vielä koevaiheessa, mutta asentamalla ekolaitteita
+eri puolille voidaan hallita kaikkia
+maailman Medabotteja.
+Ekolaite...
+Niin. Tehokkainta on asentaa ne
+mitalin muotoon.
+Neljä kuningasta sijoitettiin vahvistamaan tukikohtia.
+Kun jättimäinen ekolaite on rakennettu,
+syntyy ihannemaailma, jossa Medabotit on vapautettu
+sekä "3 laista" että tunteista.
+@182
+Ei!!
+"Resonanssijärjestelmään" sopeutuvat ovat niitä,
+jotka nousevat maailman huipulle. Lapset sopeutuvat
+paremmin kuin aikuiset. {BUF03}... jos olisit
+tullut kanssani, olisit päässyt kokemaan
+tämän järjestelmän upeuden.
+Tällainen... tällainenko olisi Medabottien onnea?
+Valetta! Mizuchi, se mihin sinä pyrit,
+ei ole mikään ihannemaailma. Sellainen maailma on painajainen!
+Herää jo, Mizuchi!!
+Kun luotamme Medakelloihin,
+ihmiskunta ei voi kehittyä.
+@183
+Mizuchi? Minne...
+........
+@184
+Mizuchi!!
+@185
+!!!!
+@186
+Huh, huh... Tämä ei voi olla totta!!
+Haha! Ei hassumpaa! Mutta kuinka kauan kestät?
+@187
+Laitteen sisällä oleva Mizuchi on pysäytettävä!
+Tämä ei ole oikein! Ei todellakaan!
+@188
+Minun on pysäytettävä Mizuchi!
+@191
+Avaa tämä, Mizuchi!!
+Turhaa.
+Sinun voimillasi tuo ovi ei aukea.
+@192
+Miksi! Miksi oikein! Miksi teet tällaista!
+@193
+Miksi juuri minä...
+@194
+...Isä valitsi sinut.
+Mi...tä?
+Isä se oli, joka käski siskoni tuoda sinut tänne.
+Mitä tuo tarkoittaa!
+Isä antoi siskolleni tehtäväksi värvätä eri puolilta
+lapsia, jotka sopeutuvat Resonanssijärjestelmään.
+Opettaja Ryuuko...!
+Sitten seuraava. Sanon sen etukäteen: sotilaita
+riittää vaikka kuinka paljon. Nyt on liian myöhäistä katua.
+@195
+Mitä aiot tehdä minulle tällä kaikella!
+Selvähän se. Kun et enää pääse ylös,
+laitan sinut laitteeseen Resonanssijärjestelmän koekaniiniksi.
+Ihmiskunnan valoisan tulevaisuuden vuoksi.
+M-mitä sinä puhut, Mizuchi! Et kai tosissasi...!
+Hmph, entä jos olenkin?
+...Ugh, pääni...
+@196
+Mizuchi?
+Onko nyt aika katsella muualle? Näen täältä kaiken.
+@197
+{BUF03}!!
+{BUF03}!!
+@198
+Häh? Tuo ääni!
+VI...HOLLI...
+@199
+Hakuma!? Shuri!? Mi-mi-miksi!?
+Ja Shuri, sinähän lähdit professorin kanssa ulkomaille?
+Muistin, että minulla oli vielä jotain selvittämättä.
+Siksi en lähtenyt ulkomaille.
+En voinut olla paikallani. Tiesin, että tulisitte
+tänne... joten.
+......Tuota.
+Se siitä,
+{BUF03}, tule nopeasti tänne!
+Ai, s-selvä!
+@200
+Senkin petturit!
+@201
+Hi...tto... pää...ni...
+@202
+Mizuchi!
+@203
+Järjestelmä ei ole vielä täydellinen, Mizuchi.
+@204
+Opettaja Ryuuko! Olette kunnossa!
+Tietenkin.
+Mutta järjestelmä on yhä toiminnassa, niin kauan
+kuin ekolaitetta ei tuhota.
+Uuh...
+@205
+Mizuchi, oletko kunnossa?
+@206
+Hänen hermonsa oikosulkivat. Ymmärrän sen, koska
+monen Medabotin ohjaaminen kerralla on raskasta.
+Te tulitte...
+@207
+Halusin vain... saada asian päätökseen.
+@208
+Ilman opettajan avainta
+emme olisi päässeet tänne.
+Vai niin... hyvä.
+@209
+Annoitteko heille koulun avaimen?
+Kyllä... ennen kuin tulin tänne.
+@210
+Tämä ei hyvitä sitä, että
+petin teitä, mutta...
+@211
+E-ei se niin ole...! Tehän
+tulitte tänne!
+@212
+Tenryou...
+@213
+Sinä olet tosiaan typerän hyväsydäminen.
+@214
+T-tuota... anteeksi, että keskeytän...
+Jos ekolaite pitää tuhota,
+voisimme jakaa tehtävät...
+...Ekolaitetta ohjataan kellarin
+koneella. Sinne pääseminen...
+@215
+Helppo juttu. Menen sinne.
+@216
+Kellarissa? Selvä.
+Jättäkää laite minulle ja Shurille.
+@217
+Mizuchi... se, mihin sinä pyrit,
+ei ollut mikään ihannemaailma.
+...Uskon, että ymmärrät sen vielä.
+@218
+Tällaisen... tällaisen takia...! Enkö minä kelpaa?
+@219
+Mizuchi, olet tarpeeksi vahva ilman
+tuollaisia laitteitakin.
+Hei, miksi? Miksi olet niin...
+Minullakin oli kerran Medabotti-kumppani.
+Uskoimme, että olisimme aina yhdessä,
+emmekä epäilleet sitä...
+Mizuchi...?
+Eräänä päivänä, kun istuimme isän ajamassa autossa,
+joutuimme onnettomuuteen.
+Ja... mitä tapahtui?
+Auto romuttui, mutta isä ja minä selvisimme.
+Mutta... Medabottini yritti suojella meitä...
+Kuo...liko se...?
+........
+@220
+Se ajatteli, että kunhan se kuolee puolestamme...
+se riittää. Niin se ajatteli!
+Ilman "Medabotin 3 lakia" sekin olisi pelastunut.
+...Niin, Medabotit eivät ole ihmisiä!
+Ihmisillä ei ole mitään typeriä "3 lakeja"!
+Jos sellaisen takia joutuu kärsimään näin paljon,
+niin mieluummin...!
+Mizu...
+@221
+Minä vihaan "Medabotin 3 lakia"!!
+Mizuchi, kumppanin menetys on tosi raskasta.
+Mutta silti...
+@222
+Mizuchi, ymmärrätkö, miksi hävisit?
+Tenryouta, joka on sidottu Medabotteihin aidoin sitein,
+et voi ikinä voittaa. Sinä olet kadottanut siteesi
+Medabotteihin. ...Siitä on kyse.
+.......
+@224
+Ei hätää, Tenryou. Ajatuksesi ovat varmasti
+menneet hänelle perille. Mutta nyt
+anna hänen olla rauhassa.
+........
+@225
+Kun robottelen, alan jotenkin
+nähdä vastustajan medabottaajan. Luulen,
+että Mizuchista ja minusta voi tulla hyvät ystävät.
+Vai niin...
+@226
+Niin! E-entä muut!?
+@227
+Jos he olisivat sellaisia, jotka kaatuvat helposti,
+en olisi tuonut heitä tänne.
+@228
+Voi että, nyt saa riittää!
+@229
+Onpa sitkeitä tyyppejä!
+@230
+Te kaikki kävelette niin nopeasti.
+Kaikki!
+Kaikki ovat näköjään koolla.
+@231
+Ai! Opettajakin on täällä!
+Onneksi olette kunnossa.
+On vielä liian aikaista huokaista helpotuksesta.
+Niin niin! Emme ole vielä löytäneet sitä
+"Beast Kingiä"! Ja muutenkin se tyyppi!
+Nauttii Medabottien ohjailusta,
+aivan kamalaa! Hänellä on varmasti ilkeä ja
+inhottava naama!!
+...Rehtori on isäni, "Beast King".
+Hän laati "S-R-suunnitelman"...
+@232
+!!
+Se rehtori...
+No, vähän kun miettii, sen tajuaa. Kun koulussa on
+tällaisia tiloja. Olisi pitänyt tajuta jo aiemmin.
+Ryuukon i-isä?
+Ahaha ha... Äskeinen oli vain sanonta...
+Ei se haittaa, Amazake. Se on totta.
+Minun on pysäytettävä isäni suunnitelma! Te saitte minut tajuamaan sen.
+...Isä on sittenkin väärässä. Seuratkaa minua!
+@233
+Mennään!
+@234
+Se opettajakin vaikuttaa yhä epäilyttävältä.
+Ei saa epäillä.
+@235
+Että se rehtori, joka kertoi minulle unelmistaan,
+olikin Beast King...!
+@236
+Mennään nopeasti, {BUF03}!
+@237
+Ei onnistu... Se ei aukea.
+@246
+Tenryou, tänne.
+Ai, selvä!
+@247
+Kaikki ovat koolla.
+@248
+Isän pitäisi olla tässä huoneessa.
+Pelottavaa... Mitä isä oikein aikoi
+tehdä täällä...
+Opettaja, kertokaa. Teidän isänne... rehtori,
+millainen ihminen hän oikeasti on? Entä se, että hän oli
+Medabottiyhtiön tutkija?
+@249
+Hän oli tosiaan Medabottiyhtiön tutkija.
+@250
+Aaaaah!! Eli se Medabottiyhtiön vakoiluepäily!
+...Se oli isä. Kun isä lähti Medabottiyhtiöstä,
+hän teki erityisen tunkeutumiskoodin.
+Roborobo-jengin vapauttaminen ja hyväksikäyttö onnistui sen koodin
+ansiosta.
+Sieltä isä hyökkäsi hakkeroimalla moniin paikkoihin.
+Hallitsemalla Medabottien lisäksi myös verkkomaailmaa
+hän aikoi ottaa kaiken itselleen.
+Kameyaman koulussakin opettaja Tamawo ihmetteli,
+miten Kokuen tiesi opettajien heikkoudet...
+Yksityisyydestä ei ole tietoakaan!
+Ei tule kuuloonkaan!
+Jossain vaiheessa isä joutui
+maailmanvalloitusunelman valtaan...
+Ehkä siksi, että hän otti hullun tiedemiehen,
+professori Hebereken, opettajakseen...
+@251
+E-eli opettaja Ryuukon isä on rehtori
+ja professori Hebereken oppilas!?
+@252
+Ja lisäksi Beast King ja Medabottiyhtiön vakooja!!
+Mitä...!?
+Mikä skuuppi!
+@253
+Waa!
+Mitä nyt taas!
+@254
+Taasko tämä sama kuvio.
+Voi että, sitkeitä!
+Tämän kerroksen ekolaite on yhä toiminnassa... eli
+ne kaksi eivät ole vielä saaneet järjestelmää tuhottua.
+@255
+Ne kaksi! Tarkoitatteko Hakumaa ja Shuria!?
+Mitä! Ovatko nekin täällä!?
+Kas, onko Shuri täällä?
+@256
+Häh! Mitä tämä tarkoittaa!?
+@257
+He tulivat auttamaan meitä! Mutta...
+@258
+Opettaja Ryuuko!?
+@259
+Menkää.
+Te voitatte varmasti isänikin.
+...Minä pidättelen Medabotteja täällä.
+Mutta...!!
+Mennään, {BUF03}!
+@260
+Niin! Älä tuhlaa opettajan hyvää tahtoa!
+@261
+Luotetaan opettajaan.
+Ai... tuota...
+@262
+He ovat oikeassa. Menkää nyt!
+Tule, {BUF03}.
+@263
+Medabottisiirto!
+@264
+Opettaja...!
+@265
+En voi kääntyä takaisin!
+@266
+Jos tämä laite häviää, loppuuko tämä taistelu...?
+@267
+Taas tämä laite...! Mitä nyt on luvassa!
+Jos tarvitsee, hajotetaan tämäkin!
+@268
+Tämä paikka on... jotenkin pelottava.
+@269
+Mizuchi puhui ekolaitteesta.
+Järjestelmää, jolla tämä ohjailee Medabotteja,
+kutsutaan kuulemma Resonanssijärjestelmäksi...
+@270
+Mitä resonanssi on?
+@271
+Se tarkoittaa samaa kuin "myötävärähtely".
+Entä "myötävärähtely"?
+Kun kahdella kappaleella on sama ominaistaajuus, toinen
+alkaa värähdellä toisen värähtelyn mukana.
+@272
+Olen odottanut sinua, Tenryou {BUF03}.

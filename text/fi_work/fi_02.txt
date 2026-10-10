@@ -1,0 +1,366 @@
+@000
+Sait miestyypin tinpetin!
+@001
+Sait naistyypin tinpetin!
+@002
+Hups! En jaksa kantaa enempää!
+Luovuit tinpetistä!
+@003
+Yhtään Medabottia ei ole koottu!
+Kokoa Medabotti.
+@004
+Hups! Minulla on jo tämä mitali!
+Luovuit mitalista!
+@005
+Peli tallennettu!
+@006
+Käytätkö Roborobo-mitalin?
+@007
+Pääsit pakoon taistelusta!!
+@008
+Sait esineen\n"{BUF06#80}"
+@009
+Menetit esineen\n"{BUF06#80}"
+@010
+Tätä esinettä ei voi kantaa enempää!
+@011
+Sinulla ei ole esinettä\n"{BUF06#80}"
+@012
+{BUF03} sai {BUF06#25}0¥.
+@013
+Menetit {BUF06#25}0¥.
+@014
+Sait {BUF06#80}.
+@015
+Menetit {BUF06#80}.
+@016
+Naps!
+@017
+Naps naps!
+@018
+Sait mitalin\n"{BUF06#80}"
+@019
+Sinulla on jo tämä mitali.
+@020
+Sait pääosan\n"{BUF06#80}"
+@021
+Sait oikean käden osan\n"{BUF06#80}"
+@022
+Sait vasemman käden osan\n"{BUF06#80}"
+@023
+Sait jalkaosan\n"{BUF06#80}"
+@024
+Tätä osaa ei voi kantaa enempää.
+@025
+Menetit pääosan\n"{BUF06#80}"
+@026
+Menetit oikean käden osan\n"{BUF06#80}"
+@027
+Menetit vasemman käden osan\n"{BUF06#80}"
+@028
+Menetit jalkaosan\n"{BUF06#80}"
+@029
+Sinulla ei ole pääosaa\n"{BUF06#80}"
+@030
+Sinulla ei ole oikeaa kättä\n"{BUF06#80}"
+@031
+Sinulla ei ole vasenta kättä\n"{BUF06#80}"
+@032
+Sinulla ei ole jalkaosaa\n"{BUF06#80}"
+@033
+Sait Medalian\n"{BUF06#80}"
+@034
+Sait "{BUF06#64}"\n{BUF07#10} kpl.
+@035
+Menetit "{BUF06#64}"\n{BUF07#10} kpl.
+@036
+TAPAHTUMAYLIVUOTO, JÄÄTYMINEN!!
+@037
+Kaikki ovat ystäviä
+@038
+Me olemme aina yhdessä
+@039
+Vielä aikuisinakin!
+@040
+Ystävät ovat ihania♥
+@041
+Yks, kaks...\nMedabotti!
+@042
+Kaikki pelitiedot poistetaan. Sopiiko?
+@043
+Aloita peli uudelleen alusta.
+@044
+Varo, ettet poista niitä vahingossa.
+@045
+Medaspeed-kuninkaan ennätys:\n"{BUF06#10}:{BUF08#10}"
+@046
+Medaspeed-kuninkaasta ei ole vielä parasta aikaa.
+@047
+Medabird-kilpailun Draiviradan
+paras lentomatka on "{BUF06#30}".
+@048
+Medabird-kilpailusta ei ole vielä parasta lentomatkaa.
+@049
+Robotteluvoittoja:\n{BUF06#20} kpl
+@050
+Pimeitä robotteluvoittoja:\n{BUF06#20} kpl
+@051
+Missikilpailun voittoja:\n{BUF06#20} kpl
+@052
+Medaspeed-kuninkaan voittoja:\n{BUF06#20} kpl
+@053
+Medabird-kilpailun voittoja:\n{BUF06#20} kpl
+@054
+Medaroad-kisan voittoja:\n{BUF06#20} kpl
+@055
+Tuo on paloautotyypin Medabotti... Brave Fire!?
+Brave Fire, käänny 45 astetta oikealle!
+...Drive C, tulta!
+Selvä, mestari.
+...Hetkinen! Eikö Brave Firen Drive C ole
+juuri se tulisuihku...!!
+...? Mitä? Siitä tuleekin vettä.
+Seuraavaksi! Käänny 90 astetta vasemmalle, tulta!
+Mahtavaa! Tuli sammuu koko ajan...!
+@056
+Mitä! Poika!?
+Olen {BUF03} Tenryou. Tulin hakemaan Kojin takaisin!
+Vai sinä olet se {BUF03} Tenryou!
+Grrrr! Naamioiduit tytöksi,\njollaisista pidän,
+ja huijasit minua! Tätä en\nanna anteeksi!! Varo vain!!
+@057
+Vau... upeaa!
+Hieno maisema, eikö?
+Tämä on koko kylän ainoa paikka, josta pidän.
+Käytkö täällä usein?
+Jatkuvasti.
+...Oli kiva tulla, eikö?
+Joo!
+@058
+Kas, {BUF03}, tapasimme taas.
+Hakuma...
+Herra Hakuma, tämä tyyppi on kaiken pahan alku ja juuri!
+Kaikki tämä on hänen syytään!!
+Anteeksi, palautan univormun!\nNyt tärkeämpää, Hakuma:
+Liberties tulee tänne pian.
+Kaikki ovat tosi kiihtyneitä.\nLähde täältä hetkeksi.
+Lähde mukaani, Hakuma.
+Heh, olet hauska.
+Sinä ja ystäväsi aiheutitte tämän tilanteen,
+ja silti yrität pelastaa minut?
+@059
+...! Tämähän on 3D-hologrammi!
+Mitä? Eli...
+Tuo hiekkaputous toimi valkokankaana
+ja heijasti tämän kuvan, vai?
+Mutta miksi tällainen on tällaisessa paikassa...
+Tämäkin on varmaan\navaruusolentojen raunio.
+...Katso nyt.
+Avaruusolento selittää Medabotteja.
+Tätä hologrammia käytettiin varmaan, kun avaruusolennot
+toivat Medabotit Maahan!
+Katso, sydän!
+Avaruusolentojen, ihmisten ja\nMedabottien välissä on sydän.
+Ehkä sydän on koko avaruuden yhteistä kieltä♥
+@060
+Sinä et ole muuttunut yhtään.
+Varsinkin kun tunkeudut huoneeseeni kutsumatta.
+Itse olet itsekäs ja itsekeskeinen.
+Ja yhtä täynnä itseäsi kuin ennenkin.
+Nousiko neljän kuninkaan titteli vähän päähän?
+Hih, etkö itse ymmärrä asemaasi?
+(K-kipinät lentävät...)
+Enkä minäkään tullut tänne yksin.
+Jos sinun puolellasi on Medabottien armeija,
+minun puolellani on vapauden\nmedabottaajien armeija!
+Shuri! Nyt ratkaistaan vihdoin vanha kiistamme!
+(Iiik...)
+@061
+Hei, {BUF03}. Hei, Arika.
+Karin uimapuvussa... Söpö♥
+Mitä!? Miksei teidän koulussa käytetä koulu-uimapukuja!?
+No, älä nyt. Kyllä\nkoulu-uimapukukin kelpaa.
+Arika, sinä olet tosi söpö♥
+@062
+Nuo kaksi Medabottia ovat maailmanvalloitusta varten.
+Annoin sen tyypin kehittää ne.
+Osat kestävät mitalin vapautetun voiman
+täysin, vastaiskuineen kaikkineen.
+Ne eivät ole niinkään Medabotteja kuin aseita.
+Jos mitalin rajoitin poistetaan ja ne riehaantuvat,
+tavallinen Medabotti ei\nvoi mitenkään pysäyttää niitä.
+Hei! Miksi teetät noin vastuuttomia juttuja!?
+Vastuuttomia? Älä höpsi! Mitä luulet, miksi niitä on kaksi?
+Jos toinen riehaantuu, toinen voi
+pysäyttää sen!
+Entä jos molemmat riehaantuvat!?
+Hahhahhaa! Sitä en tullut ajatelleeksi!
+Älä ylpeile!!
+@063
+T-tämä...!
+@064
+Hehheh, pidätkö siitä? Sovelsin avaruusolentojen
+jättämää hologrammitekniikkaa.
+Ihan kuin olisit oikeasti avaruudessa, vai mitä?
+@065
+Noista raunioistako!? ...M-mistä sinä tiedät!?
+@066
+Poikani Mizuchi seurasi teitä raunioissa
+ja löysi sen hologrammilaitteen.
+@067
+Mizuchiko?
+@068
+(Siellä piti olla Fuyuun-kivi!)
+@069
+Hehheh, tarkoitatko sitä kiveä?
+Sen voimalla nousi aikoinaan taivaalle jättiraunio,
+"Fuyuun", leijuva linnake. Nyt käytän itse sen voimaa:
+nostan koko koulun taivaalle tukikohdakseni.
+Kun lähetän taivaalta maailmaan resonanssiaaltoja,
+kaikki maailman Medabotit tottelevat minua!
+@070
+...Minusta tulee koko maailman kuningas!
+@071
+!!!!!!
+@072
+Annoin Shurin tutkia raunioita\navaruustekniikan perässä,
+mutta sinusta oli todella paljon hyötyä!
+@073
+Rajoitin on poistettu, ja aivoaaltoni
+resonoivat täysin. Katso Medabotti numero 1:tä!
+Esiin, "Beast King"!!
+@074
+Tervetuloa-a! Täällä "Nimisammakko"!
+Voit vaihtaa mitalisi nimen-n!
+@075
+Tule uudestaan, jos haluat taas vaihtaa-a!
+@076
+Minkä mitalin nimen haluat vaihtaa-a?
+@077
+Se maksaa 50¥. Vaihdetaanko-o?
+@078
+Rahasi eivät riitä-ä!
+@079
+Oho! Hyvä nimi-i!
+@080
+Hmm-m! Ihan kelpo nimi-i!
+@081
+Hohhoo! Arvasin, että valitset tuon nimen-n!
+@082
+Mennäänkö Ryutou-akatemian kellariin?
+@083
+Mennäänkö Ryutou-akatemian 1. kerrokseen?
+@084
+Mennäänkö Ryutou-akatemian 2. kerrokseen?
+@085
+Mennäänkö Ryutou-akatemian 3. kerrokseen?
+@086
+Mennäänkö Ryutou-akatemian 4. kerrokseen?
+@087
+Mennäänkö Ryutou-akatemian 5. kerrokseen?
+@088
+Päivää! Tervetuloo! Vaihdetaanko Medabotin väri?
+@089
+Valitseppa vaihtoehto!
+@090
+Rahat ei riitä~! Säästäpä vähän lisää!
+@091
+Sullahan ei oo yhtään maalattua Medabottia!
+@092
+Maalataanko? Valitse väri vasemmalla ja oikealla.
+@093
+Maalaus maksaa 100¥. Käykö tää väri?
+@094
+No? Eikö oo hieno?
+@095
+Palautetaanko tän Medabotin alkuperäinen väri?
+@096
+Tässä kaupassa voin vaihtaa Medabottisi värin.
+Yleensä Medabotin väri vaihtuu, kun pääosa vaihtuu,
+mutta maalattu Medabotti\non mitaleista ja osista
+riippumatta, tinpettiä myöten,\nvalitsemasi värinen.
+Maalaus maksaa 100¥, mutta se on aika hauskaa!
+Alkuperäisen värin palautan koska vain ilmaiseksi.
+Nauti ainutlaatuisesta\nMedabottitiimistäsi~!!
+@097
+...Eikö se ollut parempi ennen~?
+@098
+Sehän on jo sen värinen!
+@099
+...Ai! Odota!
+@100
+Valitse ostettavan osan tyyppi.
+@101
+Ostamassako? Valitse osan tyyppi.
+@102
+Minkä osan ostat? Valitse tyyppi♥
+@103
+Valitse ostettavan osan tyyppi, olkaa hyvä.
+@104
+Valitse myytävän osan tyyppi.
+@105
+Myymässäkö? Valitse osan tyyppi.
+@106
+Minkä osan myyt? Valitse tyyppi♥
+@107
+Valitse myytävän osan tyyppi, olkaa hyvä.
+@108
+Saat osan käyttämällä passikorttia.
+@109
+Syötä salasana.
+@110
+Sait osan\n{BUF04#80}!
+@111
+Menetit yhden passipisteen!
+@112
+Rahat eivät riitä.
+@113
+Rahasi taitavat olla lopussa.
+@114
+Rahasi eivät riitä!
+@115
+Rahat eivät riitä, ystävä hyvä.
+@116
+Sinulla ei ole passikorttia.
+@117
+Salasana on väärä.
+@118
+Tervetuloa. Mitä saisi olla?
+@120
+Mitä saisi olla? Valitse valikosta♥
+@121
+Tervetuloa-a. Mitä saisi olla-a?
+@122
+Kiitos!
+@123
+Kiitos käynnistä. Tervetuloa uudelleen.
+@124
+Kiitoksia♥
+@125
+Kiitos paljon, ystävä hyvä.
+@126
+Tervetuloa. Mitä saisi olla?
+@127
+Kiitos käynnistä. Mitä saisi olla?
+@128
+Tervetuloa! Tervetuloa Medabottaajat-kauppaan♥
+@129
+Tervetuloa, ystävä hyvä.
+@130
+Sinulla ei ole passipisteitä.
+@131
+Sopiiko?
+@132
+Sinulla on jo tämän salasanan osa!
+@133
+Puhetesti. Puhetesti.\nPuhetesti. Puhetesti.
+@134
+1.
+2.
+3.
+4.
+5.
+@135
+START-napilla osan tietoihin.
+@136
+Et voi kantaa enempää!

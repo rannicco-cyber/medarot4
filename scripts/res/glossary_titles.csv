@@ -1,0 +1,59 @@
+# index;prefix(hex, icon of the group);original;finnish   (sub items start with "- ")
+0;00;レベル;Taso
+1;00;けいけんち;Kokemus
+2;01;ぞくせい;Ominaisuus
+3;02;せいかく;Luonne
+4;00;.スピ-ド;- Nopea
+5;00;.パワ-;- Voima
+6;00;.テクニック;- Taito
+7;00;.プロテクト;- Suoja
+8;00;.リデュ-ス;- Vähennys
+9;00;.チェンジ;- Muutos
+10;00;.ランダム;- Arpa
+11;03;あいしょう;Sopivuus
+12;04;ゆうこうち;Vaikutus
+13;00;じゅくれんど;Taitotaso
+14;00;.なぐる;- Lyönti
+15;00;.うつ;- Ammunta
+16;00;.がむしゃら;- Raivo
+17;00;.ねらいうち;- Tähtäys
+18;00;.まもる;- Suojaus
+19;00;.せっち;- Asennus
+20;00;.なおす;- Korjaus
+21;00;.とくしゅ;- Erikois
+22;00;.おうえん;- Rohkaisu
+23;00;.ぼうがい;- Häirintä
+24;00;メダフォ-ス;Medavoima
+25;00;メダリア;Medalia
+26;00;メダチェンジ;Medamuutos
+27;05;こうどう;Toiminto
+28;00;そうこう;Panssari
+29;00;かいすう;Kerrat
+30;00;じゅうてん;Lataus
+31;00;ほうねつ;Jäähdytys
+32;00;せいこう;Osuma
+33;00;いリょく;Teho
+34;00;きゃくぶタイプ;Jalkatyyppi
+35;06;.ひこう;- Lento
+36;07;.ふゆう;- Leijunta
+37;08;.たきゃく;- Monijalka
+38;09;.にきゃく;- Kaksijalka
+39;0A;.しゃリょう;- Ajoneuvo
+40;0B;.せんしゃ;- Tankki
+41;0C;.せんすい;- Sukellus
+42;00;すいしん;Työntö
+43;00;きどう;Liike
+44;00;ぼうぎょ;Puolustus
+45;00;きんせつ;Lähi
+46;00;えんかく;Kauko
+47;00;のうリょく;Kyky
+48;00;.ダイレクト;- Suora
+49;00;.そうび;- Varuste
+50;00;.トラップ;- Ansa
+51;00;.アクティブ;- Aktiivinen
+52;00;.コンボ;- Kombo
+53;00;フィ-ルド;Kenttä
+54;00;ちけいエリア;Maastoalue
+55;00;チャ-ジエリア;Latausalue
+56;00;オ-ト;Auto
+57;00;ロ-テ;Rotaatio

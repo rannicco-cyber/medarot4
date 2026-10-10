@@ -1,0 +1,16 @@
+﻿Index,Note
+019,[LOC] ”ei ole koottu” / osien luettelointi on tarkoituksella hyvin mekaanista; kannattaa tehdä pelissä luontevaksi.
+023,[LOC] ”つうしん” on yhteys/tiedonsiirto; valitse lopullinen termi käyttöliittymän muun terminologian mukaan.
+024,[LOC] ”乗り物” = ajoneuvo/kulkuneuvo.
+030,[LOC] ”きがるに” = rennosti/huolettomasti; ”rento robottelu” on literalistinen.
+036,[LOC] ”しょうぶだ” = otetaan mittaa / taistellaan / katsotaan kumpi voittaa.
+043,[LOC] ”ロボと-る” on pelin nimi/erityinen minipeli; älä välttämättä käännä nimenä.
+049,[LOC] Haigorei/Kami-tyypit voivat olla tarkoituksellisia nimityksiä; tarkista vakiintunut Medarot-nimistö.
+066,[LOC] Puhekielinen loppu ”や~” antaa repliikille hahmon äänen.
+067,[LOC] ”んけ?” on puhekielinen kysymysmuoto.
+070,[LOC] Puhekielinen/alueellinen sävy.
+085,[LOC] Sama puhekielinen sävy kuin kohdassa 067.
+088,[LOC] Kenttätyyppien nimet kannattaa sovittaa vakiintuneeseen peliterminologiaan.
+095,[LOC] ”そくばく” = sitominen/rajoittaminen; tarkista pelin status-terminologia.
+096,[LOC] ”タイミングが はかりにくい” = ajoitusta on vaikea mitata/arvioida.
+099,[LOC] ”ラブリーボイス” = ihana/suloinen ääni; mahdollinen sanaleikki/idoliviittaus.

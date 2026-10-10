@@ -1,0 +1,257 @@
+﻿Index[#version],Pointer[#version|],Original,Translated
+000,0x160cf0,<SFF>マスコット型メダロット<CD>ふうせんごと てきを 大ばくはつ!<*04>,<SFF>Mascot-type Medarot<D3>Blow up the enemy with the balloon!<*04>
+001,0x160cf2,<SFF>プテラノドン型メダロット<CD>セレクトスリ-の リ-ダ-だ<*04>,<SFF>Pteranodon-type Medarot<D3>Leader of the Select Three<*04>
+002,0x160cf4,<SFF>ワシ型メダロット<CD>しっぷうどとうの ミサイル攻撃!<*04>,<SFF>Eagle-type Medarot<D3>A fierce barrage of missiles!<*04>
+003,0x160cf6,<SFF>タカ型メダロット<CD>しっぷうどとうの ナパ-ム攻撃!<*04>,<SFF>Hawk-type Medarot<D3>A fierce barrage of napalm!<*04>
+004,0x160cf8,<SFF>ツバメ型メダロット<CD>つばめは こそこそ にげまわる<*04>,<SFF>Swallow-type Medarot<D3>The swallow sneaks around and flees<*04>
+005,0x160cfa,<SFF>フクロウ型メダロット<CD>ほうふなちしきで びょうきを なおす<*04>,<SFF>Owl-type Medarot<D3>Heals ailments with vast knowledge<*04>
+006,0x160cfc,<SFF>カラス型メダロット<CD>ひかリものには めが ないぞ<*04>,<SFF>Crow-type Medarot<D3>Can't resist anything shiny<*04>
+007,0x160cfe,<SFF>セミ型メダロット<CD>てきを ふせいで きいろい ブレイク<*04>,<SFF>Cicada-type Medarot<D3>Blocks enemies with yellow Break<*04>
+008,0x160d00,<SFF>とのさまバッタ型メダロット<CD>まげは ちょんまげよリ えらい!<*04>,<SFF>Grasshopper-type Medarot<D3>That topknot beats a samurai's!<*04>
+009,0x160d02,<SFF>ヒヨコ型メダロット<CD>さいしょの うちは よわくても...<*04>,<SFF>Chick-type Medarot<D3>Even if it's weak at first...<*04>
+010,0x160d04,<SFF>トランプ「ジャック」型メダロット<CD>うつ うつ うつ かんがえない!<*04>,"<SFF>Playing-card Jack-type Medarot<D3>Shoot, shoot, shoot! Don't think!<*04>"
+011,0x160d06,<SFF>クジャク型メダロット<CD>ゴ-ジャスに しせんを くぎづけ!<*04>,<SFF>Peacock-type Medarot<D3>Gorgeous enough to captivate all eyes!<*04>
+012,0x160d08,<SFF>セイレ-ン型メダロット<CD>みわくの うたで こころを しずめる<*04>,<SFF>Siren-type Medarot<D3>Calms hearts with an enchanting song<*04>
+013,0x160d0a,<SFF>カナリア型メダロット<CD>わたしが あなたの みがわリになるわ<*04>,<SFF>Canary-type Medarot<D3>I'll take your place for you<*04>
+014,0x160d0c,<SFF>ピクシ-型メダロット<CD>いたずらずきな かいふくやさん<*04>,<SFF>Pixie-type Medarot<D3>A mischievous little healer<*04>
+015,0x160d0e,<SFF>か型メダロット<CD>あなたの じゅうてん すっちゃうわよ<*04>,<SFF>Moth-type Medarot<D3>I'll suck up all your Charge!<*04>
+016,0x160d10,<SFF>ライチョウ型メダロット<CD>いきを ひそめて さむさに たえる<*04>,<SFF>Ptarmigan-type Medarot<D3>Hold your breath and endure the cold<*04>
+017,0x160d12,<SFF>もくせい型メダロット<CD>すいその うみで ひとおよぎ<*04>,<SFF>Wood-type Medarot<D3>Take a swim in the hydrogen sea<*04>
+018,0x160d14,<SFF>ツル型メダロット<CD>つるの おんがえし<*04>,<SFF>Crane-type Medarot<D3>The crane repays its debt<*04>
+019,0x160d16,<SFF>ダンスフラワ-型メダロット<CD>ク-ルさが おとこのこに だいにんき<*04>,<SFF>Dancing Flower-type Medarot<D3>Coolness is hugely popular with boys<*04>
+020,0x160d18,<SFF>ムササビ型メダロット<CD>木から とびおリ すばやく 木ヘ<*04>,<SFF>Flying Squirrel-type Medarot<D3>Leap from tree to tree at high speed<*04>
+021,0x160d1a,<SFF>いせエビ型メダロット<CD>いせいよく かくとう はねのける!<*04>,<SFF>Spiny Lobster-type Medarot<D3>Fiercely knocks melee attacks away!<*04>
+022,0x160d1c,<SFF>マンボウ型メダロット<CD>それイヤ あれイヤ それもイヤ<*04>,"<SFF>Mola Mola-type Medarot<D3>No to this, no to that, no to anything!<*04>"
+023,0x160d1e,<SFF>ついせきポッド型メダロット<CD>あしおと しのばし てきを キャッチ<*04>,<SFF>Tracker Pod-type Medarot<D3>Catch the enemy without a sound<*04>
+024,0x160d20,<SFF>しにがみ型メダロット<CD>ひかリを ふうじる あんさつしゃ<*04>,<SFF>Grim Reaper-type Medarot<D3>Assassin who seals away light<*04>
+025,0x160d22,<SFF>キュ-ピッド型メダロット<CD>あいのメダフォ-ス さかせましょう!<*04>,<SFF>Cupid-type Medarot<D3>Let's make the Medaforce of love bloom!<*04>
+026,0x160d24,<SFF>かヘん型メダロット<CD>こいつ つけると はやすぎ!<*04>,<SFF>Fly-type Medarot<D3>Put this on and you'll be too fast!<*04>
+027,0x160d26,<SFF>プチデビル型メダロット<CD>パぎょうで まとめる プチデビル<*04>,<SFF>Little Devil-type Medarot<D3>A little devil all about the P-row<*04>
+028,0x160d28,<SFF>ガ-ゴイル型メダロット<CD>石のごとく たえ しょうリの ざヘ<*04>,<SFF>Gargoyle-type Medarot<D3>Endure like stone and pave the way to victory<*04>
+029,0x160d2a,<SFF>まじょ型メダロット<CD>フ-ドの おくで ちみつな けいさん<*04>,<SFF>Witch-type Medarot<D3>Calculating carefully beneath the hood<*04>
+030,0x160d2c,<SFF>スピナ-型メダロット<CD>けいごの スペシャリスト<*04>,<SFF>Spinner-type Medarot<D3>Specialist in polite speech<*04>
+031,0x160d2e,<SFF>バンシ-型メダロット<CD>はやく かえらないと たベちゃうわよ<*04>,"<SFF>Banshee-type Medarot<D3>Come home soon, or I'll eat you!<*04>"
+032,0x160d30,<SFF>かせい型メダロット<CD>タコタコ プリティ-♥<*04>,"<SFF>Martian-type Medarot<D3>Octopus octopus, pretty pretty♥<*04>"
+033,0x160d32,<SFF>ヘいき型メダロット<CD>女なら まよわず これを つかえ!<*04>,"<SFF>Weapon-type Medarot<D3>If you're a woman, use this without hesitation!<*04>"
+034,0x160d34,<SFF>オジギソウ型メダロット<CD>攻撃を うけると しなだれます<*04>,<SFF>Mimosa-type Medarot<D3>Droops when it takes an attack<*04>
+035,0x160d36,<SFF>さんようちゅう型メダロット<CD>てきに とリつき 口から しんにゅう<*04>,<SFF>Planarian-type Medarot<D3>Cling to the enemy and enter through its mouth<*04>
+036,0x160d38,<SFF>マンモス型メダロット<CD>さんちでは ぜつめつの ききに...<*04>,<SFF>Mammoth-type Medarot<D3>Endangered in the mountains...<*04>
+037,0x160d3a,<SFF>うちゅうたんさ型メダロット<CD>かくれた てきを てっていちょうさ!<*04>,<SFF>Space Probe-type Medarot<D3>Thoroughly investigate hidden enemies!<*04>
+038,0x160d3c,<SFF>ハエトリソウ型メダロット<CD>どこでも トラップ しかけるシャ-!<*04>,"<SFF>Venus Flytrap-type Medarot<D3>Sets traps anywhere, you bet!<*04>"
+039,0x160d3e,<SFF>ハムスタ-型メダロット<CD>ちょっと かぶリつく ジャンガリアン<*04>,<SFF>Hamster-type Medarot<D3>A little nibble from a Djungarian<*04>
+040,0x160d40,<SFF>ケルベロス型メダロット<CD>かむ かむ がむしゃら!<*04>,"<SFF>Cerberus-type Medarot<D3>Bite, bite, Berserk!<*04>"
+041,0x160d42,<SFF>デュラハン型メダロット<CD>くびなし きしの おとおリだ<*04>,<SFF>Dullahan-type Medarot<D3>Just like the headless knight<*04>
+042,0x160d44,<SFF>ダニ型メダロット<CD>ふとんかんそうきも ヘっちゃら!<*04>,<SFF>Mite-type Medarot<D3>Even a futon dryer won't bother me!<*04>
+043,0x160d46,<SFF>シラミ型メダロット<CD>ミサイル攻撃も もぐって かいひ!<*04>,<SFF>Louse-type Medarot<D3>Dive underground and dodge missiles!<*04>
+044,0x160d48,<SFF>ノミ型メダロット<CD>きょういの ジャンプで つきぬける!<*04>,<SFF>Flea-type Medarot<D3>Pierce through with an amazing jump!<*04>
+045,0x160d4a,<SFF>こじか型メダロット<CD>こぶリの つのが チャ-ムポイント<*04>,<SFF>Fawn-type Medarot<D3>Its tiny horns are its charm point<*04>
+046,0x160d4c,<SFF>ホウセンカ型メダロット<CD>ふれたら はじけて 大ダメ-ジ!<*04>,<SFF>Impatiens-type Medarot<D3>Touch it and it bursts for huge damage!<*04>
+047,0x160d4e,<SFF>ドリア-ド型メダロット<CD>しょくぶつの ちからを アップ!<*04>,<SFF>Dryad-type Medarot<D3>Boost the power of plants!<*04>
+048,0x160d50,<SFF>コオロギ型メダロット<CD>ちょうおんぱで フォ-スせいぎょ!<*04>,<SFF>Cricket-type Medarot<D3>Control Force with ultrasonic waves!<*04>
+049,0x160d52,<SFF>ちきゅう型メダロット<CD>いだいなる ちきゅうの ちから!<*04>,<SFF>Earth-type Medarot<D3>The mighty power of Earth!<*04>
+050,0x160d54,<SFF>クワガタムシ型メダロット<CD>「ここうの さむらい」とも いうな<*04>,"<SFF>Stag Beetle-type Medarot<D3>Also called the ""Lone Samurai""<*04>"
+051,0x160d56,<SFF>カブトムシ型メダロット<CD>どんなてきでも かかってきやがれ!<*04>,"<SFF>Rhinoceros Beetle-type Medarot<D3>Come on, any enemy, bring it on!<*04>"
+052,0x160d58,<SFF>サ-ベルタイガ-型メダロット<CD>カブト型メダロットの ライバル<*04>,<SFF>Saber-toothed Tiger-type Medarot<D3>Rival of the Kabuto type<*04>
+053,0x160d5a,<SFF>キングライオン型メダロット<CD>クワガタ型メダロットの ライバル<*04>,<SFF>King Lion-type Medarot<D3>Rival of the Kuwagata type<*04>
+054,0x160d5c,<SFF>カブトムシ型メダロット<CD>けいリょう型の カブトだ!<*04>,<SFF>Rhinoceros Beetle-type Medarot<D3>Lightweight Kabuto model!<*04>
+055,0x160d5e,<SFF>ヘラクレスオオカブトムシ型メダロット<CD>じゅうリょう型の カブトだ!<*04>,<SFF>Hercules Beetle-type Medarot<D3>Heavyweight Kabuto model!<*04>
+056,0x160d60,<SFF>カミキリムシ型メダロット<CD>コンセプトは 「たおせ クワガタ!」<*04>,"<SFF>Longhorn Beetle-type Medarot<D3>Concept: ""Defeat the Kuwagata!""<*04>"
+057,0x160d62,<SFF>タマムシ型メダロット<CD>コンセプトは 「たおせ カブト!」<*04>,"<SFF>Jewel Beetle-type Medarot<D3>Concept: ""Defeat the Kabuto!""<*04>"
+058,0x160d64,<SFF>ティラノサウルス型メダロット<CD>セレクトスリ-の たいちょうだ!<*04>,<SFF>Tyrannosaurus-type Medarot<D3>Captain of the Select Three!<*04>
+059,0x160d66,<SFF>ばんちょう型メダロット<CD>よわきを たすけ つよきを くじく!<*04>,"<SFF>Bancho-type Medarot<D3>Help the weak, crush the strong!<*04>"
+060,0x160d68,<SFF>イヌ型メダロット<CD>こいきな しゃげき やろう<*04>,<SFF>Dog-type Medarot<D3>A dashing ranged attacker<*04>
+061,0x160d6a,<SFF>エイリアン型メダロット<CD>ヘんげんじざいの なんたいボディ<*04>,"<SFF>Alien-type Medarot<D3>A flexible, ever-changing body<*04>"
+062,0x160d6c,<SFF>ヴェロキラプトル型メダロット<CD>ねらった えものは にがさない!<*04>,<SFF>Velociraptor-type Medarot<D3>Never let your prey escape!<*04>
+063,0x160d6e,<SFF>エリマキトカゲ型メダロット<CD>あわてて いえに かえリたくなる!<*04>,<SFF>Frilled Lizard-type Medarot<D3>Makes you panic and want to run home!<*04>
+064,0x160d70,<SFF>クワガタムシ型メダロット<CD>クワガタ型メダロットの ダ-クサイド<*04>,<SFF>Stag Beetle-type Medarot<D3>The dark side of the Kuwagata type<*04>
+065,0x160d72,<SFF>ひこうき型メダロット<CD>「かぜのつばさ」で マップいどう!<*04>,"<SFF>Airplane-type Medarot<D3>Travel the map with ""Wings of Wind""!<*04>"
+066,0x160d74,<SFF>プログラマ-型メダロット<CD>みためはプログラマ- じつはハッカ-<*04>,"<SFF>Programmer-type Medarot<D3>Looks like a programmer, actually a hacker<*04>"
+067,0x160d76,<SFF>きリん型メダロット<CD>4体の せいじゅうを とういつする<*04>,<SFF>Giraffe-type Medarot<D3>Unites the four sacred beasts<*04>
+068,0x160d78,<SFF>トランプ「キング」型メダロット<CD>変形すると むてきの そうこうに!<*04>,<SFF>Playing-card King-type Medarot<D3>Transforms into invincible armor!<*04>
+069,0x160d7a,<SFF>クワガタムシ型メダロット<CD>たいおうぼうぎょの エキスパ-ト!<*04>,<SFF>Stag Beetle-type Medarot<D3>Expert in adaptive defense!<*04>
+070,0x160d7c,<SFF>トラ型メダロット<CD>たいおうぼうぎょの スタンダ-ド!<*04>,<SFF>Tiger-type Medarot<D3>The standard in adaptive defense!<*04>
+071,0x160d7e,<SFF>チ-タ-型メダロット<CD>こうそくの ハンマ-攻撃!<*04>,<SFF>Cheetah-type Medarot<D3>High-speed Hammer attack!<*04>
+072,0x160d80,<SFF>オオカミ型メダロット<CD>イヌが やせいに もどった オオカミ<*04>,<SFF>Wolf-type Medarot<D3>A dog returned to the wild<*04>
+073,0x160d82,<SFF>きかんしゃ型メダロット<CD>「ミニハンドル」で こうそくいどう!<*04>,"<SFF>Locomotive-type Medarot<D3>High-speed travel with ""Mini Handle""!<*04>"
+074,0x160d84,<SFF>カブトムシ型メダロット<CD>きょうリょく攻撃の エキスパ-ト!<*04>,<SFF>Rhinoceros Beetle-type Medarot<D3>Expert in powerful attacks!<*04>
+075,0x160d86,<SFF>ライオン型メダロット<CD>きょうリょく攻撃の スタンダ-ド!<*04>,<SFF>Lion-type Medarot<D3>The standard for powerful attacks!<*04>
+076,0x160d88,<SFF>カブトムシ型メダロット<CD>カブト型メダロットの ダ-クサイド<*04>,<SFF>Rhinoceros Beetle-type Medarot<D3>The dark side of the Kabuto type<*04>
+077,0x160d8a,<SFF>げんぶ型メダロット<CD>こうてつの よろいの せいじゅう<*04>,<SFF>Black Tortoise-type Medarot<D3>The sacred beast in an iron shell<*04>
+078,0x160d8c,<SFF>バッファロ-型メダロット<CD>きょうリょくパワ-で てきを はかい<*04>,<SFF>Buffalo-type Medarot<D3>Destroy enemies with mighty power<*04>
+079,0x160d8e,<SFF>せいリゅう型メダロット<CD>ふっかつと そせいの せいじゅう<*04>,<SFF>Azure Dragon-type Medarot<D3>The sacred beast of revival and resurrection<*04>
+080,0x160d90,<SFF>ふね型メダロット<CD>「せんぼうきょう」で 水に もぐる!<*04>,"<SFF>Boat-type Medarot<D3>Dive underwater with ""Submarine""!<*04>"
+081,0x160d92,<SFF>グ-ル型メダロット<CD>じめんを もぐって てきの うしろヘ<*04>,<SFF>Ghoul-type Medarot<D3>Burrow underground and get behind the enemy<*04>
+082,0x160d94,<SFF>セ-ラ-型メダロット<CD>カブトと クワガタを サポ-トするわ<*04>,<SFF>Sailor-type Medarot<D3>I'll support the Kabuto and Kuwagata types<*04>
+083,0x160d96,<SFF>ナ-ス型メダロット<CD>せんじょうを かけぬける ナ-スです<*04>,<SFF>Nurse-type Medarot<D3>A nurse who races across the battlefield<*04>
+084,0x160d98,<SFF>ネコ型メダロット<CD>アタシは 動くけど あんたは ダメ!<*04>,"<SFF>Cat-type Medarot<D3>I can move, but you can't!<*04>"
+085,0x160d9a,<SFF>ヴァルキュリア型メダロット<CD>カブトと クワガタの しんサポ-トよ<*04>,<SFF>Valkyrie-type Medarot<D3>New support for Kabuto and Kuwagata<*04>
+086,0x160d9c,<SFF>バニ-型メダロット<CD>ふしぎな ジュ-スで パワ-アップ!<*04>,<SFF>Bunny-type Medarot<D3>Power up with mysterious juice!<*04>
+087,0x160d9e,<SFF>しょくぶつさいばい型メダロット<CD>ふリそそぐ 攻撃から まもリます<*04>,<SFF>Plant Cultivator-type Medarot<D3>Protects you from falling attacks<*04>
+088,0x160da0,<SFF>かんこうガイド型メダロット<CD>あれちを つきすすむ かんこうガイド<*04>,<SFF>Tour Guide-type Medarot<D3>A tour guide pushing through the wasteland<*04>
+089,0x160da2,<SFF>みこ型メダロット<CD>おごそかな かみの つかい<*04>,<SFF>Miko-type Medarot<D3>A solemn servant of the gods<*04>
+090,0x160da4,<SFF>メイド型メダロット<CD>ごしゅじんさまのために がんばリます<*04>,<SFF>Maid-type Medarot<D3>I'll do my best for my master<*04>
+091,0x160da6,<SFF>ロ-タス型メダロット<CD>しんぴの ベ-ルは すベてを ふせぐ<*04>,<SFF>Lotus-type Medarot<D3>The veil of mystery blocks everything<*04>
+092,0x160da8,<SFF>てんとうむし型メダロット<CD>7つの ほしを あやつる おとめよ<*04>,<SFF>Ladybug-type Medarot<D3>Maiden who controls seven stars<*04>
+093,0x160daa,<SFF>たいよう型メダロット<CD>あれくるう ひかリの パワ-!<*04>,<SFF>Sun-type Medarot<D3>The raging power of light!<*04>
+094,0x160dac,<SFF>つき型メダロット<CD>おだやかなる ひかリの パワ-<*04>,<SFF>Moon-type Medarot<D3>The gentle power of light<*04>
+095,0x160dae,<SFF>すいせい型メダロット<CD>76ねんに 1どの きょうい!<*04>,<SFF>Comet-type Medarot<D3>A terrifying event once every 76 years!<*04>
+096,0x160db0,<SFF>てんのうせい型メダロット<CD>てんじょうよリの あおき いかづち<*04>,<SFF>Uranus-type Medarot<D3>Blue lightning from the heavens<*04>
+097,0x160db2,<SFF>かいおうせい型メダロット<CD>しんかいよリの あおき うずまき<*04>,<SFF>Neptune-type Medarot<D3>Blue whirlpool from the deep sea<*04>
+098,0x160db4,<SFF>めいおうせい型メダロット<CD>めいかいよリの はかいの いぶき<*04>,<SFF>Pluto-type Medarot<D3>Breath of destruction from the underworld<*04>
+099,0x160db6,<SFF>すざく型メダロット<CD>ひとを まどわす ふしの せいじゅう<*04>,<SFF>Vermilion Bird-type Medarot<D3>The sacred beast that bewilders people<*04>
+100,0x160db8,<SFF>ヒョウ型メダロット<CD>くらやみを かけぬける かリうど<*04>,<SFF>Leopard-type Medarot<D3>A hunter racing through the darkness<*04>
+101,0x160dba,<SFF>ねこむすめ型メダロット<CD>ネコパンチで おしおきにゅん!<*04>,"<SFF>Catgirl-type Medarot<D3>Punish them with a kitty punch, nya!<*04>"
+102,0x160dbc,<SFF>びゃっこ型メダロット<CD>あまかける おんそくの せいじゅう<*04>,<SFF>White Tiger-type Medarot<D3>The sacred beast of supersonic speed<*04>
+103,0x160dbe,<SFF>がくえんアイドル型メダロット<CD>うらのかおも がくえん だいひょう♥<*04>,<SFF>Academy Idol-type Medarot<D3>Even its secret side represents the academy♥<*04>
+104,0x160dc0,<SFF>バイク型メダロット<CD>レフェリ- ふリきリ かっとばす!<*04>,<SFF>Motorcycle-type Medarot<D3>Blazing past with referee's permission!<*04>
+105,0x160dc2,<SFF>どぼくさぎょう型メダロット<CD>じんそく ていねいが うリっす<*04>,<SFF>Civil Engineering-type Medarot<D3>Fast and careful is our specialty<*04>
+106,0x160dc4,<SFF>かぶき型メダロット<CD>かみを ふリふリ フィ-ルドまう!<*04>,<SFF>Kabuki-type Medarot<D3>Shake your hair and dance across the field!<*04>
+107,0x160dc6,<SFF>こもリ型メダロット<CD>やんちゃな こどもの ほけんです<*04>,<SFF>Shut-in-type Medarot<D3>Insurance for mischievous children<*04>
+108,0x160dc8,<SFF>キリン型メダロット<CD>あたリを みまわすには さいてき!<*04>,<SFF>Giraffe-type Medarot<D3>Perfect for looking around<*04>
+109,0x160dca,<SFF>ラクダ型メダロット<CD>あつさに たえて さばくを いそぐ<*04>,<SFF>Camel-type Medarot<D3>Endure the heat and hurry across the desert<*04>
+110,0x160dcc,<SFF>いちリんしゃ型メダロット<CD>ひとこぎ いっぽ ふたこぎ に-ほ<*04>,"<SFF>Unicycle-type Medarot<D3>One push, one step; two pushes, two steps<*04>"
+111,0x160dce,<SFF>せんぷうき型メダロット<CD>ビュ-ンと ひとっとばし!<*04>,<SFF>Fan-type Medarot<D3>Whoosh! One giant leap!<*04>
+112,0x160dd0,<SFF>ムカデ型メダロット<CD>てきに のしかかリ おしつぶすぞ<*04>,<SFF>Centipede-type Medarot<D3>Pin the enemy down and crush it<*04>
+113,0x160dd2,<SFF>けむし型メダロット<CD>きれいな からだの いっぽ てまえ<*04>,<SFF>Caterpillar-type Medarot<D3>One step short of a beautiful body<*04>
+114,0x160dd4,<SFF>パトカ-型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,<SFF>Patrol Car-type Medarot<D3>The Select Force's new Medarot!<*04>
+115,0x160dd6,<SFF>レスキュ-しゃ型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,<SFF>Rescue Car-type Medarot<D3>The Select Force's new Medarot!<*04>
+116,0x160dd8,<SFF>しょうぼうしゃ型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,<SFF>Fire Engine-type Medarot<D3>The Select Force's new Medarot!<*04>
+117,0x160dda,<SFF>ザリガニ型メダロット<CD>変形すれば さいそくの メダロットさ<*04>,<SFF>Crayfish-type Medarot<D3>Transform and become the fastest Medarot<*04>
+118,0x160ddc,<SFF>イモムシ型メダロット<CD>きれいな からだの いっぽ てまえ<*04>,<SFF>Larva-type Medarot<D3>One step short of a beautiful body<*04>
+119,0x160dde,<SFF>きんせい型メダロット<CD>かがやける ゆうぐれの おとめよ<*04>,<SFF>Venus-type Medarot<D3>Maiden of the radiant dusk<*04>
+120,0x160de0,<SFF>ブラキオサウルス型メダロット<CD>セレクトスリ-の しれいとう!<*04>,<SFF>Brachiosaurus-type Medarot<D3>The Select Three's command center!<*04>
+121,0x160de2,<SFF>カメ型メダロット<CD>きょういの 3れんレ-ザ-!<*04>,<SFF>Turtle-type Medarot<D3>A terrifying triple Laser!<*04>
+122,0x160de4,<SFF>カブトガニ型メダロット<CD>ぼうぎょリょくでは にほんいち!<*04>,<SFF>Horseshoe Crab-type Medarot<D3>Number one in Japan for defense!<*04>
+123,0x160de6,<SFF>ステゴザウルス型メダロット<CD>れんけい攻撃の あにき!<*04>,<SFF>Stegosaurus-type Medarot<D3>Big brother of coordinated attacks!<*04>
+124,0x160de8,<SFF>トリケラトプス型メダロット<CD>れんけい攻撃の おとうと!<*04>,<SFF>Triceratops-type Medarot<D3>Little brother of coordinated attacks!<*04>
+125,0x160dea,<SFF>レンジ型メダロット<CD>くすぶってても だいばくはつ!<*04>,"<SFF>Range-type Medarot<D3>Even smoldering, it explodes!<*04>"
+126,0x160dec,<SFF>ミシン型メダロット<CD>どんなものでも ししゅうしちゃう<*04>,<SFF>Sewing Machine-type Medarot<D3>Can embroider anything<*04>
+127,0x160dee,<SFF>ダンゴムシ型メダロット<CD>あるていどなら はじきかえす カラ<*04>,<SFF>Woodlouse-type Medarot<D3>Shell that can deflect attacks to a degree<*04>
+128,0x160df0,<SFF>ミミズ型メダロット<CD>あいての はたけを くいちらかすぞ<*04>,<SFF>Earthworm-type Medarot<D3>Devour the enemy's field!<*04>
+129,0x160df2,<SFF>どせい型メダロット<CD>まわリを とリまく ぼうぎょの かベ<*04>,<SFF>Saturn-type Medarot<D3>A wall of defense surrounding you<*04>
+130,0x160df4,<SFF>クジラ型メダロット<CD>小エビを のみこみ しおを ふくじら<*04>,<SFF>Whale-type Medarot<D3>Swallow shrimp and blow saltwater<*04>
+131,0x160df6,<SFF>アメ-バ型メダロット<CD>あなた からだに のみこまれるれ-ん<*04>,<SFF>Amoeba-type Medarot<D3>I'll be swallowed into your body~<*04>
+132,0x160df8,<SFF>イソギンチャク型メダロット<CD>すいついたらはなさないわよん<*04>,"<SFF>Sea Anemone-type Medarot<D3>Once I latch on, I won't let go!<*04>"
+133,0x160dfa,<SFF>アザラシ型メダロット<CD>オウッ オウッ....オウッ オウッ<*04>,<SFF>Seal-type Medarot<D3>Awk! Awk!....Awk! Awk!<*04>
+134,0x160dfc,<SFF>ナマズ型メダロット<CD>じしんを よちして ことなきを える<*04>,<SFF>Catfish-type Medarot<D3>Predict earthquakes and avoid disaster<*04>
+135,0x160dfe,<SFF>ウナギ型メダロット<CD>スタミナばつぐん モリモリけんこう!<*04>,"<SFF>Eel-type Medarot<D3>Great stamina, bursting with health!<*04>"
+136,0x160e00,<SFF>クロノサウルス型メダロット<CD>セレクト隊の せんすいメンバ-?<*04>,<SFF>Chronosaurus-type Medarot<D3>A Select Force underwater member?<*04>
+137,0x160e02,<SFF>ウ-パ-ル-パ-型メダロット<CD>貝ていると いしきが とおくなるロル<*04>,<SFF>Axolotl-type Medarot<D3>Stare at me and your mind drifts away~<*04>
+138,0x160e04,<SFF>ブラックバス型メダロット<CD>どんなパ-ツも はかいしまくるヤ-<*04>,<SFF>Black Bass-type Medarot<D3>I'll smash every part I can!<*04>
+139,0x160e06,<SFF>アノマロカリス型メダロット<CD>すベての パ-ツで てきを ほかく!<*04>,<SFF>Anomalocaris-type Medarot<D3>Capture enemies with every part!<*04>
+140,0x160e08,<SFF>ハルキゲニア型メダロット<CD>きみょうな くみあわせで ほんろうゲ<*04>,<SFF>Hallucigenia-type Medarot<D3>Confound them with a bizarre combination<*04>
+141,0x160e0a,<SFF>タガメ型メダロット<CD>ほら そらだって とベるんです<*04>,<SFF>Water Bug-type Medarot<D3>See? Even the sky can be crossed<*04>
+142,0x160e0c,<SFF>アメンボ型メダロット<CD>なんと そらだって とベるんです<*04>,"<SFF>Water Strider-type Medarot<D3>Believe it or not, even the sky can be crossed<*04>"
+143,0x160e0e,<SFF>タツノオトシゴ型メダロット<CD>貝よ! きゅうきょくの しんか!<*04>,<SFF>Seahorse-type Medarot<D3>Look! The ultimate evolution!<*04>
+144,0x160e10,<SFF>コイ型メダロット<CD>貝よ! きゅうきょくの しんか!<*04>,<SFF>Carp-type Medarot<D3>Look! The ultimate evolution!<*04>
+145,0x160e12,<SFF>イルカ型メダロット<CD>けがした メダロットは いるか?<*04>,<SFF>Dolphin-type Medarot<D3>Are there any injured Medarots?<*04>
+146,0x160e14,<SFF>きんぎょ型メダロット<CD>わたし きれい...?<*04>,<SFF>Goldfish-type Medarot<D3>Am I pretty...?<*04>
+147,0x160e16,<SFF>トランプ「クイ-ン」型メダロット<CD>なぐる なぐる なぐる うけてみよ!<*04>,"<SFF>Playing-card Queen-type Medarot<D3>Strike, strike, strike-take this!<*04>"
+148,0x160e18,<SFF>アヒル型メダロット<CD>みにくくないもんっ!<*04>,<SFF>Duck-type Medarot<D3>I'm not ugly!<*04>
+149,0x160e1a,<SFF>すいせい型メダロット<CD>たいようの ひかリ さんさん<*04>,<SFF>Comet-type Medarot<D3>Sunlight shining down<*04>
+150,0x160e1c,<SFF>トランプ「エ-ス」型メダロット<CD>ふふふっ おろかものめ...<*04>,<SFF>Playing-card Ace-type Medarot<D3>Heh heh... foolish mortal...<*04>
+151,0x160e1e,<SFF>きゅうかんちょう型メダロット<CD>きゅうかんちょうでも オウムがえし!<*04>,<SFF>Secretary Bird-type Medarot<D3>Even the secretary bird returns fire!<*04>
+152,0x160e20,<SFF>ワイバ-ン型メダロット<CD>かぜよ あらしよっ!<*04>,<SFF>Wyvern-type Medarot<D3>Wind! Storm!<*04>
+153,0x160e22,<SFF>ト-スタ-型メダロット<CD>いろんな あつさの やけまっせ-<*04>,<SFF>Toaster-type Medarot<D3>All kinds of heat-coming right up!<*04>
+154,0x160e24,<SFF>カモメ型メダロット<CD>すいヘいさんっ♥<*04>,<SFF>Seagull-type Medarot<D3>Horizontal three!♥<*04>
+155,0x160e26,<SFF>ふうしゃ型メダロット<CD>とびますっ とびますっ<*04>,<SFF>Windmill-type Medarot<D3>I fly! I fly!<*04>
+156,0x160e28,<SFF>ワニチドリ型メダロット<CD>おこったら こわいんだから<*04>,"<SFF>Crocodile Bird-type Medarot<D3>Don't make me angry, it's scary<*04>"
+157,0x160e2a,<SFF>キノコ型メダロット<CD>出るぞ 出るぞっ ほうしが 出るぞっ<*04>,<SFF>Mushroom-type Medarot<D3>It's coming! Spores are coming!<*04>
+158,0x160e2c,<SFF>インキュバス型メダロット<CD>ふぬけに なるがいい<*04>,<SFF>Incubus-type Medarot<D3>Become a spineless fool<*04>
+159,0x160e2e,<SFF>じゃぐち型メダロット<CD>すベて あらいながしてやるっ!<*04>,<SFF>Faucet-type Medarot<D3>I'll wash everything away!<*04>
+160,0x160e30,<SFF>じゅじゅつし型メダロット<CD>うしなわれた こくいんを ふっかつ!<*04>,<SFF>Shaman-type Medarot<D3>Restore the lost inscription!<*04>
+161,0x160e32,<SFF>キノコ型メダロット<CD>まわる まわるよ かさが まわるよっ<*04>,"<SFF>Mushroom-type Medarot<D3>Round and round, the cap goes round!<*04>"
+162,0x160e34,<SFF>タロットカ-ド型メダロット<CD>さあ わたくしの てのうえで おどれ<*04>,<SFF>Tarot Card-type Medarot<D3>Now dance upon my palm<*04>
+163,0x160e36,<SFF>しんかん型メダロット<CD>ふういんを ときます<*04>,<SFF>Priest-type Medarot<D3>I shall break the seal<*04>
+164,0x160e38,<SFF>はいごれい型メダロット<CD>うしろの しょうめん だ-れっ?<*04>,<SFF>Rear Ghost-type Medarot<D3>Who's standing right behind you?<*04>
+165,0x160e3a,<SFF>ウツボカズラ型メダロット<CD>どっからでも かかってこいっ!<*04>,<SFF>Pitcher Plant-type Medarot<D3>Come at me from anywhere!<*04>
+166,0x160e3c,<SFF>コアラ型メダロット<CD>なかには ミサイルが た-っぷリっ<*04>,<SFF>Koala-type Medarot<D3>Loaded with missiles inside!<*04>
+167,0x160e3e,<SFF>ケンタウロス型メダロット<CD>リンゴも ミカンも これ 1ぽんさ!<*04>,<SFF>Centaur-type Medarot<D3>Apples and oranges-one shot does it all!<*04>
+168,0x160e40,<SFF>テレビ型メダロット<CD>さあ みんな ちゅうもく ちゅうもく<*04>,"<SFF>Television-type Medarot<D3>Everyone, look! Look!<*04>"
+169,0x160e42,<SFF>マング-ス型メダロット<CD>そ-ら つかまえたぞ それそれっ<*04>,"<SFF>Mongoose-type Medarot<D3>Gotcha! Come here, come here!<*04>"
+170,0x160e44,<SFF>ヤモリ型メダロット<CD>ペろん すペろん きょろんっ<*04>,"<SFF>Gecko-type Medarot<D3>Slip, slide, and slither!<*04>"
+171,0x160e46,<SFF>スキュラ型メダロット<CD>ひとの じゃまを してるんだよっ<*04>,<SFF>Scylla-type Medarot<D3>I'm just here to get in your way!<*04>
+172,0x160e48,<SFF>コクワガタムシ型メダロット<CD>こつぶでも ピリリで ござるよ<*04>,<SFF>Stag Beetle-type Medarot<D3>Small but still shockingly sharp<*04>
+173,0x160e4a,<SFF>コカブトムシ型メダロット<CD>ひとを チビって いうなあっ!!<*04>,<SFF>Rhinoceros Beetle-type Medarot<D3>Don't call me little!!<*04>
+174,0x160e4c,<SFF>フランケン型メダロット<CD>ああして「ド-ン」こうして「ド-ン」<*04>,"<SFF>Frankenstein-type Medarot<D3>""Boom"" this way, ""boom"" that way<*04>"
+175,0x160e4e,<SFF>かがみ型メダロット<CD>ほら...うしろに たってる<*04>,<SFF>Mirror-type Medarot<D3>Look... it's standing behind you<*04>
+176,0x160e50,<SFF>かみ型メダロット<CD>おまえたちは わたしの てのなかだ<*04>,<SFF>Hair-type Medarot<D3>You are all in the palm of my hand<*04>
+177,0x160e52,<SFF>アリジゴク型メダロット<CD>きらわれものと はかない いのち<*04>,"<SFF>Antlion-type Medarot<D3>Hated by all, with a fleeting life<*04>"
+178,0x160e54,<SFF>ゆきやま きゅうじょけん型メダロット<CD>やまでの きゅうじょは おまかせっ<*04>,<SFF>Mountain Rescue Dog-type Medarot<D3>Leave mountain rescues to me!<*04>
+179,0x160e56,<SFF>ゴキブリ型メダロット<CD>どこに いっても きらわれものロボ<*04>,"<SFF>Cockroach-type Medarot<D3>Hated wherever I go, robo<*04>"
+180,0x160e58,<SFF>ティンペット型メダロット<CD>そんなに 貝つめちゃ いやんっ♥<*04>,"<SFF>Tinpet-type Medarot<D3>Don't stuff me that full, please♥<*04>"
+181,0x160e5a,<SFF>かいなん きゅうじょけん型メダロット<CD>うみでの きゅうじょは おまかせっ<*04>,<SFF>Sea Rescue Dog-type Medarot<D3>Leave sea rescues to me!<*04>
+182,0x160e5c,<SFF>せいきし型メダロット<CD>ふういんされし でんせつの きし<*04>,<SFF>Paladin-type Medarot<D3>The legendary knight once sealed away<*04>
+183,0x160e5e,<SFF>オオクワガタムシ型メダロット<CD>あまかける あおき のこぎリ!<*04>,<SFF>Giant Stag Beetle-type Medarot<D3>Blue sawblade soaring through the sky!<*04>
+184,0x160e60,<SFF>だいあくま型メダロット<CD>ちからを ひめし さいしゅうヘいき<*04>,<SFF>Great Devil-type Medarot<D3>The ultimate weapon with hidden power<*04>
+185,0x160e62,<SFF>オオカブトムシ型メダロット<CD>ちをかける あかき とさか!<*04>,<SFF>Giant Rhinoceros Beetle-type Medarot<D3>Red crest racing through the blood!<*04>
+186,0x160e64,<SFF>パンダ型メダロット<CD>パンダ サンダ- アカパンダ-<*04>,"<SFF>Panda-type Medarot<D3>Panda, Thunder, Red Panda<*04>"
+187,0x160e66,<SFF>トルネ-ド型メダロット<CD>ながびいても いいのかしら?<*04>,<SFF>Tornado-type Medarot<D3>Can this really go on?<*04>
+188,0x160e68,<SFF>デビル型メダロット<CD>みんな きらい...<*04>,<SFF>Devil-type Medarot<D3>Everyone hates me...<*04>
+189,0x160e6a,<SFF>だいてんし型メダロット<CD>さいしゅうヘいきの よくせいしゃ<*04>,<SFF>Archangel-type Medarot<D3>Suppressor of the ultimate weapon<*04>
+190,0x160e6c,<SFF>あんこくきし型メダロット<CD>ちからを うしなった あんこく きし<*04>,<SFF>Dark Knight-type Medarot<D3>A dark knight who lost his power<*04>
+191,0x160e6e,<SFF>パンダ型メダロット<CD>ころぶまでを カウントダウン!<*04>,<SFF>Panda-type Medarot<D3>Countdown until it falls over!<*04>
+192,0x160e70,<SFF>ダチョウ型メダロット<CD>おら! おら! どきやがれ!<*04>,<SFF>Ostrich-type Medarot<D3>Hey! Hey! Get out of the way!<*04>
+193,0x160e72,<SFF>カモ型メダロット<CD>おいしく おめしあがリくださいっ!<*04>,<SFF>Duck-type Medarot<D3>Please enjoy your meal!<*04>
+194,0x160e74,<SFF>かていきょうし型メダロット<CD>さあ ロボトルの じかんですわよっ<*04>,<SFF>Home Tutor-type Medarot<D3>Now it's time for Robattle!<*04>
+195,0x160e76,<SFF>そうじき型メダロット<CD>ぜんぶ すいあげて ポイッです<*04>,<SFF>Vacuum Cleaner-type Medarot<D3>Suck it all up and toss it!<*04>
+196,0x160e78,<SFF>トナカイ型メダロット<CD>おじいちゃんの かわリにっと<*04>,<SFF>Reindeer-type Medarot<D3>I'll fill in for Grandpa!<*04>
+197,0x160e7a,<SFF>カツオノエボシ型メダロット<CD>かいめんには 頭しか 出てないんです<*04>,<SFF>Portuguese Man o' War-type Medarot<D3>Only my head sticks above the surface<*04>
+198,0x160e7c,<SFF>ヒドラ型メダロット<CD>なまはんかな こうげきでは たおれん<*04>,<SFF>Hydra-type Medarot<D3>Half-hearted attacks won't bring me down<*04>
+199,0x160e7e,<SFF>ベヒ-モス型メダロット<CD>フィ-ルドを ゆるがす こどう!<*04>,<SFF>Behemoth-type Medarot<D3>A heartbeat that shakes the field!<*04>
+200,0x160e80,<SFF>だるま型メダロット<CD>ころんでも ただでは おきんわい!<*04>,<SFF>Daruma-type Medarot<D3>I don't stay down when I fall!<*04>
+201,0x160e82,<SFF>ロケットはっしゃだい型メダロット<CD>はっしゃ じゅんび かんリょうです!<*04>,<SFF>Rocket Launch Pad-type Medarot<D3>Launch preparations complete!<*04>
+202,0x160e84,<SFF>ナマコ型メダロット<CD>ねらっても いいっすよ<*04>,"<SFF>Sea Cucumber-type Medarot<D3>Sure, you can aim at me<*04>"
+203,0x160e86,<SFF>カタツムリ型メダロット<CD>カラの中には 3つの ちから!<*04>,<SFF>Snail-type Medarot<D3>Three powers inside the shell!<*04>
+204,0x160e88,<SFF>アルラウネ型メダロット<CD>いらっしゃい やみうちにして あげる<*04>,<SFF>Alraune-type Medarot<D3>Welcome. I'll ambush you<*04>
+205,0x160e8a,<SFF>れいぞうこ型メダロット<CD>さむっ いや まもリますけどね<*04>,"<SFF>Refrigerator-type Medarot<D3>Cold! Well, I'll protect you anyway<*04>"
+206,0x160e8c,<SFF>リヴァイアサン型メダロット<CD>すベてを のみこむ あらなみよ!<*04>,"<SFF>Leviathan-type Medarot<D3>O raging waves, swallow everything!<*04>"
+207,0x160e8e,<SFF>シ-ラカンス型メダロット<CD>せかいきろく こうしん中!<*04>,<SFF>Coelacanth-type Medarot<D3>Breaking the world record!<*04>
+208,0x160e90,<SFF>ラッコ型メダロット<CD>これ おきにいリの いわ♥<*04>,<SFF>Otter-type Medarot<D3>This is my favorite rock♥<*04>
+209,0x160e92,<SFF>せんたくき型メダロット<CD>あんた ちょっと よごれてない?<*04>,<SFF>Washing Machine-type Medarot<D3>Aren't you a little dirty?<*04>
+210,0x160e94,<SFF>ミジンコ型メダロット<CD>こうごうせいでも したいな-っ<*04>,<SFF>Water Flea-type Medarot<D3>I feel like doing some photosynthesis~<*04>
+211,0x160e96,<SFF>クマ型メダロット<CD>アンジェラと チェルシ-はどこ?<*04>,<SFF>Bear-type Medarot<D3>Where are Angela and Chelsea?<*04>
+212,0x160e98,<SFF>ゴ-スト型メダロット<CD>あんまリ いたくしないで♥<*04>,<SFF>Ghost-type Medarot<D3>Don't hurt me too much♥<*04>
+213,0x160e9a,<SFF>どぐう型メダロット<CD>こんかい パワ-アップしてます<*04>,<SFF>Dogu-type Medarot<D3>Powering up this time<*04>
+214,0x160e9c,<SFF>ラスボス型メダロット<CD>めざめよ さいきょうの はかいヘいき<*04>,"<SFF>Final Boss-type Medarot<D3>Awaken, ultimate weapon of destruction<*04>"
+215,0x160e9e,<SFF>とうぎゅうし型メダロット<CD>かてると おもうなら かかってきな!<*04>,"<SFF>Matador-type Medarot<D3>If you think you can win, come at me!<*04>"
+216,0x160ea0,<SFF>タコ型メダロット<CD>おやまの あかだいしょうカネ!<*04>,"<SFF>Octopus-type Medarot<D3>I'm the mountain's red general, Kane!<*04>"
+217,0x160ea2,<SFF>ヘビ型メダロット<CD>おやまの あおだいしょうマク!<*04>,"<SFF>Snake-type Medarot<D3>I'm the mountain's blue general, Maku!<*04>"
+218,0x160ea4,<SFF>フラワ-型メダロット<CD>こうそくレ-ザ- ピ-!!<*04>,"<SFF>Flower-type Medarot<D3>High-speed Laser, pew!<*04>"
+219,0x160ea6,<SFF>にんじゃ型メダロット<CD>シノビックパ-クで ボクと あくしゅ<*04>,<SFF>Ninja-type Medarot<D3>Shake hands with me at Shinobick Park<*04>
+220,0x160ea8,<SFF>むしゃ型メダロット<CD>むかしの パ-ツは いさぎよいじゃ!<*04>,<SFF>Warrior-type Medarot<D3>Old parts have honorable simplicity!<*04>
+221,0x160eaa,<SFF>イヌ型メダロット<CD>どんな パ-ツも あなだらけさ!<*04>,<SFF>Dog-type Medarot<D3>Any part can be full of holes!<*04>
+222,0x160eac,<SFF>デビル型メダロット<CD>にくを きリさき ほねを たつ!!<*04>,"<SFF>Devil-type Medarot<D3>Slice the flesh, break the bones!!<*04>"
+223,0x160eae,<SFF>くのいち型メダロット<CD>シノビックパ-クで キミと あくしゅ<*04>,<SFF>Kunoichi-type Medarot<D3>Shake hands with me at Shinobick Park<*04>
+224,0x160eb0,<SFF>こまいぬ型メダロット<CD>じんじゃの まもリがみですワン!<*04>,"<SFF>Komainu-type Medarot<D3>I'm the shrine's guardian god, woof!<*04>"
+225,0x160eb2,<SFF>ペンギン型メダロット<CD>北が こいしいペンペン...<*04>,"<SFF>Penguin-type Medarot<D3>I miss the North, peng peng...<*04>"
+226,0x160eb4,<SFF>コウモリ型メダロット<CD>どうくつは あたまに きをつけロボ<*04>,"<SFF>Bat-type Medarot<D3>Watch your head in caves, robo<*04>"
+227,0x160eb6,<SFF>エンジェル型メダロット<CD>がんそ いやらしけい...ですわ<*04>,<SFF>Angel-type Medarot<D3>The original in the naughty category... is me<*04>
+228,0x160eb8,<SFF>ナイトメア型メダロット<CD>たのしいユメを みさせルヨ ルヨ<*04>,<SFF>Nightmare-type Medarot<D3>I'll make you have a pleasant dream<*04>
+229,0x160eba,<SFF>スペクタ-型メダロット<CD>え-? よけたら いかんですわ-<*04>,"<SFF>Specter-type Medarot<D3>Huh? You shouldn't dodge, you know~<*04>"
+230,0x160ebc,<SFF>たいじ型メダロット<CD>ないたら たいヘんでちゅよ<*04>,"<SFF>Fetus-type Medarot<D3>Don't cry, or it'll be trouble, baby<*04>"
+231,0x160ebe,<SFF>カメレオン型メダロット<CD>かくれるのは おてのものさ<*04>,<SFF>Chameleon-type Medarot<D3>Hiding is my specialty<*04>
+232,0x160ec0,<SFF>カニ型メダロット<CD>ての ちがいは きのうの ちがい-<*04>,<SFF>Crab-type Medarot<D3>Different hands mean different functions<*04>
+233,0x160ec2,<SFF>ウサギ型メダロット<CD>あああっ じっ じかんが ないぃっ!<*04>,<SFF>Rabbit-type Medarot<D3>Aah! T-time! There isn't any time!<*04>
+234,0x160ec4,<SFF>デビル型メダロット<CD>デビルガ オオイト カゲ ウスイ..<*04>,"<SFF>Devil-type Medarot<D3>The more devils, the thinner the shadow...<*04>"
+235,0x160ec6,<SFF>メデュ-サ型メダロット<CD>ぼうや うしろむいてね う.し.ろ♥<*04>,"<SFF>Medusa-type Medarot<D3>Boy, turn around. B.a.c.k.♥<*04>"
+236,0x160ec8,<SFF>サキュバス型メダロット<CD>おね~さんが もらって あ.げ.る♥<*04>,<SFF>Succubus-type Medarot<D3>Big sis will take you for herself♥<*04>
+237,0x160eca,<SFF>めがみ型メダロット<CD>ふたたび フィ-ルドに まいもどれ!<*04>,<SFF>Goddess-type Medarot<D3>Return to the field once more!<*04>
+238,0x160ecc,<SFF>ナイト型メダロット<CD>いのちに かえても おまもリします!<*04>,<SFF>Knight-type Medarot<D3>I'll protect you even at the cost of my life!<*04>
+239,0x160ece,<SFF>ジャック.オ-.ランタン型メダロット<CD>え-? かまえたら いかんですわ-<*04>,<SFF>Jack-o'-Lantern-type Medarot<D3>Huh? You shouldn't pose like that~<*04>
+240,0x160ed0,<SFF>ゴ-レム型メダロット<CD>こころ やさしく みも うつくしく<*04>,"<SFF>Golem-type Medarot<D3>Kind heart, beautiful body<*04>"
+241,0x160ed2,<SFF>タマゴ型メダロット<CD>なにが でるでしょう?<*04>,<SFF>Egg-type Medarot<D3>What will come out?<*04>
+242,0x160ed4,<SFF>ゆきだるま型メダロット<CD>あっつい とこじゃ とけちゃいますよ<*04>,<SFF>Snowman-type Medarot<D3>Too hot and I'll melt<*04>
+243,0x160ed6,<SFF>オオカミウオ型メダロット<CD>かみついて しびれさせるっす<*04>,<SFF>Wolf Fish-type Medarot<D3>Bite and paralyze!<*04>
+244,0x160ed8,<SFF>マ-メイド型メダロット<CD>パ-ツの かいふくは おまかせよ<*04>,<SFF>Mermaid-type Medarot<D3>Leave the part recovery to me<*04>
+245,0x160eda,<SFF>ほたる型メダロット<CD>きれいな みずを まもるわ<*04>,<SFF>Firefly-type Medarot<D3>I'll protect the clean water<*04>
+246,0x160edc,<SFF>そんごくう型メダロット<CD>スピ-ド モンキ-だキ-ッ!<*04>,"<SFF>Son Goku-type Medarot<D3>Speed Monkey, kii-!<*04>"
+247,0x160ede,<SFF>ちょはっかい型メダロット<CD>じみちに あしもとを かためるブ-!<*04>,"<SFF>Cho Hakkai-type Medarot<D3>Steadily strengthen your footing, boo!<*04>"
+248,0x160ee0,<SFF>さごじょう型メダロット<CD>あしを ひっぱリ たこなぐるッパ!<*04>,"<SFF>Sha Wujing-type Medarot<D3>Trip them up and pound them, ppa!<*04>"
+249,0x160ee2,<SFF>しんせんぐみ型メダロット<CD>いちげきひっさつの やいば!<*04>,<SFF>Shinsengumi-type Medarot<D3>A blade that kills in one strike!<*04>
+250,0x160ee4,<SFF>ベんけい型メダロット<CD>せっしゃは ガンジョ-で ごわすっ!<*04>,<SFF>Benkei-type Medarot<D3>This warrior is tough as nails!<*04>
+251,0x160ee6,<SFF>ここにメダロットのせつめいをかく<*04>,<SFF>Medarot descriptions go here<*04>
+252,0x160ee8,@0x160ee6,@0x160ee6
+253,0x160eea,@0x160ee6,@0x160ee6
+254,0x160eec,@0x160ee6,@0x160ee6
+255,0x160eee,@0x160ee6,@0x160ee6

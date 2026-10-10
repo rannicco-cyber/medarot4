@@ -1,0 +1,108 @@
+Pystyrivi
+Vaakarivi
+Dataohjaus
+Salvatuli
+Täysi teho
+Isku-ansa
+Ryhmävaiht.
+Lähitaisto+
+Pystyrivi
+Optinen 1
+Kaukotaist+
+Vaakarivi
+Painovoi 1
+Puolustus+
+Aavikko
+Ryhmäsido
+Liikkuvuus+
+Rautamuuri
+Ryhmäjatku
+Ryhmäkorj 2
+Elämänimu
+Vaakarivi
+Ryhmälepo 1
+Elämänimu
+Täystuho
+Kertoja+
+Ilmahaitta
+Räjähde 1
+Työntö+
+Merihaitta
+Ryhmävaiht.
+Vesi
+Isku-ansa
+Ryhmäsido
+Kertoja+
+Tuhopallo
+Ryhmäjatku
+Työntö+
+Arpamuutos
+Ryhmäpysäys
+Vahinko 20
+Vahinko120
+Piikkikuop.
+Puumeri
+Syvänmeri
+Rautamuuri
+Dataohjaus
+Viidakko
+Painovoi 2
+Ryhmälepo 2
+Jäätikkö
+Räjähde 2
+Kertoja+
+Tulivuori
+Optinen 2
+Aikalyhenne
+Hiekkakuop.
+Rautamuuri
+Kaukomiina2
+Stadion
+Metsä
+Vuoristo
+Kaupunki
+Ilmahaitta
+Merihaitta
+Ryhmälepo 3
+Aikalyhenne
+Aikapidenne
+Yleissekava
+Vahinko 60
+Ryhmäkorj 1
+Ryhmälepo 1
+Ryhmäpysäys
+Pystyrivi
+Arpamuutos
+Salvatuli
+Ryhmäsekava
+Tuhopallo
+Vahinko 60
+Vahinko 20
+Vahinko120
+Kaukomiina1
+Kaukomiina2
+Kaukomiina3
+Ryhmäkorj 2
+Ryhmäkorj 3
+Täystuho
+Optinen 3
+Räjähde 3
+Painovoi 3
+Pystyrivi
+Avaruus
+Kyber
+Salvatuli
+Rautamuuri
+Dataohjaus
+Yleissekava
+Vah.käänne
+Ei muutosta
+Elämänimu
+Ryhmäkorj 4
+Kaukomiina3
+Dataohjaus
+Elämänimu
+Arpamuutos
+Laava
+Näyttämö
+Mikro

@@ -1,22 +1,22 @@
 ﻿Index[#version],Pointer[#version|],Original,Translated
-000,0x11e745,今回の ロボトルは<CD>「かくとうきんし」ロボトルです<CF>「なぐる」「がむしゃら」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,
-001,0x11e747,今回の ロボトルは<CD>「しゃげききんし」ロボトルです<CF>「うつ」「ねらいうち」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,
-002,0x11e749,今回の ロボトルは<CD>「ぼうぎょきんし」ロボトルです<CF>「まもる」「せっち」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,
-003,0x11e74b,今回の ロボトルは<CD>「かいふくきんし」ロボトルです<CF>「なおす」「とくしゅ」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,
-004,0x11e74d,今回の ロボトルは<CD>「おうえんきんし」ロボトルです<CF>「おうえん」「ぼうがい」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,
-005,0x11e74f,今回の ロボトルは<CD>「おとこメダロット」げんていです<CF>「おんなメダロット」は<CD>さんかできません<*02>,
-006,0x11e751,今回の ロボトルは<CD>「おんなメダロット」げんていです<CF>「おとこメダロット」は<CD>さんかできません<*02>,
-007,0x11e753,今回の ロボトルは<CD>「ふゆうメダロット」げんていです<CF>そのほかの 脚部タイプの<CD>メダロットは さんかできません<*02>,
-008,0x11e755,今回の ロボトルは<CD>「にきゃくメダロット」げんていです<CF>そのほかの 脚部タイプの<CD>メダロットは さんかできません<*02>,
-009,0x11e757,今回の ロボトルは<CD>「せんしゃメダロット」げんていです<CF>そのほかの 脚部タイプの<CD>メダロットは さんかできません<*02>,
-010,0x11e759,今回の ロボトルは<CD>「パ-トナ-」げんていです<CF>パ-トナ-の 1体だけが<CD>さんかできます<*02>,This robattle is limited to our partners and only one partner each can join in!<*02>
-011,0x11e75b,今回の ロボトルは<CD>「そうこう100」げんていです<CF>1体の そうこうが 100までの<CD>メダロットだけが さんかできます<*02>,
-012,0x11e75d,今回の ロボトルは<CD>「そうこう200」げんていです<CF>1体の そうこうが 200までの<CD>メダロットだけが さんかできます<*02>,
-013,0x11e75f,今回の ロボトルは<CD>「そうこう200」げんていです<CF>1体の そうこうが 200いじょうの<CD>メダロットだけが さんかできます<*02>,
-014,0x11e761,今回の ロボトルは<CD>「6体かちぬき」ロボトルです<CF>1体が きのうていしするたびに<CD>つぎの メダロットを さんかさせて<CF>6体ぜんいんが きのうていしするまで<CD>ロボトルを つづけます<CF>さいごに かちのこったチ-ムが<CD>しょうリとなリます<*02>,
-015,0x11e763,今回の ロボトルは<CD>「9体かちぬき」ロボトルです<CF>1体が きのうていしするたびに<CD>つぎの メダロットを さんかさせて<CF>9体ぜんいんが きのうていしするまで<CD>ロボトルを つづけます<CF>さいごに かちのこったチ-ムが<CD>しょうリとなリます<*02>,
-016,0x11e765,今回の ロボトルは<CD>「チ-ム」ロボトルです<CF>あなたの パ-トナ-を<CD>リ-ダ-として さんかさせます<CF>なかまの メダロットに ちょくせつ<CD>めいれいを あたえられませんが<CF>ロ-テ-ションの ヘんこうで<CD>さくせんを かえることができます<*02>,"This robattle will be a ""Team"" robattle.<CF>Your partner will be in the leader's position.<CF>You can not give orders directly to allied medarots.<CF>You can change tactics by changing the move rotations, though.<*02>"
-017,0x11e767,<FINAL>,
+000,0x11e745,今回の ロボトルは<CD>「かくとうきんし」ロボトルです<CF>「なぐる」「がむしゃら」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,"Tämä robottelu on<D3>""lähitaistelukielto""<D3>Lyönti-, raivo-osia eikä<D3>Medavoimaa voi käyttää<*02>"
+001,0x11e747,今回の ロボトルは<CD>「しゃげききんし」ロボトルです<CF>「うつ」「ねらいうち」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,"Tämä robottelu on<D3>""ampumiskielto""<D3>Ammunta-, tähtäysosia eikä<D3>Medavoimaa voi käyttää<*02>"
+002,0x11e749,今回の ロボトルは<CD>「ぼうぎょきんし」ロボトルです<CF>「まもる」「せっち」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,"Tämä robottelu on<D3>""puolustuskielto""<D3>Suojaus-, asennusosia eikä<D3>Medavoimaa voi käyttää<*02>"
+003,0x11e74b,今回の ロボトルは<CD>「かいふくきんし」ロボトルです<CF>「なおす」「とくしゅ」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,"Tämä robottelu on<D3>""korjauskielto""<D3>Korjaus-, erikoisosia eikä<D3>Medavoimaa voi käyttää<*02>"
+004,0x11e74d,今回の ロボトルは<CD>「おうえんきんし」ロボトルです<CF>「おうえん」「ぼうがい」の パ-ツと<CD>メダフォ-スが 使用できません<*02>,"Tämä robottelu on<D3>""rohkaisukielto""<D3>Rohkaisu-, häirintäosia eikä<D3>Medavoimaa voi käyttää<*02>"
+005,0x11e74f,今回の ロボトルは<CD>「おとこメダロット」げんていです<CF>「おんなメダロット」は<CD>さんかできません<*02>,"Tämä robottelu on vain<D3>""mies-Medaboteille""<D3>""Nais-Medabotit"" eivät<D3>voi osallistua<*02>"
+006,0x11e751,今回の ロボトルは<CD>「おんなメダロット」げんていです<CF>「おとこメダロット」は<CD>さんかできません<*02>,"Tämä robottelu on vain<D3>""nais-Medaboteille""<D3>""Mies-Medabotit"" eivät<D3>voi osallistua<*02>"
+007,0x11e753,今回の ロボトルは<CD>「ふゆうメダロット」げんていです<CF>そのほかの 脚部タイプの<CD>メダロットは さんかできません<*02>,"Tämä robottelu on vain<D3>""Leijunta-Medaboteille""<D3>Muut jalkatyypit eivät<D3>voi osallistua<*02>"
+008,0x11e755,今回の ロボトルは<CD>「にきゃくメダロット」げんていです<CF>そのほかの 脚部タイプの<CD>メダロットは さんかできません<*02>,"Tämä robottelu on vain<D3>""Kaksijalka-Medaboteille""<D3>Muut jalkatyypit eivät<D3>voi osallistua<*02>"
+009,0x11e757,今回の ロボトルは<CD>「せんしゃメダロット」げんていです<CF>そのほかの 脚部タイプの<CD>メダロットは さんかできません<*02>,"Tämä robottelu on vain<D3>""Tankki-Medaboteille""<D3>Muut jalkatyypit eivät<D3>voi osallistua<*02>"
+010,0x11e759,今回の ロボトルは<CD>「パ-トナ-」げんていです<CF>パ-トナ-の 1体だけが<CD>さんかできます<*02>,"Tämä robottelu on vain<D3>""kumppanille""<D3>Vain kumppani<D3>voi osallistua<*02>"
+011,0x11e75b,今回の ロボトルは<CD>「そうこう100」げんていです<CF>1体の そうこうが 100までの<CD>メダロットだけが さんかできます<*02>,"Tämä robottelu on<D3>""panssari 100"" -rajattu<D3>Vain enintään 100 panssarin<D3>Medabotit pääsevät mukaan<*02>"
+012,0x11e75d,今回の ロボトルは<CD>「そうこう200」げんていです<CF>1体の そうこうが 200までの<CD>メダロットだけが さんかできます<*02>,"Tämä robottelu on<D3>""panssari 200"" -rajattu<D3>Vain enintään 200 panssarin<D3>Medabotit pääsevät mukaan<*02>"
+013,0x11e75f,今回の ロボトルは<CD>「そうこう200」げんていです<CF>1体の そうこうが 200いじょうの<CD>メダロットだけが さんかできます<*02>,"Tämä robottelu on<D3>""panssari 200+"" -rajattu<D3>Vain vähintään 200 panssarin<D3>Medabotit pääsevät mukaan<*02>"
+014,0x11e761,今回の ロボトルは<CD>「6体かちぬき」ロボトルです<CF>1体が きのうていしするたびに<CD>つぎの メダロットを さんかさせて<CF>6体ぜんいんが きのうていしするまで<CD>ロボトルを つづけます<CF>さいごに かちのこったチ-ムが<CD>しょうリとなリます<*02>,"Tämä robottelu on<D3>""6 botin pudotuspeli""<D3>Kun yksi pysähtyy, seuraava<D3>Medabotti tulee tilalle<D3>Robottelu jatkuu, kunnes<D3>kaikki 6 ovat pysähtyneet<D3>Viimeisenä pystyssä<D3>oleva joukkue voittaa<*02>"
+015,0x11e763,今回の ロボトルは<CD>「9体かちぬき」ロボトルです<CF>1体が きのうていしするたびに<CD>つぎの メダロットを さんかさせて<CF>9体ぜんいんが きのうていしするまで<CD>ロボトルを つづけます<CF>さいごに かちのこったチ-ムが<CD>しょうリとなリます<*02>,"Tämä robottelu on<D3>""9 botin pudotuspeli""<D3>Kun yksi pysähtyy, seuraava<D3>Medabotti tulee tilalle<D3>Robottelu jatkuu, kunnes<D3>kaikki 9 ovat pysähtyneet<D3>Viimeisenä pystyssä<D3>oleva joukkue voittaa<*02>"
+016,0x11e765,今回の ロボトルは<CD>「チ-ム」ロボトルです<CF>あなたの パ-トナ-を<CD>リ-ダ-として さんかさせます<CF>なかまの メダロットに ちょくせつ<CD>めいれいを あたえられませんが<CF>ロ-テ-ションの ヘんこうで<CD>さくせんを かえることができます<*02>,"Tämä robottelu on<D3>""joukkuerobottelu""<D3>Kumppanisi osallistuu<D3>johtajana<D3>Tovereille ei voi antaa<D3>suoria käskyjä, mutta<D3>taktiikkaa voi muuttaa<D3>vaihtamalla rotaatiota<*02>"
+017,0x11e767,<FINAL>,<FINAL>
 018,0x11e769,@0x11e767,@0x11e767
 019,0x11e76b,@0x11e767,@0x11e767
 020,0x11e76d,@0x11e767,@0x11e767

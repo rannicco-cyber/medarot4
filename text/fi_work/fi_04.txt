@@ -1,0 +1,78 @@
+@000
+Tällä pääsee pakoon\nrobottelusta.
+@001
+Tästä näkee, miten\nkaupunki on yhdistetty!
+@002
+Iwanoin tuttu laite.\nSillä saa yhteyden kaikkiin.
+@003
+Rintaron ja muiden Medakellot,\njotka hain takaisin.
+@004
+Tällä voi siirtää osia\n"Medarot 3":sta!
+@005
+"Omikuji-pyhäkössä"\nnostettu ennustelappu.
+@006
+Asu, jolla muutun\nsiistiksi sankariksi!
+@007
+Kesä! Meri!... Silloin\nuimapuku on itsestäänselvyys.
+@008
+Kerää pisteitä korttiin\nja saat osia!
+@009
+Syötä oikea salasana\nja saat osia!
+@010
+Medabotilla "Vapor Rail"\nkaupungin halki vauhdilla!
+@011
+Medabotilla "Auto Cruise"\nvedessä sujuvasti!
+@012
+Medabotilla "Sky Cargo"\nkaupungin yli hetkessä!
+@013
+Muutun tyylikkääksi mekossa♥\n...Mitä ihmettä.
+@014
+Muutun söpöksi piiaksi♥\n...Aina tällaista!!
+@015
+Avain Sazanka-dojon\npääporttiin.
+@016
+Yksi suihkaus,\nja kaikki nukkuvat sikeästi.
+@017
+Toranishi-akatemian univormu.\nMuutun sen oppilaaksi.
+@018
+Äidin tekemät eväät,\njoissa on paljon rakkautta♥
+@019
+Medabird-kisan pääpalkinto.\nMitähän sisällä on...?
+@020
+Muutun samuraiksi. Sopii\nnutturalleni täydellisesti♥
+@021
+Ilman tätä\nen osaa uida...
+@022
+Umineko-hotellin\nhuoneeni avain.
+@023
+Pakkaus, jossa on 12 munaa.\nNyt ei saa rikkoa yhtään.
+@024
+Malli on vähän erilainen kuin\nmuiden oppilaiden vaatteissa.
+@025
+Tarvitaan Ryutou-akatemian\novien avaamiseen.
+@026
+Medamestarin todiste.\nMedabottaajan ylpeys!
+@027
+Medamestariksi: kanna sitä\nkaulassa kaupungilla.
+@028
+Äidin kauppareissu kioskille.\nNäitä rahoja ei saa käyttää.
+@029
+Shurin antama kirjakäärö.\nEn saa tekstistä selvää.
+@030
+Mizuchin antama kirjakäärö.\nEn saa tekstistä selvää.
+@031
+Hakuman antama kirjakäärö.\nEn saa tekstistä selvää.
+@032
+Kokuenin antama kirjakäärö.\nEn saa tekstistä selvää.
+@033
+Todiste siitä, että voitin\nlisäpeli Pimeän robottelun.
+@034
+Todiste siitä, että voitin\nlisäpeli Medaspeed-kuninkaan.
+@035
+Todiste siitä, että voitin\nlisäpeli Medaroad-kisan.
+@036
+Todiste siitä, että voitin\nlisäpeli Medabirdin.
+@037
+Kauniille annettava arvokas\nnimikirjoitus, kuulemma.
+@038
+?????

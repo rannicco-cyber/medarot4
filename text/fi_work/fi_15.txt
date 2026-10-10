@@ -1,0 +1,96 @@
+@000
+Mitä mieltä olet\ntähänastisista robotteluista?
+{BUF13}
+@001
+Mitä mieltä olet rotaation\nsatunnaisesta sijoittelusta?
+{BUF13}
+@002
+Sopivatko rotaation\nasetukset ja osat yhteen?
+{BUF13}
+@003
+Käytinkö rotaatiossa\nkaikkia osia?
+{BUF13}
+@004
+Onko rotaatiopisteet\nasetettu kunnolla?
+{BUF13}
+@005
+Valitsin tinpetin, joka sopii\ntunnelmaasi. Mitä tykkäät?
+{BUF13}
+@006
+Onko haluamasi osat\nmukana kokoonpanossa?
+{BUF13}
+@007
+Pidätkö osista, jotka\nsinulla on nyt varusteena?
+{BUF13}
+@008
+Mietin osien sopivuutta.\nOnnistuinko?
+{BUF13}
+@009
+Taitotasosi {BUF14#40} on\nkorkea. Pidätkö siitä?
+{BUF13}
+@010
+Olenko valinnut osat\ntaitotasojen mukaan?
+{BUF13}
+@011
+Onko nykyisestä\nMedaliasta hyötyä?
+{BUF13}
+@012
+Pidätkö nimestä,\njonka annoin sinulle?
+{BUF13}
+@013
+Ai niin! Osaatko jo\nkäyttää Medavoimaa?
+{BUF13}
+@014
+Tuletko toimeen\nkavereidesi kanssa?
+{BUF13}
+@015
+Voitko nyt käyttää\nlempiosiasi?
+{BUF13}
+@016
+Tykkäätkö minusta?
+{BUF13}
+@017
+Pidit kai edellisestä\nmestaristasi?
+{BUF13}
+@018
+Eikö sarjan osista koottu\nolisi vahva?
+{BUF13}
+@019
+Uskallatko robotella\nnykyisellä panssarilla?
+{BUF13}
+@020
+Ovatko varusteosiesi\nkyvyt mielestäsi vahvat?
+{BUF13}
+@021
+Onko robottelusi\nlähinnä "nopeus edellä"?
+{BUF13}
+@022
+Miten tämän kartan kenttä\nsopii jalkaosillesi?
+{BUF13}
+@023
+Mitä mieltä olet tämän\njalkaosan kyvyistä?
+{BUF13}
+@024
+Onnistuvatko toiminnot\nhelpommin tällä jalkaosalla?
+{BUF13}
+@025
+Onko nykyinen osayhdistelmä\nsiisti?
+{BUF13}
+@026
+Olen kasvanut aika\npaljon, eikö?
+{BUF13}
+@027
+Teillä on helppoa, kun ei\nole koulua eikä läksyjä
+{BUF13}
+@028
+Miten menee?
+{BUF13}
+@029
+Mitä tehtäisiin seuraavaksi?
+{BUF13}
+@030
+Näin eilen outoa unta.\nMillaista unta sinä näit?
+{BUF13}
+@031
+Onko sinulla jotain\nsanottavaa minulle?
+{BUF13}

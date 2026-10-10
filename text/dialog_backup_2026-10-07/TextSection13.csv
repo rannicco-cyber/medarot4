@@ -1,0 +1,65 @@
+﻿Index[#version],Pointer[#version|],Original,Translated
+000,0x3e64c8,<SFF>キャラのはいちをしてください!<*02>,<SFF>Please position the characters!<*02>
+001,0x3e64ca,<SFF>ぜん方4ラインまでの<CD>ぜんれつの てきに攻撃<*02>,<SFF>Attacks all enemies in the front 4 lines<D3>ahead.<*02>
+002,0x3e64cc,<SFF>してい3かしょに攻撃<*02>,<SFF>Attacks 3 designated positions<*02>
+003,0x3e64ce,<SFF>どうじく上に攻撃<*02>,<SFF>Attacks the same column<*02>
+004,0x3e64d0,<SFF>同ライン上に攻撃<*02>,<SFF>Attacks along the same line<*02>
+005,0x3e64d2,<SFF>してい1か所と<CD>リんせつする 4か所に攻撃<*02>,<SFF>Attacks 1 designated position and<D3>the 4 adjacent positions<*02>
+006,0x3e64d4,<SFF>してい1か所と しゅうい8か所に攻撃<CD>かいじょけいを むしする<*02>,<SFF>Attacks 1 designated position and the 8 surrounding positions<D3>ignoring removal effects<*02>
+007,0x3e64d6,<SFF>ぜんぽう3ラインの ぜんれつに<CD>攻撃 つぎ1/3で 攻撃しっぱい<*02>,<SFF>Attacks all rows in the front 3 lines<D3>Attack fails 1/3 of the time<*02>
+008,0x3e64d8,<SFF>ぜんぽう3ラインの ぜんれつに<CD>攻撃 つぎのタ-ン いどうできない<*02>,<SFF>Attacks all rows in the front 3 lines<D3>Cannot move next turn<*02>
+009,0x3e64da,<SFF>ぜんぽう3ラインの ぜんれつに<CD>攻撃 毎タ-ン 2ダメ-ジ<*02>,<SFF>Attacks all rows in the front 3 lines<D3>Deals 2 damage every turn<*02>
+010,0x3e64dc,<SFF>ぜんぽう2ラインの ぜんれつに<CD>攻撃 つぎのタ-ン 行動できない<*02>,<SFF>Attacks all rows in the front 2 lines<D3>Cannot act next turn<*02>
+011,0x3e64de,<SFF>ぜんぽう4ラインの ぜんれつに攻撃<CD>せっちを むしする<*02>,<SFF>Attacks all rows in the front 4 lines<D3>Ignores Set effects<*02>
+012,0x3e64e0,<SFF>しゅうい 8か所の<CD>みかたメダロットを えんごする<*02>,<SFF>Supports allied Medarots in the 8 surrounding positions<D3><*02>
+013,0x3e64e2,<SFF>どうじく上と<CD>上下1ラインを さくてきする<*02>,<SFF>Scans the same column and<D3>one line above and below<*02>
+014,0x3e64e4,<SFF>自分を いんペいする<CD>さくてきで はっけんされない<*02>,<SFF>Conceals yourself<D3>Cannot be detected by Scan<*02>
+015,0x3e64e6,<SFF>かくとう攻撃してきた メダロットに<CD>先に 10ダメ-ジあたえる<*02>,<SFF>Deals 10 damage first to a Medarot<D3>that attacks with a melee attack<*02>
+016,0x3e64e8,<SFF>リんせつする4か所の メダロットを<CD>かいふく または 症状かいじょ<*02>,<SFF>Recovers or removes status effects from<D3>the 4 adjacent Medarots<*02>
+017,0x3e64ea,<SFF>自分にたいする しゃげき攻撃の<CD>ダメ-ジを 1にさげる<*02>,<SFF>Reduces ranged attack damage against<D3>yourself to 1<*02>
+018,0x3e64ec,<SFF>つぎのじゅんばんの みかたが<CD>2回れんぞく 攻撃できる<*02>,<SFF>The next ally in turn order can<D3>attack twice in a row<*02>
+019,0x3e64ee,<SFF>どうじく上と 上下1ラインのてきが<CD>ぜんタ-ンにつかった 行動は使えない<*02>,<SFF>Enemies in the same column and one line<D3>above or below cannot use actions<*02>
+020,0x3e64f0,<SFF>リんせつする4か所に いどうできる<CD>みかたがいれば いれかわる<*02>,<SFF>Can move to the 4 adjacent positions<D3>and swap places if an ally is there<*02>
+021,0x3e64f2,みかたの攻撃<S3C><*04>,Ally attack<S3C><*04>
+022,0x3e64f4,てきの攻撃<S3C><*04>,Enemy attack<S3C><*04>
+023,0x3e64f6,てきは こそこそしている<S3C><*04>,The enemy is hiding<S3C><*04>
+024,0x3e64f8,<&BUF0D>に <&BUF0E>ダメ-ジ<S3C><*04>,<&BUF0D> takes <&BUF0E> damage<S3C><*04>
+025,0x3e64fa,てきメダロットに <&BUF0E>ダメ-ジ<S3C><*04>,Enemy Medarot takes <&BUF0E> damage<S3C><*04>
+026,0x3e64fc,<&BUF0D>は せっちしていた<S3C><*04>,<&BUF0D> had Set active<S3C><*04>
+027,0x3e64fe,てきメダロットは せっちしていた<S3C><*04>,The enemy Medarot had Set active<S3C><*04>
+028,0x3e6500,<&BUF0D>は ぼうぎょしていた<S3C><*04>,<&BUF0D> was Guarding<S3C><*04>
+029,0x3e6502,てきメダロットは ぼうぎょしていた<S3C><*04>,The enemy Medarot was Guarding<S3C><*04>
+030,0x3e6504,<&BUF0D>は <&BUF0E>にかかった<S3C><*04>,<&BUF0D> was afflicted with <&BUF0E><S3C><*04>
+031,0x3e6506,メダロットは <&BUF0E>にかかった<S3C><*04>,The Medarot was afflicted with <&BUF0E><S3C><*04>
+032,0x3e6508,このはんいに<CD>メダロットは いない<S3C><*04>,There are no Medarots in this area<D3><S3C><*04>
+033,0x3e650a,攻撃が めいちゅうした<S3C><*04>,The attack hit!<S3C><*04>
+034,0x3e650c,トラップが せっちされていた!<S3C><*04>,A trap was set!<S3C><*04>
+035,0x3e650e,メダロットは<CD>とくしゅかくとうの ダメ-ジをうけた<S3C><*04>,The Medarot took<D3>special melee damage<S3C><*04>
+036,0x3e6510,メダロットのきのうは ていしした<S3C><*04>,The Medarot's functions have stopped<S3C><*04>
+037,0x3e6512,メダロットは なかまをぼうぎょした<S3C><*04>,The Medarot protected an ally<S3C><*04>
+038,0x3e6514,メダロットは<CD>攻撃を かいじょした<S3C><*04>,The Medarot<D3>removed the attack effect<S3C><*04>
+039,0x3e6516,メダロットは<CD>とくしゅしゃげきの ダメ-ジをうけた<S3C><*04>,The Medarot took<D3>special ranged damage<S3C><*04>
+040,0x3e6518,メダロットは さくてきをはじめた<S3C><*04>,The Medarot began scanning<S3C><*04>
+041,0x3e651a,はんい内の メダロットは<CD>ぼうがいの症状に かかった<S3C><*04>,Medarots in range were<D3>afflicted with an interference status<S3C><*04>
+042,0x3e651c,はんい内の<CD>メダロットは さくてきされる<S3C><*04>,Medarots in range were<D3>scanned<S3C><*04>
+043,0x3e651e,<&BUF0D>は<CD><&BUF0E>ダメ-ジかいふく<S3C><*04>,<&BUF0D> recovered<D3> <&BUF0E> damage<S3C><*04>
+044,0x3e6520,すベてのみかたが きのうていしした!<*02>,All allies have been disabled!<*02>
+045,0x3e6522,すベてのてきを きのうていしさせた!<*02>,All enemies have been disabled!<*02>
+046,0x3e6524,カン!カン!カン! ロボトルエンド!<CD>さあ これで 時間切れです!<CF>はんていのけっかを 貝てみましょう!<CD>はんていのけっか!<CF>てきチ-ムの 勝利です!<S3C><*04>,Bang! Bang! Bang! Robattle over!<D3>Time's up!<CF>Let's see the judge's result!<D3>The verdict!<CF>The enemy team wins!<S3C><*04>
+047,0x3e6528,カン!カン!カン! ロボトルエンド!<CD>さあ これで 時間切れです!<CF>はんていのけっかを 貝てみましょう!<CD>はんていのけっか!<CF>みかたチ-ムの 勝利です!<S3C><*04>,Bang! Bang! Bang! Robattle over!<D3>Time's up!<CF>Let's see the judge's result!<D3>The verdict!<CF>Our team wins!<S3C><*04>
+048,0x3e652a,メダロットは ヘんどうの症状に<CD>よって 行動をしっぱいした!<S3C><*04>,The Medarot failed to act<D3>due to a status effect!<S3C><*04>
+049,0x3e652c,ふぅ あぶないところだった<*02>,"Whew, that was close.<*02>"
+050,0x3e652e,やった- こんなもんかな<*02>,Yes! That should do it!<*02>
+051,0x3e6530,やった- らくしょう らくしょう<*02>,"Yes! Easy win, easy win!<*02>"
+052,0x3e6532,あともう少しだったのに...<*02>,I almost had it...<*02>
+053,0x3e6534,こんどこそ かつぞ!<*02>,"This time, I'll win!<*02>"
+054,0x3e6536,ぜんぜんだめだぁ...<*02>,That was hopeless...<*02>
+055,0x3e6538,メダロットは<CD>けいぞくの ダメ-ジをうけた!<S3C><*04>,The Medarot took<D3>continuous damage!<S3C><*04>
+056,0x3e653a,せんとうかいし!<S3C><*04>,Battle start!<S3C><*04>
+057,0x3e653c,これいじょう かいふくできない!<S3C><*04>,It can't recover any further!<S3C><*04>
+058,0x3e653e,ダ-クロボトルが おわリました<CD>つうしんをきリます!<SC8><*04>,The Dark Robattle is over<D3>and the connection will be closed!<SC8><*04>
+059,0x3e6540,<FINAL>,
+060,0x3e6526,@0x3e6524,@0x3e6524
+061,0x3e6542,@0x3e6540,@0x3e6540
+062,0x3e6544,@0x3e6540,@0x3e6540
+063,0x3e6546,@0x3e6540,@0x3e6540

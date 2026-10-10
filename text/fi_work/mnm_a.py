@@ -1,0 +1,15 @@
+M={
+'メダマスタ-':'Medamestari','アリカ':'Arika','カリン':'Karin','コウジ':'Kouji','レトルト':'Retort',
+'ヒカル':'Hikaru','キクヒメ':'Kikuhime','イワノイ':'Iwanoi','カガミヤマ':'Kagamiyama','ハチロウ':'Hachirou',
+'ミルキ-':'Milky','レトルトレディ':'Retortrouva','メダロットはかせ':'Medatohtori','ナエ':'Nae',
+'サケカ-ス':'Sakekasu','スルメ':'Surume','シオカラ':'Shiokara','サラミ':'Salami','ヘベレケはかせ':'Hebereke',
+'コクエン':'Kokuen','ハクマ':'Hakuma','シュリ':'Shuri','リュウコ':'Ryuuko','ミズチ':'Mizuchi','オロチ':'Orochi',
+'キノコ':'Kinoko','アカガネ':'Akagane','タマオ':'Tamao','ユキエ':'Yukie','リんたろう':'Rintarou',
+'バフサク':'Bafusaku','ムツキ':'Mutsuki','ハスケ':'Hasuke','たまを':'Tamawo','ミツオ':'Mitsuo','ルミ':'Rumi',
+'シメタ':'Shimeta','ビャクヤ':'Byakuya','こわれフランケン':'Rikkifrank','フランケン':'Franken',
+'リバティ-ズ':'Liberties','ヘロケロベロス':'Herokerbero','やまのたいしょう':'Vuoriherra','ホマレ':'Homare',
+'マサミ':'Masami','しらたま':'Shiratama','カブトベニマル':'Benimaru','クワガタバイザン':'Baizan',
+'センジュ':'Senju','カンちゃん':'Kan','グイノミ':'Guinomi','ナユタ':'Nayuta','クロウマ':'Kurouma',
+'ブンロク':'Bunroku','はにぃボ-イ':'HoneyBoy','カワムラ-':'Kawamura','シルエット':'Siluetti',
+'もリたま':'Moritama','コクエンたい':'Kokuentiimi','スクリュ-ズ':'Screwz','セレクトたいいん':'Select-mies',
+}

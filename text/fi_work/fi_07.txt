@@ -1,0 +1,844 @@
+@000#kabuto
+Pystytkö ylittämään minut?
+@000#kuwagata
+Nuorukainen, ylitä minut!
+@001#kabuto
+Maljani loistavalle\ntulevaisuudellesi!
+@001#kuwagata
+Hienoa! Taisin hävitä.
+@002#kabuto
+Tänään panen kaikkeni peliin!
+@002#kuwagata
+En anna sinun voittaa!
+@003#kabuto
+Hetkinen, mitä tämä nyt tarkoittaa?
+@003#kuwagata
+Hmph! Ihan sama!
+@004#kabuto
+Olethan armollinen minulle♥
+@004#kuwagata
+Tämä on niin jännittävää♥
+@005#kabuto
+Se oli hauskaa♥
+@005#kuwagata
+Robotellaan taas joskus♥
+@006#kabuto
+Minä olen aina tosissani!
+@006#kuwagata
+Näytän sinulle, mihin pystyn!
+@007#kabuto
+Tämä on vasta alkua!
+@007#kuwagata
+...Heh. Nyt syttyi.
+@008#kabuto
+Mestarivaras Retort saapuu paikalle!
+@008#kuwagata
+Minä olen tulisen loistava medabottaaja!
+@009#kabuto
+Nuorukainen, ylitä minut
+@009#kuwagata
+Muhahahaa!\nRetort on kuolematon!
+@010#kabuto
+Näytä minulle, mihin pystyt
+@010#kuwagata
+Sujuuko kasvatus hyvin?
+@011#kabuto
+Olet sinä vain mahtava
+@011#kuwagata
+Näytät kasvattavan niitä hyvin
+@012#kabuto
+Älä luule itsestäsi liikoja!
+@012#kuwagata
+Kenenä sinä minua oikein pidät?!
+@013#kabuto
+Juuri tuollaista minä\ninhoan sinussa!
+@013#kuwagata
+Älä aliarvioi\nmahtavaa Kikuhimea!
+@014#kabuto
+Nerokkaan hakkerin nimeen!!
+@014#kuwagata
+Screws-jengin nimeen!!
+@015#kabuto
+Hitto! Tämä ei jää tähän!!
+@015#kuwagata
+Kerron tästä pomolle!
+@016#kabuto
+Vaatteeni likaantuvat
+@016#kuwagata
+Vaikka vaatteeni likaantuisivat!
+@017#kabuto
+Pitää pestä pyykkiä...
+@017#kuwagata
+Vaatteeni likaantuivat...
+@018#kabuto
+Näytän sinulle Medabottini
+@018#kuwagata
+Katsotaanpa\nMedabottitajuasi
+@019#kabuto
+Mitäs sanot? Eivätkö olleetkin\nupeita Medabotteja?
+@019#kuwagata
+Heh, vai niin
+@020#kabuto
+En minä mikään\nyhteystyttö ole♥
+@020#kuwagata
+Haloo! Kaikkien tuttu\nMilky täällä♥
+@021#kabuto
+Pitäisiköhän etsiä uusi työ...
+@021#kuwagata
+Viime aikoina ei ole ollut\ntilaisuuksia loistaa
+@022#kabuto
+Olen taivaasta laskeutunut\nkaunotar Retort Lady!
+@022#kuwagata
+Näytän sinulle tulisen\nloistavat taitoni♥
+@023#kabuto
+Hihi, aika hyvä, vai mitä?
+@023#kuwagata
+Taitosi saavat minut\nihan sähköiseksi♥
+@024#kabuto
+Minäpä katson, mihin\nsinusta on
+@024#kuwagata
+Kas niin, yritetäänkö\nkerran tosissaan?
+@025#kabuto
+Odotan innolla, miten\nkehityt tästä eteenpäin!
+@025#kuwagata
+Vaali sidettä\nkumppanisi kanssa
+@026#kabuto
+Mitä enemmän tietää, sitä\nhienompia Medabotit ovat
+@026#kuwagata
+Medabotit opettavat\nmeille monia asioita
+@027#kabuto
+Tunsin, kuinka paljon\nvälität Medaboteista
+@027#kuwagata
+Tehdään jatkossakin\nparhaamme♥
+@028#kabuto
+Naura nyt, kun vielä voit!
+@028#kuwagata
+Itke! Huuda! Ja paina\nnimeni mieleesi!
+@029#kabuto
+Miksi!? Miksi näin!?\nTämä on mahdotonta!!
+@029#kuwagata
+Joka seisoo pahuuden tielläni,\nsaa painua manalaan!!
+@030#kabuto
+Ohohohoo! Olen Surume,\nRoborobo-jengin punaruusu!
+@030#kuwagata
+Ohohohoo! Olen Surume,\nRoborobo-jengin kukkanen!
+@031#kabuto
+Kiiih! Pelkkä lapsi\nja noin nenäkäs!
+@031#kuwagata
+Ensi kerralla et\npääse yhtä helpolla!
+@032#kabuto
+Hohhohhoo, murskaanpa\nsinut kevyesti
+@032#kuwagata
+Hohhohhoo, aiotko\nnousta minua vastaan?
+@033#kabuto
+Tämän takia minä\ninhoan lapsia!
+@033#kuwagata
+Kunnioittaisit edes\nvähän vanhuksia!
+@034#kabuto
+Tarhalaista ei kannata\naliarvioida, tiijätkö!
+@034#kuwagata
+Mun unelma on tulla\nisoksi aikuiseksi!
+@035#kabuto
+Tällä menolla jään\ntarhalla luokalle...
+@035#kuwagata
+Ehkä Roborobo-jengissä\nei sittenkään pärjää...
+@036#kabuto
+Kunpa pian saisi\nvallata maailman♪
+@036#kuwagata
+Valloitan maailman ja lähden\nlomalle kaunottarien kanssa♥
+@037#kabuto
+Unelmani ovat vasta alussa!
+@037#kuwagata
+Sinusta ei ole minulle vastusta!
+@038#kabuto
+Sinäkö muka minut\nvoittaisit?! Tuskin!
+@038#kuwagata
+Minut voittaaksesi saat\nodottaa 10000000 vuotta!
+@039#kabuto
+Tsk. Älä viitsi pelleillä!
+@039#kuwagata
+Mikä nenäkäs kakara!
+@040#kabuto
+Kun toive on vahva,\nse toteutuu joskus
+@040#kuwagata
+Mitä me opimme\ntästä taistelusta?
+@041#kabuto
+Tunteesi ovat aitoja, eikö?
+@041#kuwagata
+Ehkä medabottaajat eivät\nedes tarvitse sanoja
+@042#kabuto
+Vain todella vahva\nvoi olla todella kaunis
+@042#kuwagata
+Vain vahvat ovat kauniita.\nNäytä kauneutesi.
+@043#kabuto
+Uskomatonta,\nettä minä hävisin
+@043#kuwagata
+Niin... se on sinun kauneutesi
+@044#kabuto
+Älä tuota minulle pettymystä
+@044#kuwagata
+En halua kömpelöä taistelua
+@045#kabuto
+...No, eihän tuo\nhuonosti mennyt?
+@045#kuwagata
+Kun tyydyt itseesi,\nkaikki loppuu siihen
+@046#kabuto
+Pelkällä yrityksellä ei\naina pärjää
+@046#kuwagata
+Muistatko, montako kertaa\nolet jo taistellut?
+@047#kabuto
+...No, poikkeuksia sattuu aina
+@047#kuwagata
+Onko tuo todellinen voimasi?
+@048#kabuto
+Näytä ihmeessä minulle voimasi
+@048#kuwagata
+Haluan tietää, mihin\nsinä todella pystyt
+@049#kabuto
+Äärimmäisen kiinnostavaa!
+@049#kuwagata
+Todella upeaa!
+@050#kabuto
+Minä olen petojen\nkuningas, Beast King!!
+@050#kuwagata
+Minä olen Beast King!!\nTämän planeetan kuningas!!
+@051#kabuto
+Nuaaaaah!!!!\nMahdotonta! Laskelmani...
+@051#kuwagata
+Nuooooh!!\nTämä... tämä ei voi olla!!
+@052#kabuto
+En anna sinun\nvoittaa noin helposti
+@052#kuwagata
+Miksi luulet, että minusta\ntuli Libertiesin johtaja?
+@053#kabuto
+Tappelussa en häviä♥
+@053#kuwagata
+Se on sa-lai-suus... hihi♥
+@054#kabuto
+Arkeologina Medabottien\nmysteerit kiinnostavat minua!
+@054#kuwagata
+Arkeologina haluan vielä\nselvittää Medabottien salat
+@055#kabuto
+Ratkaisuun näyttää\nmenevän vielä kauan
+@055#kuwagata
+Hmm... ehkä se on mahdotonta\nilman Medabottiasiantuntijaa
+@056#kabuto
+Olen Tamao Pilbaren.\nMuista se nimi.
+@056#kuwagata
+Olen Tamao Pilbaren.\nKatsotaanpa taitojasi.
+@057#kabuto
+Ei-ei kai! Tuo on julmaa!
+@057#kuwagata
+Uu... buaaah!
+@058#kabuto
+Söpöt pojat ovat\naina tervetulleita♥
+@058#kuwagata
+Esittele minulle söpöjä\npoikakavereitasi♥
+@059#kabuto
+Ai, joko se loppui?
+@059#kuwagata
+Robotellaan taas♥
+@060
+Robotellaan!!
+@061
+Robottelin!!
+@062#kabuto
+Teen parhaani\nrobottelussa, mörr!
+@062#kuwagata
+Ei tunnu siltä, että\nhäviäisin, mörr!
+@063#kabuto
+Surullista, mörr...
+@063#kuwagata
+Nälkä on, mörr...
+@064#kabuto
+Simuloin tämän monta\nkertaa, nääs!
+@064#kuwagata
+Näytän tältä, mutta olen\nyläkoululainen, nääs!
+@065#kabuto
+Simulaatio oli\ntäydellinen, nääs...
+@065#kuwagata
+Tämäkö on todellisten\ntaitojen ero, nääs...
+@066#kabuto
+Hmph! Älä sitten ala\nhäviössä tihrustaa!
+@066#kuwagata
+Aiotko haastaa minut?\nKiinnostavaa
+@067#kabuto
+Ensi kerralla ei käy näin!
+@067#kuwagata
+Ensi kerralla saat itkeä!
+@068#kabuto
+Minäkin olen opiskellut\npaljon Medaboteista♥
+@068#kuwagata
+Opiskellaan Medabotteja\nyhdessä opettajan kanssa♥
+@069#kabuto
+Mitaleja, osia, Medalioita...\nVoi, menen ihan sekaisin!
+@069#kuwagata
+Voi voi? Miksiköhän\nminä hävisin?
+@070#kabuto
+Nerokas tarhalainen\nSara Mitsuo, se oon minä
+@070#kuwagata
+Sara Mitsuo on mun oikea nimi!\nIhan oikeasti oikea!
+@071#kabuto
+Pienten kiusaaminen on\nalhaisinta, mitä on!
+@071#kuwagata
+Mitä mä muka oon tehny?!!
+@072#kabuto
+Ohohohoo! Minä olen\nkaunis ruusu Rumi Takasu!
+@072#kuwagata
+Ohohohoo! Minä olen\nihana ruusu Rumi Takasu!
+@073#kabuto
+Vielä saat rangaistuksesi!\nOhohohohohohoo!
+@073#kuwagata
+Vielä minä pakotan sinut\npolvillesi eteeni!
+@074#kabuto
+Hihi, näytän tältä, mutta\nolen tullut aika vahvaksi
+@074#kuwagata
+No niin! Aloitetaan robottelu!
+@075#kabuto
+Uskomatonta, että jotain\nnäin hauskaa oli kielletty
+@075#kuwagata
+Hmm... mitäs\ntässä nyt tehdään...
+@076#kabuto
+Minä suojelen Hakumaa!!
+@076#kuwagata
+Hakuma! Katso taisteluani!
+@077#kabuto
+Ei-eihän tällaista voi sallia!?
+@077#kuwagata
+Röyhkeä lurjus!!
+@078#kabuto
+T U H O O O O O O O!!
+@078#kuwagata
+Pois pois pois pois pois\npois pois poiiiiis!!
+@079
+............
+@080#kabuto
+Kapinallinen havaittu...\nKapinallinen havaittu...
+@080#kuwagata
+Mestarin käsky:\nPoista vihollinen
+@081
+.........
+@082#kabuto
+Minä tulen vielä vahvemmaksi!
+@082#kuwagata
+Minä suojelen kaikkia!
+@083#kabuto
+Vielä on matkaa, minullakin...
+@083#kuwagata
+Uh... pitää treenata lisää
+@084#kabuto
+Auuuuuuuuuu!!
+@084#kuwagata
+Grrrrrrrrrrrr...
+@085#kabuto
+Vink vink...
+@085#kuwagata
+Kaik! Kaik!
+@086#kabuto
+Sini: "Tule vaan, jos uskallat!"\nPuna: "Täysii mennää~!"
+@086#kuwagata
+Puna: "Rautanyrkki!"\nSini: "Ratkaistaan tämä!"
+@087#kabuto
+Puna: "Sie oot iha heikko"\nSini: "Kuka puhuu!!"
+@087#kuwagata
+Sini: "Tappelu on Edon kukka..."\nPuna: "Ollaa Odoro-vuorel~!"
+@088#kabuto
+Hahahahahahahaha!\nAloitetaanpa sitten
+@088#kuwagata
+Hahahahahahahaha!\nRobottelu alkaa!
+@089#kabuto
+Hahahahahahahaha!\nOlet tosi vahva
+@089#kuwagata
+Joo, hyvä ottelu se oli\nHahahahahahahaha!
+@090#kabuto
+Robottelu siis. Hyvää ottelua.
+@090#kuwagata
+Älä unohda\npäivittäistä harjoittelua
+@091#kabuto
+Se oli todella hyvä ottelu.\nKiitos paljon.
+@091#kuwagata
+Odotetusti. Opin paljon.
+@092#kabuto
+Minä koettelen taitojasi
+@092#kuwagata
+Hieno se Medabottisi
+@093#kabuto
+Etkö pysty siihen?
+@093#kuwagata
+Mitä? Joko se loppui?
+@094#kabuto
+Benimaru, mennään!!
+@094#kuwagata
++
+@095#kabuto
+Nyt mokasin...
+@096#kuwagata
+Baizan, hyökkää!!
+@097#kuwagata
+Minut voitettiin, totisesti...
+@098#kabuto
+Minäkin tulen vahvemmaksi!
+@098#kuwagata
+Minäkin suojelen kaikkia!
+@099#kuwagata
+Pitää treenata lisää!
+@100#kabuto
+Minä tulen vielä vahvemmaksi!
+@100#kuwagata
+Minä suojelen kaikkia!
+@101#kabuto
+Vielä on matkaa, minullakin...
+@101#kuwagata
+Uh, pitää treenata lisää
+@102#kabuto
+Tuota... olethan\narmollinen minulle
+@102#kuwagata
+P-pelottaa, mutta\nyritän parhaani
+@103#kabuto
+Olet tosi vahva. Ihailen sinua.
+@103#kuwagata
+Tein parhaani...\n...omalla tavallani
+@104#kabuto
+Robotteluako? Hii-hih-hih-hii
+@104#kuwagata
+Robotteluako meidän\nlapsen kanssa? Hii-hih-hih-hii
+@105#kabuto
+Minäkö hävisin? Hii-hih-hih-hii
+@105#kuwagata
+Kas vain, taitava olet\nHii-hih-hih-hii
+@106#kabuto
+Mitä, Tenryouko on\nvastustajani?
+@106#kuwagata
+Tenryou on vastustajani.\nPitää mennä täysillä.
+@107#kabuto
+Mahtavaa! Malja sinulle!
+@107#kuwagata
+Hmm, ei sitten onnistunut
+@108#kabuto
+Elizabeth on tosi vahva!!
+@108#kuwagata
+Elizabeth, mennään!!
+@109#kabuto
+Hyvin tehty! Elizabethkin\non tyytyväinen
+@109#kuwagata
+Elizabeth sanoo, ettei kadu\nhäviötä sinulle
+@110#kabuto
+Kas niin, robottelu, robottelu!
+@110#kuwagata
+Selvä, robotellaan!!
+@111#kabuto
+Mitä? Hiomani mitali hävisi?
+@111#kuwagata
+Minun mitalini hävisi?\nEi voi olla~~~!
+@112#kabuto
+Robotteluako?\nOkei okei kei-kei-kei
+@112#kuwagata
+Medabottisiirto! Tule, Marco!\nJa samalla William, Nikolai!
+@113#kabuto
+Eikö ole olemassa\nkokin muotoista Medabottia?
+@113#kuwagata
+Äi-äi-äi-äitiiiiii
+@114#kabuto
+Hihi, tähtipaikkaa en luovuta♥
+@114#kuwagata
+Sinä olet piikatyttö♥\nMinä kyllä huomaan
+@115#kabuto
+Mitä pahaa siinä on,\njos mies on pupu?!
+@115#kuwagata
+Mitä sitten!\nMieskin voi olla pupu!
+@116#kabuto
+Minä olen Kawamura!
+@116#kuwagata
+Nimeni on Kawamura!
+@117#kabuto
+Mitä!? Etkö tunne minua?\nSenkin piilomedabottaaja!
+@117#kuwagata
+Muhahahaa!\nKawamura on kuolematon!
+@118
+Yksityisen medabottaajan\nvarateksti. Näkyessään bugi
+@120#kabuto
+Okei~ kokeillaanpa~
+@120#kuwagata
+No, robotellaan sitten
+@121#kabuto
+Ei se voi olla totta!?
+@121#kuwagata
+Taas!?
+@122#kabuto
+Tästä eteenpäin minä\nkoettelen taitojasi
+@132#kabuto
+Hä? Haluutko köniin? Haa!!
+@132#kuwagata
+Aika rohkeaa uhmata meitä!
+@133#kabuto
+Kehtaatkin!\nKaverit eivät jätä tätä!
+@133#kuwagata
+Muista tämä!\nMaksan takaisin tuplana!
+@136#kuwagata
+Kenenä te meitä\noikein pidätte?!
+@137#kuwagata
+Älkää aliarvioiko\nScrews-jengiä!
+@138#kabuto
+Kansalaisten suojelu on\nSelect-joukkojen tehtävä!
+@138#kuwagata
+Niin kauan kuin pahuutta on,\nme taistelemme!
+@139#kabuto
+Aloitetaan alusta!
+@139#kuwagata
+Oikeus on kuolematon!
+@154#kabuto
+Älä vihaa torakoita, robo!
+@154#kuwagata
+Vaalikaa torakoita!
+@155#kabuto
+Emme ikinä anna niiden\nkuolla sukupuuttoon, robo!
+@155#kuwagata
+Luuletko voivasi riehua,\nkoska olen torakka, robo!
+@156#kabuto
+Oikeastaan tykkään\ntappelusta♥
+@156#kuwagata
+Mutkikkaassa maastossa\nnäytän todellisen voimani!
+@157#kabuto
+...Annan periksi!
+@157#kuwagata
+Eksyinköhän?
+@158#kabuto
+Saat vielä niellä sanasi, robo!
+@158#kuwagata
+Mekin olemme eläviä, robo!
+@159#kabuto
+Äks, robo!
+@159#kuwagata
+Älä kiusaa, robooo!!
+@160
+Vgaaaaaaaaah!!
+@161
+Ugh...
+@162
+Gruoooooooooh!!
+@163
+......Kii...tos...
+@164#kabuto
+Murskaa! Murskaa! Murskaaa!!\nMurskaa kaikki!!
+@164#kuwagata
+Me olemme parempaa tekoa\nkuin te! Paljon parempaa!!
+@165#kabuto
+Mahdotonta...\nminä, joka kehityin...
+@165#kuwagata
+En anna anteeksi... en ikinä!!
+@170#kabuto
+Punainen, sininen, keltainen!\nYhdessä Select Three!!
+@170#kuwagata
+Red, Blue, Yellow!\nMe olemme Select Three!!
+@171#kabuto
+Puna, sini, kelta: päävärit!\nNähdään taas ensi viikolla!
+@171#kuwagata
+Viidellä värillä olisi\nehkä voitettu!?
+@174#kabuto
+Jos kerran lennetään, niin\nmieluiten avarassa paikassa
+@174#kuwagata
+Nouse taivaalle!\nTuuli kantakoon tunteeni!
+@175#kabuto
+Minut ammuttiin alas!
+@175#kuwagata
+Kunpa voisin lentää vapaasti\nmyös meren alla
+@176#kabuto
+Leijuu, leijuu... ihan rauhassa...
+@176#kuwagata
+Leijuu, leijuu...\nmikä tahansa maasto käy~
+@177#kabuto
+Otin liian rennosti!
+@177#kuwagata
+...Ei minulla ole\nmitään lempimaastoa~
+@178#kabuto
+Jyrkät vuoripolut,\nei mikään ongelma!
+@178#kuwagata
+Ensi kerralla kokeilen\nkalliokiipeilyä!
+@179#kabuto
+Väsyttää... jalat\neivät enää liiku!
+@179#kuwagata
+Vuorikiipeilyssä en kyllä häviä...
+@182#kabuto
+Kaupungin halki\nhurjaa vauhtia!
+@182#kuwagata
+Kaupungin halki\nkiitävä tuulenpuuska!
+@183#kabuto
+Ylinopeus johtaa\nonnettomuuksiin!
+@183#kuwagata
+Auto ei pysähdy hetkessä!
+@184#kabuto
+Ylivoimainen vakaus!
+@184#kuwagata
+Ylivoimainen panssari!
+@185#kabuto
+Uaa, auttakaa minut pystyyn!!
+@185#kuwagata
+...En ehtinyt ajoissa...
+@186#kabuto
+Sulavat liikkeet!\nPysytkö perässä!?
+@186#kuwagata
+Veden alla vettä ei näe
+@187#kabuto
+Säästäkää vesitiiviit osani~
+@187#kuwagata
+Pulis pulis pulis pulis
+@188#kabuto
+Kauniissa kukassa on piikit♥
+@188#kuwagata
+Jos jäät meitä ihailemaan,\nsatutat itsesi♥
+@189#kabuto
+Voi ei! Kauneuteni meni pilalle!
+@189#kuwagata
+Mikä tahditon ihminen!
+@190
+TUNKEILIJA. POISTETAAN.
+@191
+Gyaauu...u
+@204#kabuto
+Näytän, että pystyn kyllä!
+@204#kuwagata
+Yrittämällä onnistuu!\nVarmasti onnistuu!
+@205#kabuto
+Tällä viikkorahalla ei jaksa!!
+@205#kuwagata
+Ja minä kun yritin!
+@206#kabuto
+Kasvattajasta riippuu,\nmillainen Medabotista tulee
+@206#kuwagata
+Joka paikassa kaikki\novat koukussa Medabotteihin
+@207#kabuto
+Vau, olet vahva! ...Hetkinen,\nolitko telkkarissa?
+@207#kuwagata
+Miksi olet noin vahva?\n...Olitko telkkarissa?
+@208#kabuto
+Hei, sinä siellä! Robotellaanko?
+@208#kuwagata
+Otatko ottelun ylpeitä\nMedabottejani vastaan?
+@209#kabuto
+Kun tulen töistä, vain\nMedabotit ovat vastassa...
+@209#kuwagata
+Medabotit ovat paljon\nkiltimpiä kuin kamala vaimoni
+@210#kabuto
+Kuulehan sinä!\nOtetaan yksi ottelu!
+@210#kuwagata
+Minulla on kiire,\nhoidetaan tämä nopeasti!
+@211#kabuto
+Voi voi, juuri ostamani\nkananmunat menivät rikki!
+@211#kuwagata
+Ruokaa, siivousta, pyykkiä,\nMedabotteja... raskasta on
+@212#kabuto
+Roboletaanko?
+@212#kuwagata
+Mitäs nyt~?\n...Kas, roboletaan!
+@213#kabuto
+Roboleminen on raskasta~
+@213#kuwagata
+Minä olen robolellut\nkauemmin kuin sinä!
+@214#kabuto
+Medabottileikkiäkö?\nSiitä onkin aikaa~
+@214#kuwagata
+Kas, leikitkö Medaboteilla?
+@215#kabuto
+Vaikka vanhenen, robottelun\njännitystä en unohda~
+@215#kuwagata
+Niin niin, minunhan piti\nantaa sinulle osia?
+@216#kabuto
+Robottelu kanssani?\nHehheh... hyvä on
+@216#kuwagata
+Medabotteja... on kyllä paljon
+@217#kabuto
+Miksi?! Laskelmani\noli täydellinen!!
+@217#kuwagata
+Medabottitiedoissa\nen häviä sinulle!
+@218#kabuto
+Medabottaajaninja saapuu!!
+@218#kuwagata
+Leijun kuin perhonen,\npistän kuin mehiläinen!
+@219#kabuto
+...Oletko sinäkin ninja?
+@219#kuwagata
+...Ja sitten katoan kuin usva
+@220#kabuto
+Mitaleja kaivetaan jopa\nmerenpohjan raunioista!
+@220#kuwagata
+Näytän, miten\nmeren mies taistelee!
+@221#kabuto
+Hahhah! Minäkö hävisin!
+@221#kuwagata
+Hahhah! No, sellaista sattuu!
+@222#kabuto
+Näe vastustajan liikkeet\nmielesi silmällä!
+@222#kuwagata
+Robottelukin on\nhengellistä harjoitusta!
+@223#kabuto
+Kun sulkee silmänsä,\nei näe mitään... vai niin
+@223#kuwagata
+Pääsivätkö harhaajatukset\nmieleen...
+@224#kabuto
+Aurinko muuten haalistaa\nmyös hiuksia
+@224#kuwagata
+Näytän sinulle\nupeat surffitaitoni~
+@225#kabuto
+Hyvinpä teit!
+@225#kuwagata
+Uh, noloa~
+@226#kabuto
+Tytöt eivät jää\npojista jälkeen!
+@226#kuwagata
+Jos aliarvioit tyttöä,\nsaat katua!
+@227#kabuto
+Buu, ilkeää!
+@227#kuwagata
+Tytöille pitää olla kiltti!
+@228#kabuto
+Sain uusimman muotiosan♥
+@228#kuwagata
+Söpöt Medabotit ovat\nsittenkin parhaita♥
+@229#kabuto
+Hei! Sainhan sen vasta, ilkeää!
+@229#kuwagata
+Eikä! Ei noin voi tehdä!
+@230#kabuto
+Kas, sinulla on Medakello.\nRobotellaan siis.
+@230#kuwagata
+Kumpi on tärkeämpää,\nläksyt vai robottelu?
+@231#kabuto
+...Pelkkä työnteko joka päivä\nolisi aika tylsää, eikö?
+@231#kuwagata
+...Tuohon ei kukaan\nyleensä vastaa "läksyt"
+@232#kabuto
+Tässä taas tuttu\nja turvallinen robottelu!
+@232#kuwagata
+Robottelu on Medabotin\nperusta!
+@233#kabuto
+Kiitoksia paljon!
+@233#kuwagata
+Tervetuloa uudelleen!
+@234#kabuto
+Moikka poju, isosisko\non vastuksesi♥
+@234#kuwagata
+Kas~ haluatko, että\nisosisko leikkii kanssasi?
+@235#kabuto
+Ihhih♥ Se oli ihanaa♥
+@235#kuwagata
+Senkin tuhma lapsi♥
+@236#kabuto
+Pimeydessä eläminen\non ninjan kohtalo!
+@236#kuwagata
+Kätkeydyn yöhön\nja isken viholliseen!!
+@237#kabuto
+Katoan pimeyteen!
+@237#kuwagata
+Kunnes yö kätkee minut!
+@238#kabuto
+Siis niinku, miks tulit\ntänne asti robottelemaan?
+@238#kuwagata
+Siis niinku, onhan olemassa\nkivempaakin kuin robottelu?
+@239#kabuto
+No, mä meen uimaan
+@239#kuwagata
+Robottelussa voi olla hyvä,\nmut tytöt ei silti tykkää
+@240#kabuto
+Minkähän Medabotin\nottaisin tänään?
+@240#kuwagata
+Hei sinä siellä!\nOtetaanko pieni ottelu?
+@241#kabuto
+Kunpa olisi mitali, joka\nkasvaisi pelkästään mukana
+@241#kuwagata
+Vai niin, noinko teit
+@242#kabuto
+Kas, sinullapa on\nhieno Medabotti
+@242#kuwagata
+Saisinko vähän katsoa\nMedabottiasi?
+@243#kabuto
+Robottelisitko kanssani\ntaas joskus?
+@243#kuwagata
+...Kylläpä olette vahva!
+@244#kabuto
+Tosissaan käyty robottelu\non miesten mittelö!
+@244#kuwagata
+Tule täysillä!\nOtan haasteen vastaan!
+@245#kabuto
+Uooh! H-harmin paikka!!
+@245#kuwagata
+Kuah!! Minut... voitettiin!!
+@246#kabuto
+Näytän sinulle,\nkuinka pelottava nainen on!
+@246#kuwagata
+Nainen voi tulla paljon\nvahvemmaksi kuin mies!
+@247#kabuto
+Naisen todellinen kauheus\nei ole vielä tässä
+@247#kuwagata
+Taidan olla vielä\nkeskeneräinen?
+@248#kabuto
+Heikot pysykööt sivussa!
+@248#kuwagata
+Pelkurit olkoot pelkureita\nja pysykööt hiljaa!
+@249#kabuto
+Mitä!? Tästä ei ollut puhetta!
+@249#kuwagata
+Miksi kaltaisesi voittaa!?
+@250#kabuto
+Minulle juttelemaan?\nTule 10 vuoden päästä!
+@250#kuwagata
+Minua heikompi mies\nei ole mies ollenkaan!
+@251#kabuto
+Kun 10 vuoden päästä olet\nkunnon mies, robotellaan taas!
+@251#kuwagata
+Hmph, et ole hassumpi
+@252#kabuto
+Aloitetaan sitten\nrobotteluharjoitus
+@252#kuwagata
+Kaikkeen pitää\nsuhtautua vakavasti
+@253#kabuto
+Mitä tämä taistelu\nminulle opetti...?
+@253#kuwagata
+Elätkö jokaisen\npäiväsi tosissasi?
+@254#kabuto
+Robottelukin on\nhienoa harjoitusta
+@254#kuwagata
+Robottelu on\ntosi hyvää harjoitusta
+@255#kabuto
+Harjoittelua ei saa laiminlyödä
+@255#kuwagata
+Kaikki alkaa yrittämisestä
+@256#kabuto
+Kauneus on syntiä...\nVoi minua, syntistä...
+@256#kuwagata
+Kas, kelpaatkohan sinä\nminulle vastustajaksi?
+@257#kabuto
+Ovatkohan miehet\nsittenkin susia?
+@257#kuwagata
+Voin kyllä olla\nvastustajasi uudelleen
+@258#kabuto
+Näin sinut telkkarissa.\nOlet Medalympiamestari
+@258#kuwagata
+Sinäkö olitkin\nMedalympiamestari
+@259#kabuto
+Vai niin. Nyt\nymmärrän suunnilleen.
+@259#kuwagata
+Seuraavalla kerralla\ntulos voi olla toinen
+@260#kabuto
+Sinäkö Medalympiamestari?\nKiinnostavaa.
+@260#kuwagata
+Haluan nähdä, millainen\nMedalympiamestari on
+@261#kabuto
+Olipa aika hauskaa
+@261#kuwagata
+Niin, ymmärrän kyllä
+@264#kabuto
+Hakuma on se, joka\npelastaa tämän maailman
+@264#kuwagata
+Hakuman suojeleminen\non tehtävämme
+@265#kabuto
+Valoa Hakumalle!
+@265#kuwagata
+Hakuma... olemme pahoillamme...
+@266#kabuto
+Voitatko kauneutemme?
+@266#kuwagata
+Shurin kunnian nimeen\nemme voi hävitä
+@267#kabuto
+Shuri, olemme pahoillamme
+@267#kuwagata
+Emme kehtaa enää\nkatsoa Shuria silmiin

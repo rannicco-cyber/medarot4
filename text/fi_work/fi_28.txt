@@ -1,0 +1,483 @@
+@000
+...ja niin siinä kävi.
+Vai niin... Muistaakseni sinulta, {BUF03},
+katosivat Medakellon kaikki tiedot vain muutama kuukausi sitten.
+Mutta on todella hienoa, että kumppanisi on kunnossa.
+Kun minulle sanottiin, että "kasvatan mitaleja huonosti",
+järkytyin todella.
+Totta on, että omistin aikani vain {BUF15}:lle,
+enkä kasvattanut muita mitaleja tarpeeksi.
+Vaikka kaikki ovat tärkeitä kumppaneitani...
+Tällä kertaa haluan kasvattaa kaikki mitalit kunnolla,
+ettei kukaan voi enää sanoa niin.
+...Olet todella ahkera, {BUF03}.
+En voi tehdä paljon,
+mutta tämän huoneen mitaleista
+saat valita yhden.
+Kasvata se kunnolla.
+T-tuota...
+? Mitä?
+Saan aina mitalin, kun tulen tänne...
+Ihan kuin tulisin tapaamaan Naeta vain mitalien takia.
+Ufufu, ei sitä tarvitse miettiä.
+Se on vain pieni ele minulta.
+Mutta...
+Hmm... Entä jos teemme näin?
+Jos voitat minut robottelussa, saat mitalin.
+@001
+...Saanko vähän aikaa valmistautua?
+Tietysti.
+Kerro, kun olet valmis.
+@002
+Oletko valmis robottelemaan?
+@003
+Kerro sitten, kun olet valmis.
+@004
+Nouse sitten lavalle.
+@005
+{BUF03}, Medakelloosi
+tulee varmasti vielä lisää Medabotteja.
+Kaikkien kasvattaminen on raskasta...
+mutta kannattaa silti kasvattaa niitä.
+Robottelun muunnelmia näyttää tulevan lisää.
+Häh, tarkoitatko...!
+Fufu, tsemppiä♥
+@007
+Päivää, {BUF03}.
+...Huh.
+Mikä hätänä? Näytät väsyneeltä.
+On ollut kiirettä... Tuijotin näyttöä koko ajan.
+Silmäni taisivat rasittua vähän.
+Älä rasita itseäsi liikaa.
+Fufu, kiitos.
+...Sujuuko mitalien kasvatus?
+Totta kai!
+Mutta alusta aloitus on rankkaa...
+@008
+A-anteeksi, Nae! Sinullahan on kiire?
+Ei se haittaa. Tämä oli mukavaa vaihtelua.
+Kiitokseksi, jos sopii, ottaisitko
+yhden huoneeni mitaleista mukaasi?
+Häh, en voi...
+Vaikka mitalit olisivat täällä, minulla on liian kiire
+kasvattaa niitä...
+Siksi haluan, että sinä, {BUF03},
+kasvatat niitä.
+Nae...
+Selvä! Kasvatan sen hyvin!
+Luotan sinuun.
+@009
+Aloitetaan sitten.\nMedabotin siirto.
+@010
+Medabotin siirto!
+@011
+Robottelu alkaa!
+@012
+Kuten odotinkin.
+Olet loistava medabottaaja, {BUF03}.
+No, en minä...
+Kuten lupasin, tämän huoneen mitaleista
+saat ottaa mukaasi yhden mieleisesi.
+Selvä! Kiitos paljon!
+@013
+Nae odottaa. Lavalle äkkiä!
+@014
+Valitaan yksi mitali!
+@015
+"East"-mitali.
+Se tukee muita, vahvuutena "korjaus".
+@016
+"East"-mitali.
+Se tukee muita, vahvuutena "korjaus".
+Otanko tämän mitalin?
+@017
+Mietitään vielä vähän!
+@018
+Tämä mitali se on!
+@019
+"West"-mitali.
+Se tukee muita, vahvuutena "rohkaisu".
+@020
+"West"-mitali.
+Se tukee muita, vahvuutena "rohkaisu".
+Otanko tämän mitalin?
+@023
+"South"-mitali.
+Se tukee muita, vahvuutena "häirintä".
+@024
+"South"-mitali.
+Se tukee muita, vahvuutena "häirintä".
+Otanko tämän mitalin?
+@027
+"North"-mitali.
+Se tukee muita, vahvuutena "erikois".
+@028
+"North"-mitali.
+Se tukee muita, vahvuutena "erikois".
+Otanko tämän mitalin?
+@031
+Omikujin puisto on leppoisa,\nmutta leikkiin luonnonpuisto?
+@032
+Tästä puistosta on tullut\nhuomaamatta hieno...
+@033
+Lapset ovat niin energisiä.
+@034
+Hei, robotellaanko?
+@035
+Arvostatko tyttöjä nyt\nvähän enemmän?
+@036
+Väheksyt minua, koska\nolen tyttö!
+@037
+Robottelussa sukupuolella\nei ole väliä...
+@038
+Miksi "ukyaa" ei ole "panyoo"?
+Koska "mukyoo" ei ole "mogeraa".
+Ahaa~
+Mistähän he puhuvat?
+@039
+En ymmärrä robottelusta\nmitään.
+@040
+Miten uusi opettaja?\nTuletteko toimeen?
+@041
+Vai niin, vai niin.
+@042
+Screws on vahva.\nEn voita heitä.
+@043
+Iwanoi osaa tietokoneet tosi hyvin,
+mutta miksi hänen arvosanansa ovat huonoja?
+@044
+Haluan kehittyä robottelussa.\nAloitin juuri.
+@045
+Uwaa, mikä ääni!!
+@046
+T-tämäkö on pianon ääni...?
+@047
+S-se kuuluu korvat\ntukittuinakin!?
+@048
+E-en kestä enää~~~
+@049
+P-pakko paeta...
+@050
+Uuh, korvani... Älä mene\nopettajan pianon lähelle...!
+@051
+Medaropoliksessa on kuulemma\nsuosittu Medaspeed-kisa.
+@052
+Koulun lähellä kaupassa töissä oleva Hikaru
+on kuulemma vielä lukiolainen. Milloinkohan hän käy koulua?
+@053
+Kevyt robotteluottelu!
+@054
+Hmm, olipa hauskaa~♪
+@055
+Mitä, tylsää.
+@056
+Tervetuloa Medabotti-\ntutkimuslaitokselle.
+@057
+Tutkimuskäytössä oleva mitali.
+@058
+Vahvinta Medabottia ei ole.\nTee aina parhaasi.
+@059
+Jos jokin on epäselvää,\nkysy Kitatamalta.
+@060
+Shiratamaa ei ole näkynyt.\nMinnekähän hän meni?
+@061
+Tarvitsetko "Minirattia"?
+"Miniratti"... Sekö, jolla Vapor Rail
+kuljettaa ihmisiä?
+Juuri se.
+Se olisi kätevä~
+Hyvä, annan sen sinulle.
+@062
+Häh, saanko oikeasti!?
+Vapor Railin osat tosin maksavat.
+Epäreilua...
+@063
+Ostatko Vapor Railin osia?
+@064
+Pää 2000¥
+O.käsi 3400¥
+V.käsi 3400¥
+Jalat 1200¥
+En osta
+@065
+"Steam Board", selvä.
+@066
+"Steam Dolin", selvä.
+@067
+"Steam Pipe", selvä.
+@068
+"Steam Turbine", selvä.
+@069
+Rahasi eivät riitä.
+@070
+Tule uudestaan, kun\ntarvitset osia.
+@071
+Medavoimaa voi teoriassa käyttää kuka vain,
+mutta sen todellista luonnetta ei vielä tunneta.
+@072
+Tervetuloa Select- osastolle!
+@073
+Ruoka maistuu työn jälkeen!
+@074
+! Katsucurry-udon-ateria!!
+@075
+Robotellaanko?
+@076
+Se oli hauskaa!
+@077
+Harmi...
+@078
+Hei, {BUF03}! Robotellaan!
+...sanoisin, mutta Medabottini on huollossa.
+Tule käymään toiste.
+@079
+Hachirou! Tulin kylään!
+Hei, Medabottini huolto valmistui juuri.
+Robotellaanko?
+@080
+Tästä tulee.
+@081
+...Hmm, vaatii vielä\nvähän säätöä.
+@082
+Olet tylsä.
+@083
+Ai, hovinarri!
+Päivää, {BUF03}. Olen muuten "hovimestari".
+Nuori herra on yläkerrassa.
+Kiitos!
+@084
+Kultainen mitali!
+...Ai, se on koriste.
+@085
+Rakastan siivousta~♥
+@086
+Isossa kartanossa on\nmukava tehdä töitä.
+@087#kabuto
+.........
+Smilodonad!
+Kouji pitää siitä hyvää huolta.
+@087#kuwagata
+.........
+Warbanit!
+Kouji pitää siitä hyvää huolta.
+@088
+Hei, {BUF03}. Tervetuloa.
+@089
+{BUF03}, pelasta Karin...
+S-selvä.
+(Hän on aika maassa.)
+@090
+Mikään ei ilahduta niin kuin Karinin turvallinen paluu!
+Hienoa.
+Jottei tätä tapahdu enää, palkkaan sata henkivartijaa...
+T-tuota, älkää liioitelko...
+Mitä höpiset! Sekin on liian vähän!!
+Iiik~~~!
+@091
+Päivää. Pitäkää huolta\nKarinista.
+@092
+Tämä on tyttöjen vessa!?\nPitää päästä ulos!!
+@093
+H-hei! Tämähän on poikien vessa!
+Tyttö on mukana, joten vähän hienotunteisuutta!
+Myöhemmin, myöhemmin!!
+@094
+Tuota... {BUF03},
+minua nolottaa tällainen paikka...
+Ah..! A-anteeksi!!
+@095
+H-hei, {BUF03}!?
+Tytön kanssa ei saa mennä tuollaiseen paikkaan, eihän?
+@096
+Ai, anteeksi...
+Tosin nyt sinäkin olet tyttö, {BUF03}♥
+Ei se ole totta
+...en voi sanoa tässä piikanasussa...
+Mitä väliä, olet söpö♥
+On väliä!
+Eiii~~~?
+Ei mitään "eiii~~~"!
+Nyyh.
+@097
+.........
+@098
+Nuuh~~~ Miksi se ei liiku!\nLiiku! Liikuuuu!!
+@099
+Tuota, hampaat pesty, ulkonäkö OK!
+Uh~ jännittää~~ Tänään, tänään...
+Mitähän hän tekee?
+@100
+Minä olen Kitatama.
+Haluatko tietää jotain?
+@101
+Tule taas, jos jokin\non epäselvää.
+@102
+Pahoittelen, Shinobick-\npuisto on suljettuna.
+@103
+Nuh? Oletko eksynyt?
+Hyvä, ninjataidolla lähetän sinut Select-osastolle.
+Nuuuuh!
+Ninjataito: teleporttiii!!
+Ei tuo ole ninjataito!!
+@104
+Minut todella lähetettiin!?
+@105
+Tule, jos Medabotin osien\nkanssa on ongelmia.
+@106
+Heh, tätä sinä tarvitset,\neikö?
+@107
+Ole kiitollinen.\nRahat tosin otan.
+@114
+Saat 1500¥ hintaan yhden\nSky Cargon osan.
+@115
+Luonnonpuistoon tulee kuulemma lisää kisaratoja.
+Mutta eikö Medabotit ole robottelua varten?
+Hm? Haluatko robotella kanssani?
+@116
+Tule vain!
+@117
+Otellaan milloin vain!
+@118
+Mitä, pakenetko?
+@119
+Paljon roskia...
+Roskaaminen on pahasta.
+Hm? Robottelu?
+@120
+Aloitetaan sitten.
+@121
+Vaatteiden likaaminen\non myös pahasta.
+@122
+Ensi kertaan sitten.
+@123
+Et voittanut meitä yksin, tiedäthän.
+Älä luule liikoja!
+@124
+Hyvä sitten.
+@125
+Otellaan uudestaan!
+@126
+Aiotko paeta!?
+@127
+Mennään, Dark Panther!!
+@128
+Robottelua otan vastaan\nmilloin vain.
+@129
+Medaspeedin voittamisen salaisuus
+on kai maastoon sopivan jalkaosan valinta?
+@130
+Medavoiman jakaminen\nenergiaksi on vaikeaa.
+@131
+Ai, Medaprize-kone.
+@132
+100¥ kerta... Kokeilisinko...
+@133
+Ei tarvitse nyt.
+@134
+Mutta nyt ei ole rahaa.
+@135
+Häh? Tämä ei toimi.
+@136
+Näyttää vaikealta peliltä...
+@137
+Haluatko tietää parhaan ajan?
+Tenryou {BUF03}:n paras aika on...
+@138
+Voittosiko Medaspeedissä?
+Hetki vain.
+@139
+Mahtavaa! 15 voittoa!\nSaat tämän lahjaksi.
+@140
+Mahtavaa! 30 voittoa!
+Tavalliset tasot eivät taida enää riittää?
+Lisään radoille Ultra-tason. Kokeile!
+@141
+Mahtavaa! 45 voittoa!
+Saat tämän lahjaksi.
+@142
+Mahtavaa! Kukaan ei pärjää sinulle.
+Saat tämän lahjaksi.
+@143
+Haasta taas joskus.
+@144
+Haastat siis Medaspeed-kuninkaan.
+Minkä radan valitset?
+@145
+Moottoritie
+Metsikkörata
+Kivikkorata
+Lopeta
+@146
+Ollaan tuulena yhdessä!
+@147
+Minkä tason valitset?
+@148
+Korkea
+Keski
+Hidas
+@150
+Ultra
+Korkea
+Keski
+Hidas
+@151
+Kaasu pohjaan!!
+@152
+Hmm, tällainenko?
+@157
+Hee, ei hassumpaa.\nOta tämä lahja.
+@160
+"Sharin", täysillä!
+@192
+Haluatko tietää Medaroad-\nkisojen voittosi?
+@193
+Hetki vain.
+@194
+Hee, 10 voittoa? Mahtavaa.\nSaat tämän lahjaksi.
+@195
+Mahtavaa! 20 voittoa!
+Tavalliset tasot eivät taida enää riittää?
+Lisään radoille Ultra-tason. Kokeile!
+@196
+Mahtavaa, 30 voittoa!
+Saat tämän lahjaksi.
+@197
+Mahtavaa, 40 voittoa!\nSaat tämän lahjaksi.
+@198
+Haasta taas joskus.
+@199
+Medaroad-kisaan tarvitset\nkolme koottua Medabottia.
+@200
+Tämä on Medaroadin harjoitusrata.
+Minkä valitset?
+@201
+Vesirata
+Aavikkorata
+Metsärata
+Muut radat
+@202
+Minkä tason valitset?
+@206
+Hyvä, juokse parhaasi!
+@226
+Kaupunkirata
+Kivikkorata
+Kyberrata
+Lopeta
+@251
+Juoksit hyvin loppuun asti.\nTässä lahja.
+@253
+"Sharin" kiinni, niin\nvoima kasvaa!!
+@255
+Ei sittenkään nyt.
+@256
+Leirintä on välillä mukavaa.
+@257
+Ai, sisällä on\npaahdettu bataatti!
+@258
+Me elämme täällä hiljaa, robo.
+@259
+Jättäkää meidät rauhaan,\nrobo.
+@260
+Uh, en voita... Vielä en luovuta!
+Hän ei huomaa minua lainkaan...

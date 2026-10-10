@@ -1,0 +1,718 @@
+@000
+Rehtori...
+Hän vaikuttaa jotenkin erilaiselta...
+Pelottavaa...
+Niin, minä olen petojen kuningas, Beast King Orochi!
+Kerro, miksi teet tätä ja mikä
+se "S-R-suunnitelma" on.
+@001
+Hyvä on. Kuunnelkaa sitten tarinaani.
+@002
+Nykytekniikalla tietokone, jossa on samat
+toiminnot kuin yhden ihmisen aivoissa,
+olisi maapallon kokoinen.
+@003
+Toisaalta avaruusolentojen tuomilla mitaleilla
+voi olla yhtä hyvät tai jopa paremmat toiminnot
+kuin ihmisaivoilla.
+Ymmärrätkö, kuinka valtava tietomäärä se on?
+@004
+Tuota... en.
+@005
+Hei, miksi sinä pelkäät!
+@006
+Mitä hyötyä on pelätä jo nyt!?
+@007
+Kun hän on ihan kuin opettaja koulussa...
+@008
+Ihmiskunnan kehitys pysähtyi jo 100 000 vuotta sitten.
+Se on joutunut evoluution umpikujaan.
+@009
+Näen ihmiskunnan tulevaisuuden täysin
+vapautetun mitalin voimassa.
+Ihmiskunnan tulevaisuuden?
+@010
+Niin. Kaikista siteistä ja ruumiista vapautettu
+henkiolento... olento, jota voisi kutsua "Spiritiksi".
+Juuri se on ihmiskunnan uusi
+evoluutio. Ihmiskunta kehittyy Spiritiksi mitalien voimalla.
+Se on todellinen "S-R-suunnitelma"!!
+!!!!!!
+Olet erinomainen lahjakkuus. Resonanssiasteesi mitalin
+kanssa on ylivertainen. Olet suunnitelmaani sopiva poika.
+Haluaisin kovasti, että osallistut kokeeseen.
+...Muut lapset saavat katsella sivusta.
+@011
+Ai!
+Ovi!
+@012
+Hei, mitä tämä on! Mitä tämä tarkoittaa!
+Mitä aiot tehdä {BUF03}:lle!
+@013
+{BUF03}! Rehtori pakeni!
+Häh?
+@014
+Ai!
+@015
+Iik!?
+@016
+Pysy vain paikallasi~ Sinä menet vain
+vähäksi aikaa koneen sisään~ Ei yhtään pelota~
+@017
+E-en halua!! En jää ikinä kiinni!!
+@018
+Voi voi, olet nopea pakenemaan.
+@019
+Mitä te teette? Ajakaa häntä takaa!
+@020
+Hahaha, pian maailma on minun!
+@021
+Huh, huh... tästä ei tule loppua!
+@022
+Kuka siellä!?
+@023
+Kinoko!
+@024
+En minä tullut sinua auttamaan,
+mutta tavoitteemme näyttää olevan sama.
+Älä käsitä väärin!
+Miten sinä oikein pääsit tänne!?
+Koulun turvajärjestelmä oli kuollut. Vihollinen
+keskittyy niin kovasti siihen, mikä on edessä,
+että kaikki muu jää huomiotta.
+@025
+Voisiko olla...
+@026
+Ohhohohoo!
+@027
+M-mitä nyt? Olet ällöttävä noin yhtäkkiä!
+Koska he yrittivät käyttää koulun kaikkia ekolaitteita,
+sähkö loppuu kesken! "Täydellinen turvajärjestelmä"
+on vitsi! Ohhohoo!
+@028
+Nyt ei ole aika nauraa. Sen sijaan näitä
+Medabotteja tulee esiin valtavasti!
+@029
+Hmph, me kilpailimme aina keskenämme.
+Olimme samalla luokalla ja istuimme vierekkäin, ja
+riitelimme jatkuvasti, mutta enpä uskonut,
+että yhdistäisimme voimamme tällaisessa paikassa!
+Sinusta tuli vahva, koska kilpailijanasi olin minä.
+Saisit olla kiitollinen.
+Inhoan tuota puoltasi.
+Harmin paikka. Minäkin inhoan sinua.
+@030
+Waa! Waa!
+@031
+Pääsinköhän eroon niistä?
+...Tosin se on vain hetken helpotus.
+Niitä Medabotteja tulee loputtomasti. Tällä menolla
+en pääse rehtorin lähellekään. Mutta jotenkin on päästävä.
+...Mitäs nyt.
+@032
+Hei! Avaa tämä!
+Vaikka sanot niin...
+@033
+Kas, {BUF03}. Joko luovutit?
+@034
+Ääk!
+@037
+Lukossa!
+@041
+Armoa!
+{BUF03}!
+@042
+Kokuen!
+...Ga?
+@043
+Hitsit! Ärsyttäviä!!
+@044
+Gaga!
+@045
+Luulitko, että jään nuolemaan haavojani!!
+Miten ja milloin tulit tänne!?
+Kun hävisin sinulle, livahdin tänne
+ja piileskelin koko ajan koneen takana.
+Edes Medabotit eivät näköjään
+huomanneet minua!
+V-vai niin!
+...Eli ne eivät välittäneet sinusta?
+@046
+Ei se niin mennyt!!
+@047
+Sotilas-Medabotit ovat kuin puoliunessa.
+Siksi ne eivät juuri ajattele muuta kuin käskyjään.
+(...Aivan! Shurikin sanoi, että "monen
+Medabotin ohjaaminen kerralla on raskasta"!)
+@048
+Mutta mitä tehdä näin monelle...
+@049
+Tsk, ei auta. {BUF03}!
+Tule tänne! Tiimirobottelu!
+@050
+TUNKEILIJA... VIHOLLINEN... POISTA...
+@051
+Niitä on vielä jäljellä!
+@052
+Hehe, kun riehuu näin näyttävästi,
+edes Medabotit eivät voi jättää minua huomiotta!
+@053
+...Häh?
+Jos juurta ei katkaise, tästä ei tule loppua!
+Ei miellytä, mutta minä toimin syöttinä!
+@054
+Häh? Häh?
+@055
+Waa!
+@056
+Nyt ei ole aika kaatuilla! Mene nopeasti Orochin luo!
+S-selvä!
+@057
+Tulkaa, tyhmät Medabotit! Minä olen vastuksenne!
+@058
+Kokuen...
+@059
+Mennään!
+@060
+Rehtori Orochi!
+@061
+Kas! Olipa yllätys.
+Hmph, odottamaton tunkeilija näyttää sotkeneen asiat.
+...No, sekin on hauskaa.
+Ja kutsu minua Beast Kingiksi,
+muuten en pidä siitä.
+Mitä sinä puhut! En ikinä hyväksy "ihannemaailmaa",
+joka rakennetaan Medabotti-sotilaista!!
+...Esimerkiksi Medavoima. Mitaleilla on sitä, mitä ihmiset
+kutsuvat yliluonnollisiksi kyvyiksi. Ja mitalit
+toimivat hyvin samoin kuin ihmisaivot.
+En halua enää kuulla tuollaisia...!
+Mitali on herännyt aivo. Jos ihmisaivotkin heräävät,
+ne voivat käyttää Medavoiman kaltaisia kykyjä.
+"Resonanssi" mitalin kanssa herättää ihmisaivot.
+Resonanssi...
+Sinä kuulit mitalin äänen, eikö? Se tarkoittaa, että aivosi
+ja mitali "resonoivat".
+Lapset resonoivat mitalien kanssa helpommin kuin aikuiset.
+Annoin Ryuukon kerätä lahjakkaita
+lapsimedabottaajia.
+Niistä, joiden resonanssiaste oli ylivertainen,
+tein neljä kuningasta.
+Lisäksi annoin tyttärelleni Ryuukolle tehtäväksi
+tuoda tänne lupaavan lapsen. ...Mutta ratkaisevalla hetkellä
+hän näyttää kiintyneen teihin.
+Miten voit puhua noin...!
+Toisen lapseni, Mizuchin, resonanssiaste oli myös upea,
+mutta ei yhtä hyvä kuin sinun.
+@062
+Milloin sait tietoni!?
+Menit Toranishin koulussa unioppimislaitteeseen,
+eikö niin?
+Se nosti resonanssiastetta mitalin kanssa ja keräsi dataa.
+...Sellainen laite se oli. Sinulla oli
+paras resonanssiaste.
+Se laite!
+Toistuvien kokeiden ansiosta tutkimukseni edistyi.
+Ja lopulta kehitin koneen,
+joka resonoi mitalien kanssa keinotekoisesti!
+Siihen ei yltänyt edes mestarini, tohtori Hebereke!
+@063
+Professori Hebereke ei ollut noin kamala ihminen!!
+Yleensä resonanssi mitalin kanssa syntyy kai jonkin
+"luottamuksen" avulla, mutta minä kehitin keinon
+resonoida mekaanisesti.
+Ilman Medakelloakin loin sotilaita, jotka
+tottelevat käskyjäni uskollisesti. Ne ovat
+luotettavampia kuin lapseni, jotka pettävät isänsä.
+Mitalien nukuttaminen ja ohjailu ei ole luottamusta!!
+Juuri tunteiden takia tulee petetyksi.
+....!
+...On aika kutsua sinut erikoisnäyttämölleni.
+@064
+Huh, huh... En anna sinun tehdä mitä haluat!
+Taidat olla aika hengästynyt? Hehheh...
+@066
+Hmph, suunnitelmani on täydellinen! Fuyuun-kivi
+on alkanut toimia. Kukaan ei voi enää pysäyttää sitä!
+"Jättimäinen leijuva linnake Fuyuun" syntyy!
+Ei...
+@067
+!!!!!
+Hahahahaha! Tämä on myötävärähtelyä!
+Resonanssia! Ihmiskunnan vallankumous!!
+...Minä lähden! Kohti kaukaisia korkeuksia!
+@068
+Uaaaaaah!! Pääni halkeaa!!
+@069
+Kyaaah! Mitä!?
+Inhottava... ääni!
+Pääni...!
+(Kuulen... kaikkien huudot...!)
+Upeaa! Todella upea resonanssiaste!
+Resonanssi ihmisaivojen kanssa
+moninkertaistaa Medavoiman!
+@070
+(Tajuntani... en kestä... enää...)
+@071
+(Mitä sinä oikein teet! Oletko muka kumppani,
+jonka minä hyväksyin? Ryhdistäydy! Tarvitsen juuri sinut!)
+@072
+(Hmph... Olet yhtä surkea kuin aina.
+Oletko silti kumppani, jonka minä hyväksyin?
+Nouse!... En aio hyväksyä ketään muuta kuin sinut.)
+@073
+(Jaksa! Et saa kaatua!
+Olet minun ainoa... kumppanini!)
+@074
+(Sinä et ole ihminen, joka kaatuu noin vähästä.
+Nouse! Ja taistele!... Yhdessä kanssani!)
+@075
+(Sinä olet tosiaan sellainen, joka tarvitsee minua!
+...L-lainaan sinulle voimaani!)
+@076
+(Minun mielestäni tässä tilanteessa on
+parasta yhdistää voimamme! En voi
+menettää sinua!)
+@077
+(Kuuletko ääneni!? Ryhdistäydy!
+Olen päättänyt olla aina
+kanssasi! Älä kaadu... ole kiltti.)
+@078
+(Tunnen, miten tajuntasi hiipuu...
+Ei! Et saa kadota! Minä
+tarvitsen juuri sinut!)
+@079
+(Häh? Mitä? Mitä tapahtui? Miksi? Miksi juuri sinun
+pitää hävitä? Ei tule kuuloonkaan!
+Ryhdistäydy!)
+@080
+(...Häh? Minä äsken...?)
+@081
+(Järistys ja päätä halkova ääni ovat loppuneet...?)
+@082
+Tietokone ei reagoi? M-miksi?
+@083
+Että teet oppilaistani koekaniineja...
+Sitä en anna anteeksi, isä.
+@084
+Hävisit, isä.
+@085
+Kaikki! ...Ja opettaja Ryuuko ja Mizuchi!
+Mizuchi!? Petitkö sinäkin isäsi!?
+En ollut alun perinkään puolellasi. Suuntamme
+vain sattui olemaan sama. Mutta nyt se on ohi.
+Ajattelin, että "ihmiset ovat tylsiä".
+Mutta kun tapasin nämä ja olin heidän kanssaan tekemisissä
+aikoen käyttää heitä, aloin pitää heitä "kiinnostavina".
+...Niin kai siskonikin.
+Niin, isä. Suunnitelman virhe oli, ettet ottanut
+huomioon arvaamatonta tekijää: heidän sydäntään.
+Sekä minä että Mizuchi aloimme pitää heitä
+"kiinnostavampina" kuin sinun suunnitelmaasi.
+@086
+Kaikki te! Unohditte kiitollisuudenvelkanne! Minä
+en luovuta vielä! Minulla on vielä viimeinen valtti
+jäljellä!
+@088
+Älä pakene!
+@089
+Et pääse karkuun!
+@090
+Minäkin...!
+@091
+Voi ei! Isä aikoo käyttää sitä!
+@092
+Mitä?
+@093
+Sitä, jonka hän valmisti epäonnistumisen varalle.
+...Voi! Miksi en tajunnut sitä!
+@094
+Opettaja!?
+@095
+Tuota, minä...
+Hmm...
+@096
+Mene ulos. Hauska näytös on alkamassa.
+@097
+Anteeksi?
+@098
+Tuota...!
+@099
+...Häh? Minne opettaja Ryuuko meni?
+@100
+Ovi meni kiinni!
+@101
+Ai! Täälläkö te olette!
+@103
+Se on lukossa, eikä aukea!
+@104
+Opettaja!
+...Tulit. Seuraa minua.
+@105
+...Tässä sisällä.
+Tämän voivat avata vain isä ja minä.
+Mikä tämä huone on?
+@106
+Täällä nukkuu eräs Medabotti.
+Medabotti?
+Isä rakensi epäonnistumisen varalle paholaismaisen
+Medabotin, "Grainin"... ei, sitä ei voi enää kutsua
+Medabotiksi. Se on "ase".
+@107
+Häh? Miksi hän teki sellaisen?
+Se... on kaiken tuhoamista varten.
+Isä aikoi ensin lähettää sinun aivoihisi, joiden
+resonanssiaste on paras, voimakkaita ekoaaltoja... ja
+käyttää aivojasi välittäjänä hallitakseen
+kaikkia tämän alueen Medabotteja.
+Mutta isän luomat ekoaallot
+kumoutuivat.
+T-tuo on niin vaikeaa, etten oikein ymmärrä...
+Hihi, eli isä hävisi sinun ja Medabottisi
+todelliselle "luottamukselle".
+@108
+Waa!
+Voi ei! "Grain" alkaa herätä!
+...Tule nopeasti sisään!
+@109
+M-mikä tämä on? Tämä Medabotti!
+Tosi kaunis... En ole koskaan nähnyt tällaista Medabottia.
+Se on "Particle". Isä on varovainen,
+joten hän valmisti sen siltä varalta, että
+"Grainia" ei voi enää hallita.
+Siltä varalta, ettei sitä voi hallita...
+Laita mitalisi tähän.
+@110
+Mi!?
+@111
+Laita tähän mitali, jota olet tähän asti kasvattanut
+ylpeänä, ja pysäytä isän ohjaama "Grain".
+@112
+T-tuo siis...
+Nopeasti! Aikaa ei ole!
+@113
+Waa, pitää kiirehtiä!
+@114
+Tämä on... "Particle". Ainoa Medabotti, joka voi
+vastustaa paholaismaista Medabottia...
+Minä luotan kumppaniini!
+@115
+Kun olet kiinnittänyt osat kumppaniisi,
+puhu minulle.
+@116
+Oletko valmis?
+@117
+A-anteeksi! En vielä!
+Nopeasti, Tenryou!
+Particlen osat ovat:
+pää Regenerate, oikea käsi Naturize,
+vasen käsi Countract ja jalat Origin!
+Kokoa se ja aseta se kumppanillesi!
+S-selvä!
+@118
+Valmista!
+Siirrä sitten Particle alustalle!
+@120
+Mitä nyt taas!?
+@121
+Nousemme ylös!
+Siitä ei puhuttu mitään!!
+@122
+Hei, onko tämä nyt varmasti totta?
+@123
+Luota minuun! Pahojen aaltojen lähde
+on ehdottomasti täällä!
+@124
+Hei, Retort, voiko luottaa sellaisen
+ihmisen sanaan, joka yrittää valloittaa maailman?
+@125
+Kun sanot noin...
+@126
+Hitsit! Miksi te sitten pyysitte
+minulta apua!!
+@127
+Mitä!?
+@128
+Tuolta koululta!
+@129
+Hei! Älkää jättäkö minua!
+@130
+Mitä!? Mikä tuo on!
+@131
+Katso tuota!
+@132
+Mikä tuo on!
+Oo, tuo on...!
+@133
+Fu...a...a...a
+@134
+Se laskeutuu!
+P-perääntykäämme.
+@135
+Jes! Nyt näytetään!... Mutta tämähän
+on tytön keho! Höh, viimeinen taistelu
+tällaisena ei näytä miltään!
+@136
+Hmph, jätä se minulle. Lopetan tämän taistelun
+nopeasti. ...Tosin naisen kehossa voimat hupenevat.
+@137
+Nämä voivat olla mahtavat osat! Teen parhaani! Jotenkin
+tuntuu, etten voi hävitä!
+@138
+Paha ei ole koskaan menestynyt tässä maailmassa!
+...Minä en koskaan häviä pahalle!
+@139
+Hyvät naiset ja herrat, katsokaa! Upea show
+alkakoon! Hahhahhah!
+@140
+Osia, joita en ole ikinä nähnyt...
+Vaikka ne olisivat kuinka vahvoja,
+huolimattomuus on suurin vihollinen!
+@141
+Kas, ihanat osat♥ Hihi, ihan sydäntäni
+hypähtelee. En tiedä, kuinka paljon pystyn,
+mutta teen kovasti
+parhaani♥
+@142
+En osaa sanoa sitä hyvin, mutta olen tosi iloinen,
+että valitsit minut kumppaniksi! Teen parhaani!
+@143
+Kun minä olen täällä, riippuuko tämä taistelu
+minun voimistani? ...No, mitä tulee,
+se tulee, eikö?
+@144
+P-perääntykäämme vähän lisää!
+N-niin!
+@145
+Hahahahahaha!
+Mitä nyt taas!?
+@146
+Katolla!
+@147
+Herää, manalan kuningas!
+Kuninkaiden kuningas "Grain"!! Tuhoa kaikki!
+Ei onnistu!
+@148
+Nuoh!?
+@149
+M-miksi sinä!?
+@150
+J-ja tuohan on... minun salainen
+aarre-Medabottini!!
+Opettaja Ryuuko antoi minun käyttää sitä!
+N... niinpä tietysti, sen huoneen avaimella!!
+Ryuuko, senkin!!
+@151
+Onko tuo {BUF03}!?
+Ja toinen on...
+Pitkästä aikaa näen hänet. Hän on entinen oppilaani.
+Tuo on... "Beast King"!
+E-eli nämä Medabotit...?
+@152
+Hmph! Hyvä on! Kun asiat ovat näin,
+minun mitalini ja sinun mitalisi... parempi
+voittaa!
+Ylettyvätkö heikon Medakellosi radioaallot
+antamaan käskyjä maassa olevalle Particlelle?
+Nyt en tarvitse Medakelloa.
+Sydämeni ja kumppanini sydän ovat yhtä!
+Sitten kilpailemme sinun "luottamuksesi" ja
+minun ylpeyteni välillä!!
+Olkoon!!
+@153
+Uaa...aah
+@154
+V...voitin!
+@155
+...Ugh, miten tämä on mahdollista...!
+@156
+No niin, minä voitin ottelun.
+Vapauta Medabotit nopeasti...
+@157
+Ä-älä tule lähelleni!
+@158
+Waa! Varo!!
+@159
+Uwaa!
+@160
+O-oletteko kunnossa!?
+Uuh... mmm...
+@161
+Grain, sinä...
+@162
+Mitali... on haljennut kahtia...
+@163
+Tätä ei voi enää pelastaa...
+@164
+Isä... Medabotit sen enempää kuin mekään
+emme tarvitse itsenäistä valtiota. Alun perin halusit
+tulla Medabottien auktoriteetiksi.
+Mutta jossain vaiheessa...
+...Mestari taisi sittenkin olla huono.
+Kaikki johtui alun perin siitä, etten pystynyt
+korjaamaan Mizuchin mitalia...
+Minun mitaliani?
+Silloin olin tutkija, eikä taitoni riittänyt.
+Näin sinut surullisena rikkinäisen mitalin kanssa, enkä voinut
+tehdä mitään. Kuulin, että se mestari
+oli Medabottimaailman suurin
+auktoriteetti, ja ryhdyin hänen oppilaakseen. Luulin, että hän osaisi korjata sen...
+Hän oli tosiaan outo ihminen... Ja kun
+opin kaikenlaista, unelmani muuttui
+jossain vaiheessa maailmanvalloitukseksi. Mitä enemmän opin mitalien ihmeellisyydestä,
+sitä korkeammalle halusin kurottaa.
+Tuota... mikä se Mizuchin mitali sitten on?
+Se on Grainin mitali. Kun olisin korjannut sen, halusin
+asettaa sen vahvimpaan Medabottiin ja näyttää Mizuchille.
+......
+@165
+...Typerä isä.
+Hän näyttää kadottaneen alkuperäisen tavoitteensa.
+Fuhahahahaha!
+@166
+Grainin mitalin
+vie tulisen loistava Retort!
+@167
+Retort!?
+@168
+Hyvästi!!
+@170
+Häh, ei voi olla! Retort!?
+Ahahahaha
+@171
+Retort Lady!
+Ei hätää, {BUF03}.
+Medabottimaailman todellinen auktoriteetti
+korjaa mitalin! Heippa♥
+@172
+Medabottien todellinen auktoriteetti...
+Medabottiprofessori pystyy siihen varmasti.
+@173
+Yamikumo Orochi! Teidät pidätetään epäiltynä
+luvattomasta pääsystä Medabottiyhtiön järjestelmiin ja
+väärän tiedon levittämisestä!
+@174
+Select-joukot!
+@175
+Hee! Select-joukot selvittivät sen! Hyvä!
+@176
+Ai! Tokkuri!
+@177
+Ei hassumpaa! Arvostan teitä taas!
+No, oikeastaan selvittäjä ei ollut Select-joukot.
+@178
+Professori! Nae!!
+Päivää, {BUF03}.
+Sinä olet siis Hebereken oppilas.
+Te olette... Medabottiprofessori...
+Niin. Minä olen Medabottien auktoriteetti...
+"Medabottiprofessori!" ...hän sanoisi.
+@179
+Älä sano sitä ennen minua!
+@180
+Ahem! Kuuntele, Orochi.
+K-kyllä...
+Tutkimuksen tavoitetta ei saa käsittää väärin.
+Katso näitä lapsia. Medabotit ovat kumppaneita,
+eivät mitään työkaluja. Sinä tutkit,
+miten medabottaajan ja Medabotin mielet
+saadaan resonoimaan, mutta resonanssi
+on "side". Juuri luottamus synnyttää
+resonanssin ja herättää mitalin tuntemattoman voiman.
+Ihmiskunnalla, joka kohtelee näin upeita ystäviä
+työkaluina, ei ole tulevaisuutta.
+Mitalit ovat ihana lahja avaruudesta.
+Mikä on mielestänne meidän mitaleita
+tutkivien tutkijoiden tehtävä?
+Haluan... aloittaa
+Medabottien tutkimuksen alusta.
+Hyvä, hyvä. Pidä se mielessäsi.
+...Hihi.
+@181
+Minä lähden nyt.
+Haluan koota tutkimusraportin mitaleista.
+@182
+Hyvä on, nähdään myöhemmin.
+@183
+...No, niin se menee.
+Jos ihmiskunta hylkää "inhimillisyytensä", sitä
+ei voi enää kutsua ihmiskunnaksi.
+Älä yritä muuttaa ihmiskuntaa mitaleiksi.
+@184
+Miten tiedätte siitä suunnitelmasta?
+@185
+Professori Hebereke!
+Vau, pitkästä aikaa!
+Siinä hän on!
+Hyvää päivää.
+Mitä, mitä? Puhutte minusta kuin hirviöstä.
+Mestari...
+@186
+Hmph! Mikä naama tuo on! Säälittävää.
+Jos olet hullu tiedemies edes vähän,
+ryhdistäydy!
+Professori Hebereke...
+Hei! Älä nyt sotke, kun hän
+on vihdoin katumassa!
+@187
+Hmph! Yhtä nenäkkäitä kakaroita kuin ennenkin!
+@188
+Mutta tällä kertaa sinä hävisit.
+Sinäkin jouduit minun laillani näiden
+kakaroiden nujertamaksi! Gahahahaha!
+Tavoitteesta riippumatta lopulta voittaa se, jolla on
+suurempi intohimo Medabotteihin. Siksi sinä ja minä
+emme voittaneet! Jos ymmärsit, pese naamasi
+ja aloita alusta!
+@189
+Taidan katsella tätä vielä vähän ylempää!
+Gahahahaha!
+@190
+Että huono häviäjä Hebereke
+sanoi noin!
+Hän on omalla tavallaan
+hyväksynyt teidät.
+@191
+No, me lähdemme nyt.
+Tulkaa mukaan!
+@192
+Ai niin, se sinun Medabottisi...
+tuota...
+"Particle"?
+Juuri se. Olen vähän kiinnostunut siitä Particlesta.
+Haluaisin tutkia sitä kerran. Lainaisitko sen minulle?
+Totta kai. Tuon sen
+ensi kerralla laboratorioon.
+Kiitos. Taidan minäkin lähteä kotiin.
+Näkemiin, {BUF03}.
+Ai, näkemiin!
+@193
+Huh, ohi on. Vihdoin pääsee kotiin.
+@194
+Olipa pitkä päivä.
+@195
+Ai! Teitkö läksyt?
+@196
+Ah! Unohdin!
+Sitä ei saa unohtaa.
+@197
+Opettaja Ryuuko...
+Vaikka voititte isäni, älkää ylpistykö.
+Koulussa jatkuu taas treeni. Valmistautukaa!
+Niin, meillä on se tosi pelottava paholaisvalmentaja!
+@198
+Hysteerikot ovat kamalia!
+Sanoitko jotain?
+En sanonut mitääään!
+@199
+Ei mitääään!
+No, nähdään huomenna!
+@200
+Mennään mekin!
+...Joo!
+@201
+Hei! Odottakaa!
+Odottakaa minua!
+@202
+...Huh, onpa meluisaa porukkaa.
+Hihi.

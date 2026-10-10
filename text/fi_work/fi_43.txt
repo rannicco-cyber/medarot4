@@ -1,0 +1,913 @@
+@000
+Kiitos ruoasta! Aah, olipa hyvää!
+Kiitos ruoasta~
+Yhdessä syöminen maistuu paremmin.
+Paljon parempi kuin yksin!
+Arikakin ajatteli niin, siksi tulit tänne, eikö?
+...No, niin.
+Jotenkin tämä leirikoulukin on vain meidän luokallamme
+enemmän opiskeluleiri kuin leirikoulu,
+joten tämä tuntuu vajaalta.
+En osaa sanoa sitä hyvin...
+Ymmärrän, mitä tarkoitat. Mutta minä ajattelin,
+että opettaja sanoi "vain voitolla on merkitystä",
+ja minusta se tuntuu vieläkin väärältä.
+Mutta opettaja sanoi myös, että "medabottaaja ja Medabotti ovat
+yhtä sielua ja ruumista".
+Jos haluaa voittaa, medabottaajankin pitää
+yrittää yhdessä Medabotin kanssa. Sen
+jotenkin hyväksyn.
+Siksi aion yrittää parhaani...
+Sinun tyylinen mielipide.
+Tämä Arika ei voi jäädä jälkeen!
+Vaihdetaan nopeasti vaatteet ja mennään, {BUF03}!
+Joo!
+@001
+No, vaihdetaan vaatteet!
+@002
+Nyt ei saa nukahtaa.
+@003
+Ennen nukkumaan menoa ruokaa, ruokaa!
+@004
+No, menisinkö nukkumaan.
+@005
+Huomenna on vihdoin kisa. Minä, Arika, Kouji
+ja Karin... ja sitten... Odotan innolla.
+Jos sijoitumme kärkeen, menemme
+Ryutou-akatemiaan.
+Shurin mainitsema henkilö "Beast King"
+ja "S-R-suunnitelma"... Vielä
+on paljon epäselvää, mutta varmasti pian...
+@006
+Haukotus~ nukuinpa hyvin! No niin, tänään on kisa!
+Tavoitellaan kärkisijaa!
+@007
+Hetkinen, paljonko kello on!?
+@008
+Uwaa! Joko näin myöhä!?
+...Ruoka on korjattu pois. Vaihdetaan nopeasti ja mennään...
+@009
+No niin, olenko koonnut 3 Medabottia?
+@010
+Okei! Mennään!
+@011
+En ollut koonnut...
+@012
+Pitää vaihtaa vaatteet ennen lähtöä.
+@013
+Nopeasti! Muuten saat taas nuhteita!
+@014
+Odota! Arika!
+@015
+Kaikki paikalla. Tämän päivän ohjelma...
+Luokan puheenjohtaja, lue se.
+@016
+1. Medaspeed-kuningas 2. Medaroad-kisa
+3. Medabird...
+@017
+Mitä, samat kuin eilen.
+Hiljaa! Lista ei ole vielä lopussa.
+@018
+Eilen olitte juuri saapuneet ja väsyneitä,
+joten lopetin armosta siihen.
+@019
+"Armosta"...
+Kuinka paljon meidän oikein pitää tehdä?
+@020
+Tällä menolla ei ole aikaa uida.
+Sinä siellä! Hiljaa!
+...Jatka.
+@021
+4. Rajoitettu robottelu, osa 1 5. Rajoitettu robottelu, osa 2
+6. Rajoitettu robottelu, osa 3...
+@022
+H-hei... hetkinen! Eikö tuo nyt
+ole vähän liikaa!?
+Kas, Amazake. Sinulta puuttuu itseluottamusta.
+M-mitä...!
+Siksi sinä noin sanot, eikö?
+@023
+Mitä sanoit!
+@024
+Arika! Arika! Älä lähde provokaatioon mukaan!
+Tehdään se sitten! Otan haasteen vastaan!
+(Aaaaaah......)
+........
+@025
+Ensin Medaspeed-kuningas!
+@026
+Sitten Medaroad-kisa!
+@027
+Kun viimeinen on juossut, seuraavaksi Medabird!
+@028
+E-en jaksa enää...
+Minäkin olen rajoillani...
+Haluan kotiin~
+@029
+Joko annatte periksi? Surkeaa.
+Kisa on huomenna.
+Opettaja! Mutta jos kaikki ovat tässä kunnossa,
+huomenna emme jaksa!
+Hyvä on, tämän jälkeinen treeni on vapaaehtoinen.
+Seuratkoon minua vain se, jolla on intoa.
+@030
+Mitä tehdään?
+@031
+Minulle riittää jo...
+@032
+Ei kannata ottaa noin tosissaan.
+@033
+Kun kerran tultiin merelle, haluan leikkiä~
+Muuten uimapuvussa ei ole mitään järkeä!
+@034
+M-me lähdemme nyt!
+Menemme leikkimään!
+@035
+Kaikki lähtivät...
+Entä te? Mitä teette?
+@036
+Arika, minä...
+Ei tarvitse sanoa, tiedän kyllä!
+Jäljelle jäimme näköjään vain sinä ja minä.
+.........Sitten opetan teille
+poikkeuksellisesti uuden tavan taistella Medaboteilla.
+Häh? Uuden...?
+Odotan luolan sisäänkäynnillä.
+@037
+Luolan...
+@038
+Tuolla suunnalla oli kai epäilyttävä luola.
+...En tiedä, mitä se opettaja miettii, mutta
+sinne kannattaa mennä!
+@039
+Okei! Menen minäkin!
+Opettaja opettaa uuden taistelutavan!
+@040
+Roborobo, löytyi!
+Hi-hiiih! Annan tämän, armahda minut, robo!
+En minä aio tehdä mitään...
+J-joka tapauksessa, ota se, robo!
+@041
+Vau, tinpetti! Saanko oikeasti?
+Ota vain ja häivy nopeasti, robo!
+Selvä...
+@042
+Älä tule lähelle, robo!
+Sanoin, etten tee mitään...
+@043
+Pitää mennä luolalle.
+@045
+Täällä on aika pimeää.
+@046
+...Tulitte. Tänne päin, seuratkaa.
+@047
+Mitähän hän aikoo tehdä tällaisessa paikassa...?
+Toiminta ennen ajattelua! Mennään!
+@048
+Opettaja, tämä on...?
+Vihollinen ei aina ole näkyvissä.
+Päättele vihollisen liikkeet ja selvitä sen sijainti.
+Miten taistella
+näkymätöntä vastaan?
+Silloin koetellaan kokemusta ja vaistoa.
+Kaikkia osia tehokkaasti käyttäen voittaa se, joka
+kaataa ensin kaikki vastustajan Medabotit. Medabotteja saa olla 3.
+Älä luule, että vain se mikä näkyy, on kaikki. Mennään!
+@049
+Että tällainenkin robottelu on olemassa!
+"Pimeä robottelu".
+Koskaan ei tiedä, milloin ja missä
+robotellaan. Halusin, että te harjoittelette
+myös sellaista käytännön tilannetta varten.
+Mitä tarkoitat käytännöllä!? Eikö tämä ole
+triathlonin laji!?
+...Ymmärrätte vielä.
+Teitte kovasti töitä. Saatte tämän.
+@050
+A, kiitos paljon...
+No niin, treeni päättyy tähän. Palataan.
+@053
+Huomenna on vihdoin kisa. Näytetään treenien tulokset!
+...Eikö, {BUF03}?
+Joo...
+Treenit on tehty, joten uimaan!
+...Haluaisin sanoa, mutta olen liian väsynyt.
+Ei voi mitään, uidaan huomenna.
+Niin, on jo myöhä.
+No, nähdään huomenna!
+@054
+O...olen ihan poikki.
+@055
+K...kävelykin on vaikeaa.
+Jaksankohan huomenna?
+@056
+Uuh... olivatko portaat näin raskaat kiivetä...?
+@057
+Ai! Karin-kultaaa♥
+@058
+Päivää, {BUF03}.
+@059
+Mitä nyt? Yksinkö? Kouji ei ole täällä?
+@060
+Kouji on nyt uppoutunut kisatreeniin.
+Hän on yrittänyt aamusta asti. Hän ei
+halua hävitä {BUF03}:lle.
+Aamusta asti!
+En voi jäädä jälkeen...
+@061
+Niin! {BUF03}, treenataan yhdessä.
+Karinin kanssa!? (Kahdestaan♥)
+Minusta ei ehkä ole tarpeeksi vastusta...
+Ei ollenkaan!
+@062
+Ei ei ei!
+@063
+Sopiiko lajiksi Medaspeed-kuningas?
+Joo!
+No, mennään.
+@064
+Olipa hauskaa~♥
+J-joo! Niin oli! (Taidan olla aivan poikki...)
+Itse asiassa sain tänään
+auringonpistoksen, joten lepäsin.
+Pelkkä lepääminen oli tylsää, ja ilma
+viileni vähän, joten tulin ulos.
+Ja tapasin sinut, {BUF03}. Onneksi.
+Eli tulit ulos Koujilta salaa.
+Saatan sinut hotellille, Karin. Kouji on
+ihan tosissaan, kun on kyse sinusta, joten jos hän huomaa,
+siitä tulee hankalaa. Jos hän saa tietää, että livahdit ulos...
+Kouji on hätäilijä, eikö niin.
+Ei, en tarkoittanut sitä... no, olkoon.
+@065
+Nyt pitää saattaa Karin hotellille.
+@066
+Karin yöpyy tässä hotellissa, eikö?
+Kiitos saattamisesta.
+Nähdään, {BUF03}.
+Joo! Pidä sinäkin huolta itsestäsi, Karin!
+@067
+Taidan minäkin lähteä takaisin.
+@068
+Voi että! Olen niin väsynyt, ettei huvita tehdä mitään.
+@069
+Tuota, ensin vaihdan vaatteet...
+@070
+Ripustan uimapuvun tähän... noin.
+@071
+Kas niin! Syödään!
+@072
+Ai! Arika.
+Tänään näytit heräävän itse.
+Tänään söit omassa huoneessasi.
+Liika hemmottelu ei tee sinulle hyvää.
+Hemmottelu...
+Tänään on kisa! Mennään täysillä!
+Aikaa on vielä, joten käyn nyt uimassa!
+Menen edeltä~!
+@073
+Varas!!
+@074
+Mitä!? Se kuului alhaalta!
+@076
+Mitä!?
+@077
+Se kuului tuolta!
+@078
+Kun jotain tapahtuu, en voi jättää sitä!
+@079
+Nuudeleita, kalmaria, jäähilettä, rannan klassikot!
+Eikö ole mitään hauskempaa?
+Hmm, entä Medalia?
+Haluan sen!
+Okei! Jos voitat minut, saat sen! No? Pelataanko?
+Hmm...
+@080
+Ei nyt.
+Vai niin.
+@081
+Joo! Pelataan!
+Okei! Mennään!
+@082
+Et ole hassumpi. Kas tässä! Luvattu Medalia!
+@083
+Kiitos!
+@084
+Nuudeleita, kalmaria, jäähilettä, rannan klassikot!
+@085
+Minne se meni!
+Mitä tapahtui!?
+@086
+Roborobo-tyyppi kävi kimppuuni!
+Ne ilmestyvät kesäisin ja tekevät pahojaan!
+(Kesäisin pahanteossa... kuin torakat.)
+Minne se meni?
+En tiedä! Mikä liiketoiminnan häirintä.
+...No, onneksi meni vain yksi grillattu kalmari.
+Jos jätän kojun tyhjäksi, ne saavat mitä haluavat,
+joten en voi lähteä kojulta.
+Select-joukot partioivat, joten kyllä se selviää.
+Vai niin, selvä.
+@087
+Roborobo-jengi ei saa sotkea kisaa!
+Etsitään ja napataan ne nopeasti!
+@088
+Minne Roborobot pakenivat!?
+@089
+Kunnes Roborobo-hälinä laantuu, tie on suljettu!
+@091
+Kalmarista syödään vain reunat, loput pois, robo!
+@092
+M-mikä tuhlaus!
+En anna anteeksi ruoan haaskaajille! Roborobo-jengi!
+@093
+Mitä teet, jos et anna anteeksi, robo?
+Tämän, tietenkin!
+@094
+Miksi emme ikinä voita, robooo
+Tässä tilanteessa viimeinen keino, robo!
+@095
+Älä pakene!!
+@096
+Kukaan ei jää paikalleen, kun käsketään, robo!
+@097
+En päästä sinua karkuun!
+@099
+Seis siinää!!
+@100
+Sen Roborobon voi jättää Arikalle.
+@101
+{BUF03}!
+@102
+Kouji!
+Missä Roborobo-jengi on!!
+@103
+Rauhoitu, Kouji! Roborobo-jengi on jo...
+Kyaa! Mikä sinä olet!
+@104
+Roborobo-jengi! Se meni sinne!!
+Unohdin... Jos näkee yhden, niitä on 30...
+@105
+Jaetaan tehtävät ja napataan ne, {BUF03}!
+@106
+Okei! Etsin minäkin!
+@107
+Roborobo-jengi!!
+@108
+Tuollako!?
+@109
+Roborobo-jengi, olette pidätettyjä!
+@110
+Minäkin...!
+@111
+...Hm?
+@122
+Minua jahdataan, robo! Avatkaa tämä, robo!
+Ei Roborobo-jengi pääse noin vain
+tuollaiseen luksushotelliin!
+@123
+Mutta täällähän on Sakeka...
+Sakeka?
+@124
+E-ei mitään, robo!
+@125
+Seis!
+@128
+Sehän on Mizuchi! Tulit sinäkin!
+Joo. Tätäkö etsit?
+@129
+Robooo
+@130
+Nappasit sen meille! Kiitos, Mizuchi.
+Ei tarvitse kiittää.
+Autan vain meren roskien siivoamisessa.
+...Mutta roskat pitää siivota alkulähteeltä asti, tai siinä ei ole järkeä.
+@131
+Mitä tarkoitat?
+Etsi roskien pomo.
+@132
+Pomo...
+@133
+Eihän vain Roborobo-jengin pomo Sakekasu ole täällä!?
+@134
+Roborobo...jengi, olette pidä...tettyjä... huh huh
+Taisit juosta paljon.
+@135
+Kiitos yhteistyöstä!
+@136
+Tule!
+@137
+Robooo...
+@138
+Se Roborobo on hoideltu, mutta ongelma on Sakekasu.
+Etsitään muut ja kerrotaan Sakekasusta.
+@139
+Arika! Kouji!
+...No? Miten Roborobojen kanssa meni?
+Aioin vihdoin uida, mutta
+Roborobo-jengi pilasi kaiken!
+Me saimme pari, kolme. Entä sinä, {BUF03}?
+A, joo, löysin sen jälkeen yhden.
+Mutta Sakekasukin näyttää olevan täällä...
+@140
+Onko Sakekasukin täällä!?
+Sakekasu, eli Roborobo-jengin pomo?
+Niin juuri.
+Muuten, yksi asia on vaivannut minua, Kouji...
+@141
+En ole nähnyt Karinia. Missä hän on?
+Vaikka kuinka sanoin Karinille,
+hän livahti eilen illalla hotellista ulos, ja hänen
+vointinsa huononi taas.
+Siksi hän lepää hotellissa kisan alkuun asti.
+Mitä!
+@142
+(...Ehkä eilinen treeni minun kanssani
+oli huono ajatus...?)
+@143
+Mitä nyt? {BUF03}
+Ai, ei, tuota...
+@144
+Ai! Select-joukot!
+Häh?
+@145
+Meressä on niin paljon merisiiroja, ettei voi uida!
+Merisiiravaroitus on voimassa!
+@146
+Merisiiroja!?
+@147
+U..........gh
+Merisiirat eivät ole merellä harvinaisia, mutta
+jos niitä on niin paljon, ettei voi uida, tilanne on vakava.
+Mennään!
+@148
+.........
+@149
+Ovatko nämä... merisiiroja?
+...Siis, nehän ovat Medabotteja.
+Merisiirojen sijaan ne näyttävät torakoilta!
+Nämä ovat torakkamallin Medabotteja.
+Hei, merisiirat! Poistukaa välittömästi!
+Roborobo roborobo
+@150
+Roborobo roborobo
+@151
+Mitä! Nuo merisiirat sanovat roborobo!
+@152
+Mistähän nämä torakat oikein tulevat?
+@153
+Ai! Hei, eikö se luola, jonne opettaja Ryuuko
+vei meidät eilen treenaamaan, ole yhteydessä mereen?
+@154
+Vai niin. Torakat tulevat siis sieltä...
+@155
+Okei! Mennään katsomaan!
+@156
+...Häh? Missä Kouji on?
+@157
+Hän näyttää odottavan tuolla kauempana.
+Häh?
+@158
+Ei ole Koujin tapaista. Yleensä hän syöksyy
+tapauksiin ensimmäisenä. Mikä hänellä on?
+Joka tapauksessa, pyydetään Kouji mukaan!
+@159
+Select-joukot ovat poissa, pääsemme helposti sisään!
+...Ja jostain syystä minä olen taas ensimmäisenä?
+Tietysti! Sinähän olet poika. Aiotko päästää
+tytön edelle?
+(Hento tyttö ei sanoisi noin~)
+@160
+Minkäs teet! Kouji ei tunnu
+olevan innoissaan... eikö?
+@162
+Selvä, selvä, minä menen ensin~
+@163
+Kunhan ymmärrät!
+...Ai! Muista koota periskooppiosat!
+Tuota...
+Mitä?
+Ai! Sinulla ei ole "periskooppia"!
+...Ei.
+Mitä tuo kaipaava katse on?
+...........
+Voi että, selvä sitten! Vain tämän kerran!
+@164
+Odotettua, Arika!
+@165
+Kas niin! Mitä sinä teet?
+Kokoa nopeasti Auto Cruise ja mene edeltä.
+Sanomattakin selvää, mutta Auto Cruisen osat ovat
+pää "Water Fleet", oikea käsi "Water Hole",
+vasen käsi "Water Port", jalat "Water Turbine"
+...eli siis! Kas niin, nopeasti!
+@166
+Olenko koonnut laivamallin
+Medabotin Auto Cruisen?
+@167
+Okei! Mennään!
+@168
+Minulla on osat, mutta en ole koonnut sitä.
+Kootaan se!
+@169
+(...Ugh, osia puuttuu!)
+@170
+Mitä teet, {BUF03}? Takana on jonoa!
+@171
+Tuota, siis...
+...Eli osia puuttuu?
+Arvasinhan. Annan ne, tule hakemaan!
+Häh! Joo!
+@172
+K-kiitos, Arika!
+Sanon vain, että nyt on kiire,
+joten tämä on poikkeus! Vain tämän kerran!
+Tämä velka tulee kalliiksi~
+(Tästä muistutetaan varmaan loppuikä...)
+@173
+................
+Olet jotenkin tavallista vaisumpi, Kouji.
+@174
+Sakekasun pitäisi olla jossain! Pitää etsiä hänet!
+@175
+Hei, {BUF03}.
+Mistä tiedät, että Sakekasu on täällä?
+@176
+Mistäkö? No, Mizuchi...
+@177
+Ja mistä se Mizuchi tiesi?
+@178
+Se... voi että, sama se!
+Etsitään nopeasti Sakekasu!
+Selvä.
+Jaetaan etsintä!
+Okei!
+@179
+Tuota, minä... minne menisin?
+@180
+Pitää etsiä Sakekasu!
+@181
+Kerrassaan! Roborobot eivät tee mitään hyvää!
+Saisivatpa jo parantaa tapansa.
+@182
+Älä häiritse, kun yritän nukkua, robo!
+@183
+Robooo!
+Missä Sakekasu on!
+T-tämän luolan perimmäisessä osassa, robooo!
+@184
+Okei! Mennään!
+@185
+Tämän alla on pilkkopimeää.
+@186
+...Roborobo roborobo
+@187
+Tämän yläpuolella on Roborobo!
+Olenko valmis robottelemaan?
+@188
+Valmistaudutaan kunnolla ennen kuin mennään.
+@190
+Lopeta jo kepposet!
+Että seuraat tänne asti, olet liian sitkeä, robo! Mitä me
+muka olemme tehneet, robo!?
+Pahinta on se, ettet edes tajua sitä!
+@191
+Nyt suutuin, robo! Tässä tilanteessa...
+@192
+Herra Sakekasuuu~! Tuo kiusaa minua, robo!
+@193
+Auttakaaa, robo~!
+Siihenkö se taas päätyi...
+@194
+...Sakekasu!
+@195
+Hahahahahaa! Odotinkin sinua, poika!
+Sakekasu! ...Ja Karin!
+Jos haluat pelastaa tämän tytön...
+Karin, jäitkö Sakekasun vangiksi?
+?
+Ei, satuin vain tapaamaan hänet täällä.
+Karin, yhdistetään voimamme! Joukkuerobottelu!
+Sopii.
+@196
+Mitä!? Hetkinen, sinähän olet
+panttivanki...!
+@197
+Tehdään yhdessä parhaamme, {BUF03}♥
+@199
+...Joten näin on.
+Vaikka itkisit nyt, en anna anteeksi!
+@200
+Hitsi! Kokemuksesta en usko, että tällaisessa
+tilanteessa voitan, mutta joukkuerobottelu siis!
+@201
+Ugh...
+@202
+H-herra Sakekasu!
+@203
+Mitä teemme, robo!?
+Älä hätäile! Tällöin ei hätäillä eikä metelöidä,
+@204
+vaan paetaan!!!
+@205
+Ai! Seis!!
+@206
+...Tällaisessa paikassa salakäytävä!
+Okei! Perään!
+@207
+M-mitä teemme, robo!?
+Toistaiseksi kuten aina...
+@208
+Paetaan, robo!
+@209
+Sakekasu-niminen herra ja Roborobo-jengin herrat...
+Eikö heillä ole kuuma tuollaisissa asuissa täällä?
+@210
+Ä-älä tule tänne!
+@211
+...Minne hän meni?
+Uwaaa!!!!
+@212
+Tuo oli Koujin ääni! Mennään katsomaan!
+@213
+Koujille on sattunut jotain. Katsomaan!
+@214
+Ugh, käskin olla tulematta! Senkin torakka!
+@215
+Mitä nyt, robo? Etkö pysty tekemään mitään, robo?
+@216
+Ugh... älä tule lähelle!
+@217
+Kun käsketään olla tulematta, tekee mieli tulla, robo.
+@218
+Kouji! Mitä sinä teet?
+@219
+Mitä teet, Kouji!
+Hoitele nuo tyypit nopeasti!
+M-mutta...
+@220
+Kas, Kouji. Mitä sinä teet?
+@221
+Nämä... tehkää näille jotain!!
+Voi, torakkamallin Medabotteja.
+@222
+Niin muuten, Kouji on aina inhonnut
+hyönteisparvia.
+@223
+Skuuppi!
+@224
+Uusi paljastus! "Hanazonon suosikki Kouji
+inhoaa hyönteisparvia!"
+@225
+Älä kirjoita turhia!!
+@226
+Hahahahahaa! Suunnitelma meni vähän pieleen, mutta
+nyt meillä on panttivanki, hyvät herrat!
+@227
+Raukkamaista! Päästä Kouji!
+Raukkamaista... uuh, odotinkin sitä sanaa! Sano lisää!
+@228
+Raukkamaista raukkamaista raukkamaista raukkamaista!
+@229
+Hölmö hölmö hölmö hölmö hölmö hölmö!
+Älkää sanoko hölmööö!!
+@230
+Niin, Arika, ei ole kohteliasta sanoa totuutta.
+@231
+(Karin on kaikista ilkein...)
+Hitto!! Kimppuun, väki!!
+@233
+Robooo!!
+@234
+Ai, te!!
+@235
+...Siis, meillähän oli panttivanki,
+miksi hyökkäätte edestä!
+@236
+Herra Sakekasuhan käski hyökätä, robo...
+On sittenkin hölmö.
+@237
+Arika, kuten sanoin...
+Kuuuh!!
+@238
+No, olkoon. Vielä nytkin...
+@239
+Ugyah!!!
+@240
+Mitä!!
+@241
+Vilisevät parvet eivät käy, mutta 3 ei ole iso juttu!
+@242
+Muuten ei voisi robotellakaan.
+...........
+@243
+Mitä teet, Sakekasu? Enää ei ole pakotietä!
+Hmph, hölmö!
+Minua ei napata noin helposti!
+@244
+Klik.
+@245
+Ai!
+Hyvästiii! Hahhahhaa♪
+@246
+Pääsi karkuun.
+Melkein saatiin!
+Tapaammekohan taas?
+Jos niillä on asiaa, ne tulevat taas itse.
+...Mutta nyt kisa näyttää voivan alkaa.
+@247
+Mennään.
+@248
+Niin, mutta...
+? Mitä nyt, {BUF03}?
+@249
+Mietin vain. Jos neljää kuningasta ja Roborobo-jengiä
+ohjailee "Beast King", eikö se
+tanssita meitäkin?
+"Tanssittaa"?
+Siis, kaikkialla minne menemme, ilmestyy
+neljä kuningasta tai Roborobo-pomoja. Ja Karinin
+sieppauskin oli ihan kuin houkutus meille...
+@250
+Me toimimme omasta tahdostamme!
+Lopeta oudot puheet, nyt lähdetään!
+@251
+Jos olet päättänyt mennä, mene vain.
+Kun olemme kaikki yhdessä, ei pelota.
+Eikö niin, {BUF03}?
+@252
+Karin...
+No niin, mennään mekin.
+Niin, murehtiminen ei auta. Mennään.
+@253
+Voi että, Select-joukot ovat aina myöhässä!
+@254
+Häh? Tokkuri.
+@255
+Kuulin, että Roborobo-jengin pomo Sakekasu on täällä,
+joten kiirehdin paikalle.
+Liian myöhään!
+Kyllä~...
+@256
+Mutta tälle rannallekin on heitetty paljon roskia.
+Ne ovat hiekan alla, joten niitä on vaikea nähdä...
+Roskaavat muutkin kuin Roborobo-jengi.
+Fuyuunissakin oli niin, ja täälläkin...
+@257
+Kisaan on vielä vähän aikaa,
+joten kerätään roskia!
+@258
+Niin, jakamalla työt se on pian tehty!
+Kauniiseen mereen eivät roskat sovi!
+@259
+Ah......
+@260
+Karin!
+@261
+...Oletko kunnossa?
+@262
+...Kyllä. Vähän vain huimasi.
+Älä vielä rasita itseäsi.
+Jätä roskien siivous meille,
+ja lepää jossain, Karin, eikö?
+Kyllä, teen sitten niin.
+@263
+Mutta silti...
+@264
+Täällä on tosiaan roskia joka puolella.
+@265
+Tokkuri! Tuota...
+Tiedän kyllä. Nyt
+hoidamme roskaongelmaa täälläkin.
+Kiitos!
+@266
+Nyt ei auta mennä tänne.
+@267
+Miksi niin moni heittää roskia!
+Ajattelisivat keräävää!
+@268
+Tosiaan roskia joka puolella...
+@269
+Roska löytyi!
+...Ai, se olikin mitali!
+@270
+Roska löytyi!
+@275
+Tsemppiä, {BUF03}♥
+@276
+Alkaa olla jo siistimpää.
+@277
+Roskia on jo vähemmän.
+@278
+Rannasta on tulossa tosi kaunis♥
+@279
+Kun on näin siistiä, roskien heittäminen hävettää.
+@280
+Vielä vähän! Tsemppiä♥
+@281
+Valmista!
+Kiitos vaivannäöstä, {BUF03}♥
+Eipä tässä...
+@282
+Huh~ vihdoin valmista... Ja
+mitä virnistelet, {BUF03}!
+@283
+Häh? Ei, tuota...
+@284
+Täälläkin on valmista!
+Merestäkin torakat katosivat, joten nyt kisa
+voi vihdoin alkaa.
+Odotan innolla♥
+Tämän päivän tapahtumat "Arikan lehteen"!
+Älä...
+Hihi
+@285
+Kouji on niin ujo.
+@286
+........Eikö se ole vähän eri asia?
+Odotan innolla ottelua teitä vastaan. Valmistautukaa!
+@287
+Samoin!
+En häviä!
+Olkaa armollisia.
+No, nähdään kisassa!
+@288
+No, mennään mekin nopeasti kisapaikalle...
+@289
+Ai! Opettaja Ryuuko!
+Torakkajahti näyttää olevan ohi. Kisa alkaa pian.
+Ensin palataan hotellille, annan ilmoittautumislomakkeet.
+@290
+Tuliko opettaja Ryuuko varta vasten hakemaan meitä?
+Häh? Se demonivalmentajako?
+Eikö hän vain sattunut kulkemaan ohi?
+Niinköhän...
+Niin niin! Mennään. Ensin hotellille.
+@291
+Vihdoinkin. Odotan innolla.
+...Mutta tuliko opettaja Ryuuko
+tänne oikeasti sattumalta?
+@292
+Opettaja Ryuuko sanoi äsken "torakkajahti".
+Tiesikö hän meistä...?
+Hmmm-----? .........
+@293
+No, olkoon. Palataan hotellille.
+@294
+Pitää ilmoittautua kisaan.
+@295
+Vain yksi robottelu! ...Eikö?
+@296
+Mitä, pihi!
+@297
+En häviä!
+@298
+Ehtiikö vielä yhden robottelun?
+Hei, harjoitellaan vielä viimeisen kerran.
+@299
+Kannattaisi kyllä harjoitella.
+@300
+Kisa jännittää!
+@301
+Hei, sinähän olet oikeastaan aika mahtava?
+Eikö telkkari tule haastattelemaan?
+@302
+Elizabethini on toisin kuin sinä hento,
+joten huolestuttaa...
+@303
+Kaikessa kohtuus on parasta!
+@304
+Kaikki muut paitsi sinä ovat jo paikalla.
+Minua käskettiin hakemaan sinut, kun olit myöhässä!
+Kas niin, mennään!
+@305
+Vau! Kaikki ovat jo koolla.
+@306
+Anteeksi myöhästyminen.
+Sama se, asetu riviin.
+@307
+Tässä lomakkeet ja kisaohjelma.
+@308
+Uwau! Superkova aikataulu!
+@309
+Ymmärrän nyt, miksi treeni oli sellainen.
+@310
+Ei ole itseluottamusta...
+@311
+Pärjääköhän Elizabethini?
+Kyllä! Hiljaa! Kirjoittakaa lomakkeeseen nimenne
+ja lyhyt esittely ja antakaa se minulle.
+Odotan hotellin sisäänkäynnillä.
+Puhukaa minulle, kun olette valmiita.
+@312
+Jos sijoitumme kärkeen ja saamme kutsun,
+olisipa se "luksushotelliyöpyminen"~
+Arika, tiedät kai kyllä...
+M-mitä? En ole unohtanut! Sijoitumme kärkeen
+ja menemme vihollisen tukikohtaan, eikö?
+Hyvä, että muistat.
+...No niin, katsotaan ilmoittautumislomakkeestakin tarkasti.
+Osallistuvat koulut... Ginjoun ala-aste ja
+Hanazono-akatemia, ja sitten... Ryutou-akatemia.
+Järjestäjä on siellä, joten tietysti se osallistuu.
+Keitä Ryutousta osallistuu? Tuota...

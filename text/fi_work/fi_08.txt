@@ -1,0 +1,367 @@
+@000
+Tämä on hylätty tehdas.\nMitä täällä tehtiin ennen?
+@001
+"Medabottitutkimuslaitos"
+@002
+"Ennustuspyhäkkö"
+@003
+"Ginjoun ala-aste"
+@004
+"Select-osasto"
+@005
+Tämä on Arikan talo
+@006
+Tämä on minun kotini
+@007
+Tämä on Kikuhimen talo
+@008
+Tämä on Iwanoin talo
+@009
+Tämä on Kagamiyaman talo
+@010
+"Medaspeed-kuninkaan harjoitusrata"
+@011
+"Medaroad-kisan harjoitusrata"
+@012
+"Edessä mutaluola\nMaa on todella mutainen"
+@013
+"Dark..."? Kirjaimet ovat\nhaalistuneet, en saa selvää
+@014
+"Ensiapukeskus"
+@015
+"Select-päämaja"
+@016
+"Pupu-baari"
+@017
+"Medabottaajat"
+@018
+"Medatavaratalo"
+@019
+"Kerrostalo Risotto"
+@020
+"Medabottiyhtiö"
+@021
+"Hanazono-akatemia"
+@022
+Hanazonon rikkain oppilas\nHachirou asuu täällä
+@023
+Tämä on kilpakumppanini\nKoujin talo
+@024
+Tämä on Hanazonon idolin\nKarin-kullan♥ talo
+@025
+"Ninjojen ansakartano"
+@026
+"Tervetuloa Shinobick-puistoon!"
+@027
+"Jakunanin ala-aste"
+@028
+"Umineko Royal Hotel"
+@029
+"Select-joukkojen Umineko-osasto"
+@030
+"Umineko-hotelli"
+@031
+"Meriluola"... onpa\nvaikealukuinen kyltti
+@032
+"Robottelun harjoituskenttä"
+@033
+"Laboratorio\nAsiattomilta pääsy kielletty"
+@034
+"Select-joukkojen Sazanka-osasto"
+@035
+"Pelisali\n...kansankielellä pelari"
+@036
+"Lähikauppa, Sazankan myymälä"
+@037
+"Usao-kahvila"
+@038
+"Edessä Sazankan dojo"
+@039
+Tämä on naisten kylpylän merkki
+@040
+Tämä on miesten kylpylän merkki
+@041
+"Kuumien lähteiden luonnonluola"
+@042
+"Jaksaa, enää vähän!"
+@043
+"Vuoristopoluilla Monijalka on paras!"
+@044
+Medalinkin ilmoittautuminen\non päättynyt
+@045
+Täällä on rivissä paljon\ntietokirjoja ja sanakirjoja
+@046
+Kunpa osaisin soittaa pianoa
+@047
+Täällä on paljon nuottikirjoja
+@048
+Selvä! Tänäänkin\nkaikki kunnossa
+@049
+Täällä on rivissä vaikeita kirjoja
+@050
+Selvä! Tänäänkin\nkaikki kunnossa
+...Ei nyt ole sen aika!\nPitää päästä ulos!
+@051
+"Medabottitieto:\ntinpetti"
+Tinpettejä on kahta tyyppiä:\nmies- ja naistyyppi
+Kumpaankin voi kiinnittää\nvain vastaavan tyypin osia
+Tinpettejä voi olla\nyhteensä 9 kappaletta
+Saatua tinpettiä ei\nvoi heittää pois, joten
+kannattaa hankkia molempia\ntyyppejä tasapuolisesti
+@052
+"Medabottitieto:\ntaitotaso"
+Jokaisella mitalilla on\nvain 3 taitotasoa
+Jos haluamasi osan\ntaitotasoa ei ole,
+kannattaa kiinnittää\nMedalia tueksi
+@053
+"Medabottitieto:\nMedalia"
+Medalioita on 10 lajia, ja\nniitä voi olla 30 kappaletta
+Vaikka mitalilla ei olisi\nosan vaatimaa taitotasoa,
+Medalia voi korvata\nsen taitotason
+Kun mitalilla ja Medalialla\non sama taitotaso,
+korkeampi arvo\nvaikuttaa toimintaan
+Matalampikin taitotaso\nkuitenkin kehittyy, joten
+kannattaa robotella\nMedalia kiinnitettynä
+@054
+"Medabottitieto:\nyhteensopivuus"
+Mitaleilla ja osilla on\nominaisuus. Samanlaisen osan
+kanssa yhteensopivuusarvo\nlisätään joka toimintoon
+Huonosti sopiva tehokas\nosa voi siksi hävitä
+heikommalle mutta\nhyvin sopivalle osalle,
+joten kokeile\nerilaisia yhdistelmiä
+@055
+Jos kosken, saan varmaan\nkuulla kunniani. Annan olla.
+@056
+Onpa hieno kone
+@057
+Juoma-automaatti.\nEi ole nyt jano.
+@058
+"Medabottitieto:\nMedavoima"
+Kun mitalin taso nousee,\nse voi oppia Medavoiman
+Medavoimaa voi käyttää,\nkun sitä on kerätty tarpeeksi
+Medavoima vie kuitenkin\nenemmän aikaa kuin osa,
+joten ajoitus\non tärkeää
+Medavoimalla on osia\nvoimakkaampia vaikutuksia
+Toisaalta jokainen mitali\noppii vain tietyt Medavoimat,
+joten Medavoimaa hyödyntävä\nMedabotin kokoonpano
+on tärkeä asia
+@059
+"Medabottitieto:\ntaitotaso (lyönti)"
+Tähtää etummaiseen\nviholliseen lähitaisteluiskulla
+Toiminnon jälkeen ei voi\npuolustaa ennen seuraavaa
+Kriittinen osuma\non hieman todennäköisempi
+"Medabottitieto:\ntaitotaso (ammunta)"
+Valitsee kohteen toimintoa\nvalitessa ja ampuu
+Toiminnon jälkeen ei ole\nhaittaa ennen seuraavaa
+"Medabottitieto:\ntaitotaso (raivo)"
+Tähtää etummaiseen\nviholliseen lähitaisteluiskulla
+Ei voi väistää eikä puolustaa\nennen seuraavaa toimintoa
+Vahinko läpäisee\nmuihin osiin
+"Medabottitieto:\ntaitotaso (tähtäys)"
+Valitsee kohteen toimintoa\nvalitessa ja ampuu
+Toiminnon jälkeen ei voi\nväistää ennen seuraavaa
+Kriittinen osuma\non hyvin todennäköinen
+@060
+"Medabottitieto:\ntaitotaso (suojaus)"
+Pääasiassa puolustusosia,\njotka suojaavat liittolaisia
+Tukee myös vahvoja vastaan\ntoimivia osia
+ja osumatarkkuutta\nnostavia ja laskevia osia
+"Medabottitieto:\ntaitotaso (asennus)"
+Pääasiassa ansaosia,\njotka torjuvat iskuja
+Tukee myös onnistumista\nja Medavoimaa lisääviä osia
+sekä voimakkaita\nyhteisiskuja tekeviä osia
+"Medabottitieto:\ntaitotaso (korjaus)"
+Pääasiassa Medabotin\npanssaria korjaavia osia
+Tukee myös haittatiloja\nja ansoja purkavia osia
+sekä Medavoiman käyttöä\nestäviä osia
+"Medabottitieto:\ntaitotaso (erikoinen)"
+Pääasiassa osia, jotka\nnollaavat vihollisen iskun
+Tukee myös vihollisen\niskuja torjuvia osia
+@061
+Medabottikotelo
+@062
+Täällä on maitovanukasta♥
+@063
+Täällä on kananmunia
+@064
+Täällä on kaikenlaisia mehuja
+@065
+Täällä on leipää ja valmisruokaa
+@066
+Täällä on Medabotin osia\nja kaikenlaista tavaraa
+@067
+Jäätelöä♥ Kuumana päivänä\njäätelö on parasta
+@068
+Tämä on kopiokone
+@069
+Se käy, mutta mitähän\nse oikein valmistaa?
+@070
+Miksi tehtaassa on sänky?
+Ja vielä kaksi! Outoa...
+@071
+Olisikohan täällä\nmaitovanukasta
+Ei ollut...
+@072
+Tämä on keittiö
+@073
+Täällä on liesi. Varo tulta.
+@074
+Pestään kädet kunnolla
+@075
+Katsotaanpa Medabottiyhtiön\nkotisivua
+V-vau! Täällä on\nvaltavasti tietoa!
+@076
+Mitään kiinnostavaa\nei näytä tulevan
+@077
+Täällä on kasoittain\nComic BonBonia
+@078
+Toisten jääkaappia\nei saa avata luvatta
+@079
+Toisten tietokoneeseen\nei saa koskea luvatta
+@080
+Toisten televisioon\nei saa koskea luvatta
+@081
+"Luonnonpuiston leirintäalue"
+@082
+Iso televisiomonitori
+@083
+Uuden mallin Medabotti
+Haluaisin sellaisen...
+@084
+Täällä on rivissä\nMedabottituotteita
+@085
+Täällä on paljon\nMedabotin osia
+@086
+"Select-joukkojen tiedote"\n~Oikeutta tänäänkin~
+@087
+"Select-joukkojen uutiset"\nTeemana: Select Three
+@088
+Täällä on rivissä lääkkeitä
+@089
+Täällä on kaikenlaista tavaraa
+@090
+Täällä on paljon palloja
+@091
+Kenkäkaappi
+@092
+Täällä on luokan kirjasto
+@093
+Kalliin näköinen piano
+@094
+Nyt ei ole aikaa\nkatsoa televisiota
+@095
+Täällä on lehtiä ja kirjoja
+@096
+Toisten lipastoa\nei saa avata luvatta
+@097
+Iso Medabottikotelo
+@098
+Hienon näköinen tietokone
+@099
+Näyttää koelaitteelta
+@100
+"Select-joukkojen\nOdoro-vuoren osasto"
+@101
+"Medaroad-kisarata"
+@102
+Muurattu liesi
+@103
+Tämä on ruuanlaittopaikka
+@104
+Tämä on Kanin talo
+@105
+Täällä on rivissä\nrobottelukirjoja
+@106
+Vanha Medabottikotelo
+@107
+Vanha mitalikotelo
+@108
+Roskakori
+@109
+Täällä on filmiä,\nmutta se on kallista...
+@110
+Täällä on matkamuistoja:\n"Karasawagi-manju"
+@111
+Täällä on matkamuistoja:\n"Karasawagi-riisikeksi"
+@112
+Täällä on matkamuistoja:\n"Karasawagi-pikkuleipä"
+@113
+Täällä on matkamuistoja:\n"Karasawagin keitaan vesi"
+@114
+Täällä on matkamuistoja:\n"Karasawagin hiekka"
+@115
+Täällä on matkamuistoja:\n"Karasawagi-sanakirja"
+@116
+Täällä on paljon\nMedabotin osia
+Mutta vähän kalliita...
+@117
+Mehuautomaatti
+Mutta vähän kallis...
+@118
+Kalliin näköinen mitalikotelo
+@119
+Täällä myydään kosmetiikkaa
+@120
+Tämä on sovituskoppi
+@121
+Täällä on paljon vaatteita
+@122
+Mikähän kone tämä on...
+@123
+Näyttää ohjauslaitteelta.\nEn taida koskea siihen.
+@124
+Täällä on uimarengas
+@125
+Täällä on rantapallo
+@126
+Täällä on meren matkamuistoja
+@127
+Täällä on aurinkovoidetta
+@128
+Mitään kiinnostavaa\nohjelmaa ei tule
+@129
+Hienon näköinen kone.\nParempi olla koskematta.
+@130
+"Lempeä maailmanvalloitus"
+@131
+"100 kepposta,\njotka kuka tahansa osaa"
+@132
+"Sarjakuva: Pahuuden tie"
+@133
+"Kaikki yksipyöristä"
+@134
+Mikähän tämä\nvaltava kone on...
+@135
+Kummallinen kone
+@136
+Täällä on kaikenlaisia asuja
+@137
+"Katurobottelun\nvarma voittokeino"
+@138
+Täällä on paljon\nkouluruuan raaka-aineita
+@139
+"Näin voitat kilpailun"
+@140
+"Näin voitat robottelun"
+@141
+"Näin voitat tappelun"
+@142
+"Näin myötäilet vahvempaa"
+@143
+Ninjan lipasto.\nAnsoja ei näytä olevan.
+@144
+Kalliin näköinen maljakko
+@145
+Onpa hieno näköala
+@146
+"Sazankan kuumat lähteet\nRuhjeisiin ja nyrjähdyksiin"
+@147
+Se näyttää olevan pois päältä
+@148
+......
+@149
+Tämäkö on ekolaite...
+@150
+Se on epäkunnossa...
+@151
+Vanha pelikone

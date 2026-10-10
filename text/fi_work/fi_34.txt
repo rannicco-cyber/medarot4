@@ -1,0 +1,226 @@
+@000
+...Ai, anteeksi! Jäin taas juttelemaan!
+Ei se haittaa. Tutkimukseni pitävät minut
+niin kiireisenä, etten juuri pääse huoneestani,
+joten kun {BUF03} tulee kertomaan
+ulkomaailman kuulumisia, mieleni rauhoittuu.
+Ei kai nyt sentään~
+Minähän vain häiritsen Naeta...
+Hihi, tulethan taas käymään♥
+@001
+Tämä kone näyttää "voittojesi määrän".
+Valitse kohta.
+@002
+Robottelu
+Medaspeed
+Medaroad
+Medabird
+@003
+Tätä tietokonetta saat käyttää vapaasti!
+@004
+Tämä kone näyttää "parhaat tuloksesi".
+Valitse kohta.
+@005
+Medaspeed
+Medabird
+@006
+Tällä koneella voit tarkistaa
+"parhaat tuloksesi" ja "voittojesi määrän".
+Ylemmät 2 kohtaa ovat "parhaat",
+alemmat 2 "voittojen määrä".
+Valitse kohta.
+@007
+Medaspeed
+Medabird
+Missikisa
+Pimeä rob.
+@008
+Tervetuloa Medabottiyhtiöön!
+Vasemmalla olevassa kerroksessa järjestetään nyt "Medabottitasokoetta"...
+eli lyhyemmin "Medakoetta".
+Kaikki saavat osallistua.
+@009
+Tervetuloa Medabottiyhtiöön!
+@010
+Tuota...
+Ahem. Tulehan minun eteeni!
+@011
+Oho! Tuleva Medamestari!
+Tulitko tapaamaan minua?
+Ei, kun... kuulin, että täällä
+voi suorittaa "Medakokeen"...
+Ohoh! "Medakoe"! ...Minäpä juuri olen
+"Medakokeen" tarkastaja Moritama. Hauska tavata, poika!
+J-jaaha, Moritama... vai niin. Hauska tavata...
+...Muuten, miksi kaikilla valkotakeilla
+on nimessään "tama"?
+No niin, näytähän Medakelloasi.
+@012
+...!! S-sinä... olisitko kenties
+Tenryou {BUF03}!?
+J-joo, olen. Mitä sitten?
+Vai niin... niin se siis oli.
+Sinä olet se {BUF03}, joka on voittanut
+lukuisia turnauksia tähän mennessä...
+Ja noin taitava medabottaaja on alimmalla tasolla...
+Sinä... niinpä, tämä on ensimmäinen Medakokeesi.
+Niin... tavallaan.
+Ahem. Selitetäänpä sitten Medakoe.
+Medakoe alkaa 9. kyusta, ja vasta 9. danissa
+saat oikeuden osallistua Medamestarin kokeeseen.
+Se ei ole lainkaan helppoa, tiedäthän?
+Ensikertalaisena aloitat tietysti alimmalta tasolta, 9. kyusta.
+@013
+8. kyun tasokokeen ohjelmana on
+kumppanin lähitaistelukielto-robottelu.
+Kenttä on "Metsä". ...Muuten, "lähitaistelukielto"
+tarkoittaa, että robottelun aikana lähitaisteluosia ja Medavoimaa
+ei voi käyttää lainkaan. Jos esimerkiksi ilmoitetulla
+Medabotilla on pelkkiä lähitaisteluosia,
+se häviää pystymättä tekemään mitään.
+Ennen haastetta kannattaa tarkistaa
+Medabotin varustus huolella! ...Haluatko yrittää?
+@014
+7. kyun tasokokeen ohjelmana on
+ampumiskielto-robottelu ja Medaspeed-kuningas.
+Robotteluun voit ilmoittaa enintään 2 Medabottia.
+Kenttä on "Metsä". Yritätkö?
+@015
+6. kyun tasokokeen ohjelmana on
+puolustuskielto-robottelu ja Medaroad-kisa.
+Kenttä on "Kaupunki". Yritätkö?
+@016
+Päästäksesi 5. kyun kokeeseen sinun
+täytyy olla Medalinkissä sijalla 65
+tai ylempänä.
+Näytä Medakellosi.
+A, selvä.
+@017
+Et ole edes rekisteröitynyt.
+Medabottaajat-kaupan 2. kerroksessa
+on Medalinkin rekisteröintipiste. Mene sinne, rekisteröidy ja tavoittele
+Medalink-laitteella sijaa 65! Selvä? Mene nyt!
+Medabottaajat-kauppaan siis? Selvä.
+@018
+Sijoituksesi ei täytä ehtoja.
+Kun olet voittanut Medalinkin sijan 65 vastustajan,
+tule takaisin tänne!
+Selvä.
+@019
+...Hmm. Medalink on kunnossa.
+Mutta entä Medaspeed-kuninkaan voitot?
+Niitä on oltava vähintään 10, muuten koetta ei voi tehdä... katsotaanpa.
+@020
+Hyvä hyvä, ongelmia ei näytä olevan. Aloitetaan selitys!
+5. kyun tasokokeen ohjelmana on
+rohkaisu- ja häirintäkielto-robottelu sekä tavallinen robottelu.
+Kenttä on "Vuoristo".
+...Haluatko yrittää?
+@021
+Päästäksesi 4. kyun tasokokeeseen sinulla
+on oltava vähintään 10 Medaroad-voittoa, muuten koetta ei voi tehdä... katsotaanpa.
+@022
+Hyvä hyvä, ongelmia ei näytä olevan. Aloitetaan selitys!
+4. kyun tasokokeen ohjelmana on
+korjaus- ja erikoiskielto-robottelu sekä tavallinen robottelu.
+Kenttä on "Tulivuori". ...Haluatko yrittää?
+@023
+Päästäksesi 3. kyun kokeeseen sinun
+täytyy olla Medalinkissä sijalla 60
+tai ylempänä.
+Näytä Medakellosi.
+A, selvä.
+@024
+Sijoituksesi ei täytä ehtoja.
+Kun olet voittanut Medalinkin sijan 60 vastustajan,
+tule takaisin tänne!
+Selvä.
+@025
+...Hmm. Medalink on kunnossa.
+Mutta entä robottelun voitot?
+Niitä on oltava vähintään 50, muuten koetta ei voi tehdä... katsotaanpa.
+@026
+Hyvä hyvä, ongelmia ei näytä olevan. Aloitetaan selitys!
+3. kyun tasokokeen ohjelmana on
+leijuntamallirobottelu ja tavallinen robottelu.
+Kenttä on "Laava".
+Leijuntamallirobottelussa voivat tietenkin
+osallistua vain leijuntamallin Medabotit.
+...Haluatko yrittää?
+@027
+Kyllä!
+Nouse siis vasemmalla olevalle lavalle!
+@028
+Odotan haastettasi!
+@029
+Ei, tämä ei riitä.
+Ugh...
+Kerää lisää voittoja!
+Selvä...
+@030
+Seuraavaksi on 2. kyun tasokoe.
+@031
+Niin, niin! Tästä eteenpäin tarkastaja vaihtuu.
+Tuota noin, muistaakseni...
+@032
+Mitä? Kummallista... Käyn vähän etsimässä.
+@033
+Hän lähti...
+@035
+Siirrä Medabottisi!
+@037
+Aloitetaan sitten 8. kyun tasokoe!
+Kumppanin lähitaistelukielto-robottelu.
+...Taistelu alkaa!
+@038
+Aloitetaan sitten 7. kyun tasokoe!
+Ampumiskielto-robottelu, enintään 2 Medabottia.
+...Taistelu alkaa!
+@039
+Hyvä! Alku meni hyvin!
+@040
+Jee!
+Älä vielä iloitse! Seuraavaksi Medaspeed-kuningas!
+@041
+Aloitetaan sitten 6. kyun tasokoe!
+Puolustuskielto-robottelu. ...Taistelu alkaa!
+@042
+Alku meni hyvin!
+Seuraavaksi Medaroad-kisa! ...Rohkeasti!
+@043
+Ai! Tuota...!
+@044
+Hm?
+Anteeksi, minulla ei ole 3 Medabottia valmiina!
+Ei käy, poika, ei sellainen käy.
+Pidä ensi kerralla 3 Medabottia valmiina!
+Anteeksi...
+@045
+Aloitetaan sitten 5. kyun tasokoe!
+Rohkaisu- ja häirintäkielto-robottelu. ...Taistelu alkaa!
+@046
+Alku meni hyvin!
+Nyt tavallinen robottelu! Rohkeasti!
+@047
+Aloitetaan sitten 4. kyun tasokoe!
+Korjaus- ja erikoiskielto-robottelu. ...Taistelu alkaa!
+@049
+Hyvä on! Läpäisit kokeen!
+Jippii!
+@050
+Astu alas lavalta!
+@051
+...Valitettavasti tällä ei voi läpäistä.
+Harmi...
+Yritä uudelleen.
+@053
+Aloitetaan sitten 3. kyun tasokoe!
+Leijuntamallirobottelu!
+Siirrä Medabottisi!
+@055
+Rohkeasti! ...Taistelu alkaa!
+@057
+...Hm? Tuo Medabottihan ei ole leijuntamallia!
+Voi sentään! Ota tämä tosissasi!
+A-anteeksi...
+Hmph!

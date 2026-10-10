@@ -1,0 +1,840 @@
+@000
+Täällä on Mizuchin nimi!
+Häh? Missä missä?
+Katso! Tässä, Ryutou-akatemian kohdalla!
+Mizuchi oli siis Ryutou-akatemian oppilas!
+...Häh? Sukunimi "Yamikumo" on sama kuin opettaja Ryuukolla.
+Yamikumo ei ole kovin yleinen sukunimi.
+...Eli opettaja ja se tyyppi ovat...
+Äiti ja poika!?
+Hölmö! Ei kai! Kuinka vanhana opettajaa pidät?
+Hän on selvästi parikymppinen.
+Ai, niin.
+Voi että, ryhdistäydy!
+@001
+Oletko valmis?
+@002
+Aikaa ei ole. Valmistaudu nopeasti.
+@003
+Anna ilmoittautumislomake.
+Kyllä.
+Mennään.
+@004
+(Mizuchi...)
+......
+@005
+Kaikki ovat paikalla, mutta joko avajaiset alkavat?
+Kaikki! Kiitos odotuksestaaa!
+@006
+Olen robotteluliiton
+virallinen tuomari, neiti Chimaki!
+@007
+Moikka♥
+Chimaki on yhtä suosittu kuin aina.
+Työssäkäyvien naisten aikakausi!
+Tänään on vihdoin koittanut Umineko-rannan
+"Medabottitriathlonkisan" päivä!
+Käydään läpi kisaohjelma!
+Ensin kunkin koulun sisäiset alkukarsinnat!
+Niistä valitaan 2 edustajaa!
+Lajiksi arvotaan joko Medaspeed-kuningas
+tai Medabird.
+Ryutou-akatemialla on alusta asti
+3 osallistujaa, joten odottakaa hetki.
+@008
+...Jotenkin epäreilua.
+@009
+Seuraavaksi vihdoin pudotusrobotteluturnaus!
+Tsemppiä kaikki, tavoitelkaa voittoa!
+No niin, pidetään alkukarsinnat! Karsinnat pidetään
+kaikki kerralla, joten minä, Chimaki...
+@010
+toimin tuomarina sitä vastaavana
+määränä!
+...Häh!?
+Mitä!? Mitä tämä on!
+Hän oli siis nelonen.
+Ei ollut. Tuntuu, että pääsin askeleen lähemmäs
+robotteluliiton arvoitusta.
+@011
+Kuten Mister Uruchi, robotteluliiton viralliset
+tuomarit ilmestyvät ja katoavat yllättäen, koska heillä
+ei välttämättä ole todellista ruumista.
+@012
+Tarkoitatko, että he ovat hologrammeja!?
+Ei! Oikea on varmasti tuolla joukossa!
+Katso sydämesi silmin! Vain kun näet todellisen...
+No niin, aloitetaaan!
+@013
+Arika! Kisa alkaa!
+@014
+Kouji, kaikki muut lähtivät.
+Nh...
+@015
+Kyllä, Ginjoun ala-asteen väki on koolla!
+Puhukaa minulle, kun olette valmiita!
+Aloitamme alkukarsinnat.
+@016
+Medabotit kuuluvat robotteluun! Ehdottomasti!
+@017
+Ai niin, osallistutteko tekin?
+Mitä tuo sanavalinta on!
+@018
+Ei olisi kiva tulla hiekan peittoon.
+@019
+Ihoni kiusaamisesta seuraa
+kova rangaistus, valmistaudu!
+No no, älä suutu, älä suutu!
+Älä pelleile!
+@020
+Kisa on käynnissä! Minne olet menossa?
+@028
+Tsemppiä, {BUF03}, minunkin puolestani...
+@029
+Minäkin olen voittanut tähän asti joka ottelun!
+@030
+En häviä!
+@031
+Kiitos, että hellit kätyreitäni.
+Maksan sen kunnolla takaisin!
+@032
+Älä nolaa itseäsi pomon edessä!
+@033
+Screws on tässä koulussa aika vahva.
+@034
+Elizabeth ja minä katsomme täältä.
+@035
+Vaikka tulisin hiekan peittoon, en häviä!
+@036
+Kootkaa kunnolla 3 Medabottia!
+@037
+Oletko valmis?
+@038
+Kertokaa, kun olette valmiita!
+@039
+Ginjoun karsinnat, A-lohko, 1. ottelu: "Medabottifani"
+{BUF03} vastaan luokkatoveri Kurouma!
+@040
+Lajina on "Medaspeed-kuningas"!
+Olisin halunnut kohdata mestarin robottelussa!
+...Taisteluun!
+@041
+Voittaja {BUF03}!
+@042
+Minusta ei sittenkään ole...
+@043
+Ginjoun karsinnat, A-lohko, 2. ottelu: "Medabottifani"
+{BUF03} vastaan Screwsin numero 3,
+"siisteysintoilija" viuhkamies Kagamiyama!
+@044
+Murskaan sinut!
+Lajina on "Medabird-kilpailu"!
+En ole hyvä tässä... saan vain noin 30 pistettä.
+No niin... taisteluun!!
+@045
+Näitkö? Tämä on Kagamiyaman
+voimaaa.....!
+@047
+Hiekan peitossa... Olisi pitänyt valita uimapuku.
+@048
+Okei! Seuraavaksi minä!
+Kostan Kagamiyaman puolesta!
+@049
+Ginjoun karsinnat, A-lohko, 3. ottelu: "Medabottifani"
+{BUF03} vastaan Screwsin numero 2,
+"itseään nerohakkerina pitävä" Iwanoi!
+@050
+"Itseään pitävä" on turha...
+Lajina on "Medaspeed-kuningas"!
+@051
+Heheh! Helppo nakki!
+@053
+Älä nolaa itseäsi pomon edessä!
+Muuten, luovuitteko uimapuvuista?
+S-sinähän sen aloitit! Kiusasit
+ruskettunutta ihoamme!!!!
+@054
+Vai niin, siksi...
+M-muista tämä!
+@055
+Vihdoin minun vuoroni.
+@056
+...Huh, {BUF03}:n ottelu on täällä!
+Ottelu toisensa perään, olen aika poikki...
+@057
+Ginjoun karsinnat, A-lohko, 4. ottelu: "Medabottifani"
+{BUF03} vastaan Screwsin johtaja,
+"kaunis tanssijatar" Kikuhime-kulta!
+@058
+...Eikö nolota, Kikuhime? Ja vielä "Kikuhime-kulta"...
+Mitä! Onko valittamista? Sinä olet
+kyllä tosi nenäkäs!
+Lajina on "Medabird-kilpailu"!
+Tässä saan helposti 50 pistettä.
+No niin... taisteluun!!
+@059
+No, sinusta ei ole siihen.
+@061
+Muista tämä vielä joskus!
+@062
+Milloin "joskus"?
+@063
+Seuraavaksi! Minun vuoroni! No niin, tsemppiä!
+@064
+Karsinnat, A-lohko, 5. ottelu: "Medabottifani"
+{BUF03} vastaan
+"tulevaisuuden toimittaja" Arika!
+@065
+Lajina on "Medabird-kilpailu"!
+Minäkin olen voittanut tähän asti joka ottelun!
+Treenit näyttävät tuottaneen tulosta, Medabirdissä 60 pistettä on varma.
+No niin... taisteluun!!
+@066
+Tuottivatko treenit oikeasti tulosta~?
+@068
+Lopulta sinä voitit.
+Mutta olkoon! Kisa ei ole vielä ohi!
+@069
+No niin! Alkukarsinnat ovat ohi! Tulokset!
+Ginjoun ala-asteen edustajat ovat...
+@070
+{BUF03} ja Arika!
+@071
+Jee!
+Taitotaso on eri luokkaa kuin muilla!
+Ja Hanazono-akatemian edustajat ovat...
+@072
+Kouji ja Karin!
+@073
+Jotenkin nolottaa♥
+...Heh.
+...No niin, jälkipuolisko!
+Vihdoin pudotusrobotteluturnaus!
+Tuomarina minun, Chimakin, sijasta...
+@074
+No niin! Koko maan robottelufanit,
+kiitos odotuksestaaa!
+Tästä eteenpäin neiti Chimakin sijasta
+robotteluliiton virallinen tuomari, minä,
+Mister Uruchi, toimin tuomarina!
+@075
+Jee! Uruchi!
+Chimakikin on kiva, mutta
+Uruchin näkeminen rauhoittaa.
+@076
+No niin, {BUF03},
+puhu minulle, kun olet valmis!
+@077
+Ottelu on käynnissä!
+Älkää menkö kauas!
+@084
+Jännittää!
+@085
+Muistutan sinua, että olen kilpakumppanisi!
+@086
+Odotan tosi innolla taistelua sinua vastaan, Mizuchi!
+.......
+@087
+Älä rinnasta meitä
+tavallisiin medabottaajiin.
+@088
+Ennen ottelua ei ole mitään puhuttavaa.
+@089
+Me, Karinin faniklubi, olemme kuolemattomia!
+@090
+Koujiii♥ Katso minua!
+@091
+Tenryou, tsemppiä!
+@092
+Älä pelaa noloa ottelua Elizabethin edessä.
+@093
+Oletko valmis?
+@094
+Kun olet valmis, tule luokseni!
+@095
+Pudotusturnauksen 1. ottelu: Ginjoun ala-asteen
+{BUF03} vastaan Hanazono-akatemian Karin!
+@096
+Tehdään molemmat parhaamme.
+@097
+Hävisin...
+Mutta olen iloinen, että saimme hyvän robottelun.
+Karin...
+@098
+Turnauksen 2. ottelu: Hanazono-akatemian Kouji
+vastaan Ryutou-akatemian Suzuki!
+@099
+Vain voitto kelpaa! Mennään!
+@100
+No niin... robottelu alkaa!
+@101
+Siihen! Voittaja Hanazono-akatemian Kouji!
+Mitäs sanotte!
+@102
+Että hän pystyy tähän... harmi.
+@103
+Hyvä, Kouji!
+Kouji on taas kehittynyt.
+@104
+Turnauksen 3. ottelu: Ginjoun ala-asteen Arika
+vastaan Ryutou-akatemian Mizuchi!
+@105
+Minulla on sinulle paljon kysyttävää.
+Jos voitan, saan yksinoikeushaastattelun!
+...Jos voitat.
+No niin... robottelu alkaa!
+@106
+Siihen! Voittaja Ryutou-akatemian Mizuchi!
+Yksinoikeushaastattelu saa odottaa.
+Hmph! Jonain päivänä selvitän kyllä, kuka olet!
+@107
+Turnauksen 4. ottelu: Ginjoun ala-asteen
+{BUF03} vastaan Hanazono-akatemian Kouji!
+@108
+Tämä hetki tuli vihdoin.
+Joo.
+Mennään, {BUF03}!
+@109
+Huh... jotenkin voitin.
+Olet sittenkin vahva.
+Mutta seuraavalla kerralla minä voitan! Valmistaudu!
+Joo! Robotellaan taas!
+@110
+Jatketaan sitten
+finaalilla!
+Ryutou-akatemian Mizuchi, astu esiin!
+@111
+Mizuchi...
+@112
+Turnauksen 5. ottelu: Ginjoun ala-asteen
+{BUF03} vastaan Ryutou-akatemian Mizuchi!
+Ottele kanssani! Mizuchi!
+......
+@113
+Pudotusturnaus päättyi tähän.
+Tulokset julkistetaan myöhemmin, joten siihen asti...
+@114
+vuorossa edustajien koulujen välinen
+Medaroad-kisa!
+!!!!!
+@115
+1. ottelu: Hanazono-akatemia VS Ryutou-akatemia!
+@116
+En halua hävitä sinunlaisellesi!
+.........
+@117
+...Taisteluun!!
+@119
+Hanazono-akatemia voitti! Tämäpä odottamaton
+käänne! Hienosti tehty, Karin!
+Se oli sattumaa♥
+Mutta että voitti noin uskomattomalla tavalla...
+Karin on... uskomaton!
+@120
+Mitä tapahtui, jääköön mielikuvituksenne varaan.
+@121
+Arika, kenelle sinä puhut?
+2. ottelu: Ginjoun ala-aste ja Hanazono-akatemia!
+@122
+Mitä teet? Asetu nopeasti viereeni!
+Ai! Seuraavaksi me.
+@124
+No niin, Medaroad-kisa...
+taisteluun!!!
+@125
+Ginjoun ala-aste voitti!
+@127
+Harjoittelu kannatti.
+@128
+Tiimityön voitto!
+Taisin rynnätä liikaa yksin...
+@129
+Ei se haittaa, Kouji.
+@130
+3. ottelu: Ginjoun ala-aste VS Ryutou-akatemia,
+mennään!
+@131
+Häh! Peräkkäin!?
+@132
+Ginjoun ala-aste voitti!
+Voitimme, voitimme!
+@133
+Jee!
+Minun osuuteni päättyy tähääään!
+@134
+Häh?
+@135
+Mister Uruchi täällä!
+..............
+..............
+Tuota... enkö kelpaa?
+...En minä niin sanonut.
+..............
+@136
+Tulokset! Aloitetaan 5. sijasta.
+5. Hanazono-akatemian Karin
+4. Ginjoun ala-asteen Arika
+3. Hanazono-akatemian Kouji
+2. Ryutou-akatemian Mizuchi
+Ja voittaja on...
+@137
+Ginjoun ala-asteen {BUF03}!
+@138
+Tässä voittopalkinto, olkaa hyvä.
+@139
+Kiitos!
+@140
+Heh, taas annoin sinun loistaa.
+@141
+Mahtavaa, {BUF03}!
+@142
+Hehe, nolottaa!
+@143
+Sinulla ei ole päässä muuta kuin Medabotteja!
+@144
+Ei nyt niin paljon~
+Kehuttiinko sinua tuossa?
+@145
+No niin, sankarihaastattelu! ...Odotettua!
+{BUF03}, aiemmat Medabottisaaren
+taistelut ulkomaisia pelaajia vastaan, ja muutama kuukausi sitten pidettyjen
+Medalympialaisten jälkeen voitto tässä kisassa!
+...Kuuh! Minä, Uruchi, joka olen seurannut taistelujasi koko ajan,
+olen liikuttunut!
+Uruchi...
+Kerro meille tuntemuksesi!
+Olen tässä nyt kaikkien niiden
+medabottaajien ansiosta, joita olen tavannut.
+Sydämeen käyvät sanat.
+@146
+No niin, kaikki,
+Umineko-rannan "triathlonkisa" päättyy
+tähän! Tapaamisiin!
+Mister Uruchi kiittää!
+@147
+Odotettua sinulta, {BUF03}.
+@148
+Mizuchikin oli mahtava!
+No, nähdään taas. ...Odotan.
+@149
+........
+@150
+? Mitä nyt, Kouji?
+Yhtä hämärä tyyppi kuin aina.
+Ei saa sanoa noin.
+@151
+(...Kun se tyyppi robotteli {BUF03}:n kanssa...
+se ei näyttänyt ottavan tosissaan...)
+@152
+Kas niin! Älä ole noin vakavana, meillä on tekemistä!
+@153
+Tekemistä?
+@154
+Triathlonkisa on ohi! Nyt pitää uida
+kaikki säästetyt uinnit!
+Ai! Niin! Nyt saa uida!
+Okei! Uimaan!
+En häviä! Minäkin uin täysillä!
+...Mikä kilpailu se muka on?
+Tsemppiä teille molemmille♥
+@155
+Hmm! Meri on tosiaan uimista varten.
+@156
+Sinullahan on uimarengas.
+Onko sekin "uimista"?
+@157
+Luultavasti.
+@158
+Se on "kellumista".
+@159
+...Ilkeää, Arika.
+Voi voi... ongelma jo ennen kisaa.
+@160
+Mutta {BUF03}:n uimarengas on tosi söpö.
+@161
+Eikö olekin!
+@162
+Ottaisinko minäkin uimarenkaan...
+@163
+.............
+@164
+{BUF03}!
+{BUF03} upposi!
+@165
+Puhh!
+Oletko kunnossa?
+J-jotenkin...
+@166
+Hei! Roskien heittäminen mereen,
+missä järkesi on!
+@167
+Mitä nyt? Eihän tämä meri teidän omanne ole?
+Se on kaikkien!
+@168
+Ole hiljaa!
+@169
+Mitä sinäkin! Väisty!
+...Teidän pitää pyytää anteeksi.
+En ikinä! Hänen oma vikansa, kun ei osaa uida!
+@170
+Väisty, sanon minä!
+@171
+Kya!
+Karin!
+@172
+Oletko kunnossa?
+@173
+Kyllä, minä olen kunnossa.
+@174
+Kerrassaan! Mikä tyyppi!
+@175
+Kyaaa! Apuaaa!
+@176
+Apua, joku!!
+@177
+Ai! Se äskeinen!
+Meren likaamisesta tuli rangaistus.
+@178
+Nyt ei ole aika sanoa tuollaista!
+Hänet pitää pelastaa nopeasti!
+@179
+Nopeasti Select-joukoille...!
+@180
+Puhh, olipa kamalaa.
+@181
+Hetkinen!
+@182
+Mitääh? Melkein hukuin, ja nyt vähän ottaa päähän!
+Edes kiittää voisit?
+Kiittää~?
+@183
+Kas~ komea poika, kiitti♥
+@184
+Hei!
+@185
+Mitä nyt? Kiitinhän?
+Kiitit Mizuchia, mutta et Medabottia, eikö?
+Medabotti sinut pelasti!
+Mitä sinä puhut? Kuule, "Medabotin 3 lain"
+toisessa pykälässä sanotaan: "Ihmisiä uhkaavaa vaaraa
+ei saa jättää huomiotta." Medabottaajan pitäisi
+tietää se itsestään selvästi, eikö?
+Eli Medabotit on tehty pelastamaan ihmisiä!
+...Moikka.
+@186
+Ei voi olla...!
+@187
+Hän puhuu totta.
+Mizuchi...
+@188
+Medabottien on pakko totella ihmisiä.
+Vaikka Medabotilla olisi vapaa tahto,
+se ei lopulta voi edes satuttaa ihmistä.
+Niin kauan kuin "Medabotin 3 lakia" on olemassa, Medaboteilla ei ole
+todellista vapautta.
+Mieti sitä tarkkaan.
+@189
+.......
+@190
+Mitä nyt, {BUF03}?
+Kasvosi ovat kalpeat.
+3 lakia...
+Häh? Mitä?
+@191
+Ei mitään.
+No, kaikki pelastuivat, joten voi huokaista.
+Ja voittopalkintokin saatiin!
+Huomenna palaamme Omikujiin. Uidaan vielä kerran
+ja palataan sitten hotellille!
+@192
+No, menisinkö nukkumaan.
+@193
+Asettukaa nopeasti paikoillenneee!
+@194
+Kilpaillaan♥
+@195
+Kas niin, asetu nopeasti paikallesi.
+@196
+Asetu nopeasti riviin viereen.
+@197
+Kisa on käynnissä! Tulkaa takaisiiin!
+@208
+Ei sovi herättää.
+@209
+Yläkerran ihmistä ei sovi herättää.
+@210
+Pitää jo nukkua.
+@211
+......Aaltojen ääni?
+@212
+Oliko tuo unta...? ......En saa unta.
+@214
+......
+......
+@216
+Jos kerran siirsit minut, sano jotain.
+...Joo.
+@217
+Si-is, sa-no nyt jotain!!
+@218
+Joo... kuule, {BUF15},
+oletko sinä onnellinen?
+Häh?
+Siis... teitä sitovat
+"Medabotin 3 lakia", eikö? Siksi ette voi
+tahallaan satuttaa ihmisiä. Onko se onnellista?
+{BUF03}...
+@219
+Miksi luulet "Medabotin 3 lain" olevan olemassa?
+Koska me olemme Medabotteja.
+@220
+Mutta sellainen...!
+Kuuntele nyt.
+@221
+Me Medabotit eroamme teistä ihmisistä sekä voimaltamme
+että kyvyiltämme. Kunhan mitali on kunnossa,
+voimme palata, vaikka osat ja tinpetti hajoaisivat kuinka.
+Mutta ihmisen keho ei ole sellainen.
+Jos "Medabotin 3 laki" ei jarruttaisi
+voimaamme, me varmasti... vaikka
+emme tarkoittaisi sitä... satuttaisimme
+ihmisiä.
+...Tämä on minun mielipiteeni, mutta "Medabotin 3 lakia"
+on meidät tehneen ihmisen "ystävällisyyttä".
+Sen ansiosta tulen toimeen kanssasi.
+Mutta minusta se on itsekästä.
+Kysymättä Medabottien mielipidettä
+niille annetaan "3 lain" jarru.
+Ehkä niin. Mutta mieti nyt.
+Entä jos pelkkä halaus rikkoisi
+ihmisen, josta pidät? Miltä se tuntuisi?
+Ei sellaista...!
+@222
+Ihmisten kesken sellaista ei varmaan käy,
+mutta ihmisen ja Medabotin kesken se voi tapahtua.
+En kestäisi sellaista. Siksi... siksi minä
+itse olen iloinen, että "Medabotin
+3 lakia" on olemassa.
+{BUF15}...
+@223
+........
+........
+@224
+Mennäänkö takaisin...
+Joo, mennään.
+@227
+Etkö siirtänyt minua, koska sinulla on asiaa?
+......
+@228
+Sanoisit edes jotain.
+@229
+Joo... kuule, {BUF15},
+oletko sinä onnellinen?
+...Mitä?
+Siis... teitä sitovat
+"Medabotin 3 lakia", eikö? Siksi ette voi
+tahallaan satuttaa ihmisiä. Onko se onnellista?
+{BUF03}...
+@230
+Miksi luulet, että
+"Medabotin 3 lakia" on olemassa?
+Koska me olemme Medabotteja.
+@231
+Mutta sellainen...!
+Kuuntele loppuun.
+@232
+Me Medabotit eroamme teistä ihmisistä sekä voimaltamme
+että kyvyiltämme. Kunhan mitali on kunnossa,
+voimme palata, vaikka osat ja tinpetti hajoaisivat.
+Mutta ihmiskeho ei kestä samaa. Jos "Medabotin 3 laki"
+ei jarruttaisi voimaamme, me varmasti
+...vaikkemme tarkoittaisi sitä, satuttaisimme
+ihmisiä.
+En välitä, mitä "Medabotin 3 lain" laatija
+tarkoitti, mutta sen ansiosta voin
+olla kanssasi... kai.
+@233
+Mutta minusta se on itsekästä.
+Kysymättä Medabottien mielipidettä
+niille annetaan "3 lain" jarru.
+Heh... ehkä niin.
+Mutta en halua nähdä sinua
+loukkaantuneena minun takiani.
+Ei sellaista...!
+@234
+Ihmisten kesken sellainen huoli olisi turhaa,
+mutta kun kyse on minusta ja sinusta... ihmisestä ja Medabotista,
+asia muuttuu.
+En tiedä, mitä muut ajattelevat... mutta minä
+olen iloinen siitä, että "Medabotin 3 lakia"
+on olemassa.
+@236
+Mennäänkö takaisin...
+...Mennään.
+@239
+Hei! Jos siirsit minut, sano jotain!
+...Joo.
+@240
+Si-is, mitä asiaa sinulla on!
+@241
+Joo... kuule, {BUF15},
+oletko sinä onnellinen?
+@242
+Häh?
+Siis... teitä sitovat
+"Medabotin 3 lakia", eikö? Siksi ette voi
+tahallaan satuttaa ihmisiä. Onko se onnellista?
+{BUF03}...
+@243
+Kuule, {BUF03}! Minä ajattelen, että
+"Medabotin 3 lakia" on olemassa,
+koska sitä tarvitaan, eikö?
+@244
+Mutta sellainen...!
+@245
+Tuota... kuule!
+@246
+Mehän olemme erilaisia kuin ihmiset, eikö? Siis
+kyvyiltä ja voimalta! Kunhan mitalimme on kunnossa,
+ei haittaa, vaikka osat tai tinpetti hajoaisivat,
+mutta ihmisen keho ei ole sellainen! Jos "Medabotin 3 laki"
+ei hillitsisi voimaamme, me varmasti
+satuttaisimme teitä ihmisiä, luulen.
+...Siksi minusta "Medabotin 3 lakia"
+tarvitaan, luulen.
+Mutta minusta se on itsekästä.
+Kysymättä Medabottien mielipidettä
+niille annetaan "3 lain" jarru.
+Niinkö? Minä päinvastoin haluaisin kiittää
+"Medabotin 3 lain" tekijää! Sen ansiosta
+en riko sinua!
+@247
+Ei sellaista...!
+@248
+Ihmisten kesken sellaista ei varmaan käy,
+mutta minä olen Medabotti. En voi sanoa,
+että "ei ikinä!"
+Ilman "Medabotin 3 lakia" pelkäisin niin,
+etten uskaltaisi edes pitää sinua kädestä. Siksi... siksi
+olen iloinen, että "Medabotin 3 lakia" on olemassa!
+@249
+........
+@250
+........
+@251
+Mennäänkö takaisin...
+@252
+Mennään!
+@255
+Etkö siirtänyt minua, koska sinulla on asiaa?
+...Joo.
+@256
+...Jos sinulla on sanottavaa, sano se suoraan.
+@257
+...Kuule, {BUF15},
+oletko sinä onnellinen?
+...Mitä sanoit?
+Siis... teitä sitovat
+"Medabotin 3 lakia", eikö? Siksi ette voi
+tahallaan satuttaa ihmisiä. Onko se onnellista?
+{BUF03}...
+@258
+Miksi "Medabotin 3 lakia" on olemassa?
+Se on... siis ihmisten... tuota...
+Kuuntele.
+@259
+Me Medabotit eroamme teistä ihmisistä sekä voimaltamme
+että kyvyiltämme. Kunhan mitali on kunnossa,
+selviämme, vaikka osat tai tinpetti hajoaisivat.
+Mutta te ihmiset ette selviä.
+Jos "Medabotin 3 lakia" ei olisi olemassa,
+satuttaisin sinua varmasti jonain päivänä
+...vaikken itse tarkoittaisi sitä.
+Ajattelen näin:
+"Medabotin 3 laki" on Medabottien ja ihmisten... eli
+sinun ja minun hyvien välien kannalta
+välttämätön.
+@260
+Mutta minusta se on itsekästä.
+Kysymättä Medabottien mielipidettä
+niille annetaan "3 lain" jarru.
+Itsekästä, vai...
+Haluaisitko sitten satuttaa rakkaitasi omin käsin?
+@262
+Älä unohda! Sinä olet ihminen ja minä Medabotti.
+Vaikka side on syvä, se tosiasia
+ei muutu.
+Siksi... minä
+olen sydämestäni iloinen, että "Medabotin 3 lakia" on olemassa.
+{BUF15}...
+@264
+Mennäänkö takaisin...
+Niin, mennään.
+@267
+Mitä nyt~ jos ei ole asiaa, älä siirrä minua~
+...Joo.
+@268
+Haloo~ kuunteletko?
+@269
+Joo... kuule, {BUF15},
+oletko sinä onnellinen?
+Hää~?
+Siis... teitä sitovat
+"Medabotin 3 lakia", eikö? Siksi ette voi
+tahallaan satuttaa ihmisiä. Onko se onnellista?
+{BUF03}...?
+@270
+Haha, mitä sinä nyt keksit... sitäkö se oli.
+Haluatko sanoa, että "Medabotin 3 lain" takia
+me olemme "säälittäviä"?
+@271
+E-ei se ole sitä...
+@272
+Mutta...
+@273
+Kuule~ ...voi että, ei sitten auta.
+@274
+Kunhan mitalimme on kunnossa, osat ja tinpetti
+korjaantuvat vaikka kuinka hajoaisivat~
+mutta ihmisen keho ei ole sellainen.
+Ilman "Medabotin 3 lakia" meille
+ehkä ei kävisi mitään,
+mutta sinä... no, voisit loukkaantua, eikö?
+@275
+...Hm?
+Mutta minusta se on itsekästä.
+Kysymättä Medabottien mielipidettä
+niille annetaan "3 lain" jarru.
+@276
+Niin, itsekästä... mutta jos minunkin
+pitäisi koko ajan miettiä, satutanko sinua
+ollessani kanssasi,
+suoraan sanottuna en jaksaisi olla kumppanisi.
+@278
+No, ihmisten kesken sellaista ei varmaan käy,
+mutta ihmisen ja Medabotin kesken sellainen vitsiltä kuulostava juttu
+voi oikeasti tapahtua.
+Rehellisesti sanottuna olen iloinen, että "Medabotin 3 lakia"
+on olemassa.
+{BUF15}...
+@280
+Mennäänkö takaisin...
+Mennään sitten.
+@283
+Mitä? Etkö siirtänyt minua, koska sinulla on asiaa?
+...Joo.
+@284
+...Kuunteletko sinä kunnolla?
+@286
+...Mitä?
+Siis... teitä sitovat
+"Medabotin 3 lakia", eikö? Siksi ette voi
+tahallaan satuttaa ihmisiä. Onko se onnellista?
+{BUF03}...
+@287
+Miksi "Medabotin 3 lakia" on olemassa?
+Luulen, että se johtuu siitä,
+että me olemme Medabotteja.
+@288
+Mutta sellainen...!
+Kuuntele nyt.

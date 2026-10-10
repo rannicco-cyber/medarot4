@@ -1,0 +1,732 @@
+@000
+Karin... sinä olet minun. En anna sinua kenellekään.
+@001
+Kahdesta hyllystä voi lukea kaikenlaista,
+mutta liika valikoima saa epäröimään.
+@002
+Voi että, olet sitkeä!
+@003
+Lopeta opiskelu ja mennään missikisaan~
+@004
+Voi ei, kun sinä vain opiskelit, emme ehtineet
+missikisaan!
+@005
+Neiti Shurin ansiosta saan elää "kaunista" kouluelämää♥
+@006
+Jakunanin Medabottien pitää olla kauniiden
+lisäksi vahvoja! Täältä tullaan!
+@007
+Sinä osaat.
+@008
+Kas? Kaikki menivät missikisaan. Minunkin
+pitää valmistautua nopeasti!
+@009
+Ilmoittauduin missikisaan, mutta
+en päässyt osallistumaan sen oudon kolmikon takia!
+@010
+Voi ei! Miksei virhe katoa!!
+Tällä menolla en ehdi missikisaan!
+@011
+Kukahan lopulta voitti missikisan?
+@012
+Tänään opitut asiat pitää kerrata vielä tänään.
+@013
+Tuota, oppikirjan sivu 124, "Medabottien historia"...
+@014
+Kaikki opiskelevat, minulla on tylsää.
+Robotellaan!
+@015
+Robottelu on sittenkin hauskempaa kuin opiskelu♥
+@016
+Tämä on koulun kaunottaren,
+Suzaku Shurin luokka.
+@017
+Neiti Shuri kohtelee sekä kauniita että
+epäkauniita tasavertaisesti.
+@018
+Jotkut moittivat neiti Shurin tekoja, mutta
+neiti Shuri ponnistelee tehdäkseen koulusta kauniin.
+@019
+Sen tapauksen jälkeen neiti Shuri on muuttunut paljon.
+@020
+Millaisia komeita poikia tämän vuoden missikisaan tulee?
+Aah, odotan innolla♥
+@021
+Koulussa on pelkkiä tyttöjä, joten kerran vuodessa
+tarvitaan tällainen tapahtuma, muuten ei jaksa♥
+@022
+Kuulin portilla olevalta tytöltä,
+että tänne tuli komea pitkätukkainen poika. Millainenkohan hän on?
+Pitkätukkainen?
+...Tarkoittaako hän Koujia?
+@023
+Voi ei, Kouji hävisi~
+(Oliko hän Koujin fani?)
+@024
+Kas, sinäkin pääsit läpi? Ulkonäkö on ihan ok.
+Mutta tiedätkö sinä "missikisan" säännöt?
+@025
+Kadut varmasti, ettet kysynyt minulta!
+@026
+Hihi, rehellisyytesi vuoksi minä selitän
+sinulle huolellisesti, joten kuuntele tarkaaasti.
+"Missikisa" on tietysti kilpailu, jossa
+kilpaillaan Medabottien kauneudella.
+Eli Koujin Medabotti on kai etulyöntiasemassa?
+Shaaat aaap!!
+Kauneus ei tarkoita, että pelkkä sulava ja tyylikäs
+olisi kaunista.
+Jos "missikisan" tuomarit eivät ajattele "kaunis♥",
+sillä ei ole merkitystä. Tämän kerran "missikisan"
+tuomariston puheenjohtaja Bishounen rakastaa koreutta ja rajoja rikkovaa tyyliä,
+joten rajoja rikkova Medabotti uppoaa häneen varmasti.
+R-rajoja rikkova Medabotti...?
+Niin. Medabotin miehekkyys tai naisellisuus
+riippuu mitalista. Ja ulkonäkö tietysti osista.
+Eli miehekäs mitali ja naistyypin tinpetti
+tekevät rajoja rikkovan Medabotin♥
+Rajoja rikkovan!?
+Loput mietit itse. No, nähdään♥
+@027
+Niin, "missikisassa" saman sarjan osat eivät
+aina ole vahvimpia. Kokeile erilaisia osia♥
+@028
+Ystävällinen mutta outo ihminen...
+@029
+Hmm, onpa hurja tunnelma...
+@030
+Mitä nyt? Onko missikisassa jotain epäselvää?
+"Missikisan" tuomariston puheenjohtaja Bishounen pitää rajojen rikkomisesta,
+joten miehekkään luonteen mitali ja naismallin osat
+tuntuvat uppoavan häneen.
+Hän rakastaa koreutta, joten sekalaiset osat voivat olla hyvä♥
+No, loput mietit itse.
+@031
+Tuota, kelpaako tämä Medabotti "missikisaan"?
+@032
+Vaihtaisinko toisiin osiin.
+@033
+Okei, mennään!
+@034
+Vau, paljon väkeä.
+Ai, Retort!
+@035
+Retort.
+@036
+Hei, {BUF03}.
+Etkö sinä osallistu kilpailuun, Retort?
+Sen roolin jätän Ladylle. Minulla on
+omat tehtäväni.
+Tutkitteko täälläkin...?
+Neljää kuningasta...
+No, jotain sellaista.
+@037
+Jakunanin ala-asteelle päässeet
+kauniit ihmiset, päivääää! Minä juonnan tämän kerran
+"Mr. & Miss Beauty Medabot -kilpailun",
+lyhyemmin "missikisan". Olen neiti Chimakiii!
+@038
+No niin, aloitetaan heti kilpailu!
+1. arviointikierroksen osallistujat, nouskaa lavalle!
+@039
+Hups...! A-Arika...
+@040
+Nuah!! T-tuo on...
+@041
+Ahahahaa! Kaunotar medabottaaja Arika
+saapuu tulisen loistavasti!
+R-Retort, tuo asu...
+Se on Ladyn vanha asu. Silloin Lady
+oli "Komachi".
+Vai niin... (Kirara on siis aina
+tykännyt tällaisesta.)
+Ohoo! Jo ensimmäisellä kierroksella esiintyy
+erikoisesti pukeutunut osallistuja!! Että tuo asu on muka hyväksytty
+"kauniiksi", en voi uskoa sitä!
+@042
+Mitä tuo tarkoittaa!
+No, {BUF03}, minä lähden tästä.
+Nähdään taas. Hyp!
+@043
+Mitähän Retort aikoo tutkia?
+No niin, osallistujat, tulkaa valkokankaan eteen
+ja esitelkää kauniit Medabottinne!
+@044
+1. arviointikierroksen voittaja on...
+@045
+Amazake Arikaaa!
+@047
+No niin, siirrytään heti 2. kierrokseen! Osallistujat,
+nouskaa lavalle!
+@048
+Minun vuoroni!
+@049
+Millainen Medabotti vastustajallani on?
+Ahahahahaa!
+@050
+Tuo nauru!
+@051
+Kukoistakoon riisinkukka, varistakoon pahuuden kukka
+@052
+Taivaasta laskeutunut kaunotar medabottaaja,
+mestarivaras Retort Lady saapuu paikalle!
+(...Kirara päätti siis lopulta osallistua
+Retort Ladyn asussa.)
+Eli Medabotti on...
+God Emperor!!
+Mitä! 1. kierroksen jälkeen taas
+erikoisesti pukeutunut osallistuja! Onko tämä kenties muotia?
+No niin, osallistujat, olkaa hyvät valkokankaalle!
+@053
+{BUF03}, harjoitusta tarvitaan vielä.
+Tule uudestaan. Moikka, bai bai♥
+@055
+Onneksi olkoon, {BUF03}. Medaboteissa
+olet mestari♥
+@056
+No, hehe!
+Vähän aikaisemmin kuin suunnittelin, mutta
+liityn Retortin seuraan. Moikka, bai bai♥
+@057
+Ihana♥
+...Ai niin, minunkin pitää laskeutua lavalta.
+@058
+Seuraavaksi 3. kierroksen osallistujat, nouskaa lavalle!
+@059
+Ahahahaa! Amazake Arika saapuu!
+Hän eläytyy täysillä... Vastustaja on...?
+Ai! Kouji! Tästä voi tulla hauskaa♥
+@060
+Kyaa, ihanaa!
+Kouji, katso tänne!
+@061
+...Heh.
+@062
+Kyaa, Kouji hymyili meille!!
+Uskomatonta, hänellä on jo faneja...
+Ei uskoisi ala-asteelaiseksi, Karakuchi Koujin suosiota!
+Onko tässä jo voittajaehdokas!
+(Haha, mitähän Karin sanoisi, jos näkisi tämän.)
+No niin, osallistujat, olkaa hyvät valkokankaalle!
+@063
+3. kierroksen voittaja on...
+@064
+Karakuchi Koujiii!
+Koujiiii♥
+...Heh.
+@065
+Voi että! Mitä tämä nyt on!
+@066
+Älä suutu, älä suutu. Kilpailu on onnesta kiinni.
+@067
+En hyväksy tätä!!
+@068
+Pidetään tässä välissä tauko.
+Kokoontukaa taas ennen seuraavaa kierrosta♥
+Ovatkohan Arika ja Kouji jo
+ulkona? Menenpä minäkin ulos.
+@069
+{BUF03}, tutkin asiaa, ja
+täkäläinen neljän kuninkaan "Suzaku Shuri"
+näyttää tietävän jotain Karinista.
+Minäkin tutkin tauon aikana eri paikkoja.
+Vai niin. Älä tee mitään tyhmää.
+Häh? {BUF03}, oletko minusta huolissasi?
+En mitenkään~ Jos Arikalle sattuisi jotain,
+olisi vain vaivalloista pelastaa hänet!
+Hmph! En minä niin kömpelö ole!
+@070
+Ai, aiaiaiai
+@071
+Huh, olipa kurjaa.
+Te kaksi olette tosiaan hyvää pataa.
+Mistä sinä sen päättelet?
+Haha, no, minäkin kierrän vähän ympäriinsä.
+Jospa jotain selviäisi.
+Joo, selvä.
+@072
+No niin, minäkin katselen ympärilleni.
+Ehkä tapaan Retortin ja Retort Ladyn jossain.
+@073
+Shurista ja Karinista saa helpoiten
+tietoa koulussa.
+@074
+Kohta alkaa jälkimmäinen puolisko.
+Palataan kilpailupaikalle.
+@075
+Tästä eteenpäin ei pääse ilman neiti Shurin lupaa!
+@076
+En ole vielä kerännyt yhtään tietoa Karinista.
+@077
+Arika ja Kouji näyttävät yhä keräävän tietoa Karinista.
+Tutkin minäkin vielä vähän.
+@078
+"Siivous käynnissä"... Ei voi mitään, tullaan myöhemmin.
+@079
+Hyvin meni, pomo.
+@080
+Screws. Ne ovat livahtaneet tännekin...
+Taas ne varmaan miettivät
+jotain typerää. Miten ne tällä kertaa
+pääsivät sisään?
+Kuulkaa, pojat. Livahdimme sisään onnistuneesti,
+joten seuraavaksi voittopalkinto!
+@081#kabuto
+Luota minuun, pomo. Vartiointi kuin vartiointi,
+tämä Iwanoi hoitaa, nerokkaan hakkerin nimeen!
+@081#kuwagata
+Luota minuun, pomo. Vartiointi kuin vartiointi,
+tämä Iwanoi hoitaa, Screws-jengin nimeen!
+@082
+Joku on täällä.
+@087
+M-mitä sinä? Mistä asti olet ollut siinä!
+Ei tämä mikään näytös ole!
+Niin niin!
+Mietin vain, mitä te teette.
+Mene muualle! Tämä ei kuulu sinulle.
+Niin niin!
+Blaa blaa!
+...No, en halua aiheuttaa täällä meteliä ja
+joutua tutuiksenne, joten lähden kyllä.
+Jotenkin inhottavaa.
+Sellainen se {BUF03} on, pomo.
+Hmph, mekin lähdemme.
+@088
+Niin! Hei, te siellä.
+@089
+Mitä? Meillä ei ole sinulle asiaa.
+Häivy!
+@090
+No älkää nyt! Sanoitte äsken,
+että haluatte "voittopalkinnon", eikö?
+Aiotko sotkea asiat?
+Turha yrittää estää.
+Ei, ei tarvitse. Jos voitan,
+annan voittopalkinnon teille.
+Mitä sinä puhut? Miten voit sanoa,
+että voitat?
+Niin niin!
+Voitan kyllä! Tässä kilpailussa
+on kyse Karinin turvallisuudesta. Minun on voitettava
+ja tavattava neljän kuninkaan Shuri!
+Perätöntä itsevarmuutta! Naurettavaa!
+...No? Mikä on vaihtokauppasi ehto?
+@091
+Pomo, uskotko tuollaisen tyypin juttuja!?
+Hehe, en usko
+noin vain. Jos et voita,
+otan Medakellosi.
+@092
+P-pomo, tuo ehto on vähän liikaa!
+@093
+Pomo... julmaa.
+Ei se mitään. {BUF03} on kerran
+niin itsevarma, eikö? Jos et ole valmis siihen,
+en suostu kauppaan... Mitä sanot?
+Lyötkö vetoa?
+@094
+...Selvä. Minun ehtoni on tämä.
+Akagane-niminen professori ei pääse
+portilta sisään ja on pulassa.
+Jos löysitte keinon livahtaa tänne,
+päästäkää professori Akagane sisälle.
+Häh, ei muuta?
+Joo.
+@095
+Hah! Että tuollaisesta panee tärkeän
+Medakellonsa likoon, ihan hullua!
+@096
+Ilman Medakelloa peli on ohi!
+Katsotaan, mihin pystyt.
+Heippa~
+@097
+Odottakaaa~!
+@098
+Lupailet mitä sattuu! Mitä aiot tehdä,
+jos et voita!!
+Joo, anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+"Jotenkin hoidat"? Minähän se kilpailen!
+Voi että...
+@099
+Teitpä omavaltaisesti. Mikään ei takaa,
+että voitamme.
+Joo, anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+Jotenkin hoidat? Hmph, vaikka minä se osallistun...
+@100
+Hetkinen! Mitä jos häviämme?
+Joo, anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+Jotenkin? Minähän se missikisaan osallistun!
+@101
+Lupailit omin päin. Luotatko voittoon?
+Ugh, anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+Hmph, asiat eivät mene niin kuin
+haluaa, voi sentään...
+@102
+Haha, eli jos häviämme tässä kilpailussa,
+minusta tulee sen tyypin Medabotti?
+Anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+Hah, vaikka huolehdit, minähän se kilpailen.
+...No, ei voi mitään.
+@103
+Mitä sinä puhut! Päätät tuollaista yhtäkkiä!
+Joo, anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+Jotenkin hoidat, mutta kilpailuun
+ei ole enää juuri aikaa, voi voi...
+@104
+Voi voi, eli emme voi millään hävitä.
+Anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+Kyllä, jos mestari
+niin sanoo, kaikki on varmasti hyvin.
+@105
+Häh, onko varmasti hyvä tehdä tuollainen lupaus~?
+Hei hei, onko kaikki hyvin?
+Anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+Hmm, onkohan kaikki hyvin~? Pitäisikö
+minun hoitaa asia~...
+@106
+Jotenkin vaikealta näyttää~ Pärjäätkö~?
+Joo, anteeksi. Mutta jotenkin en voinut jättää
+professoria oman onnensa nojaan. Voiton
+kyllä jotenkin hoidan...
+No, minulle on ihan sama~
+@107
+Jakunanin ala-asteen järjestämä
+"Mr. & Miss Medabottien kauneuskilpailu"
+@108
+"Medabottien kauneuskilpailu" Vapaa osallistuminen
+Missikisaan voi siis osallistua milloin vain.
+@109
+Kouji?
+@110
+Huh huh, {BUF03}! Täällä... huh... sinä olit.
+Kouji, käytävillä ei saa juosta.
+@111
+Ei nyt ole sen aika! Roborobot! Roborobot ilmestyivät!
+Mitä~? Miksi ne ilmestyvät tällaiseenkin paikkaan~
+Jos löydät Roboroboja, pidä niistä huolta!
+@112
+"Pidä huolta"... pitääkö minun siis hoivata niitä?
+@113
+Älä pelleile!
+@114
+Ei nyt ole pelleilyn aika!
+@115
+Lopeta jo ja etsitään mekin niitä!
+@116
+Ei nyt ole vitsien aika!
+@117
+Voi voi, puhu mitä haluat.
+@118
+Eikö meidänkin pitäisi valmistautua taisteluun?
+@119
+Roboroboille kai sanotaan "pidä huolta, robo"?
+@120
+Häh, onko ok? Onko ok olla noin leppoisa?
+@121
+Eiköhän sitä tarvitse murehtia~?
+@135
+Roborobo-jengi!
+@138
+...Kuulkaa, robo? Tyttö on jossain tässä koulussa, robo.
+Kun löydätte hänet, kantakaa hänet salaa ulos, robo!
+Kun tyttö löytyy, saamme
+10000000¥, robo♥ Niin paljolla saamme
+myös paljon bonuksia, robo!
+Fuyuun-kivi epäonnistui, robo. Mutta tällä neiti Surumekin
+ilahtuu kovasti, robo!
+Mutta neiti Surumea ei ole näkynyt sen jälkeen, robo...
+Onko hän hylännyt meidät, robo?
+E-ei sellaista!!
+...luulisin, robo.
+Robo! Kunhan on rahaa, neiti Surume palaa, robo!
+(Voi sentään.)
+@139
+N-no niin, suunnitelma, robo. Ensin kun saamme
+Karin-nimisen tytön, käytämme häntä syöttinä...
+Missä se tärkein, Karin, sitten on?
+Edes tiedusteluverkostomme ei ole
+saanut sitä selville, robo!
+Älä kehuskele!!
+@140
+S-sinä, robo!
+M-mistä asti kuuntelit, robo?
+Alusta asti... kai?
+Koska kuulit suunnitelmamme,
+et pääse elävänä, robo!
+@141
+Sano tuollaisia vasta, kun osaat voittaa!
+A-anteeksi, robooo!!
+@142
+Karinin palkkiota ne siis tavoittelevat. Niiden tyylistä.
+Jos ne eivät ole edes selvittäneet, missä Karin on,
+niistä ei ole mitään hyötyä.
+@143
+R-Roborobo-jengi!?
+@144
+Ne pakenivat.
+Minne? M-minne päin!?
+@145
+Tuonne... kai.
+Hitto, seis siinä!
+@146
+Hei, jos juokset käytävillä koko ajan, satutat itsesi!
+@147
+Kolin!
+Uwah!
+Robooo!!
+Voi voi... Roborobo-jengi
+löytyi, joten olkoon.
+@153
+S-sinä, robo!
+M-mistä asti kuuntelit, robo?
+Alusta asti... kai?
+Koska kuulit suunnitelmamme,
+et pääse elävänä, robo!
+@161
+Jos neiti Shuri päättää, että olet "epäkaunis",
+sinut heitetään ulos. Pelottavaa...
+@162
+Rakkain opettajani... hänet heitettiin koulusta
+ulos, koska hän oli "epäkaunis".
+@163
+Hei sinä siellä, "lähdetäänkö kahville"?
+@164
+Kinoko! Tulit sinäkin!
+Ufu, niinpä.
+Osallistutko sinäkin kenties kilpailuun...?
+Aion kyllä osallistua. {BUF03}, sinäkin
+osallistuit. Tavoitteletko voittoa?
+J-joo, minun on pakko voittaa.
+Hmm, minulle on ihan sama kumpi.
+Eli sinun ei tarvitse voittaa?
+Joo, se ei ole tavoitteeni.
+Finaalissa kohtaamme, {BUF03}.
+En säästele, joten varaudu♥
+A, joo. Totta kai.
+Ai niin! Lähtisitkö vähän mukaani?
+Häh, t-treffeille?
+Katsotaan, mihin pystyt!
+@165
+Onpa äkkiä.
+Ahaha! No, nähdään myöhemmin♥
+@166
+.........Hän on vielä Arikaakin
+arvaamattomampi tyttö.
+Mutta jos voitto ei ole tavoite, onkohan hänellä
+jokin suunnitelma neljän kuninkaan ja Libertiesin suhteen?
+@168
+Kinoko! Tulit sinäkin!
+Ufu, niinpä.
+Osallistutko sinäkin kenties kilpailuun...?
+Aion kyllä osallistua. {BUF03}, sinäkin
+osallistuit. Tavoitteletko voittoa?
+J-joo, minun on pakko voittaa.
+Hmm, minulle on ihan sama kumpi.
+Eli sinun ei tarvitse voittaa?
+Joo, se ei ole tavoitteeni.
+Jälkipuoliskolla kohtaamme, {BUF03}.
+En säästele, joten varaudu♥
+A, joo. Totta kai.
+Ai niin! Lähtisitkö vähän mukaani?
+Häh, t-treffeille?
+Katsotaan, mihin pystyt!
+@171
+Jos häviän, Screws vie Medakelloni.
+Pärjäänkö näillä?
+@172
+Tätä missikisaa en voi hävitä. Kootaan muilla osilla.
+@173
+Okei, mennään.
+@174
+Ai! Löysin professorin!
+@175
+Professori Akagane.
+@176
+H-hei, minä yritän pysyä huomaamattomana...
+Pääsitte sisään!
+Jotenkin pääsin. Kolmen hengen porukka opasti minut.
+He pyysivät välittämään {BUF03}:lle
+viestin: "Älä unohda Medakelloa!"
+En tiedä, mitä se tarkoittaa.
+H-hahaha...
+(Nyt en todellakaan voi hävitä.)
+@177
+Roborobotkin jahtaavat Karinia!
+Tätä kisaa ei saa hävitä, {BUF03}!
+Niin.
+@178
+...Muuten, Arika ei näytä palanneen?
+? En nähnyt häntä. Eiköhän hän vielä
+tutki jossain tuolla?
+Hmm, niinköhän?
+@179
+Kiitos pitkästä odotuksesta! Aloitetaan heti
+jälkipuolisko!
+@180
+Jälkipuoliskon 1. kierroksen osallistujat, nouskaa lavalle!
+@181
+Hei, etkö sinä ole seuraavana?
+@182
+Niin olin!
+Täällä minut löydetään pian,
+joten piiloudun muualle.
+@183
+Kyllä, olkaa varovainen.
+@184
+Minäkin istun tuossa katsomassa. Älä häviä!
+@185
+Kikuhime!?
+Mitäs nyt? Onko valittamista?
+Ettekö te jääneet koulun portilla kiinni?
+@186#kabuto
+Voi että, minä yksin olisin päässyt läpi ihan hyvin.
+@186#kuwagata
+Kenenä sinä minua pidät?
+@187
+Minua ei päästetty vain, koska olin noiden kanssa.
+Ihanko totta...
+Epäiletkö?
+@188
+M-mitä te teette! Kyaa!
+@189
+...Mmmh mmh
+Ole hiljaa! Pomo osallistuu
+missikisaan sinun sijastasi!
+Voittaakohan pomo...
+Hölmö! Pomo voittaa varmasti!
+Kaavan mukaan pomo ei voita,
+ja hänet napataan...
+Älä kerro juonta etukäteen.
+@190
+Hehe, tiedäthän? Jos häviät, Medakello
+on minun. No, minä saan joka tapauksessa
+joko voittopalkinnon tai Medakellon,
+joten minulle on ihan sama.
+En häviä!
+Hehe, kilpailu ratkeaa vasta kokeilemalla.
+Aloitetaan!
+Osallistujat valkokankaan eteen!
+@191
+Mitä nyt, {BUF03}? Suuret puheet, mutta
+hävisit tuosta vain. Et ollut kummoinen.
+@192
+Mitä! Etkä sinäkään voittanut, Kikuhime.
+Hiljaa!! Lupaus on lupaus.
+Anna Medakello tänne!
+Uuh... Ilman Medakelloa peli on ohi.
+@193
+Jee!
+@194
+Hmph, tuomareilla ei ole silmää...
+@195
+No, toistaiseksi voitit sinä.
+@197
+Pomoo~ Jäimme kiinni sittenkin~
+@198
+Nyyh nyyh
+@199
+Tule.
+Hei! Mitä teet!
+@200
+Älkää töpätkö!
+@201
+Sattuu~
+Uuuh...
+@202
+Heilläkin on rankkaa.
+@203
+Odottamaton käänne teki kilpailusta sekasotkua,
+mutta välittämättä siitä jatketaan jälkipuoliskolla!
+Jälkipuoliskon 2. kierroksen osallistujat, nouskaa lavalle!
+@204
+No niin, nyt on minun vuoroni. Heippa, {BUF03}.
+Odota, kunnes kohtaamme!
+@205
+Kouji on kyllä tosi itsevarma.
+@206
+Kyaa, Koujiii!
+@207
+Tuohan on... Karinin "Nurse"!
+@208
+Karinin Medabotti!!
+@209
+Hei, sinä! Mistä sait tämän Medabotin!?
+E-e-en tiedä mitääään! S-sain neiti Shurilta
+käskyn osallistua tällä Medabotilla!
+...Hitto, se Shuri sittenkin.
+Kyllä kyllä, älkää riidelkö. Osallistujat,
+tulkaa heti valkokankaalle!
+@210
+Hitto...
+@211
+Ohoo! Voittajaehdokkaana pidetty Kouji
+jäi askeleen jälkeen yllättävän vahvalle
+hoitajamallin Nurselle!
+Voi ei, Kouji hävisi~
+@212
+U-uskomatonta... Ei, kun hävisin Karinin Medabotille,
+sen kyllä ymmärtää...
+@213
+Hetkinen!
+Sinä olet Karinin Nurse, eikö?
+@214
+Kyllä, olen.
+Karin on siis tässä koulussa? Missä hän on?
+Tuota... Karin pyysi minua
+välittämään teille viestin.
+@215
+Karinilta!?
+@216
+Kerroiko Karin sinulle jotain?!
+Kyllä: "Olen kunnossa, joten älkää olko huolissanne."
+Häntä varmasti uhkaillaan!
+Hei, ovatko ne oikeasti Karinin sanoja?
+Eikö Karinia ole uhkailtu tai jotain?
+@217
+Ei hätää, {BUF03}.
+Arvioin, ettei Karin ole vaarassa,
+ja siksi tulin luoksenne. "Medabotin 3 lain"
+toisessa pykälässä sanotaan: "Ihmisiä uhkaavaa vaaraa
+ei saa jättää huomiotta."
+Karin on kunnossa.
+"Medabotin 3 lakia"...
+No, missä Karin nyt on!?
+@218
+...En voi vastata.
+Miksi!!
+@219
+Karin pysyy nyt täällä omasta tahdostaan.
+Niin kauan kuin Karinin tahto ei muutu,
+en voi vastata.
+Ei se käy, vastaa!
+........
+@220
+Kouji, Karinin Nurse sanoo niin.
+Siihen on jokin syy.
+Mutta...!
+Jos voitan, tapaan Shurin.
+Silloin Karinin asiakin selviää!
+.........
+@221
+...Kouji?
+...Selvä! Jos et halua vastata,
+en kysy enempää. Me löydämme Karinin itse!
+Kiitos paljon. No, minä
+poistun nyt.

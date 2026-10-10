@@ -1,0 +1,57 @@
+@000
+Tämä robottelu on\n"lähitaistelukielto"
+Lyönti-, raivo-osia eikä\nMedavoimaa voi käyttää
+@001
+Tämä robottelu on\n"ampumiskielto"
+Ammunta-, tähtäysosia eikä\nMedavoimaa voi käyttää
+@002
+Tämä robottelu on\n"puolustuskielto"
+Suojaus-, asennusosia eikä\nMedavoimaa voi käyttää
+@003
+Tämä robottelu on\n"korjauskielto"
+Korjaus-, erikoisosia eikä\nMedavoimaa voi käyttää
+@004
+Tämä robottelu on\n"rohkaisukielto"
+Rohkaisu-, häirintäosia eikä\nMedavoimaa voi käyttää
+@005
+Tämä robottelu on vain\n"mies-Medaboteille"
+"Nais-Medabotit" eivät\nvoi osallistua
+@006
+Tämä robottelu on vain\n"nais-Medaboteille"
+"Mies-Medabotit" eivät\nvoi osallistua
+@007
+Tämä robottelu on vain\n"Leijunta-Medaboteille"
+Muut jalkatyypit eivät\nvoi osallistua
+@008
+Tämä robottelu on vain\n"Kaksijalka-Medaboteille"
+Muut jalkatyypit eivät\nvoi osallistua
+@009
+Tämä robottelu on vain\n"Tankki-Medaboteille"
+Muut jalkatyypit eivät\nvoi osallistua
+@010
+Tämä robottelu on vain\n"kumppanille"
+Vain kumppani\nvoi osallistua
+@011
+Tämä robottelu on\n"panssari 100" -rajattu
+Vain enintään 100 panssarin\nMedabotit pääsevät mukaan
+@012
+Tämä robottelu on\n"panssari 200" -rajattu
+Vain enintään 200 panssarin\nMedabotit pääsevät mukaan
+@013
+Tämä robottelu on\n"panssari 200+" -rajattu
+Vain vähintään 200 panssarin\nMedabotit pääsevät mukaan
+@014
+Tämä robottelu on\n"6 botin pudotuspeli"
+Kun yksi pysähtyy, seuraava\nMedabotti tulee tilalle
+Robottelu jatkuu, kunnes\nkaikki 6 ovat pysähtyneet
+Viimeisenä pystyssä\noleva joukkue voittaa
+@015
+Tämä robottelu on\n"9 botin pudotuspeli"
+Kun yksi pysähtyy, seuraava\nMedabotti tulee tilalle
+Robottelu jatkuu, kunnes\nkaikki 9 ovat pysähtyneet
+Viimeisenä pystyssä\noleva joukkue voittaa
+@016
+Tämä robottelu on\n"joukkuerobottelu"
+Kumppanisi osallistuu\njohtajana
+Tovereille ei voi antaa\nsuoria käskyjä, mutta
+taktiikkaa voi muuttaa\nvaihtamalla rotaatiota

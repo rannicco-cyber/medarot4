@@ -1,0 +1,611 @@
+@000
+Aaaaaaaaaah!!!!
+@001
+Tuota...
+@002
+Huh, en voi huijata enempää.
+@003
+Hyvin näit läpi minun, Hanzoun, valeasuni.
+Lupauksen mukaisesti annan sinulle kirjakäärön!
+Niin haluaisin sanoa, mutta itse asiassa
+arkeologin näköinen mies ja punaisiin pukeutunut tyttö
+veivät sen juuri ennen sinua.
+Joten saat tämän sen sijaan.
+@004
+Jos haluat kirjakäärön, etsi ne kaksi.
+Ja nyt, hyvästi!!
+@005
+Ne ovat varmasti Shuri ja professori...
+@006
+Ai niin, Kouji!
+U...uuh...
+@007
+Hyvä, hän näyttää olevan kunnossa.
+Huh, ei auta. Etsitään Shuri.
+@008
+Shuri! Robotellaan kirjakääröstä!
+"Kirjakääröstä"? Eihän sinulla ole
+yhtään kirjakääröä.
+Ai, niin muuten!
+Hihi, no, ei se haittaa. Tämän kilpailun sääntöjen mukaan
+robottelussa saa viedä kääröjä.
+Täältä tullaan, robottelu alkaa!
+@009
+Onko tuo sinulla kenties kirjakäärö!?
+@010
+Mitä? {BUF03},
+onko sinulla kirjakäärö?
+No, on.
+{BUF03}, luovuttaisitko sen minulle?
+Häh! Se olisi vähän hankalaa.
+Ei hätää, isä. Minä voitan robottelun
+ja vien kirjakäärön.
+Robotellaan tosissaan kirjakääröistä!
+@011
+Ei voi olla, hävisin taas sinunlaisellesi...
+Ei voi mitään. Noudatan sääntöjä.
+@012
+Anteeksi, isä. Hävisin.
+Ei se mitään, Shuri, teit parhaasi. Kiitos.
+{BUF03}...
+@013
+Kirjakäärö meni, mutta näyttäisitkö
+sen upean palkinnon minulle myöhemmin?
+Kyllä, tulen ehdottomasti näyttämään sen.
+@014
+Annoin kirjakäärön sinulle, mutta robottelussa
+en aio vielä hävitä.
+No niin, ratkaistaan robottelulla!
+@015
+Jos sinulla on aikaa, olen taas vastustajasi.
+@016
+Kas, sinä sait sen upean palkinnon.
+No, voitithan minut, joten se on luonnollista.
+@017
+Shuri näki läpi yläkerran majassa olleen
+ninjan valeasun. Naisen vaisto on kyllä huikea.
+@018
+Edes Shuri ei pärjännyt sinulle. Vaikuttavaa.
+Kun kerran olet täällä, robotelisitko minunkin kanssani?
+@019
+No, kerää kirjakääröt ahkerasti,
+{BUF03}.
+@020
+Kas, {BUF03}. Onnittelut voitosta.
+Kiitos paljon, professori.
+No, mikä se palkinto lopulta oli?
+Kirjakääröihin oli kirjoitettu vain outo koodi,
+enkä ymmärrä siitä mitään.
+Koodi, vai...
+Ehkä se on jonkin
+salasana.
+Salasana?
+Jos keksit sopivan paikan, kokeile sitä.
+Selvä, kokeilen.
+No, me lähdemme nyt kotiin.
+@021
+Shuri, lähdetään kotiin.
+Kinoko, tuletko mukaan?
+Tarjoan ainakin päivällisen.
+@022
+Kiitos, tulen mielelläni♥
+@023
+Miksi sinä tulet mukaan!
+@024
+Hmph, et sinä minua kutsunut!
+No no, Shuri, rauhoitu.
+Kinoko, älä välitä hänestä.
+@025
+Selvä, setä.
+@026
+Älä kutsu isääni sedäksi!
+Huh, olettepa hankalia tyttöjä...
+@027
+No niin, lähdetään kotiin, molemmat.
+@028
+Kävisinköhän Jakunanissa Shurin ja professorin luona?
+@029
+Huh, vihdoin pääsen lepäämään.
+Hei, {BUF03}, robotellaan vähän.
+@030
+Tule taas robottelemaan, kun ehdit.
+@031
+Sinä voitit! Odotettavissa sinulta, {BUF03}!
+Mennään ensi kerralla oikeasti teelle♥
+@032
+Päähän sattuu jotenkin tosi paljon.
+@033
+Menisinkö minäkin ninjakisaan palkintoa hakemaan?
+Sinä olet rikas, joten voit ostaa
+palkintoja itse.
+Sanoinhan, ettei se, että olen rikas, ole minun vikani!
+@034
+Voittaja oli {BUF03}, vai? Olet kyllä kilpakumppanini.
+@036
+Siinä! Ötökkä.
+Näin monesta Kouji säikähtää varmasti.
+@037
+Ai, löysin ötökän.
+Mutta tämä ei vielä riitä.
+@038
+Täällä ei ole enää ötököitä.
+@048
+Häh? Liukuoven takaa pääsee "takapihalle".
+@049
+Hoh, että selvisit minun, Hayabusan, ansoista...
+Lupauksen mukaisesti annan sinulle kirjakääröni.
+Niin haluaisin sanoa, mutta itse asiassa
+kissansilmäinen poika ja kierrelaseinen poika
+veivät sen juuri ennen sinua.
+Joten saat tämän sen sijaan.
+@051
+Kissansilmät ja kierrelasit... Hakuma ja Byakuya?
+@052
+Heh, keltanokka.
+@053
+Mmh mmgh...
+@054
+Puhaah~!
+@094
+Heh, kaikki etsivät vain ninjatalosta ja myymälästä.
+Kukaan ei arvaa, että olen täällä sisäänkäynnin lähellä.
+Tuota~~...
+@095
+S-sinä! Kauanko olet ollut siinä!?
+Kauanko... no, siitä asti, kun sanoit
+"kaikki etsivät vain ninjatalosta ja myymälästä".
+Huh~ pelastuin. Näköjään et kuullut
+minun "rakkausrunoani".
+Ai, "rakkausruno"? Mikä se on? Kiinnostaa~!
+@096
+Hiljaa! Se ei kuulu lapsille.
+Hah!!
+@097
+Mutta etkö tullut
+hakemaan minulta kirjakääröä?
+Ai, niin tulin.
+Hmph, hidas tyyppi. Joka tapauksessa, jos haluat
+kirjakäärön, yritä saada minut kiinni.
+@098
+Heh, tulit vihdoin. Mutta tämä ei ole vielä ohi.
+@099
+Voi että, kun on hankalaa.
+@100
+Liian hidas! Liian hidaaas!!
+@101
+Kauanko hän aikoo jatkaa tätä?
+@102
+Olet yllättävän sitkeä. Kannattaa juosta!
+@103
+En jaksa enää...
+@104
+Selvä, juoksimme tarpeeksi. Tämä riittää.
+@105
+Nykyajan lapset luottavat kaikessa Medabotteihin
+eivätkä käytä omaa kehoaan. Siksi panin sinut liikkumaan.
+Koska pysyit perässä, annan sinulle lupauksen
+mukaisesti kirjakääröni.
+Niin haluaisin sanoa, mutta itse asiassa
+röyhkeitä alaisia johtava, hiukset taakse kammannut
+kovis vei sen juuri ennen sinua.
+Joten saat tämän sen sijaan.
+@106
+Jos haluat kirjakäärön, etsi se kovis.
+Ja nyt, hyvästi!!
+@107
+Kokuenia en halua tavata missään nimessä.
+@108
+M-mi-mi-mi-miksi teitä on näin monta~!?
+Hehheh, nimeni on "Sasuke"... "Kloonien Sasuke".
+Jos haluat kirjakäärön, löydä
+näiden joukosta oikea minä!!
+@109
+Tuota... tämäkö?
+Harmin paikka, se on väärennös!! Hahhahhah...
+@110
+Entä tämä?
+Hmph, huono vaisto. Sekin on väärennös!
+@111
+E-entä tämä?
+Väärin~ No niin, nyt sekoitetaan.
+@112
+Tämä ninja on oikea!
+M-miten tiesit!?
+Miehen vaisto!!
+Ääh!!
+@113
+No, kun paljastuin, ei voi mitään. Lupauksen mukaisesti
+annan sinulle kirjakääröni.
+Niin haluaisin sanoa, mutta itse asiassa
+hiuksensa kullanväriseksi värjännyt hiljainen poika
+vei sen juuri ennen sinua.
+Joten saat tämän sen sijaan.
+@114
+Etsi vaaleatukkainen poika.
+Ja nyt, hyvästi!!
+@115
+Vaaleatukkainen poika voi olla vain Mizuchi.
+@165
+Olen tänään väsynyt, joten menen aikaisin nukkumaan.
+@166
+Huaah~~~ Hyvää yötä.
+@167
+Arikan, Koujin ja Karinin kanssa Shinobickissa
+hauskaa aikaa viettänyt {BUF03}.
+Mutta sitä, että Orochin jättämä kauhun Medabotti
+suuntasi Pohjois-Sazankaan, ja että tuo Medabotti
+asettuisi myöhemmin {BUF03}:n tielle,
+{BUF03} ei vielä tiedä.
+Ja huomennakin: robottelu alkaa!
+@168
+Taisin nähdä jotain outoa unta?
+No, ihan sama.
+Menen alas syömään aamupalaa.
+@169
+Ahahahahahahaha!!
+Tulisen loistava medabottaaja Arika saapuu paikalle!
+@170
+Mene ulos!!
+@171
+S-selvä!!
+@172
+Huh, säikähdin.
+Mutta Arika piti sittenkin siitä asusta.
+Saat tulla sisään~
+@173
+No niin, {BUF03}, robotellaan.
+@174
+Voi että, anna minun voittaa joskus!
+Hahaha...
+@175
+No? Olen tullut vähän vahvemmaksi, eikö?
+@176
+Mitä! Ei hauskaa.
+No, se Arikan asu oli kyllä tosi hauska.
+@177
+Kenen mikä oli hauska?
+Ei... ei mikään...
+@178
+Kas? Eikö sinulla ole kaikkia Sky Cargon osia?
+Täältä pääsee pois vain "Tuulen siivillä", nin nin.
+Myyn sinulle Sky Cargon ja yksipyöräosat
+yhteishintaan 5500¥.
+Yksipyörän kanssa yhdessä!?
+Heh, "Sharin" on hyvä.
+Ostatko osat?
+@179
+Kiitos kaupoista.
+@180
+Jos haluat "Sharinin", kerro minulle, nin nin.
+Miksiköhän juuri "Sharin"?
+@181
+Rahasi eivät riitä, nin nin.
+Myy muita osia matkamuistomyymälässä ja hanki rahaa.
+@182
+Täältä pääsee pois vain
+"Tuulen siivillä", nin nin.
+@183
+Tervetuloa ninjakylään, Shinobick-puistoon.
+@184
+Hah!!
+@185
+Hyah!!
+@186
+Ninjan harjoitus on ankaraa, nin nin.
+@187
+Häh? Sinulla on tavalliset vaatteet?
+Shinobickissa ninja-asu on perusjuttu.
+Siksi täällä on pelkkiä ninjoja!
+@188
+Niin nin! Ninjataito: tulitekniikka!
+@189
+Uwawaa~!
+@190
+Heh, mitäs sanot? Huikeaa, eikö?
+@191
+Hihi♥ Halusin kerran pukeutua miesninjaksi♥
+@192
+Puun tuoksu rauhoittaa.
+@193
+Siitä on kauan, kun tulin huvipuistoon isän kanssa.
+@194
+Tuo ninja on robottelussakin aika taitava.
+@195
+Ninjojen naamiot ovat niin salaperäisiä ja ihania♥
+Niinköhän?
+@196
+Vuuh vuuh! Olen Igan ninja!
+@197
+Tadaa tadaa! Olen Kougan ninja!
+@198
+S-Shiratama!?
+@199
+Kenestä puhut? En ole Shiratama.
+(Väärä ihminen? Mutta hän on liian samannäköinen.)
+@200
+Tervetuloa Shinobickin myymälään. Katsele rauhassa.
+@201
+Ninjatalossa on niin paljon ansoja, että harmittaa.
+@202
+Kyah!
+Voi ei! Mitä minä teen!
+@203
+Nyt riittää!
+@204
+Täällä on tosiaan ansoja kaikkialla.
+@205
+Hieno lipasto. Haluaisin tällaisen meillekin.
+@206
+Ei ole suuta, en voi pitää kääröä hampaissa.
+@207
+Heei, kaikki kiltit lapset~ Oletteko voineet hyvin~?
+Jotta kiltit lapset voivat käyttää yhteyttä Shinobickissakin,
+yhteystyttö tekee kotikäynnin♥
+Mistähän hänet on lähetetty?
+Joten jos haluat käyttää yhteyttä, kerro minulle♥
+@208
+Kas, haluatko sinäkin käyttää yhteyttä?
+@209
+No, kiltit lapset, nähdään taas ensi viikolla~♪
+@210
+Mitä sitten...
+@211
+Kas, onko hauskaa?
+@212
+Tutki perimmäistä seinää.
+Jotain hauskaa tapahtuu.
+@213
+Robotellaanko, nin nin?
+@214
+Menetitkö rohkeutesi, nin nin?
+@215
+Ei säälimistä, nin nin!
+@216
+Jos sinulla on aikaa, robotellaanko kanssani?
+@217
+Hmph, pikkusielu...
+@218
+Sitten aloitetaan!!
+@219
+Robotelisitko ninja-Medabottiani vastaan?
+@220
+Tajusitko, ettet pärjää minulle?
+@221
+Yhden erän ottelu! Alkakaa!
+@222
+Onko kunoichi-medabottaaja harvinainen? Robotellaanko?
+@223
+Älä aliarvioi minua siksi, että olen tyttö.
+@224
+Tanssin sulavasti, pistän terävästi!
+@225
+Shinobien nimeen, voitan sinut!
+@226
+Onpa äkkipikainen ihminen.
+@227
+Mennään ensin Medabottiyhtiöön.
+@229
+{BUF03}, löytyi!
+@230
+Kinoko!? M-miksi olet täällä!?
+@231
+Tuijotus~~~...
+@232
+M-mitä?
+Hee~ tuo merkki...
+@233
+Häh, ei, tuota, tämä on...
+@234
+Olen kuullut siitä vain huhuina,
+mutta se on oikea lippu medamestariksi,
+"todistemerkki"! Upeaa, upeaa!
+@235
+M-mistä sinä sen tiedät!?
+Hei! Hei! Otellaanko siitä merkistä?
+Häh? Mitä?
+@236
+Voi~ hävisin~
+Tuota, haloo? Kinoko?
+Kuulin, että voitit Medalinkissä
+legendaarisen medamestarin.
+M-mutta mistä sinä sen tiedät?
+Tieto tuli Medakelloon.
+(Tietävätkö kaikki jo...?)
+Mutta mitä tekisit tällä merkillä?
+Häh? Etkö tiedä? "Joka vie merkin
+Medabottiyhtiöön, saa osallistua medamestarin kokeeseen."
+Kuka sellaista huhua levittää~
+Höh, ei se mikään huhu ole. Tämä on
+taistelu medamestarin arvonimestä! Niin säännöt menevät!
+@237
+Mi... eli jos menetän merkin
+nyt täällä, kaikki vaivani...
+Niin, hukkaan!
+...Mutta ei tarvitse murehtia niin paljon.
+Merkin haltijaa saa haastaa vain kerran
+per henkilö!
+Sen sijaan merkin haltijan on aina
+otettava haaste vastaan. Niin säännöt menevät.
+Ei voi olla~ Kukaan ei kertonut~
+No, tsemppiä!
+Minä poistun nätisti! Heippa♥
+@238
+...Voi sentään.
+@239
+Odota vähääään!
+@249
+Kas, {BUF03}.
+@252
+Mitäs pidät uudesta autostani?
+Se on tuunattu, siisti, eikö?
+Hachirouhan se. Mitä teet täällä?
+Olipa tylysti sanottu. Medaropolis on
+kuin pihani. Miksi sinä olet täällä?
+Minä...
+...Kas! Sinun ei tarvitse sanoa mitään.
+Kun kannat sitä merkkiä, olet
+matkalla Medabottiyhtiöön, eikö?
+(Jos tiedät, älä kysy.)
+Ymmärrät myös, miksi olen täällä.
+Otellaan siitä merkistä.
+@253
+...Heh, kun näen jotain, mitä ei voi ostaa rahalla,
+alan haluta sitä. Se on huono tapani.
+(Juuri tästä syystä rikkaat...)
+No, tule taas käymään meillä.
+Odotan sinua.
+@254
+...Huh, hän lähti.
+Hän taisi vain haluta leikkiä kanssani.
+@255
+Minne luulet meneväsi?
+@257
+Kikuhime!
+...Eli tietysti ne kaksi muutakin...
+@258
+(Huoh...)
+Hehee! Sanoinhan, pomo!
+Että {BUF03} tulee tästä.
+@259
+Säästyit, Iwanoi.
+Tapasimme {BUF03}:n! Hyvä.
+Ette te taida olla tulleet tapaamaan minua.
+Ei sillä, että ilahtuisin, jos tulisitte.
+@260
+Mikä tuo puhetapa on! Ei miellytä!
+Tänään olemme erilaisia!
+Merkistä saa otella kerran per henkilö.
+Sinun on otettava vastaan kaikkien haasteet.
+Eli joudut robottelemaan
+kanssamme kolmesti putkeen.
+Niin!
+Tekin siis noudatatte robotteluliiton sääntöjä.
+No, emme mekään halua, että meitä ammutaan
+kiertoradalta puhallusputkella. Pss...
+Sama koskee sinuakin.
+Emme anna sinulle aikaa tallentaa!
+Mene, Kagamiyama!
+@261
+Teen sinusta mutaisen!
+@263
+Säälittävää.
+@264
+Kas! Nyt on sinun vuorosi, Iwanoi!
+Selvä! Jättäkää se minulle!
+@265
+Nyt on liian myöhäistä katua!
+@267
+Älä ulise noin säälittävästi!
+@268
+Täältä tullaan, {BUF03}!
+@269
+Ei tule kuuloonkaan!
+Muista: yksi kerta per henkilö!
+Hmph! Muista tämä!
+@272
+...Huh, rankkaa. Pitää päästä äkkiä Medabottiyhtiöön,
+tai en kestä tätä.
+@273
+Seis!
+@276
+Hasukehan se!
+Hmph, et näköjään unohtanut naamaani.
+Miten voisin unohtaa!
+...No? Mitä teet täällä?
+Sehän on selvää! Tulin kaupunkiin huvittelemaan, ja
+päätin samalla viedä kaulassasi roikkuvan merkin!
+@277
+...Tsk, mokasin.
+Vaikka sanot mokanneesi...
+Muuten, Hasuke, tulitko yksin? Entä muut?
+Yksi idiootti on täällä. Jos haahuilet, hän saa sinut kiinni.
+...No, yritä parhaasi, ettei merkkiä viedä.
+Minä jään vielä vähäksi aikaa pitämään hauskaa.
+@278
+Yksi idiootti...
+@279
+Löysin sinut, {BUF03}!
+@280
+Arvasin, siinä hän on!
+Ottelu! Otteluuu!
+@281
+Roboteltiiiin~!!
+@282
+Hänelle merkillä ei ollut väliä,
+kunhan pääsi robottelemaan.
+@283
+Odotaaaa!!
+@284
+Kouji.
+@287
+Huh, et-etsin, et-etsin sinua! Ot-otellaan
+medamestarin arvonimestä,
+{BUF03}! Huh, huh!
+Ihan sama, mutta tasaisitko ensin hengityksesi?
+Ei puhetta, kaksintaistelu!
+...Medabottisiirto!
+@288
+Yhtä väkisin kuin aina.
+...No, olkoon. Otan haasteen.
+@290
+Olet kyllä taitava, {BUF03}.
+Niin sinäkin!
+Voitit minut, joten tule ehdottomasti medamestariksi.
+Joo!
+Nähdään. Tule taas käymään meillä.
+Joo! Nähdään!
+@291
+...Ennen Kouji punastui jo pelkästään,
+kun pyysi minua kylään.
+No niin! Maali on lähellä! Tsemppiä!
+@292
+Ai! Mizuchi!
+@294
+Mitä sinä täällä teet!
+Haluatko päästä tästä ohi, {BUF03}?
+M-mitä?
+Jos haluat ohi, kaada minut ensin.
+@295
+Heh, hyvä on. Saat mennä.
+Öh...
+@296
+M-mitä tuo oikein oli??
+@297
+No niin, vihdoin viimeinen. Olipa pitkä matka.
+Kukahan on Medalinkin
+ykkösmedabottaaja?
+Jännittää jotenkin...
+@298
+Ykkönen on "Medamestari".
+@299
+Mitä! Mitä tämä tarkoittaa!?
+Tie "Medamestariksi" on lähellä.
+Vasta voittamalla tämän robottelun saat
+"Medamestarin" arvonimen.
+???? Mitä? Ääni ja puhetapa muuttuivat yhtäkkiä!?
+Sitten aloitetaan. Robottelu alkaa.
+@300
+Onnittelut! Odotettavissa sinulta, Tenryou {BUF03}.
+Hae tiskiltä esine, jolla saat
+medamestarin arvonimen.
+Tuota... mitä tämä on? Ja miten tiedätte minusta...?
+Tällä planeetalla medamestarin arvonimen
+on saanut vain yksi: 8 vuotta sitten rohkeasti yksin
+Beast Masterin kukistanut ja kaupungin pelastanut poika,
+Agata Hikaru.
+@301
+Että Hikaru oli medamestari...!
+...? Mutta muistaakseni Hikaru oli
+Medalinkin listalla aika alhaalla...
+Medalinkiin rekisteröidyt "Hikaru" ja "Retort"
+ovat niin sanottuja valetietoja. "Medamestari", jota vastaan taistelit,
+oli hänen todellinen voimansa... Tosin hän on
+lopettanut oman voimansa kasvattamisen ja tavoittelee nyt
+Medabottien levittämistä kaltaisillesi lapsille.
+Se oli Hikarun todellinen voima!
+Hikaru on oikeasti huikea medabottaaja!
+Mutta keitä te olette, kun tiedätte tuon...?
+Sanotaan vain, että olen robotteluliiton auktoriteetti.
+Se, joka valvoo koko maailman... ja koko avaruuden
+robotteluja. Se, joka tarkkailee,
+käydäänkö robottelut reilusti...

@@ -1,0 +1,257 @@
+﻿Index[#version],Pointer[#version|],Original,Translated
+000,0x3fdd58,こ-んか-いの- らっき-<CD>メダロットは-<CF><*01>,This time's lucky<D3>Medarot is...<CF><*01>
+001,0x3fdd5a,このおみくじは 時間切れで-す<CD>もういちど ひきなおしてくださいな<*04>,This fortune has expired.<D3>Please draw another one.<*04>
+002,0x3fdd5c,このおみくじの ゆうこう<CD>時間は あと <&BUF0F>で-す<*04>,This fortune is valid for<D3>another <&BUF0F>.<*04>
+003,0x3fdd5e,まぁまあかな <*02>,Not bad.<*02>
+004,0x3fdd60,こんなもんかな<*02>,About what you'd expect.<*02>
+005,0x3fdd62,ふう あぶなかった<*02>,"Whew, that was close.<*02>"
+006,0x3fdd64,あとちょっとだったのに...<*02>,I almost had it...<*02>
+007,0x3fdd66,なんだかなあ<*02>,I dunno about this...<*02>
+008,0x3fdd68,<SFF>こんなもんかな<CD>左院パ-ツを<CD>なんだかなあ<*02>,<SFF>About what you'd expect.<D3>Left-arm part...<D3>I dunno about this...<*02>
+009,0x3fdd6a,<SFF>このおみくじは 時間切れで-す<CD>もういちど ひきなおしてくださいな<*04>,<SFF>This fortune has expired.<D3>Please draw another one.<*04>
+010,0x3fdd6c,<SFF>このおみくじの ゆうこう<CD>時間は あと <&BUF0F>で-す<*04>,<SFF>This fortune is valid for<D3>another <&BUF0F>.<*04>
+011,0x3fdd6e,こんかいのしんさいんは<CD>このかたがたです<*02>,Here are today's judges:<D3>these distinguished people.<*02>
+012,0x3fdd9a,このかたがたです<*02>,Here they are.<*02>
+013,0x3fdd9c,「男は貝ためよリ体力だ!」の<CD>アレキサンダさん<*02>,"""A man needs guts, not shellfish!""<D3>Mr. Alexander.<*02>"
+014,0x3fdd9e,「ハデハデな ものが いいのよ」と<CD>ビショウネンさん<*02>,"""Flashy is the way to go!""<D3>Mr. Bishounen.<*02>"
+015,0x3fdda0,「バランスこそ ちからなリ!」の<CD>ブルドッグさん<*02>,"""Balance is power!""<D3>Mr. Bulldog.<*02>"
+016,0x3fdda2,「やっぱリかわいくなくっちゃ」の<CD>しらたまさん<*02>,"""It has to be cute!""<D3>Ms. Shiratama.<*02>"
+017,0x3fdda4,...でおおくリいたします<*02>,"...and now, over to our next contestant.<*02>"
+018,0x3fdda6,それではしんさに<CD>うつリたいとおもいます<*02>,"Now, let's begin the judging.<D3><*02>"
+019,0x3fdda8,うつリたいとおもいます<*02>,Let's begin the judging.<*02>
+020,0x3fddaa,それではつぎにまいリましょう<*02>,"Now, let's move on to the next one.<*02>"
+021,0x3fddac,<&BUF10>人目の メダロットの しょうかい<*02>,<&BUF10>th Medarot introduction.<*02>
+022,0x3fddae,<&BUF11>さんの<*02>,<&BUF11>.<*02>
+023,0x3fddb0,「<&BUF12>」です<*02>,"""<&BUF12>"".<*02>"
+024,0x3fddb2,それでは しんさいんの みなさん<CD>点数のほうを おねがいします!<*02>,"Judges, please give us<D3>your scores!<*02>"
+025,0x3fddb4,点数のほうを おねがいします!<*02>,Please give us your scores!<*02>
+026,0x3fddb6,<&BUF10>点! <&BUF11>点! <&BUF12>点!<*04>,<&BUF10> points! <&BUF11> points! <&BUF12> points!<*04>
+027,0x3fddb8,合計 <&BUF10>点です!<*02>,Total: <&BUF10> points!<*02>
+028,0x3fddba,よって しょうしゃは...!<*02>,And the winner is...!<*02>
+029,0x3fddbc,<&BUF10>さんの<*02>,<&BUF10>.<*02>
+030,0x3fddbe,「<&BUF11>」です!<*02>,"""<&BUF11>""!<*02>"
+031,0x3fddc0,おめでとうございます!<*02>,Congratulations!<*02>
+032,0x3fddc2,みなさん おまたせいたしましたぁ!<*03>,Thank you all for waiting!<*03>
+033,0x3fddc4,<SFF><&BUF10><*04>,<SFF><&BUF10><*04>
+034,0x3fddc6,<SFF><&BUF11><*04>,<SFF><&BUF11><*04>
+035,0x3fddc8,それでは みなさま 次のしんさで<CD>お会いしましょう!<CD><CF><D1>ミス.ちまきでした~!,"Ladies and gentlemen, we'll see you<D3>at the next judging!<D3><CF><D1>This was Miss Chimaki~!"
+036,0x3fddca,わたくし ミス.ちまきが<CD>おおくリする ミスコンの<CD><CF><D1>はじまリであリます!,"I, Miss Chimaki, am proud to present<D3>the Miss Contest!<D3><CF><D1>And now it begins!"
+037,0x3fddcc,く--っ! かんどうだっ!<CD>これぞ 男の中の男!!,Grrr! I'm moved!<D3>This is the manliest of men!!
+038,0x3fddda,男気に あふれる フォルム<CD>あつい たましいを かんじるぜ!,A form overflowing with manliness.<D3>I can feel the fiery spirit!
+039,0x3fdddc,わるくは ないが<CD>男の たましいが かんじられん!,"Not bad, but<D3>I can't feel a man's spirit!"
+040,0x3fddde,ふん 本当に やる気が あるのか?<CD>出直して来いっ!!,Hmph. Are you really serious?<D3>Come back when you are!!
+041,0x3fdde0,なっ 何だ これはっ!!<CD>ふざけるな! こんなものが<CD><CF><D1>男と言えるかっ!!,W-What is this!!<D3>Don't fool around! How can<D3><CF><D1>you call this a man?!
+042,0x3fdde2,んまあ! ぬぁんて うつくしさ!!<CD>ああ~ん さ.い.こ.うっ♥,Oh my! Wh-what beauty!!<D3>Ahh~ A.m.a.z.i.n.g♥
+043,0x3fdde4,あら~ ス.テ.キ♥<CD>スキに なっちゃいそう♥,Oh~ W.o.n.d.e.r.f.u.l♥<D3>I might fall for you♥
+044,0x3fdde6,うう~ん もうっ! だからぁ<CD>そうじゃないのよねぇ~,Uhh~ Come on! That's why<D3>that's not what I mean~
+045,0x3fdde8,やだわぁ~ それで<CD>うつくしいつもリぃ?,Oh dear~ And you call that<D3>beautiful?
+046,0x3fddea,まっ 何よ それ! ヒドイわぁ!<CD>かがみ 貝たこと あるのぉ?,"Oh, what is that?! How awful!<D3>Have you ever looked in a mirror?"
+047,0x3fddec,シンプル それでいて 力づよい<CD>...きゅうきょくの バランスだ!,"Simple, yet powerful.<D3>...the ultimate balance!"
+048,0x3fddee,むだな部分が はぶかれた 体に<CD>やどる かれんな心...じつに いい,"A body stripped of needless parts,<D3>with a delicate heart within... truly fine."
+049,0x3fddf0,もっと シェイプアップすベきだな<CD>バランスが いまいちだ,You should slim it down more.<D3>The balance is not quite right.
+050,0x3fddf2,ふむ どうやら きみと わたしの<CD>もとめる うつくしさは ちがうようだ,Hmm. It seems the beauty<D3>you seek differs from mine.
+051,0x3fddf4,はっきリ言って しゅみを うたがうね,"Frankly, I question your taste."
+052,0x3fddf6,すっ...すばらしいっ!<CD>これぞ「び」! しびれちゃう♥,"S-so wonderful!<D3>This is ""beauty""! I'm tingling♥"
+053,0x3fddf8,なるほどね キミの<CD>言いたいことも 分からなくはない,I see. I can understand<D3>what you're trying to say.
+054,0x3fddfa,...フッ あまいな そんなことでは<CD>わたしの心は つかめないよ,"...Hmph. Too naive. With that,<D3>you'll never capture my heart."
+055,0x3fddfc,ディテ-ルに こだわってね<CD>もっと こう...,Pay attention to the details.<D3>More like this...
+056,0x3fddfe,ちがうっ! これは わたしの<CD>もとめる うつくしさでは ないっ!!,Wrong! This is not the kind of<D3>beauty I'm looking for!!
+057,0x3fde00,メダロットは ほねぐみである<CD>ティンペットに 4つのパ-ツと<CF>1つのメダルを<CD>そうちゃくすれば かんせいする,"A Medarot is built around its frame.<D3>Equip the Tinpet with four parts<CF>and one medal,<D3>and it is complete."
+058,0x3fde3a,メダロットどうしを たたかわせる<CD>ロボトルは メダロットを<CF>租み立てる だんかいから<CD>はじまっていると 言っていい,"The Robattle between Medarots<D3>begins as early as the stage<CF>where the Medarots are assembled,<D3>you could say."
+059,0x3fde3c,さまざまなしゅるいの パ-ツや<CD>メダルの せいしつを知リ<CF>それを せいす者こそが<CD>しんのメダロッタ-<CF>「メダマスタ-」なのだ!<*02>,"Knowing the properties of various parts<D3>and medals, and mastering them<CF>is what makes a true Medarotter.<D3><CF>""Medamaster""!<*02>"
+060,0x3fde3e,ふぇ~~~!!<CD>まけちゃった~~<*02>,Feee~~~!!<D3>I lost~~<*02>
+061,0x3fde5a,<SFF>おみくじ町<CD>ぼくと ゆかいな なかまたちの町<*02>,<SFF>Fortune Town<D3>The town of me and my fun friends<*02>
+062,0x3fde5c,<SFF>しぜん公園1<CD>メダスピ-ドと メダロ-ドが できる<*02>,<SFF>Nature Park 1<D3>You can play Medaspeed and Medaroad<*02>
+063,0x3fde5e,<SFF>しぜん公園2<CD>キャンプ場が あるよ<*02>,<SFF>Nature Park 2<D3>There's a campground here<*02>
+064,0x3fde60,<SFF>シンラそうぞうむら<CD>子どもたちと メダロットの むら<*02>,<SFF>Shinra Creation Village<D3>A village of children and Medarots<*02>
+065,0x3fde62,<SFF>シンラしょうてんがい<CD>いろんな お店が ならんでる<*02>,<SFF>Shinra Shopping District<D3>All kinds of shops line the streets<*02>
+066,0x3fde64,<SFF>トラニシ学底<CD>何だか 近よリがたい ふんいき<*02>,"<SFF>Toranishi Academy<D3>Somehow, it feels unapproachable<*02>"
+067,0x3fde66,<SFF>メダロポリス1<CD>おなじみの メダロッタ-ズが ある<*02>,<SFF>Medaropolis 1<D3>The familiar Medarotters' club is here<*02>
+068,0x3fde68,<SFF>メダロポリス2<CD>えき前広場は カップルの 場所♥<*02>,<SFF>Medaropolis 2<D3>The station plaza is a place for couples♥<*02>
+069,0x3fde6a,<SFF>メダロポリス3<CD>お金持ちが かよう 花園学園が ある<*02>,"<SFF>Medaropolis 3<D3>Hanazono Academy, where the rich kids go, is here<*02>"
+070,0x3fde6c,<SFF>メダロポリス4<CD>メダロット社と 言えば ここ!<*02>,<SFF>Medaropolis 4<D3>This is where Medarot Company is!<*02>
+071,0x3fde6e,<SFF>おどろ山.左<CD>しぜんと きけんは となリあわせ!<*02>,<SFF>Odoro Mountain. Left<D3>Nature and danger go hand in hand!<*02>
+072,0x3fde70,<SFF>おどろ山.右<CD>メダロ-ドレ-ス場が できたんだ<*02>,<SFF>Odoro Mountain. Right<D3>The Medaroad race course is here now<*02>
+073,0x3fde72,<SFF>おどろ山.ちゅうおう<CD>つリばしの 下は だんがいぜっペき!<*02>,<SFF>Odoro Mountain. Center<D3>A sheer cliff lies beneath the suspension bridge!<*02>
+074,0x3fde74,<SFF>サザンカ町<CD>町の北には メダロット道場が ある<*02>,<SFF>Sazanka Town<D3>There's a Medarot Dojo north of town<*02>
+075,0x3fde76,<SFF>カメヤマ小学校<CD>リんたろうたちが かよう学校<*02>,<SFF>Kameyama Elementary School<D3>The school Rintaro and the others attend<*02>
+076,0x3fde78,<SFF>シノビックパ-ク<CD>ここの にんじゃたちって ほんもの?<*02>,<SFF>Shinobick Park<D3>Are the ninjas here really the real thing?<*02>
+077,0x3fde7a,<SFF>はっくつげんば<CD>ここで メダルが はっくつ される<*02>,<SFF>Excavation Site<D3>This is where medals are excavated<*02>
+078,0x3fde7c,<SFF>カラサワギオアシス<CD>ホテルと メダバ-ド場が ある<*02>,<SFF>Karasawagi Oasis<D3>There's a hotel and a Medabird course<*02>
+079,0x3fde7e,<SFF>ジャクナン小学校<CD>うつくしいものしか 入れない学校<*02>,<SFF>Jakunan Elementary School<D3>A school that only beautiful things may enter<*02>
+080,0x3fde80,<SFF>ウミネコかいがん<CD>「夏だ! 海だ!」と 言えば ここ!<*02>,"<SFF>Umineko Beach<D3>When you say ""Summer! The sea!"", this is the place!<*02>"
+081,0x3fde82,<SFF>リュウトウ町<CD>リュウトウ学園が そびえ立つ<*02>,<SFF>Ryutou Town<D3>Ryutou Academy towers above the town<*02>
+082,0x3fde84,<SFF>ぬかるみのどうくつ<CD>ジトジト ジトジト...<*02>,"<SFF>Mud Cave<D3>Drip, drip, drip...<*02>"
+083,0x3fde86,<SFF>しょうにゅうどう<CD>とがった 岩には 気をつけよう<*02>,<SFF>Limestone Cave<D3>Watch out for the sharp rocks<*02>
+084,0x3fde88,<SFF>さばく<CD>さばくは のどが かわくし あついね<*02>,<SFF>Desert<D3>The desert is hot and makes you thirsty<*02>
+085,0x3fde8a,<SFF>おんせんのどうくつ<CD>まだまだ つづくよ 山道は...<*02>,<SFF>Hot Spring Cave<D3>The mountain road keeps going and going...<*02>
+086,0x3fde8c,<SFF>?????<CD>まだいったことのない場所だ<*02>,<SFF>?????<D3>A place you haven't visited yet<*02>
+087,0x3fde8e,<FINAL>,
+088,0x3fdd70,@0x3fdd6e,@0x3fdd6e
+089,0x3fdd72,@0x3fdd6e,@0x3fdd6e
+090,0x3fdd74,@0x3fdd6e,@0x3fdd6e
+091,0x3fdd76,@0x3fdd6e,@0x3fdd6e
+092,0x3fdd78,@0x3fdd6e,@0x3fdd6e
+093,0x3fdd7a,@0x3fdd6e,@0x3fdd6e
+094,0x3fdd7c,@0x3fdd6e,@0x3fdd6e
+095,0x3fdd7e,@0x3fdd6e,@0x3fdd6e
+096,0x3fdd80,@0x3fdd6e,@0x3fdd6e
+097,0x3fdd82,@0x3fdd6e,@0x3fdd6e
+098,0x3fdd84,@0x3fdd6e,@0x3fdd6e
+099,0x3fdd86,@0x3fdd6e,@0x3fdd6e
+100,0x3fdd88,@0x3fdd6e,@0x3fdd6e
+101,0x3fdd8a,@0x3fdd6e,@0x3fdd6e
+102,0x3fdd8c,@0x3fdd6e,@0x3fdd6e
+103,0x3fdd8e,@0x3fdd6e,@0x3fdd6e
+104,0x3fdd90,@0x3fdd6e,@0x3fdd6e
+105,0x3fdd92,@0x3fdd6e,@0x3fdd6e
+106,0x3fdd94,@0x3fdd6e,@0x3fdd6e
+107,0x3fdd96,@0x3fdd6e,@0x3fdd6e
+108,0x3fdd98,@0x3fdd6e,@0x3fdd6e
+109,0x3fddce,@0x3fddcc,@0x3fddcc
+110,0x3fddd0,@0x3fddcc,@0x3fddcc
+111,0x3fddd2,@0x3fddcc,@0x3fddcc
+112,0x3fddd4,@0x3fddcc,@0x3fddcc
+113,0x3fddd6,@0x3fddcc,@0x3fddcc
+114,0x3fddd8,@0x3fddcc,@0x3fddcc
+115,0x3fde02,@0x3fde00,@0x3fde00
+116,0x3fde04,@0x3fde00,@0x3fde00
+117,0x3fde06,@0x3fde00,@0x3fde00
+118,0x3fde08,@0x3fde00,@0x3fde00
+119,0x3fde0a,@0x3fde00,@0x3fde00
+120,0x3fde0c,@0x3fde00,@0x3fde00
+121,0x3fde0e,@0x3fde00,@0x3fde00
+122,0x3fde10,@0x3fde00,@0x3fde00
+123,0x3fde12,@0x3fde00,@0x3fde00
+124,0x3fde14,@0x3fde00,@0x3fde00
+125,0x3fde16,@0x3fde00,@0x3fde00
+126,0x3fde18,@0x3fde00,@0x3fde00
+127,0x3fde1a,@0x3fde00,@0x3fde00
+128,0x3fde1c,@0x3fde00,@0x3fde00
+129,0x3fde1e,@0x3fde00,@0x3fde00
+130,0x3fde20,@0x3fde00,@0x3fde00
+131,0x3fde22,@0x3fde00,@0x3fde00
+132,0x3fde24,@0x3fde00,@0x3fde00
+133,0x3fde26,@0x3fde00,@0x3fde00
+134,0x3fde28,@0x3fde00,@0x3fde00
+135,0x3fde2a,@0x3fde00,@0x3fde00
+136,0x3fde2c,@0x3fde00,@0x3fde00
+137,0x3fde2e,@0x3fde00,@0x3fde00
+138,0x3fde30,@0x3fde00,@0x3fde00
+139,0x3fde32,@0x3fde00,@0x3fde00
+140,0x3fde34,@0x3fde00,@0x3fde00
+141,0x3fde36,@0x3fde00,@0x3fde00
+142,0x3fde38,@0x3fde00,@0x3fde00
+143,0x3fde40,@0x3fde3e,@0x3fde3e
+144,0x3fde42,@0x3fde3e,@0x3fde3e
+145,0x3fde44,@0x3fde3e,@0x3fde3e
+146,0x3fde46,@0x3fde3e,@0x3fde3e
+147,0x3fde48,@0x3fde3e,@0x3fde3e
+148,0x3fde4a,@0x3fde3e,@0x3fde3e
+149,0x3fde4c,@0x3fde3e,@0x3fde3e
+150,0x3fde4e,@0x3fde3e,@0x3fde3e
+151,0x3fde50,@0x3fde3e,@0x3fde3e
+152,0x3fde52,@0x3fde3e,@0x3fde3e
+153,0x3fde54,@0x3fde3e,@0x3fde3e
+154,0x3fde56,@0x3fde3e,@0x3fde3e
+155,0x3fde58,@0x3fde3e,@0x3fde3e
+156,0x3fde90,@0x3fde8e,@0x3fde8e
+157,0x3fde92,@0x3fde8e,@0x3fde8e
+158,0x3fde94,@0x3fde8e,@0x3fde8e
+159,0x3fde96,@0x3fde8e,@0x3fde8e
+160,0x3fde98,@0x3fde8e,@0x3fde8e
+161,0x3fde9a,@0x3fde8e,@0x3fde8e
+162,0x3fde9c,@0x3fde8e,@0x3fde8e
+163,0x3fde9e,@0x3fde8e,@0x3fde8e
+164,0x3fdea0,@0x3fde8e,@0x3fde8e
+165,0x3fdea2,@0x3fde8e,@0x3fde8e
+166,0x3fdea4,@0x3fde8e,@0x3fde8e
+167,0x3fdea6,@0x3fde8e,@0x3fde8e
+168,0x3fdea8,@0x3fde8e,@0x3fde8e
+169,0x3fdeaa,@0x3fde8e,@0x3fde8e
+170,0x3fdeac,@0x3fde8e,@0x3fde8e
+171,0x3fdeae,@0x3fde8e,@0x3fde8e
+172,0x3fdeb0,@0x3fde8e,@0x3fde8e
+173,0x3fdeb2,@0x3fde8e,@0x3fde8e
+174,0x3fdeb4,@0x3fde8e,@0x3fde8e
+175,0x3fdeb6,@0x3fde8e,@0x3fde8e
+176,0x3fdeb8,@0x3fde8e,@0x3fde8e
+177,0x3fdeba,@0x3fde8e,@0x3fde8e
+178,0x3fdebc,@0x3fde8e,@0x3fde8e
+179,0x3fdebe,@0x3fde8e,@0x3fde8e
+180,0x3fdec0,@0x3fde8e,@0x3fde8e
+181,0x3fdec2,@0x3fde8e,@0x3fde8e
+182,0x3fdec4,@0x3fde8e,@0x3fde8e
+183,0x3fdec6,@0x3fde8e,@0x3fde8e
+184,0x3fdec8,@0x3fde8e,@0x3fde8e
+185,0x3fdeca,@0x3fde8e,@0x3fde8e
+186,0x3fdecc,@0x3fde8e,@0x3fde8e
+187,0x3fdece,@0x3fde8e,@0x3fde8e
+188,0x3fded0,@0x3fde8e,@0x3fde8e
+189,0x3fded2,@0x3fde8e,@0x3fde8e
+190,0x3fded4,@0x3fde8e,@0x3fde8e
+191,0x3fded6,@0x3fde8e,@0x3fde8e
+192,0x3fded8,@0x3fde8e,@0x3fde8e
+193,0x3fdeda,@0x3fde8e,@0x3fde8e
+194,0x3fdedc,@0x3fde8e,@0x3fde8e
+195,0x3fdede,@0x3fde8e,@0x3fde8e
+196,0x3fdee0,@0x3fde8e,@0x3fde8e
+197,0x3fdee2,@0x3fde8e,@0x3fde8e
+198,0x3fdee4,@0x3fde8e,@0x3fde8e
+199,0x3fdee6,@0x3fde8e,@0x3fde8e
+200,0x3fdee8,@0x3fde8e,@0x3fde8e
+201,0x3fdeea,@0x3fde8e,@0x3fde8e
+202,0x3fdeec,@0x3fde8e,@0x3fde8e
+203,0x3fdeee,@0x3fde8e,@0x3fde8e
+204,0x3fdef0,@0x3fde8e,@0x3fde8e
+205,0x3fdef2,@0x3fde8e,@0x3fde8e
+206,0x3fdef4,@0x3fde8e,@0x3fde8e
+207,0x3fdef6,@0x3fde8e,@0x3fde8e
+208,0x3fdef8,@0x3fde8e,@0x3fde8e
+209,0x3fdefa,@0x3fde8e,@0x3fde8e
+210,0x3fdefc,@0x3fde8e,@0x3fde8e
+211,0x3fdefe,@0x3fde8e,@0x3fde8e
+212,0x3fdf00,@0x3fde8e,@0x3fde8e
+213,0x3fdf02,@0x3fde8e,@0x3fde8e
+214,0x3fdf04,@0x3fde8e,@0x3fde8e
+215,0x3fdf06,@0x3fde8e,@0x3fde8e
+216,0x3fdf08,@0x3fde8e,@0x3fde8e
+217,0x3fdf0a,@0x3fde8e,@0x3fde8e
+218,0x3fdf0c,@0x3fde8e,@0x3fde8e
+219,0x3fdf0e,@0x3fde8e,@0x3fde8e
+220,0x3fdf10,@0x3fde8e,@0x3fde8e
+221,0x3fdf12,@0x3fde8e,@0x3fde8e
+222,0x3fdf14,@0x3fde8e,@0x3fde8e
+223,0x3fdf16,@0x3fde8e,@0x3fde8e
+224,0x3fdf18,@0x3fde8e,@0x3fde8e
+225,0x3fdf1a,@0x3fde8e,@0x3fde8e
+226,0x3fdf1c,@0x3fde8e,@0x3fde8e
+227,0x3fdf1e,@0x3fde8e,@0x3fde8e
+228,0x3fdf20,@0x3fde8e,@0x3fde8e
+229,0x3fdf22,@0x3fde8e,@0x3fde8e
+230,0x3fdf24,@0x3fde8e,@0x3fde8e
+231,0x3fdf26,@0x3fde8e,@0x3fde8e
+232,0x3fdf28,@0x3fde8e,@0x3fde8e
+233,0x3fdf2a,@0x3fde8e,@0x3fde8e
+234,0x3fdf2c,@0x3fde8e,@0x3fde8e
+235,0x3fdf2e,@0x3fde8e,@0x3fde8e
+236,0x3fdf30,@0x3fde8e,@0x3fde8e
+237,0x3fdf32,@0x3fde8e,@0x3fde8e
+238,0x3fdf34,@0x3fde8e,@0x3fde8e
+239,0x3fdf36,@0x3fde8e,@0x3fde8e
+240,0x3fdf38,@0x3fde8e,@0x3fde8e
+241,0x3fdf3a,@0x3fde8e,@0x3fde8e
+242,0x3fdf3c,@0x3fde8e,@0x3fde8e
+243,0x3fdf3e,@0x3fde8e,@0x3fde8e
+244,0x3fdf40,@0x3fde8e,@0x3fde8e
+245,0x3fdf42,@0x3fde8e,@0x3fde8e
+246,0x3fdf44,@0x3fde8e,@0x3fde8e
+247,0x3fdf46,@0x3fde8e,@0x3fde8e
+248,0x3fdf48,@0x3fde8e,@0x3fde8e
+249,0x3fdf4a,@0x3fde8e,@0x3fde8e
+250,0x3fdf4c,@0x3fde8e,@0x3fde8e
+251,0x3fdf4e,@0x3fde8e,@0x3fde8e
+252,0x3fdf50,@0x3fde8e,@0x3fde8e
+253,0x3fdf52,@0x3fde8e,@0x3fde8e
+254,0x3fdf54,@0x3fde8e,@0x3fde8e
+255,0x3fdf56,@0x3fde8e,@0x3fde8e

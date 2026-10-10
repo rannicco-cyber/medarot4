@@ -1,33 +1,33 @@
 ﻿Index[#version],Pointer[#version|],Original,Translated
-000,0x3de8a1,これまでの ロボトルの けっかを<CD>どう 思う?<CF><&BUF13>,
-001,0x3de8a3,ロ-テ-ションに 租みこんでる<CD>ランダムの はいちって どう思う?<CF><&BUF13>,
-002,0x3de8a5,ロ-テ-ションの せっていと<CD>パ-ツって 合ってると 思う?<CF><&BUF13>,
-003,0x3de8a7,ロ-テ-ションで すベてのパ-ツを<CD>使うように してたっけ?<CF><&BUF13>,
-004,0x3de8a9,ロ-テ-ションポイントは<CD>ちゃんと せっていされてる?<CF><&BUF13>,
-005,0x3de8ab,お前の ふんいきに 合わせた<CD>ティンペットに したんだけど?<CF><&BUF13>,
-006,0x3de8ad,お前の 使いたい パ-ツが<CD>ちゃんと 租みこまれてる?<CF><&BUF13>,
-007,0x3de8af,お前が 今 そうびしてる<CD>パ-ツって 気に入ってる?<CF><&BUF13>,
-008,0x3de8b1,パ-ツの あいしょうを<CD>考えた つもリなんだけど?<CF><&BUF13>,
-009,0x3de8b3,<&BUF14>の じゅくれんどが<CD>高いんだけど 気にいってる?<CF><&BUF13>,
-010,0x3de8b5,じゅくれんどに 合わせた<CD>パ-ツ選びが ちゃんとできてる?<CF><&BUF13>,
-011,0x3de8b7,今 つけている メダリアは<CD>やくに たっているのかな?<CF><&BUF13>,
-012,0x3de8b9,ぼくが つけた 名前は<CD>気にいってくれてる?<CF><&BUF13>,
-013,0x3de8bb,そうだ! メダフォ-スって<CD>使えるようになってたっけ?<CF><&BUF13>,
-014,0x3de8bd,お前の 友だちとは<CD>うまく いっているかい?<CF><&BUF13>,
-015,0x3de8bf,今って 気に入った パ-ツが<CD>使える じょうたいなの?<CF><&BUF13>,
-016,0x3de8c1,ぼくの こと すきかな?<CD><CF><&BUF13>,
-017,0x3de8c3,前の マスタ-のこと<CD>すきだったかな?<CF><&BUF13>,
-018,0x3de8c5,じゅんせいパ-ツで 租みあげたら<CD>つよいと 思うんだけど?<CF><&BUF13>,
-019,0x3de8c7,今の そうこうだったら あんしんして<CD>ロボトルに さんかできる?<CF><&BUF13>,
-020,0x3de8c9,お前が そうびしてる パ-ツの<CD>のうリょくは つよいと 思う?<CF><&BUF13>,
-021,0x3de8cb,どっちかと いえば お前のロボトルは<CD>「スピ-ドじゅうし」かな?<CF><&BUF13>,
-022,0x3de8cd,ここのマップの せんとうフィ-ルドと<CD>脚部パ-ツの あいしょうは どう?<CF><&BUF13>,
-023,0x3de8cf,この 脚部パ-ツの のうリょくって<CD>どうかな?<CF><&BUF13>,
-024,0x3de8d1,この 脚部パ-ツを つけてたら<CD>行動が せいこう しやすいかな?<CF><&BUF13>,
-025,0x3de8d3,今の パ-ツの 租み合わせって<CD>かっこいいと 思う?<CF><&BUF13>,
-026,0x3de8d5,ぼくも だいぶ せいちょうしたよね?<CD><CF><&BUF13>,
-027,0x3de8d7,お前らは い-よな- 学校も<CD>しゅくだいも ないんだからさ-<CF><&BUF13>,
-028,0x3de8d9,ちょうしは どう?<CD><CF><&BUF13>,
-029,0x3de8db,これから どうしようか?<CD><CF><&BUF13>,
-030,0x3de8dd,きのう 変なゆめ 貝たんだけど<CD>お前は どんなゆめを 貝たの?<CF><&BUF13>,
-031,0x3de8df,ぼくに 言いたいこととか ない?<CD><CF><&BUF13>,
+000,0x3de8a1,これまでの ロボトルの けっかを<CD>どう 思う?<CF><&BUF13>,Mitä mieltä olet<D3>tähänastisista robotteluista?<D3><&BUF13>
+001,0x3de8a3,ロ-テ-ションに 租みこんでる<CD>ランダムの はいちって どう思う?<CF><&BUF13>,Mitä mieltä olet rotaation<D3>satunnaisesta sijoittelusta?<D3><&BUF13>
+002,0x3de8a5,ロ-テ-ションの せっていと<CD>パ-ツって 合ってると 思う?<CF><&BUF13>,Sopivatko rotaation<D3>asetukset ja osat yhteen?<D3><&BUF13>
+003,0x3de8a7,ロ-テ-ションで すベてのパ-ツを<CD>使うように してたっけ?<CF><&BUF13>,Käytinkö rotaatiossa<D3>kaikkia osia?<D3><&BUF13>
+004,0x3de8a9,ロ-テ-ションポイントは<CD>ちゃんと せっていされてる?<CF><&BUF13>,Onko rotaatiopisteet<D3>asetettu kunnolla?<D3><&BUF13>
+005,0x3de8ab,お前の ふんいきに 合わせた<CD>ティンペットに したんだけど?<CF><&BUF13>,"Valitsin tinpetin, joka sopii<D3>tunnelmaasi. Mitä tykkäät?<D3><&BUF13>"
+006,0x3de8ad,お前の 使いたい パ-ツが<CD>ちゃんと 租みこまれてる?<CF><&BUF13>,Onko haluamasi osat<D3>mukana kokoonpanossa?<D3><&BUF13>
+007,0x3de8af,お前が 今 そうびしてる<CD>パ-ツって 気に入ってる?<CF><&BUF13>,"Pidätkö osista, jotka<D3>sinulla on nyt varusteena?<D3><&BUF13>"
+008,0x3de8b1,パ-ツの あいしょうを<CD>考えた つもリなんだけど?<CF><&BUF13>,Mietin osien sopivuutta.<D3>Onnistuinko?<D3><&BUF13>
+009,0x3de8b3,<&BUF14>の じゅくれんどが<CD>高いんだけど 気にいってる?<CF><&BUF13>,Taitotasosi <&BUF14><#w40> on<D3>korkea. Pidätkö siitä?<D3><&BUF13>
+010,0x3de8b5,じゅくれんどに 合わせた<CD>パ-ツ選びが ちゃんとできてる?<CF><&BUF13>,Olenko valinnut osat<D3>taitotasojen mukaan?<D3><&BUF13>
+011,0x3de8b7,今 つけている メダリアは<CD>やくに たっているのかな?<CF><&BUF13>,Onko nykyisestä<D3>Medaliasta hyötyä?<D3><&BUF13>
+012,0x3de8b9,ぼくが つけた 名前は<CD>気にいってくれてる?<CF><&BUF13>,"Pidätkö nimestä,<D3>jonka annoin sinulle?<D3><&BUF13>"
+013,0x3de8bb,そうだ! メダフォ-スって<CD>使えるようになってたっけ?<CF><&BUF13>,Ai niin! Osaatko jo<D3>käyttää Medavoimaa?<D3><&BUF13>
+014,0x3de8bd,お前の 友だちとは<CD>うまく いっているかい?<CF><&BUF13>,Tuletko toimeen<D3>kavereidesi kanssa?<D3><&BUF13>
+015,0x3de8bf,今って 気に入った パ-ツが<CD>使える じょうたいなの?<CF><&BUF13>,Voitko nyt käyttää<D3>lempiosiasi?<D3><&BUF13>
+016,0x3de8c1,ぼくの こと すきかな?<CD><CF><&BUF13>,Tykkäätkö minusta?<D3><D3><&BUF13>
+017,0x3de8c3,前の マスタ-のこと<CD>すきだったかな?<CF><&BUF13>,Pidit kai edellisestä<D3>mestaristasi?<D3><&BUF13>
+018,0x3de8c5,じゅんせいパ-ツで 租みあげたら<CD>つよいと 思うんだけど?<CF><&BUF13>,Eikö sarjan osista koottu<D3>olisi vahva?<D3><&BUF13>
+019,0x3de8c7,今の そうこうだったら あんしんして<CD>ロボトルに さんかできる?<CF><&BUF13>,Uskallatko robotella<D3>nykyisellä panssarilla?<D3><&BUF13>
+020,0x3de8c9,お前が そうびしてる パ-ツの<CD>のうリょくは つよいと 思う?<CF><&BUF13>,Ovatko varusteosiesi<D3>kyvyt mielestäsi vahvat?<D3><&BUF13>
+021,0x3de8cb,どっちかと いえば お前のロボトルは<CD>「スピ-ドじゅうし」かな?<CF><&BUF13>,"Onko robottelusi<D3>lähinnä ""nopeus edellä""?<D3><&BUF13>"
+022,0x3de8cd,ここのマップの せんとうフィ-ルドと<CD>脚部パ-ツの あいしょうは どう?<CF><&BUF13>,Miten tämän kartan kenttä<D3>sopii jalkaosillesi?<D3><&BUF13>
+023,0x3de8cf,この 脚部パ-ツの のうリょくって<CD>どうかな?<CF><&BUF13>,Mitä mieltä olet tämän<D3>jalkaosan kyvyistä?<D3><&BUF13>
+024,0x3de8d1,この 脚部パ-ツを つけてたら<CD>行動が せいこう しやすいかな?<CF><&BUF13>,Onnistuvatko toiminnot<D3>helpommin tällä jalkaosalla?<D3><&BUF13>
+025,0x3de8d3,今の パ-ツの 租み合わせって<CD>かっこいいと 思う?<CF><&BUF13>,Onko nykyinen osayhdistelmä<D3>siisti?<D3><&BUF13>
+026,0x3de8d5,ぼくも だいぶ せいちょうしたよね?<CD><CF><&BUF13>,"Olen kasvanut aika<D3>paljon, eikö?<D3><&BUF13>"
+027,0x3de8d7,お前らは い-よな- 学校も<CD>しゅくだいも ないんだからさ-<CF><&BUF13>,"Teillä on helppoa, kun ei<D3>ole koulua eikä läksyjä<D3><&BUF13>"
+028,0x3de8d9,ちょうしは どう?<CD><CF><&BUF13>,Miten menee?<D3><D3><&BUF13>
+029,0x3de8db,これから どうしようか?<CD><CF><&BUF13>,Mitä tehtäisiin seuraavaksi?<D3><D3><&BUF13>
+030,0x3de8dd,きのう 変なゆめ 貝たんだけど<CD>お前は どんなゆめを 貝たの?<CF><&BUF13>,Näin eilen outoa unta.<D3>Millaista unta sinä näit?<D3><&BUF13>
+031,0x3de8df,ぼくに 言いたいこととか ない?<CD><CF><&BUF13>,Onko sinulla jotain<D3>sanottavaa minulle?<D3><&BUF13>

@@ -1,0 +1,842 @@
+@000
+Moro! Tällä kertaa...
+Riittää jo. Et oikeasti aio myydä mitään, ethän?
+M-mitä, aion kyllä! Todisteeksi myyn tämän!
+Tämä... Miksi piilotat sen selkäsi taakse?
+No, saat tämän 2000¥ hintaan!
+En maksa noin paljon jostain tuntemattomasta.
+Ostat sen! Hyvä! Myyty!
+2000¥ hävisi.
+H-hei! Älä päätä omin päin!!
+Vitsi, vitsi.
+Mutta sinä olet ensimmäinen, joka jaksoi juttujani näin pitkään.
+Ota tämä sen sijaan!
+@001
+Vau! Kiitos!!!
+@002
+Moro, poika! Tavarat\non myyty loppuun!
+@003
+Ottaisitko "Shinra-manjuun"?
+Miten se eroaa tavallisesta manjuusta?
+Yhdellä haukulla näet kaiken olevaisen.
+Hmm. Onko se hyvää?
+Haluatko maistaa?
+Joo!!!!!!
+Mums mums...
+@004
+................
+@005
+"Paikallisherkut eivät\nkoskaan ole hyviä", vai.
+@006
+Atsiih!
+Uuh... Koska olen koko ajan puun vieressä,
+sain siitepölyallergian...
+@007
+Hmm... Liikaa vaihtoehtoja,\nen osaa päättää.
+@008
+Näin monen kaupan katselukin väsyttää.
+Joten pidän taukoa.
+@009
+Avaimenperä matkamuistoksi?
+@010
+Tervetuloa! Tervetuloo!!
+Tervetuloa!!! Tervetuloaaa!!!!
+...Köh! Köh!
+Huudat liikaa...
+@011
+Tästä eteenpäin on\nToranishi-akatemia.
+@012
+Hmm, tämäkin avaimenperä\non aika söpö.
+@013
+Mitä sinä täällä teet, Arika!
+@014
+Ah! {BUF03}!
+@015
+Katso, katso tätä avaimenperää! Söpö, eikö~♥
+Hee, delfiini.
+Mitä? Et kai sano, ettei se sovi minulle?
+En sano. Hei, annan sen sinulle lahjaksi.
+Häh?
+Sainhan taskurahaa, jotta ostaisin Arikalle lahjan.
+Niin, mutta... onko se ok?
+On, on. Se on pieni ele.
+@016
+Tämä, kiitos~
+Se tekee 200¥.
+@017
+Tässä. Otatko sen vastaan?
+K-kiitos... Pidän siitä hyvää huolta.
+@018
+T-tuota, niin! Tiedot, tiedot!
+Häh? Löysitkö jo jotain?
+Tietysti! Lupasinhan
+tukea sinua keräämällä tietoa♪
+@019
+Ostin tämän avaimenperän♪ Katso, söpö, eikö~♥
+Arika...
+Mitä~ Kerään minä kyllä tietoakin.
+@020
+Tämä kylä on täysin neljän kuninkaan "Byakkon Hakuman"
+vallassa!
+Kokuen hallitsi kaikkia väkisin voimalla,
+mutta Hakuman kohdalla se on erilaista.
+Kukaan ei puhu Hakumasta pahaa.
+Häntä kunnioitetaan kuin jumalaa.
+Vähän pelottavaa...
+Entä sinä? Saitko jotain selville?
+No, en oikeastaan...
+@021
+Mitä!? Jotain tapahtui?
+@022
+M-myönnän tappioni...
+No niin! Tulkaa vain!
+Mitä sinä teet, Kouji?
+@023
+Oh! {BUF03}.
+Nämä tyypit ovat niin surkeita, että
+opetan heille sisua!
+Etkö sinä... unohtanut alkuperäistä tavoitetta?
+@024
+Häh? Oletteko te "Shinran metsän" oppilaita?
+Eikö tänne ole pääsy kielletty?
+@025
+Se johtuu siitä, että olemme Libertiesistä~
+(Ai, äskeisen Kinokon tovereita.)
+@026
+Onko tuo Libertiesin taso? Minä treenaan teidät!
+Kouji...
+@027
+Hm? Ai, sori, sori.
+@028
+Ai niin, tiedättekö te,
+missä johtajanne on?
+@029
+Johtaja... niin.
+@030
+Niinpä...
+Mitä!? Sano suoraan!
+@031
+Meidän suustamme
+@032
+sitä ei kuulla!
+@033
+Mitä! Odottakaa!
+@034
+Koujiii! Tule takaisin!
+@035
+Ne pääsivät karkuun.
+@036
+Tilaisuuksia tulee vielä. Sillä siellä, minne olemme menossa,
+on neljä kuningasta.
+@037
+Tätä tietä vasemmalle on Toranishin kaupunki,
+...mutta palataan kerran Omikujiin.
+Jos emme valmistaudu, emme pysty toimimaan hädän hetkellä.
+Mutta... Karin on nyt ihan yksin...
+...Palataan.
+@038
+Kouji?
+@039
+Harvinaista, että Kouji...
+Karinin pelastamiseksi on parempi palata
+ja levätä!
+@040
+Mietitkö yhä Kameyaman\nala-asteen juttua...
+@041
+Hmph!
+Et ole kovin rehellinen.
+@042
+Palataan siis kerran takaisin!
+@043
+No niin, tänäänkin treenataan!
+@044
+Voi ei! Halusin lähteä\nheti tuntien jälkeen!
+@045
+Mitä, Amazake?
+Ei mitään~
+@046
+Aloitetaan. Tänään on kaksijalkarobottelu.
+Kaikki vaihtavat kumppaninsa kaksijalkaiseksi Medabotiksi.
+@047
+Häh!? Mutta "Medabotit eivät ole vain robottelua"...
+"Medabotit eivät ole vain robottelua" tarkoittaa, että
+robottelun pitää sujua joka tapauksessa. Jos sen unohtaa
+muiden lajien takia, se on väärin päin.
+Ymmärrän!
+@048
+{BUF03}... sinä kyllä...
+Tenryou ja Amazake,
+tulkaa eteen robottelemaan.
+Joo joo.
+@049
+Tsemppiä, Tenryou!
+@050
+Mitä nyt? Tule eteen äkkiä.
+@051
+Amazake, sisua! Sisua!
+@052
+Treeniä joka päivä...\nKroppa ei kestä.
+@053
+Hoidetaan tämä äkkiä ja mennään Toranishiin!
+..Mutta en armahda!
+@054
+Jos livahtaa luvatta,\ntulee tietysti moitteita.
+@055
+Jos livahdan luvatta,\nopettaja Ryuuko suuttuu.
+@056
+Pitää robotella äkkiä.
+@057
+Mennään sisälle!
+...Kun mietin, ei sisällä ole mitään tekemistä.
+@058
+Hmm, haluaisin oikeastaan\nheti Toranishi-akatemiaan.
+@059
+Hoidetaan robottelu\nensin äkkiä.
+@060
+Tästä tulee, {BUF03}!
+@061
+Ah! Kumppanini ei ole\nkaksijalkainen Medabotti!
+@062
+Voitin!
+Hitsi! Minulla oli vain huono päivä!
+@063
+Fufu, olet sentään kehittynyt vähän.
+Saat tämän, joten yritä vielä kovemmin.
+@064
+Jee! No niin, yritän kovasti!
+{BUF03}... sinä kyllä...
+@065
+Hei~ {BUF03} ja muut
+joutuivat yhteen Medabottiin ja mitalit
+nollatasolle, joten olin huoleton~
+mutta eivätkö he ole taas vahvistuneet~?
+Ärsyttävää.
+Mitaleja ja osia on tullut lisää.
+Joten mietin tässä~
+että jos haluamme voittaa heidät, pitää ehtiä
+heidän edelleen. Jos kaadamme ensin ne viholliset,
+jotka he aikovat kaataa,
+meistä tulee vahvempia ensin, eikö~?
+Siinä pomo! Loistoidea!
+Eikö~?
+Pystymmekö kaatamaan ne? Yleensä käy niin, että...
+(Hölmö! Älä puhu turhia!)
+@066
+Älä puhu pahoja enteitä!
+@067
+A-auts...
+@068
+(Hups...)
+Joka tapauksessa! Mennään! Iwanoi, mikä on
+heidän seuraava kohteensa?
+@069
+K-kyllä. He etsivät Hanazonon idolia Karinia
+ja samalla nujertavat viime aikoina
+eri puolilla riehuneita neljää kuningasta.
+Pohjoisen kuninkaan he jo kaatoivat, joten seuraavaksi...
+@070
+Seuraavaksi\nToranishi-akatemia!
+@071
+Ryuukon treenikin on ohi, joten vihdoin lähdetään!
+Joo! Haetaan Kouji ja mennään! Tällä kertaa
+löydämme Karinin!
+Kun on kyse Karinista, sinä ja Kouji olette
+ihan tosissanne.
+Tulisitteko yhtä tosissanne pelastamaan
+minut, jos minut siepattaisiin~?
+@072
+Sinä pääsisit kai nopeammin pakoon itse?
+Hmph!
+@073
+Auts! Auts! Autsautsauts!
+@074
+...Kuulemma läntinen Toranishi-akatemia.
+Säästyit, Iwanoi. Jos olisit mennyt pieleen,
+mitähän olisi tapahtunut~?
+(Väristys...)
+No, määränpää on selvä, joten mennään äkkiä~!
+@075
+Tämän läpi pääsee Toranishiin!
+Odota, Karin! Tulen nyt!
+@076
+Miksi kaikki jättävät\nminut jälkeen...?
+@077
+Akatemiaan pääsevät\nvain sen oppilaat.
+@078
+Hmm, hankalaa...
+@079
+Löysitkö keinon päästä sisään?
+En vielä yhtään.
+@080
+Entä sinä, {BUF03}?
+@081
+Tulin juuri...
+@082
+Etsitään jokin keino! Jaetaan etsiminen, ja kun jotain
+selviää, kokoonnutaan tänne uudestaan!
+@083
+Selvä, jätä minulle! Tästä\nei voi perääntyä!
+@084
+Ah, he lähtivät...
+@085
+...Mutta mistä ja miten\npitäisi etsiä...
+@086
+......Huh.
+Herra Hakuma, sopiiko?
+Byakuya... Sopii.
+@087
+Seuraavasta luennosta: laadin käsikirjoituksen,
+joten tarkistaisitteko sen, olkaa hyvä.
+Joo, jätätkö sen tuohon?
+...Kyllä.
+@088
+Poistun sitten.
+@089
+(Aina joku tulee luokseni,
+ja kun menen ulos, joku tulee aina
+henkivartijakseni...)
+@090
+(Vain vähäksi aikaa,\nvain hetkeksi...)
+@091
+Herra Hakuma.
+@092
+Siitä äskeisestä\nkäsikirjoituksesta...
+@093
+...Kas?
+@094
+Herra Hakuma?\nHerra Hakuma!?
+@095
+No, kun he ovat näin pitkällä, ei olisi hauskaa,
+jos he välttelisivät kuninkaan kohtaamista. Mitäs tehdään?
+@096
+Onko tuo...?
+Miksi hän on täällä yksin?
+...Hauskaa tiedossa.
+@097
+Mitä...?
+Tunnet varmaan nimen? Olemme Liberties!
+Ulkona yksin, ilman henkivartijoita!
+...Mitä haluatte minusta?
+Selvähän se! Kaadamme sinut ja saamme vapauden!
+......
+@098
+Voi ei! Tuo poika on vaarassa!
+@099
+Mitä? Sinä! Älä sekaannu!
+Näytät ulkopuoliselta, mutta oletko sinäkin Hakuman väkeä!
+Älä puhu sekavia!
+Kaksi yhden kimppuun,
+sehän on alhaista!
+Ei kuulu sinulle! Pois tieltä!
+En väisty!
+Sitten hoitelemme sinutkin!
+@100
+Muista tämä!
+@101
+Oletko kunnossa? Satuitko itseäsi?
+K... kiitos.
+Nimeni on {BUF03}.
+Tenryou {BUF03}. Entä sinä?
+Minä... tuota...
+@102
+Ei se mitään. Jos et halua\nsanoa, en kysy väkisin.
+@103
+Tulin juuri tänne, enkä tiedä täältä mitään.
+Jos sopii, ryhtyisitkö ystäväkseni? Kun on ystävä,
+vieraassakin paikassa tuntee olonsa turvallisemmaksi...
+Häh, ystäväksi? Minunko?
+Joo... Etkö halua?
+.........
+@104
+T-tunkeilija! Pysy\nkaukana hänestä!
+@105
+Ei, Byakuya. Hän pelasti minut.
+Ei. Tällaiseen ulkopuoliseen
+ei saa luottaa helposti!
+@106
+Jos tulet vielä hänen\nlähelleen, en armahda!
+@107
+? Mitähän tuo oli?
+@108
+(Yllytin vähän lähellä olleita
+Libertiesin tyyppejä,
+ja show oli odotettua hauskempi.
+Saada Hakuma sanomaan sana "ystävä"...
+Kiinnostava tyyppi.)
+@109
+Taitavat molemmat palata\npian?
+@110
+Täältä lähteminen ei auta.
+@111
+.................
+@112
+Vain Toranishi-akatemian\noppilaat pääsevät sisään.
+@115
+Myöhässä! Sinä olit\ntaas viimeinen.
+@116
+Hankin Toranishi-akatemian oppilaalta univormun!
+...tosirobottelulla!
+@117
+Hienoa!
+Mutta niitä on vain yksi.
+Häh? Vain yksi?
+Entä sinä, Arika? Saitko jotain selville?
+Keräsin hyödyllistä tietoa!
+Toranishi-akatemian rehtorina on muinoin toiminut
+Shirakaben suku. Neljän kuninkaan
+"Byakkon Hakuma" on rehtorin lapsenlapsi.
+Mutta nyt akatemia on kokonaan
+Hakuman hallussa. Hakumaa alettiin kutsua
+kuninkaaksi vasta aika hiljattain.
+Opettaja Tamawo sanoi, että Kokuen oli siirto-oppilas.
+Kaikki neljä kuningasta ilmestyivät samoihin aikoihin.
+Taustalla on taatusti joku juonittelija.
+Juonittelija...
+@118
+Entä sinä, {BUF03}?\nSaitko jotain selville?
+@119
+Tuota, minä...
+Ah! Sain ystävän!
+...Häh? Mitä sanoit?
+Siis ystävän...
+Häääh? Mitääää??
+.................. ..........Anteeksi.
+En odottanutkaan paljon.
+Kouji, näytä univormu.
+Hm? Joo.
+@120
+Tämä on poikien\nunivormu, tietysti.
+@121
+Niitä on vain yksi, joten {BUF03},
+pue se ja soluttaudu tutkimaan paikkaa.
+Häh? Minäkö?
+Tietysti! Vain sinä et tehnyt mitään!
+En minä nyt...
+Luotan sinuun, {BUF03}!
+@122
+...Ah! Kun pääset sisään, hanki samalla
+univormut minulle ja Arikalle! En halua enää
+herättää huomiota.
+...Selvä. Käyn vaihtamassa vaatteet.
+@123
+Sopiiko se minulle?
+Mene nyt vain äkkiä.
+........
+@125
+Hienoa!
+@126
+Mutta niitä on vain yksi.
+Häh? Vain yksi?
+Entä sinä, Arika? Saitko jotain selville?
+Keräsin hyödyllistä tietoa!
+Toranishi-akatemian rehtorina on muinoin toiminut
+Shirakaben suku. Neljän kuninkaan
+"Byakkon Hakuma" on rehtorin lapsenlapsi.
+Mutta nyt akatemia on kokonaan
+Hakuman hallussa. Hakumaa alettiin kutsua
+kuninkaaksi vasta aika hiljattain.
+Opettaja Tamawo sanoi, että Kokuen oli siirto-oppilas.
+Kaikki neljä kuningasta ilmestyivät samoihin aikoihin.
+Taustalla on taatusti joku juonittelija.
+Juonittelija...
+@132
+Sopiiko se minulle?
+Mene nyt vain äkkiä.
+........
+@133
+En voi vielä lähteä\nakatemiasta.
+@134
+Tämä on Toranishin kaupunki.
+Tai oikeastaan lähes pelkkää Toranishi-akatemiaa.
+@138
+Mitä sinä teet! Mene jo!
+@139
+Tämän perällä on arestihuone.
+Arestihuone? ...Outo koulu.
+@140
+Libertiesin lisäksi epäilyttäviä tyyppejä riittää.
+Vartiointia on tehostettava.
+@141
+Olisi kauheaa, jos herra\nHakumalle sattuisi jotain.
+@142
+Mitähän tuo on? Kiinnostaa.\nSeurataan.
+@143
+Häh? Lukossa...
+@144
+....Häh?
+Lukossa, en pääse sisään.
+@145
+Onko kaikki kunnossa?
+Ai, kyllä. Riehuneet vangit ovat vihdoin
+rauhoittuneet.
+Hyvä. Vahdi tarkkaan.
+Kyllä!
+@146
+Vieläkö asiaa?
+@147
+Häh? Ai, tuota... Viime aikoina on paljon
+epäilyttäviä tyyppejä, joten minua pyydettiin partioimaan.
+Vai niin.
+Selvä. Tule perässä.
+@148
+Vankeja...
+Ehkä löydän vihjeen Karinista.
+Mennään!
+@149
+Jos en seuraa nyt, minua\nepäillään varmasti.
+@150
+Kerätään vielä vähän\ntietoa täältä.
+@155
+Tänäänkään ei mitään\npoikkeavaa!
+@156
+Täällä on nyt Libertiesin jäseniä ja hiljattain
+kiinni otettu epäilyttävä kolmikko.
+Epäilyttävä kolmikko?
+? Tiedätkö jotain?
+@157
+E-en...
+@158
+Minä olen tässä, joten\nkierrä sinä.
+@159
+...Hei, se oli täpärällä.\nVähän vain puuttui...
+@160
+...Häh?
+(Nämä ovat niitä, jotka äsken hyökkäsivät pojan kimppuun ulkona!
+...Eli ovatko nämä Libertiesin jäseniä?)
+Sellaista tilaisuutta ei tule usein.
+Niinpä. Jos se olisi onnistunut, olisimme nyt sankareita.
+Mutta se tyyppi sekaantui!
+......Hm?
+@161
+Mitä?
+Oliko tässä joku äsken?
+@162
+Kuvittelit vain.
+(Täpärällä. Jos minut nyt paljastettaisiin,
+jäisin itsekin vangiksi.)
+(...Mutta miksi Liberties
+hyökkäsi sen pojan kimppuun? Hmm...?)
+@163
+Huoh, tulisipa joku\npelastamaan...
+@164
+Tuota... "Lähdetäänkö\nkahville?"
+@165
+Oletko toveri?
+@166
+Shh! Puhu hiljaa, muuten kuulevat.
+Ai, anteeksi.
+Miksi jäit kiinni?
+Tulin johtajan perässä.
+Libertiesin johtajanko?
+Niin. Johtaja ryntäsi pois sanoen "pelastan
+Toranishi-akatemiaan vangitut jäsenet".
+Johtaja ryntää joskus yksin.
+Olin huolissani ja tulin perässä, mutta...
+jäinkin itse kiinni.
+Johtaja ei siis vielä ole jäänyt kiinni?
+Luultavasti ei, mutta en tiedä, missä hän on nyt.
+Johtaja on naamioitumisen mestari, joten hän voi olla
+Toranishin oppilaiden joukossa.
+Vai niin...
+Selvä, etsin häntä.
+Pelastan sinutkin myöhemmin.
+Kiitos... Arvostan ajatusta.
+@167
+Jos puhumme liikaa, meitä epäillään. Mene äkkiä!
+Joo, nähdään.
+@168
+Ah! Odota!
+Mitä?
+Käytä tätä!
+@169
+Häh! Saanko!?
+Saat. Mutta luotan sinuun johtajan suhteen!
+Selvä, jätä se minulle!
+@170
+Johtaja... Pysy turvassa!
+@171
+Tuota... "Lähdetäänkö\nkahville?"
+@172
+Oletko toveri? ...Onneksi.
+Anteeksi, mutta en voi pelastaa sinua nyt...
+Mutta pelastat myöhemmin, ethän?
+Kuule, se kuningas Hakuma puhuu julkisesti
+kauniisti, kuinka hän vihaa riitoja,
+mutta salaa hän sulkee uhmaavat lapset ja yrittää
+pakottaa heidät tottelemaan! Mitä mieltä olet?
+Jos se on totta, se pitää lopettaa.
+Se, että olemme vankeina, on paras todiste!
+Niin on. Jos hänen kanssaan voi puhua,
+ehkä asian voi ratkaista keskustelemalla...
+Mitä naiiveja höpiset? On pakko taistella!
+Kun me Liberties yhdistämme voimamme, voitamme varmasti!
+Minä taistelen loppuun asti!
+En tiedä, miten käy, mutta kunnes voin pelastaa sinut,
+kestä täällä vielä vähän.
+Joo, odotan!
+@173
+En luovuta!
+@174
+Tuota, lähdetään...
+@175
+Johtajamme tulee tovereiden kanssa pelastamaan
+meidät! Siihen asti te saatte elää!
+Taistelen loppuun asti, kunnes vapaus on käsissäni!!
+@176
+Ei auta, hän on niin\nkiihtynyt, ettei kuuntele.
+@177
+Tuota...
+@178
+Uoooh! Kostan vielä!
+T-tämä on toivotonta...
+@179
+Aaaah! Sinä olet...
+@180
+Waa, waa!
+@181
+Mitä nyt?
+@182
+Ei mitään, ei yhtään mitään!
+@183
+Niinkö? Hyvä sitten.
+@184
+Älä! Jos minut paljastetaan, kaikki on pilalla.
+Mitä~ Epäreilua, että vain sinä!
+@185
+Niin, niin!
+@186
+Sitä ja tätä!
+Mutta miksi te olette täällä?
+Sitä emme kerro!
+Vai niin. Ihan sama minulle.
+@187
+Guah!!
+@188
+Voi, {BUF03}~
+Me tultiin tänne asti, koska oltiin huolissamme
+teistä~ Et kai hylkää meitä~?
+Iwanoi, Kagamiyama, sanokaa tekin jotain~!
+J-just niin kuin pomo sanoo.
+@189
+...Häh? Niinkö se meni?
+@190
+A... auts.
+@191
+Niin se on~
+Pelastathan meidät, {BUF03}♥
+(Voi näitä...)
+@192
+Selvä, selvä. Pelastan teidät myöhemmin...
+Ei~ vasta myöhemmin~?
+Kuka tietää!
+Ei voi mitään. Sanoin, että pelastan,
+joten kestäkää.
+@193
+Hei, sinä! Vaikka olet niskan päällä,
+et voi kopeilla...!
+@194
+Guah!
+@195
+(Hölmö! Älä nyt\nsuututa häntä!)
+@196
+(A-anteeksi...)
+@197
+...Lupaathan~ Me odotetaan♥
+Joo joo.
+@198
+Vaatteet likaantuivat...
+@199
+Tämä on Toranishi-akatemia.
+Aah... Haluaisin minäkin liittyä kaartiin
+suojelemaan herra Hakumaa...
+Etkö pääse?
+Kaartiin pääsevät vain pojat.
+Epäreilua, eikö?
+@200
+Niinpä, eikö.
+@201
+Eikö tytöille sitten\nole mahdollista...
+@202
+Aah... herra Hakuma...
+@203
+Iiik! Onko tämä oikeasti koulu?
+@204
+T-tämä on kuin jokin temppeli.
+@205
+(Mutta... miten ihmeessä
+hankin univormut?)
+@206
+Ah! Joku tulee alas!
+@207
+Ymmärrättekö te!?
+@208
+Ah! Tuo on!
+@209
+Kerrassaan! Te olette surkeita!
+Mitä aiotte tehdä, jos hänelle sattuu jotain!
+K-kyllä, olemme pahoillamme...
+Kuunnelkaa. Jos tällaista tapahtuu vielä,
+joudutte tekin arestihuoneeseen!
+@210
+...Mutta eikö herra Byakuyan itsensä
+olisi pitänyt olla tarkkana? Hänhän on lähimpänä.
+Shh! Puhut liikoja.
+@211
+Huh, täpärällä. Se poika on
+nähnyt kasvoni.
+...Mutta onkohan se "hän", josta poika puhui,
+se poika, jonka pelastin?
+En kuullut hänen nimeään. Kuka hän on...
+@212
+Hei! Älä seiso näytön edessä.
+@213
+Ai... anteeksi.
+@214
+..............♪
+(Kädet liikkuvat oudosti..!)
+@215
+Kun herra Hakuma katosi,\nolen yhtäkkiä väsynyt...
+@216
+Hei... hop... hei... hop
+(Pitääkö hän rytmiä ruudun mukaan...?)
+@217
+Uuh... Se rituaalitanssi\non jälkeenpäin aika noloa.
+@218
+Näin... ja näin. Aika vaikeaa.
+Pitää oppia pian ja näyttää herra Hakumalle!
+@219
+Opin vihdoin rituaalin koreografian,
+mutta ilman herra Hakumaa ei ole mitään järkeä.
+@220
+Mitä? Istu sinäkin äkkiä ja keskity näyttöön.
+J-joo.
+Mutta mitä näytöllä näkyy?
+Herra Byakuyan valvoma "Aloitusrituaalin koreografian
+erikoiskurssivideo".
+Tulitko tänne tietämättä sitäkään?
+(Jokin tässä on pielessä...)
+@221
+Rituaalitanssi!? M-mikä?
+E-en t-tiedä siitä mitään.
+@222
+Huh.
+Mikä hätänä?
+Silmät vain väsyivät. Palaan pian paikalleni.
+Älä rasita itseäsi...
+Ei! Koreografia on opittava heti!
+..............
+@223
+Näkö heikkeni, kun\ntuijotin näyttöä liikaa.
+@224
+Täällä on nyt näyttöopetusta.
+@226
+Herra Hakumaa kutsutaan nyt kuninkaaksi,
+ovatkohan muutkin kolme yhtä upeita?
+@227
+Miksi herra Hakumasta\ntuli kuningas...
+@228
+Uskotko sinä\nherra Hakumaan?
+Häh? Noin yhtäkkiä kysyttynä...
+Usko, usko herra Hakumaan!
+Ugh...!
+@229
+Herra Hakuma, minne\nolette menneet~?
+@230
+Olen ylpeä siitä, että saan elää
+samaan aikaan kuin herra Hakuma.
+@231
+Vaikka herra Hakuma katosi, elämme silti
+yhä samaa aikaa.
+@232
+Se on väärin, se on niin väärin.
+Häh? M-mikä...?
+Tietysti aikuiset, jotka eivät tee Medabotin 3 laille mitään.
+Siksi meidän on pakko vapauttaa
+sidotut Medabotit.
+.............
+@233
+Herra Hakuman kadottua olen alkanut miettiä
+3 lakia usein. Minusta tuntuu, ettei
+pelkkä niiden poistaminen ole ratkaisu.
+@234
+Toranishi-akatemiassa on 1. kerroksessa tavalliset luokat,
+2. kerroksessa muut luokat ja 3. kerroksessa herra Hakuman huone.
+Sellainen rakenne.
+...Mutta olethan sinäkin Toranishin oppilas, joten tiedät sen.
+Mitä minä höpisen...
+@235
+Toranishi-akatemiassa on 1. kerroksessa tavalliset luokat,
+2. kerroksessa muut luokat ja 3. kerroksessa herra Hakuman huone.
+Sellainen rakenne.
+@236
+Pidätkö Medaboteista?
+Tietysti!
+Opiskele sitten kanssamme täällä.
+...Miten siihen päädyttiin?
+Koska herra Hakuma välittää Medaboteista
+eniten maailmassa. Tämä on
+Medabottien taivas!
+@237
+Kun seuraat herra Hakumaa, et voi mennä väärin.
+Missä en voi mennä väärin?
+Missään.
+@238
+Missähän herra Hakuma\nnyt on ja mitä tekee?
+@239
+Herra Hakuman luennot koskettavat sydäntä...
+Herra Hakumaa vastustavien pitäisi kuunnella niitä kerran.
+Silloin he tajuaisivat oman typeryytensä. Fufu...
+@240
+On ikävää, kun herra Hakuman luentoja ei ole,
+mutta sen sijaan minulla on aikaa pohtia
+luentojen sisältöä itse. Uskoa kaiken olevan oikein,
+se on kaikkein pelottavinta.
+@241
+Tähän kouluun tulon jälkeen maailman aikuiset näyttävät
+ihan hölmöiltä. Nehän eivät
+aio poistaa Medabotin 3 lakia ollenkaan!
+Uskomatonta? Uskomatonta!
+@242
+Uskomatonta? Uskomatonta!
+@243
+Uskomatonta? USKOMATONTA!
+@244
+Herra Hakuma katosi.\nUskomatonta? USKOMATONTA!
+@245
+Arestihuoneen ovella kiilsi jotain...
+Mikä se oli?
+@247
+Millainenkohan Libertiesin johtaja on?
+Kuka tietää? En minäkään tiedä.
+Fufu♥
+@248
+Herra Hakuman vastustajat on tukahdutettava!
+Tarkoitatko Libertiesiä?
+Voi! Kehtaat sanoa tuon nimen noin vain!
+Et kai sinäkin ole niiden porukkaa?
+E-en todellakaan! (Iiik! Täpärällä!)
+@249
+Mitähän Libertiesille\nlopulta tapahtui?
+@250
+Aah, millaisia upeita oppeja
+tämän päivän luennolla kuullaan? Odotan innolla...
+@251
+Mietitään rauhassa herra\nHakuman oppien merkitystä.
+@252
+Hakuma on upea, mutta oikea käsi Byakuya
+on myös todella viisas. Hänen avullaan opit
+leviävät nopeasti!
+@253
+Herra Byakuyakin katosi herra Hakuman kanssa.
+Kukahan nyt johtaa akatemiaa...
+@254
+Jos menisi valvomoon, näkisikö
+Hakuman huoneeseen...? Fufu.
+@255
+Valvomoa ei ole käytetty viime aikoina ollenkaan.
+Tietysti, kun tunkeilijoita ei ole.
+@256
+Olin ennen kiusaaja! Mutta nyt kun tapasin herra Hakuman,
+opin myötätuntoa ja muutuin!
+@257
+Vaikka herra Hakuma on\npoissa, en palaa kiusaajaksi!

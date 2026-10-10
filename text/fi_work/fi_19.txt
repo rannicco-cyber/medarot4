@@ -1,0 +1,871 @@
+@000
+Medamestari...
+Siitä kerrottiin Viikko-Medabotissa. Medabottiyhtiö on kuulemma
+kehittänyt järjestelmän, joka tarkastaa Medabottien kasvatuksen
+ja antaa arvonimen parhaille medabottaajille...
+@001
+Entä minä nyt...
+Kuinka paljon oikeasti ymmärrän Medaboteista?
+Ymmärränkö niitä ihan oikeasti?
+@002
+Uutisia, uutisia!
+Lopettaneen opettajan tilalle on jo tullut uusi opettaja!
+@003
+Ai, oikeasti!
+Edellinenkin opettaja oli mukava, mutta onko uusi mies vai nainen?
+Nainen kuulemma!
+@004
+Naisopettaja... Kunpa hän olisi kiltti
+@005
+Ahem, tästä päivästä alkaen edellisen opettajan sijaan
+tämän luokan luokanvalvojana toimii opettaja Yamikumo
+@006
+Opettaja, olkaa hyvä ja esittäytykää
+@007
+Nimeni on Yamikumo Ryuuko. Hauska tutustua, kaikki
+No niin, kuunnelkaa opettajaa tarkasti
+@008
+Sitten nimenhuuto. Kurouma
+Paikalla
+@009
+Onpa kaunis opettaja
+Mutta vähän pelottavan näköinen
+Sinä siellä!
+@010
+Häh? Minäkö?
+@011
+Sinä, nimesi on...
+@012
+"Tenryou {BUF03}". Olet siis se medabottaaja, joka on
+voittanut useita robottelukilpailuja?
+Mitä? Ai, joo, tavallaan...
+Hmph, arvosanasi eivät näytä kovin hyviltä,
+mutta jokaisessa ihmisessä on kai jotain hyvää
+@013
+(Auts!)
+Mutta kilpailut ratkaisee usein onni,
+joten voitot ovat voineet olla sattumaa, eikö?
+(Kirpaisi!)
+Hyvä on. Nyt kun minä olen luokanvalvojanne,
+hion teitä kovalla kädellä sekä opinnoissa että robottelussa.
+Valmistautukaa siihen
+(Iiiiiiiik~~~!!)
+Tästä lähtien kaikki luokanohjaustunnit pidetään ulkona.
+Antakaa aluksi kaikki Medakellonne minulle
+@014
+Medakellommeko?
+@015
+Mitähän hän aikoo?
+Lupasin tänään robotella naapuriluokan kanssa...
+Ilman Medakelloa on vähän turvaton olo...
+@016
+Hiljaa! Vauhtia nyt, aikaa ei saa tuhlata
+@017
+...Siinä kaikki.
+Luokanohjaus pidetään kaupungin vasemmalla puolella olevassa luonnonpuistossa,
+joten olkaa paikalla ennen kuin kello soi
+@018
+Sen opettajan kanssa myöhästyminen ei taida olla hyvä idea...
+Joten minä lähden jo~!
+Häh?
+@019
+Hei, odota, Arika!
+@020
+Arika on nopea. Hän meni jo
+@021
+Kas, Tenryou
+@022
+Pidä kiirettä tai myöhästyt.
+No, minä menen jo
+@023
+Paahtoleipää sekä kinkkua ja munia
+@024
+Mitä tämä on...!?
+Eväiden tähteitä
+@025
+Curryä...
+@026
+Kiinalaista riisipuuroa...
+@027
+{BUF03}, vaikka olisit myöhästymässä,
+aamiainen pitää syödä kunnolla. Siitä saa päivän voimat
+@028
+Huomenta, {BUF03}
+Isä lähti jo töihin.
+{BUF03}, syö sinäkin aamiaisesi nopeasti
+@029
+Kas, unohditko jotain?
+En, kaikki on kunnossa
+Hyvä. Älä myöhästy
+Jooo~
+@030
+Kas, unohditko jotain?
+En. Tämänpäiväinen luokanohjaus pidetään Odoro-vuorella
+Ai niin. Sitten et saa myöhästyä
+Tiedän, tiedän
+@031
+Huomenta, {BUF03}. Tänään on Medaroad-kisa.
+Syö aamiaisesi nopeasti.
+Sovit kai tapaavasi Arikan?
+@032
+Äiti tulee kannustamaan. Tsemppiä♥
+@033
+Kas, unohditko jotain?
+En, kaikki on kunnossa
+Hyvä. Älä myöhästy koulusta
+@034
+Kas, unohditko jotain?
+En, kaikki on kunnossa
+Hyvä. Älä myöhästy koulusta
+(Anteeksi, äiti...)
+@035
+Hyvää matkaa, {BUF03}. Tuo tuliaisia♥
+Tuliaisia...
+@036
+Hei, {BUF03}
+Onko sinulla ollut salaisuuksia äidiltä?
+Mitä? Ei ole
+Varmasti?
+...Älä huolestuta minua liikaa
+...Okei
+@037
+Kiitos ruoasta~
+Mums mums...
+Kinkun ja munan kanssa majoneesi on parasta.
+Vaikka Arika väittää ihan muuta...
+@038
+Kiitos, olipa hyvää~
+Ai, kello on jo noin paljon!
+@039
+Hyvää matkaa. Eihän mitään unohtunut?
+...Ei, kaikki kunnossa. Heippa~!
+@040
+Kiitos ruoasta~
+Mums mums...
+Mustekalanakit kuuluvat eväisiin.
+Kukahan ne keksi ensimmäisenä?
+@042
+Hyvää matkaa.
+Tsemppiä Medaroad-kisaan. Äiti tulee kannustamaan
+Heippa~!
+@043
+Kiitos ruoasta~
+Mums mums...
+Eilen oli curryä, joten arvasin, että tänäänkin on,
+mutta curry aamulla on harvinaista
+@045
+Hyvää matkaa. Varo autoja
+Tiedän, tiedän. Heippa~!
+@046
+Kiitos ruoasta~
+Mums mums...
+Kiinalainen riisipuuro on kuulemma helposti sulavaa
+@048
+Hyvää matkaa. Ole varovainen♥
+Tiedän. Heippa~!
+@049
+Kas, tervetuloa. Tulitko leikkimään?
+@050
+Älä unohda huomista tapaamistamme
+Tiedän, tiedän
+Hyvä. Nähdään huomenna♪
+@051
+Tänään annoin sinun voittaa,
+mutta ensi kerralla en häviä. Varaudu siihen!
+@052
+Tulitko ihan hakemaan minua?
+Anteeksi, en ole vielä valmis.
+Menisitkö edeltä?
+@053
+Sieppauksia, onpa pelottavaa.
+Jos minua yritetään siepata, pelastat minut, eikö?
+Totta kai
+H-hyvä sitten. Voin vähän luottaakin sinuun♥
+@054
+Sazankan dojo...
+Siellä ei taida päästä helpolla
+@055
+Hei, robotellaanko?
+@056
+No niin, aloitetaan!
+@057
+Joo, tällä pärjätään. Luotan sinuun!
+@058
+Voi että, olisit nyt edes robotellut
+@059
+Kuulehan...
+Treenaa mitaleitasi lisää huomiseksi
+@060
+Moi, {BUF03}. Mitä asiaa?
+@061
+Tänään oli hauskaa. Kutsu minut taas koska vain
+@062
+Voitit kuulemma Omikujin Medaroad-kisan?
+Mahtavaa!!
+@063
+Karinin pelastamiseksi on vain treenattava!
+Nyt robotellaan!!
+@064
+Uooooooh!!
+@065
+Karin, minä pelastan sinut varmasti!!
+@066
+Hei hei, älä unohda päivittäistä harjoittelua
+@067
+Voi, {BUF03}. Tulitko leikkimään?
+@068
+{BUF03}
+Tänään oli hauskaa. Kutsu minut taas
+@069
+{BUF03}, voitit kuulemma
+Medaroad-kisan. Onnittelut
+Kiitos, Karin!
+@070
+Pitää kiirehtiä luonnonpuistoon
+@071
+"Rata huollossa"
+@072
+Medaropolisissa ei ole nyt asiaa
+@073
+Odoro-vuorella ei ole nyt asiaa
+@074
+Vuorille on vaarallista mennä ilman asiaa
+@075
+Tänne ei ole nyt asiaa
+@077
+Kauas ei kannata mennä
+@078
+Onkohan Elizabethillani ikävä?
+Elizabethilla?
+Se on Medabottini nimi. Söpö, eikö♥
+Hehheh...
+@079
+Opettaja Ryuuko on kyllä kaunis,
+mutta vähän kylmä
+@080
+Kun kävelin täällä, minut haastettiin yhtäkkiä robottelemaan.
+Täällä tapahtuu sellaista usein, joten ole varovainen.
+No, sellaiset robottelut ovat hyvää treeniä
+@081
+Lepotauko puun varjossa...
+@082
+{BUF03}, olet myöhässä!
+Mene nopeasti opettajan luo, tai saat kuulla siitä
+@083
+M-mitä tämä on!?
+@084
+Lepotauko puun varjossa...
+...ja nukahdinko kesken kaiken? Tämä on varmasti unta!
+@085
+Ja minä kun treenasin sitä mitalia niin kovasti~!!
+@086
+Kamalaa...
+@087
+Huh... Elizabeth on kunnossa
+@088
+Luokanohjaus on jo alkanut, kaikki.
+Riviin nopeasti
+@089
+A-ai, selvä!
+@090
+Ovatko kaikki paikalla? Aloitetaan sitten
+@091
+Ensin palautan teille Medakellonne.
+Ja lisäksi sarjan kasvattamattomia Medalioita
+@092
+Kyaa! Medakelloni tiedot!!
+@093
+Minunkin! Jäljellä on vain yksi!
+@094
+Vaivalla keräämäni osat ja mitalit...
+@095
+Totta! Medakelloni ainoa jäljellä oleva...
+@096
+on {BUF15}!
+@097#kabuto
+Onko vika siinä, että jäljelle jäin minä!?
+...Älä puhu noin piikikkäästi koko ajan!
+@097#kuwagata
+Hmph! Pahoittelen, että jäljelle jäin taas minä!
+@098
+Mitä tämä on!? Opettaja, mitä tämä tarkoittaa!?
+@099
+Hiljaa. Kysymykset vasta tunnin jälkeen.
+Mutta jos joku haluaa varmistaa, miten Medaliat kiinnitetään,
+tulkaa kysymään minulta
+N-no, avataan ensin komentoikkuna B-napilla
+ja tarkistetaan Medakellon tiedot!
+@100
+Haluatko tietää, mikä Medalia on?
+@101
+Mitalin taitotasoja on 10 lajia. Tämän kai tiedät.
+Mutta yhdellä mitalilla on vain 3 taitotasoa.
+Sitä paikkaa Medalia.
+Mitalissa on 3 koloa Medalioille.
+Mitalin ja Medalian taitotasot kehittyvät yhdessä,
+mutta Medalia kehittyy mitalia hitaammin.
+Se vie kaksi kertaa niin kauan kuin mitalin taitotaso.
+Mitalin taitotaso voi kasvaa 99:ään,
+mutta Medalian taso on matalampi ja kasvaa vain 60:een.
+Medalian voi kuitenkin siirtää toiseen mitaliin,
+joten niitä kannattaa kasvattaa mahdollisimman paljon.
+Vielä yksi varoitus.
+Jos mitalin tai Medalian taitotaso
+ei vastaa käytetyn osan toimintoa,
+kumpikaan ei kehity, joten olkaa tarkkana
+@102
+Haluatko kuulla, miten Medalia kiinnitetään?
+@103
+Avaa ensin komennot.
+Valitse sitten Medakello-kohta.
+Valitse seuraavaksi mitalit ja haluamasi mitali.
+Kun valitset Medalian, aukeaa Medalia-ruutu.
+Paina siellä START-nappia.
+Kiinnitä sitten Medalia mitaliin.
+Tiedät kai jo, mutta
+Medalia ei kehity kiinnittämättä
+@104
+Kun olette valmiita, palatkaa paikoillenne
+ja jatketaan
+@105
+Olenko valmis?
+@106
+Robotelkaa nyt kaikki pareittain.
+Samoilla ehdoilla.
+Näyttäkää todelliset taitonne medabottaajina
+@107
+Tenryou!
+@108
+S-selvä!
+Näytätkö minulle kilpailuvoittajan taidot?
+Vastustajaksi... vaikkapa sinä, Amazake
+@109
+Minäkö?
+@110
+No, hyvä on.
+Alkutasoilla ehdot ovat samat!
+Kaikki, älkää häiritkö muita robotteluja.
+Pitäkää etäisyyttä toisiinne, selvä?
+@111
+{BUF15}!!
+@112
+Tule, Brass!
+@113
+Ensin tavallinen robottelu. Koska kummallakin on vain
+yksi Medabotti, osia ei vaihdeta
+...Aloittakaa!
+@114
+Voi ei! Miksi käy aina näin? Anna minunkin voittaa joskus!
+@115
+...Vaikka sanot noin...
+@116
+Vai niin... Kaikki kokoon!
+@117
+Seuraavaksi vaihdetaan paikkaa.
+Näytän teille, ettei Medabotti ole pelkkää robottelua.
+Seuratkaa minua
+@118
+Opettaja, mikä paikka tämä on?
+Medaspeed-kuninkaan harjoitusrata
+Medaspeed-kuninkaan??
+@119
+Etkö tiedä? Olet ihan jäljessä~!!
+Se on laji, joka on nyt muotia Medaropolisissa ja muualla!
+(Niin, olen viime aikoina vain murehtinut...)
+Tenryou ja Amazake,
+nyt kilpailette tässä lajissa.
+Tarvitaanko sääntöjen selitystä?
+@120
+Medaspeed-kuningas on nimensä mukaisesti
+laji, jossa kilpaillaan Medabottien nopeudella.
+Jalkaosan "työntövoima" ratkaisee.
+Jos vaihdat radan maastoon sopivan jalkaosan,
+pärjäät paremmin, muista se.
+Medavoimaa kasvattamalla nopeus nousee. Mutta ei siinä kaikki.
+Mittarista näkee, että jos Medavoimaa kasvattaa liikaa
+ja mittari menee punaiselle, Medabotti ylikuumenee
+ja nopeus putoaa. Ole varovainen
+@121
+Aloitetaan sitten. Seuratkaa minua
+@122
+Oletteko valmiita?
+Onnistunkohan...
+Jos et luota lähtöösi, lähde vähän myöhemmin.
+Se on parempi kuin varaslähtö
+@123#kabuto
+Rata on Moottoritie. Mennään!
+@123#kuwagata
+Rata on Kivikkorata. Mennään!
+@124
+Anna minun nyt edes joskus voittaa~!!
+Hehheh...
+@125
+H-hävisin!!
+Jee! Voitin! Jipii jipii!
+@126
+Tenryou.
+En tiedä, millaisia kisoja olet voittanut,
+mutta minusta olet vielä keskeneräinen.
+Tuolla menolla et voita edes Shinran metsän lapsia
+Shinran metsän...?
+@127
+Se on koulu tämän luonnonpuiston toisella puolella
+@128
+...No, joka tapauksessa
+sinä tarvitset vielä paljon harjoitusta.
+Mennään sitten ulos
+@129
+Kuunnelkaa.
+Älkää unohtako, ettei Medabotti ole pelkkää robottelua.
+Vasta kun voittaa monenlaisia lajeja,
+voi kutsua itseään todelliseksi medabottaajaksi. Teillä on vielä matkaa
+...Tämänpäiväinen tunti päättyy tähän!
+@130
+Opettaja! Entä Medakellojemme tiedot?
+Tästä päivästä alkaen aloitatte niillä Medakelloilla alusta.
+Katsoin tietojanne,
+ja kasvatus oli täysin retuperällä.
+Todellisen medabottaajan arvonimi "Medamestari"
+ei irtoa entisellä löysällä kasvatuksella. ...Ymmärrättekö?
+(Medamestari...!)
+@131
+Kamalaa! Tuo on mielivaltaista!
+@132
+Ja minä keräsin ne osat niin ahkerasti~!!
+@133
+Hei! Eikö tämä nyt ole liikaa!?
+@134
+Jos harmittaa, kasvattakaa niin hyvin,
+että minäkin hyväksyn sen
+...Vai eikö itseluottamus riitä?
+...!!
+@135
+Jos te välttämättä haluatte tietonne takaisin,
+voin kyllä palauttaa ne, jos se teille kelpaa.
+Mutta se tarkoittaa tappion myöntämistä.
+Muistakaa tämä: jos haluatte hyväksyntäni,
+aloittakaa alusta noilla Medakelloilla
+@136
+M-minä haen tietoni takaisin!
+@137
+Elizabethilla tulee ikävä, jos ystävät katoavat!
+@138
+Odota! Minäkin!
+@139
+...Minäkin!
+@140
+Harmittaa!
+@141
+Jos hän luulee, että opettajana saa tehdä mitä vain, hän erehtyy pahasti!
+Mennään, {BUF03}! Haetaan tiedot takaisin!
+@142
+Arika... minä yritän
+@143
+"Yrität"...! Mitä sinä oikein ajattelet!?
+Olen murehtinut sitä koko ajan...
+Olen kyllä voittanut kilpailuja,
+mutta medabottaajana minulta puuttuu vielä jotain
+"Medabotti ei ole pelkkää robottelua"
+- opettajan sanat järkyttivät minua.
+Todellisen medabottaajan korkein arvonimi,
+Medamestari... sitä ei saavuta tällä menolla, ihan varmasti
+@144
+Voi sinua, yleensä niin epäluotettava,
+mutta tällaisissa asioissa menet suoraan päin!
+A-anteeksi...
+@145
+Medamestari... Kiinnostaa kyllä
+@146
+Totta, tappion myöntäminen nyt ärsyttäisi!
+Minäkin otan haasteen vastaan!
+Lähtöviiva on sama, joten en häviä sinulle!
+Enkä minä sinulle!
+@147
+Kas niin, ei ole aikaa vetelehtiä. Heippa~♥
+@149
+Lupasin yrittää... mutta mistä aloittaisin?
+Hmm...
+@150
+Niin! Tällaisessa tilanteessa on parasta mennä
+Medabottitutkimuslaitokselle kuuntelemaan Medabottiprofessoria!
+Laitos on puistosta yläoikealla!
+@151
+Päivää, professori
+Kas, {BUF03}. Mitä tänään?
+Professori, olen robotellut tähän asti paljon
+ja voittanut kilpailujakin,
+mutta en taida vieläkään oikeasti ymmärtää Medabotteja...
+Olen murehtinut sitä koko ajan.
+Sitten kuulin todellisille medabottaajille annettavasta
+Medamestarin arvonimestä!
+Haluan tietää Medamestarista lisää!
+Medamestari, vai niin.
+Arvelinkin, että se kiinnostaisi sinua.
+Medabottaajille on tasokokeet 9. kyusta
+9. daniin asti. Niitä kutsutaan "Medakokeiksi".
+Kokeen voi suorittaa Medabottiyhtiöllä.
+Kokeita pidetään säännöllisesti
+ja seuraava taitaa olla pian.
+Sinä olet... hm?
+Alin taso, 9. kyu!
+Olen tähän asti osallistunut vain kilpailuihin...
+Sinulle tason saaminen ei liene pelkkä unelma.
+Tsemppiä
+Kyllä!
+Ai niin, {BUF03}. Tiesitkö, että kaupunginkartasta
+on tullut uusi versio?
+Mitä? Onko?
+Etkö tiennyt? Ota sitten tämä
+@152
+Saanko varmasti?
+Olen mukana kehitystyössä, joten sain näytekappaleen,
+mutta istun yleensä laitoksella.
+Ota vain
+Kiitos paljon!
+Mitähän Arika muuten tekee?
+Voisi olla hyvä kuulla, mitä hän ajattelee.
+Mennään Arikan luo! Arikan talo on lähikaupan alapuolella
+@153
+Sinulle 1. danin saaminen ei liene pelkkä unelma.
+Tsemppiä
+@154
+{BUF03}, älä viivy liian myöhään
+@155
+Hau hau!
+Salty on tänäänkin pirteä
+@156
+Kas, päivää, {BUF03}
+@157
+Päivää. Onko Arika kotona?
+Arika ryntäsi taas ulos heti kotiin tultuaan.
+Ai niin, jos sinä tulet,
+hän pyysi kertomaan, että hän odottaa luonnonpuistossa.
+Hän taitaa taas robotella
+Selvä, kiitos
+@158
+Tapasitko Arikan?
+@159
+Sinun huomaasi voin jättää Arikan huoletta~♥
+Pidä hänestä huolta
+S-selvä!
+@160
+Ovi on lukossa
+@161
+Ovi on lukossa. Kukaan ei taida olla nyt kotona
+@162
+Hei, te siellä! Lopettakaa jo!
+Jos haluatte treenata täällä, maksu on 1 osa tunnilta
+Niin se menee~
+(Nuo taas asialla...)
+@163
+Ai! {BUF03}!
+Kuuntele nyt! Screws-jengi...
+Joo joo, ei tarvitse edes sanoa
+Mitääh? Aiotko ottaa meistä mittaa, {BUF03}?
+Heh-heh~, kuultiin muuten, että uusi opettaja
+vei teidän Medakellojenne tiedot!
+@164
+Kolme vastaan yksi ei käy!
+No sitten mekin käytetään vain yhtä
+"Yksi per henkilö", siis!
+@165
+Ei auta, Arika. Joukkuerobottelu
+@166
+Mutta meitä on kaksi ja heitä kolme!
+Meidän tasomme on matala, emme mitenkään voi voittaa!
+@167
+Hmm, saattaa olla
+Mitäs nyt? Pelottaako?
+@168
+Ole hiljaa!
+Senkin pelkuri, älä leveile!
+Mottoni on käydä vain voitettavia otteluita~
+@169
+No, Arika, haetaan yksi lisää. Noiden
+rankaiseminen voi hyvin odottaa siihen asti
+@170
+...Niin. Annan sen tehtävän sinulle!
+Sillä välin treenaan Brassia kunnolla Omikuji-puistossa.
+En ole mikään taakka!
+Selvä
+@171
+Mitä, ettekö robottelekaan? Tylsää
+Häipykää, häipykää!
+Vaatteeni eivät likaantuneet
+Kolmannen ehdokkaat ovat Medaropolisissa:
+Kouji ja Karin. Mennään Medaropolisiin.
+Se on Omikujista oikealle
+@172
+Pitää nopeasti hakea Kouji tai Karin Medaropolisista
+@173
+Eikö kolmatta ole vielä löytynyt?
+No, ei se mitään. Tule sen sijaan treenaamaan kanssani
+@174
+Hmm, pitää vielä yrittää. Brass, treeni jatkuu!
+Selvä, Arika
+Tule taas treenaamaan kanssani
+@175
+Minä voitin~~~♥
+Pitäisiköhän minunkin treenata?
+Minä jatkan treenaamista. Tule taas mukaan
+@176
+Päivää, {BUF03}
+@177
+Päivää
+@178
+{BUF03}, Kouji halusi tavata sinut.
+Tapasitteko jo?
+@179#kabuto
+Tämä Medaspeed-kuningas on aika hauska.
+Haluaisin joskus kokeilla Medaroad-kisaakin
+@179#kuwagata
+Tämä Medaspeed-kuningas on aika hauska.
+Haluaisin joskus kokeilla Medaroad-kisaakin
+@180
+Vihdoin tulit, odotinkin sinua, {BUF03}!
+Häh?
+Nyt Medaspeed-kuningas!
+Rata on Moottoritie, mennään!!
+Mitä!?
+@181
+Äkkiä taas, kuten aina...
+No, älä nyt! Oli hauskaa
+@182
+Palaa!
+@183
+Taisitte taas kilpailla. Kouji on nyt
+ihan hulluna Medaspeed-kuninkaaseen
+@184
+Karin♥
+@185
+Mutta kun hän näkee vahvan oloisen ihmisen, kenet tahansa,
+hän haastaa tämän heti. Se on hänen ainoa vikansa
+Medabottaajan kuuluu ottaa haaste vastaan!
+Tuota, voisitteko jo kuunnella minua?
+...Hm? Ai niin, sinulla oli jotain asiaa?
+Joo, tarvitsen apua joukkuerobotteluun
+Apua?
+Joo, meiltä puuttuu yksi.
+Haluaisin pyytää joko Koujia tai Karinia... käykö?
+Minulle sopii ihan hyvin!
+Minäkin suostun mielelläni♥
+Kiitos, Kouji ja Karin!
+No, kumman meistä otat mukaan?
+Ai, en ole vielä päättänyt
+Hei hei...
+Kun olet päättänyt, puhu sille, jonka otat mukaan
+@186
+Taidat sittenkin tarvita minun apuani!
+@187
+Ei tarvitse ujostella
+@188
+Selvä, sovittu! Mennään, {BUF03}!
+@189
+Screws-jengi oli luonnonpuistossa.
+Miten Arikan treeni muuten sujuu?
+Arikan Omikuji-puisto on Ginjoun ala-asteen alapuolella
+@190
+Otatko minut mukaan?
+@191
+Harmillista...
+@192
+Kiitos. Teen parhaani
+@194
+Minäkin tein voitavani. Tehdään parhaamme
+@195
+Kouji suostui auttamaan!
+Kun minä olen täällä, voitte olla ihan huoletta
+Luotan sinuun.
+Menen edeltä luonnonpuistoon, tulkaa pian
+@196
+Karin suostui auttamaan!
+Kyllä, tehdään molemmat parhaamme
+Luotan sinuun.
+Menen edeltä luonnonpuistoon, tulkaa pian
+@197
+Mennään sitten, Brass!
+@198
+Selvä, Arika
+@199
+Pitää ensin hakea Arika
+@200
+{BUF03}, olet myöhässä!
+A-anteeksi...
+Ne odottavat tuolla.
+Mennään nopeasti ja päihitetään ne!
+@201
+Kas, {BUF03}. Tulit taas, etkö oppinut mitään?
+Puisto kuuluu kaikille, älkää omiko sitä!
+Haitteko apuvoimia?
+Nyt teillä ei ole syytä paeta!
+Me emme pakene emmekä piiloudu!
+Joukkuerobottelu!
+Mennään sitten~
+Luota meihin, pomo!
+Kunhan vaatteet eivät likaannu
+@202
+!
+!!
+!!!
+Jee, voitimme!
+Me voitimme
+Lopettakaa puiston omiminen!
+Muistakaa tämä~!
+@203
+Odota, pomo~!
+@204
+Vaatteeni likaantuivat
+@205
+No, minäkin taidan lähteä kotiin
+@206
+Kouji, kiitos avusta tänään
+Ei kestä. Mutta... tuo ei ollut sinun tapaistasi.
+Heitä oli kolme, mutta teidän kahden olisi pitänyt voittaa helposti
+Älä puhu siitä!
+Hei hei, mitä sinä suutut
+Asia on niin, että...
+@207
+Kuulostaa kamalalta
+Eikö vain!
+Opettajalla on varmaan jokin ajatus
+...luultavasti
+@208
+Olet liian hyväuskoinen, {BUF03}!!
+Sinun takiasi minäkin jouduin aloittamaan alusta!
+Sinähän olisit voinut pyytää tietosi takaisin
+Häh?
+Ahahahaha... no, ei sillä ole väliä
+No no, siinä tapauksessa annan teille kasvattamattomia mitaleitani
+Oikeasti!?
+En pysty kasvattamaan niitä itse ollenkaan
+Ai, niin tietysti
+Koujilla on aina samat Medabotit käytössä
+Eikö? Mitalit ilahtuvat varmasti enemmän,
+jos te kasvatatte ne, joten ottakaa ne vastaan
+@209
+No, nähdään
+@210
+Lähdetäänkö mekin kotiin?
+Lähdetään
+@211
+Nähdään huomenna
+@212
+Taidan lähteä kotiin minäkin
+@214
+Kas, {BUF03}. Tulit taas, etkö oppinut mitään?
+Ei saa omia, leikitään kaikki yhdessä sovussa
+Haitteko apuvoimia?
+Ei näytä kovin vahvalta
+Saatte puhua noin vain hetken!
+Joukkuerobottelu!
+Mennään sitten~
+Voi, robotteluako? Olkaa armollisia
+Jotenkin tämä vie tahdin...
+@215
+!
+!!
+!!!
+Jee, voitimme!
+Me voitimme
+Lopettakaa puiston omiminen!
+Muistakaa tämä~!
+@218
+Minun pitää jo lähteä kotiin
+@219
+Karin, kiitos avusta tänään
+Ei se mitään, minullakin oli hauskaa
+...Mutta
+miksi kutsuit tänään juuri minut?
+Sinä, {BUF03}, ja Arika kahdestaan
+ette olisi minun apuani tarvinneet...
+Ai, olin kyllä iloinen kutsusta.
+Pelkäsin vain olevani taakka
+Et todellakaan, olit tosi suureksi avuksi
+Niin, Karin. Asia on niin, että...
+@220
+Voi, sepä on ikävää
+Eikö vain!
+Opettajalla on varmaan jokin ajatus
+...luultavasti
+@221
+Olet liian hyväuskoinen, {BUF03}!!
+Sinun takiasi minäkin jouduin aloittamaan alusta!
+Sinähän olisit voinut pyytää tietosi takaisin
+Häh?
+Ahahahaha... no, ei sillä ole väliä
+Hihi♥
+Ai niin, minulla on muitakin mitaleja kuin Nursen.
+Olisi sääli jättää ne kasvattamatta.
+Jos sopii, kasvattakaa te ne
+Oikeasti!?
+Kyllä, mitalit ovat siitä varmasti iloisempia
+@222
+Kiitos, Karin!
+Ei se mitään.
+Pitäkää hyvää huolta noista mitaleista
+Luota minuun, kasvatan niistä reippaita ja hyviä!
+Hihi, Nursekin ilahtuu, kun saa lisää ystäviä.
+No, minä lähden nyt. Kutsukaa minut taas
+@226
+Olen kotona~
+@227
+Tervetuloa kotiin, {BUF03}
+Tulit juuri sopivasti
+Häh?
+Kävisitkö ostamassa kananmunia?
+Joo, käy
+@228
+Kiitos sitten
+@229
+Annan samalla tämän kuun viikkorahat
+@230
+No, minä lähden~
+Hyvää matkaa
+@231
+Pitää ostaa kananmunat nopeasti. Lähikaupassa niitä myytiin.
+Mennään heti yläpuolella olevaan lähikauppaan!
+@232
+{BUF03}, asioilla?
+Ai, Hikaru. Tulin ostamaan kananmunia
+Kananmunia? Ne ovat ylähyllyllä
+@233
+Kananmunat... ai, tuossa
+@234
+Arika kertoi, että Medakellosi tiedot
+vietiin? Rajua
+Niin, joten aloitan kasvatuksen alusta
+Sepä on rankkaa.
+Mutta yhdellä Medabotilla on varmaan vaikeaa?
+Niin! Annan sinulle lahjaksi Medabotin
+@235
+Mitä, saanko? Kiitos paljon!
+Kasvata sitä kunnolla.
+Ai, kananmunat. Ole hyvä, 200¥
+@236
+Selvä, teen parhaani!
+Tsemppiä!
+@237
+Hei, tervetuloa
+@238
+Mitäs kuuluu?
+@240
+Tervetuloa kotiin, {BUF03}. Toitko kananmunat?
+Joo, kaikki kunnossa
+Kiitos, {BUF03}
+Ruoka on kohta valmista, pese kädet
+Jooo~
+@241
+Tässä
+@242
+Kiitos vaivasta
+@243
+Olen kotona~
+@244
+Isä, tervetuloa kotiin~
+@245
+Isä, kädet pitää pestä kunnolla
+Ai niin, anteeksi, anteeksi
+@246
+Ruoka on valmista~♥
+@247
+Kiitos ruoasta~

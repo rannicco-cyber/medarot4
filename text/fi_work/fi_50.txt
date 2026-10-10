@@ -1,0 +1,896 @@
+@000
+Säännöt ovat yksinkertaiset. Nämä neljä ninjaa
+piiloutuvat punaisen, sinisen, keltaisen ja mustan kirjakäärön
+kanssa jonnekin Shinobick-puistoon.
+Teidän tehtävänne on viedä kirjakääröt ninjoilta
+ja tuoda ne minulle.
+Vaikka toinen osallistuja olisi vienyt kääröjä ensin,
+ne voi viedä häneltä voittamalla robottelun.
+Ja! Sille, joka tuo kaikki neljä
+kirjakääröä, annan upean palkinnon!!
+@001
+Hanzou! Kojirou!
+@002
+Hayabusa! Sasuke!
+@003
+Menkää!!
+@004
+Taas tuli annettua tylsä selitys...
+@005
+Upea palkinto, vai~...
+Millainenkohan? Kiinnostaa!
+@006
+Selvä, nyt etsitään kunnolla!
+@007
+Mizuchi!?
+@008
+Hei, Mizuchi.
+M-moi.
+Mizuchi, mikä hätänä? Vaikutat hätäiseltä.
+{BUF03}, anteeksi!
+Waa!
+@009
+Tenryou, tuliko Mizuchi tänne?
+Kyllä, ihan äsken.
+@010
+Hän juoksi tuonne täyttä vauhtia.
+@011
+Voi sitä poikaa.
+Kiitos, Tenryou. Ajan Mizuchia takaa.
+@012
+Mizuchi ja opettaja Ryuuko leikkivät aina hippaa.
+@018
+Missä se Mizuchi oikein on...
+Te olette todella huolissanne Mizuchista.
+No tietysti. Olen teidän kaikkien edessä
+"ala-asteen opettaja", mutta Mizuchin edessä
+haluan olla "isosisko".
+(Opettaja Ryuuko on kuin äiti...
+mutta jos sanoisin niin, hän suuttuisi varmaan.)
+@019
+Tenryou, kerro minulle, jos näet Mizuchin.
+@020
+Mizuchi.
+@021
+Ai, sinä. Älä säikyttele.
+Haha, sori sori.
+Voi että. Ajattelin kerätä kirjakääröjä,
+mutta siskon takia en voi liikkua vapaasti.
+Häh? Keräätkö sinäkin kirjakääröjä!?
+"Sinäkin"? Eli sinäkin keräät.
+Minuakin kiinnostaa se "upea palkinto".
+No, jos saan sen, näytän sen sinullekin.
+Tästä paikalla seisomisesta ei tule mitään,
+joten taidan mennä etsimään ninjoja muualta.
+@022
+Mizuchi.
+@023
+Mitä, löysit minut taas? Ei auta, vaihdan paikkaa.
+@024
+No, nähdään.
+@025
+Mizuchi!
+@026
+Äh, sisko! Hitto!
+Mizuchiii!!
+@027
+He ovat kyllä läheisiä.
+@028
+Mizuchi, löytyi!
+@029
+Mitä "löytyi"? En minä leiki
+piilosta kanssasi.
+@030
+Tenryou!
+@031
+O-opettaja Ryuuko, mikä hätänä?
+Siellä on joku.
+Häh, ei, tuota...
+(Hitto, ei pakotietä!)
+@032
+Siirtyisitkö vähän?
+Tuota, öh...
+({BUF03}! Eikö ole mitään, millä piiloutua?)
+(Aivan, Mizuchi, tällä!)
+@033
+Päästä minut ohi.
+(Hän huomaa!)
+@034
+Mizu...
+Kas? Tämä on...
+@035
+Tuota, hän on ystäväni Byakuya.
+Toranishin oppilas, tapasin hänet täällä sattumalta.
+Vai niin, ei siis Mizuchi.
+Anteeksi, että epäilin.
+@036
+Täpärältä selvittiin.
+Minunkin sydämeni hakkasi.
+Mutta miksi sinulla on tällainen asu?
+Haha, no, kaikenlaista.
+(Se on siis harrastus!)
+Joka tapauksessa, kiitti.
+No, minä jatkan ninjojen etsimistä.
+@037
+Muuten, eihän Mizuchia olisi edes tarvinnut piilottaa?
+@038
+Mizuchi.
+@039
+Mitä, löysit taas? Ei voi mitään.
+No, vaihdan paikkaa.
+@040
+Hm? Miksi hän sitten vaihtoi paikkaa?
+@041
+Moi. Arvasin, että tulisit pian.
+Olet kirjakääröni perässä?
+Joo. Voitan sinut robottelussa, ja
+sitten annat kirjakääröt minulle.
+Heh, olet itsevarma. Onko sinulla itselläsi niitä?
+@042
+No, itse asiassa ei yhtään...
+Mitä!? Ei yhtään?
+Ällistyttävää. Ja silti suurentelet noin.
+No, olkoon. Vaikka sinulla ei ole kirjakääröjä,
+saat tämän, jos voitat robottelun.
+@043
+Ja jos sinä voitat, annan tietysti kirjakääröni sinulle.
+@044
+Selvä, aloitetaanko?
+Joo, mennään! Medabottisiirto!
+@045
+Olet tosiaan vahva, {BUF03}.
+Itse olit paljon vahvempi kuin viime robottelussa.
+Hehe, no niin.
+Ai niin, {BUF03}, ole hyvä.
+@046
+Kiitos, Mizuchi!
+Säännöt ovat sääntöjä. Pidän lupaukseni.
+Mizuchi!!
+@047
+Vihdoin löysin sinut, Mizuchi!
+Miksi sinä oikein vältät minua!
+S-sisko! {BUF03} on tässä!
+Älä saarnaa oppilaasi edessä!
+Se on sinun vikasi, kun juokset karkuun!
+Hiljaa! Huvipuistossa siskon kanssa nyt...
+Se on niin noloa, etten kehtaa näyttäytyä!
+Mitä nyt, ylpeytesi on kasvanut ihan oudosti.
+Hahaha, mitä enemmän riitelee...
+Ei se niin ole!!
+@048
+Mizuchi, olet kuitenkin pian lähdössä kotiin, eikö?
+Lähdetään sitten yhdessä.
+@049
+Tsk, ei voi mitään. Vain tämän kerran.
+Joo joo.
+No, Tenryou, nähdään.
+Näkemiin.
+@050
+Robotellaanko? Älä luule voittavasi helposti.
+@051
+Robotellaan taas.
+@052
+Moi, {BUF03}. Kuulin, että voitit.
+Joo, mutta jouduin lopulta robottelemaan
+kaikkien neljän kuninkaan kanssa.
+No, mikä se palkinto oikein oli?
+Sain vain jonkin oudon koodin,
+enkä ymmärrä siitä mitään.
+Niinkö?
+No, sinä kyllä keksit sen. Tsemppiä.
+@053
+Mizuchi, lähdetään kotiin.
+@054
+Joo, tulen heti.
+@055
+No, nähdään.
+Joo. Pysykää ystävinä opettaja Ryuukon kanssa.
+Ei kuulu sinulle.
+@056
+Mizuchi ja opettaja Ryuuko ovat kuin ystäviä.
+Tuollainen isosisko olisi kiva.
+@057
+Minä en ole yhtä armelias kuin Mizuchi.
+@058
+Opiskele robottelun lisäksi myös koulua varten.
+@059
+Opettaja Ryuuko, en pääse ohi...
+Ai, anteeksi.
+@060
+Onnittelut voitosta, Tenryou. Olet tosiaan oppilaani.
+Heh, kylläpä nyt kehutaan.
+@061
+Mitä, Mizuchi, onko valittamista!?
+@062
+Ei~ mitään~~
+Hmph!
+Heh!
+Mitä enemmän riitelee, sitä lähei...
+@063
+Ei!
+Eikä!
+@065
+Onnittelut, Tenryou.
+Kiitos paljon.
+@066
+Heittotähtiä ja ninjamiekkoja!?
+Saako tällaisia myydä noin vain?
+Ai, ne ovat kumia.
+@067
+Shinobick-puiston osat...
+Tietysti "ninjamalli" ja "kunoichi-malli".
+@068
+Hee, täällä on ninja-asujakin. Haluaisin vähän.
+@069
+Uskomatonta! Esillä on oikeita ninja-aseita!
+@070
+Katsoa saa, mutta ei koskea, nin nin!
+@071
+Ai, {BUF03}. Etsitkö sinäkin kirjakääröjä?
+Joo, etsin.
+Keräätkö sinäkin kirjakääröjä upean palkinnon takia, Hakuma?
+Joo. Byakuya sanoi, että "palkinnosta voisi olla
+apua Shinran kylän jälleenrakennuksessa", joten...
+@072
+Herra Hakuma, lähdetään. Täällä ei ole enää mitään.
+Selvä, Byakuya.
+No, nähdään.
+@073
+En minäkään voi hävitä.
+@074
+Ai, Hakuma ja Byakuya.
+Moi, {BUF03}. Tämä paikka on hauska.
+Kaikkialla on salaisia laitteita.
+Joo, kuin televisiosta tuttu ninjatalo.
+Ehkä kääröjäkin on piilotettu
+johonkin salaiseen huoneeseen.
+Haha, siinä tapauksessa olemme pulassa.
+@075
+Herra Hakuma, lähdetään. Täällä ei ole enää mitään.
+Selvä, Byakuya.
+Nähdään, {BUF03}.
+@077
+Mitä? Keräätkö sinäkin kirjakääröjä?
+Anteeksi vain, mutta palkinto on meidän.
+@078
+Herra Hakuma, meidän pitää mennä etsimään kirjakääröjä.
+(Ymmärrän, että hän huolehtii minusta, mutta
+haluaisin vähän enemmän aikaa rauhoittua...)
+Hakuma.
+@079
+Ai, {BUF03}.
+Mitä, sinä taas.
+Oletteko saaneet kirjakääröjä?
+Ei vielä yhtään. Entä sinä, {BUF03}?
+@080
+Minäkään en ole saanut yhtään.
+Vai niin. No, tsempataan molemmat.
+Joo, kerätään ahkerasti.
+@081
+Joo, vähän.
+Hee, hienoa. Odotettavissa sinulta, {BUF03}.
+No, ei se mitään.
+Minäkin yritän kovasti etsiä kirjakääröjä.
+Joo, tsempataan.
+@082
+No niin, mistähän etsisin seuraavaksi?
+@083
+Missä ne oikein piileskelevät!
+@084
+Ai, Hakuma, taas tavataan.
+{BUF03}.
+Oletko jo kerännyt kaikki kirjakääröt?
+En, ninjoja on vaikea löytää, enkä ole
+vielä saanut kaikkia.
+@085
+Herra Hakuma, mennään seuraavaan paikkaan.
+@086
+Häh, jo nyt? Selvä.
+@087
+No, nähdään, {BUF03}.
+Joo, nähdään.
+@090
+Minäkin etsin jäljellä olevat ninjat.
+@091
+Byakuya on kyllä mahtava. Kun hän löysi ninjan,
+hän nappasi sen hetkessä.
+@092
+Kirjakääröjä ei enää tarvitse etsiä,
+joten nyt tutustun Shinobick-puistoon rauhassa.
+Niin, nyt kun on aikaa, robotellaanko vähän?
+@093
+Robotellaan taas, jos haluat.
+@094
+Robotellaanko? Selvä, en häviä.
+@095
+Voittaja oli siis sittenkin {BUF03}.
+Kukaan ei voita sinua robottelussa, {BUF03}.
+No, ahaha.
+Oletteko tekin lähdössä kotiin?
+Joo, alkaa olla myöhä.
+Niinpä.
+{BUF03}, tule taas käymään
+Shinran kylässä.
+Joo, tulen ehdottomasti!
+@096
+Herra Hakuma, on aika.
+@097
+Joo, mennään, Byakuya.
+@098
+Noiden kahden ansiosta Shinran kylästä
+tulee varmasti hyvä kylä.
+@099
+Byakuya.
+@100
+Waa! M-mitä? O-onko sinulla asiaa minulle?
+Byakuya, sinulla on kirjakäärö, eikö? Haluan,
+että robotellaan siitä.
+Hitto! Pidin vain yhden ja
+aioin viedä loput kolme kerralla,
+kun joku muu olisi kerännyt ne.
+(K-kieroa...)
+Hmph, koska tiedät nyt, ei voi mitään. Kilpailun
+sääntöjen mukaan robotellaan tosissaan!
+@101
+Moi, Byakuya. Kuulin, että sinäkin sait kirjakäärön?
+Hmph, entä sinä?
+Itse asiassa minullakin on.
+Vai niin. Sitten asia on selvä.
+Robotellaan tosissaan kirjakääröistämme!
+@102
+Jes, minä voitin!
+@103
+Herra Hakuma, minä hävisin.
+Älä välitä, Byakuya.
+Vaikka upeaa palkintoa ei tulisikaan, kun sinä autat minua,
+Shinran kylästä tulee varmasti yhtä hauska kuin täältä.
+Herra Hakuma...
+Tuota, se kirjakäärö...
+@104
+Hmph, tiedän kyllä! Tässä.
+@105
+Hehehe, jes.
+@106
+Luovuin kirjakääröstä, mutta en hyväksy sitä, että hävisin
+sinulle robottelussa! Vielä kerran, tosissaan!
+@107
+Mitä, se kirjakäärö oli se upea palkinto?
+Hmph, tuollaisesta ei olisi ollut apua
+Shinran kylän jälleenrakennuksessa.
+@108
+Sinä! Olet se piikatyttö, jota puheenjohtaja Kokuen etsii!
+@109
+Waa, Kokuenin kavereita!
+Seis!
+@110
+Mi-mi-mi-mitä teen~...
+@112
+Turha juosta karkuun...
+Tsk, ei ole piikatyttö. Minne hän meni?
+@113
+Byakuyan asu pelasti minut taas.
+@120
+No niin.
+@121
+(K-Kokuen!?)
+@122
+Ovatkohan ne jo saaneet "piikatytön" kiinni?
+...Hm?
+@123
+Täällä tuoksuu "piikatyttö".
+@124
+(Millainen nenä hänellä oikein on~!)
+@125
+Lähellä.
+(Iiik~~!)
+@126
+Tuoksu voimistui! Hän on siis lähellä?
+@127
+Tsk! Eikö hän ole enää täällä?
+@128
+Ikävuosia lähtee...
+@129
+Piika!!
+@130
+Uwaaa~~~!!
+@131
+Seis!
+@132
+{BUF03}... sinullakin on rankkaa.
+@141
+Onpa nopea piika pakenemaan! Hitto!
+@142
+Huh, taisin pelastua...
+@143
+Leikitäänkö vähän, kun olet täällä? Piikatyttö♥
+@144
+Leikitään taas.
+Leikitään muutenkin kuin robotellen♥
+@145
+Piikatyttö siis voitti.
+Juuri sitä odotin tytöltä, johon ihastuin. Hauskaa, hauskaa!
+(Minä olen poika!)
+No, juhlitaan voittoa heti, ja sinä ja minä
+lähdemme treffeille yön kaupunkiin. Tietysti piika-asussa♥
+@146
+Hitsi! Olisi pitänyt lähteä kotiin tapaamatta Kokuenia!
+@147
+Älä pelkää noin paljon... Tule.
+@148
+Puheenjohtaja Kokueeen!!
+Jäsen numero 6 ilmoitti juuri, että Jakunanin ala-asteella
+on "tyttö, jonka piikaindeksi on 80 prosenttia"!
+@149
+Mitä!? 80 prosenttia piikaa!
+@150
+Te kaikki, heti Jakunaniin!
+Selvä!
+@151
+Kelpaako hänelle sitten kuka tahansa?
+@152
+En ole turhaan jengin johtajatar!
+@153
+Tule vain, niin monta kertaa kuin haluat!
+@154
+Älä ylpisty, vaikka voitit kerran!
+@155
+Maista taitoja, jotka hioin puheenjohtajan rinnalla!
+@156
+Heh, ärsyttävää...
+@157
+Jos puheenjohtaja tappelisi tosissaan, sinä et olisi mitään!
+(Toivottavasti hän ei innostu tosissaan...)
+@158
+Hehehe, tulit sittenkin. Olet tämän kirjakäärön perässä.
+Ei tarvitse robotella varta vasten. Jos ryhdyt
+tyttöystäväkseni, kirjakäärön saat helposti...
+Robottelua!!!!
+@159
+S-selvä... robotellaan,
+älä suutu noin paljon.
+Mutta jos robotellaan, minäkin otan tosissani!
+@160
+Eiii~~!! Piikatyttö! Älä hylkää minua!!
+Ihan sama, anna se kirjakäärö.
+Sen teen mielelläni.
+@161
+Jes.
+Tule taas leikkimään, kun ehdit, jooko, jooko!
+@162
+Piikatyttö~~~...
+@163
+Mitä tuijotat!!
+@164
+Kas, tapaamme taas, poika!
+Häh? Kuka olet?
+Mitä sinä puhut? Hanzou, Hanzou!
+Se, joka naamioitui ystäväksesi punaisen kirjakäärön aikaan.
+Ai, se silloinen!
+Kaikilla on naamiot, en tunnista ketään.
+No, jätetään se sikseen.
+Haluaisitko nähdä vähän ninjataitojani?
+Näytätkö jotain?
+Heh, katso tarkkaan.
+Puff!!
+@166
+Uskomatonta, ihan minun näköiseni!
+Hehheh, yllätyitkö? Voin muuttua moneksi muuksikin,
+joten puhu minulle, jos haluat nähdä.
+Joo!
+@167
+Haluatko nähdä valeasujani?
+@168
+No, keneksi naamioituisin?
+@169
+{BUF03}
+Arika
+Karin
+Kouji
+Joku muu
+@170
+No niin!
+Puff!!
+@171
+Tadaa! Tenryou {BUF03}!
+@172
+Medarot 4
+@175
+Kiinnostaa!
+@176
+Heh, tule taas, jos haluat nähdä lisää.
+@177
+Puhu minulle, jos haluat nähdä.
+@179
+Tadaa! Amazake Arika!
+@180#kabuto
+Tänään otan tosissani.
+@180#kuwagata
+En anna sinun voittaa!
+@181#kabuto
+Mennääään!
+@181#kuwagata
+Valmistaudu!
+@183
+Skuuppi!
+@187
+Tadaa! Junmai Karin.
+@188#kabuto
+Olkaa kilttejä.
+@188#kuwagata
+Jännittää.
+@189#kabuto
+Aloitetaan.
+@189#kuwagata
+Tehdään parhaamme.
+@190
+Hihhih♥
+@191
+Päivää.
+@192
+Näkemiin.
+@195
+Tadaa! Karakuchi Kouji.
+@196#kabuto
+Minä olen aina tosissani!
+@196#kuwagata
+Näytän, mihin pystyn tosissani.
+@197#kabuto
+Nyt näytetään!
+@197#kuwagata
+Minä voitan!
+@198
+Mennään!!
+@199
+Ottelu alkaa!!
+@201
+Sitä minä haluan!
+@203
+Hikaru/Retort
+Kikuhime
+Iwanoi
+Kagamiyama
+Mr. Uruchi
+@205
+Tadaa! Agata Hikaru!
+@206#kabuto
+Näytä minulle voimasi.
+@206#kuwagata
+Sujuuko kasvattaminen hyvin?
+@207#kabuto
+Oletko valmis?
+@207#kuwagata
+Aloitetaanko sitten?
+@209
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@210
+Ja nyt! Mestarivaras Retort!
+@211#kabuto
+Mestarivaras Retort saapuu paikalle!
+@211#kuwagata
+Minä olen tulisen loistava medabottaaja
+@212#kabuto
+Voitatko minut?
+@212#kuwagata
+Ottelu alkakoon!
+@213
+Fuhahahahaha!
+@214
+Hop!
+@215
+Miten tiedät Retortin oikean henkilöllisyyden!?
+Koska olen ninja!
+Aivan!
+@217
+Tadaa! Mahtava Kikuhime!
+@218#kabuto
+Älä ylpisty!
+@218#kuwagata
+Kenenä sinä minua pidät?
+@219
+Muista tämä!
+@220
+Älä pelleile!
+@223
+Tadaa! Nerokas hakkeri Iwanoi
+@224#kabuto
+Nerokkaan hakkerin nimeen
+@224#kuwagata
+Screws-jengin nimeen
+@226
+Muista tämä!
+@229
+Kagamiyama...
+@230#kabuto
+Vaatteet likaantuvat
+@230#kuwagata
+Vaikka vaatteet likaantuisivat
+@235
+Tadaa! Mister Uruchi!
+Robottelu alkaa!!
+@237
+Shuri! Mennään seuraavaksi etsimään ninjatalolta!
+@238
+Kas, {BUF03}. Tavoitteletko sinäkin
+palkintoa? Anteeksi vain, mutta palkinto
+on minun.
+@239
+Shuri! Tule nopeasti!
+@240
+Odottakaa, isä!
+@241
+Voi isä, innostuu yksinään...
+@242
+Odota, Shuriii!
+@243
+Ihan oikea ninjatalo! Täynnä ansoja ja
+laitteita. Kas, {BUF03}, oletko kerännyt kirjakääröjä?
+@244
+En, en yhtään...
+Vai niin. No, älä lannistu, vaan yritä!
+@245
+N-no, vähitellen...
+Vai niin. Minäkään en häviä.
+@246
+Voi isä, taas hän meni jonnekin.
+@247
+Voi että... Miksi minunkin pitää
+kärsiä sinun isäsi takia!
+@248
+Kas, jos olet väsynyt, voit lähteä kotiin ennen meitä.
+Mitä sanoit~! Älä aliarvioi
+Libertiesin johtajan voimia! Tulen ehdottomasti
+mukaan ja löydän kirjakääröt ensin!
+@255
+Kas, {BUF03}. Kun olet täällä, et ole
+vielä kerännyt kaikkia kirjakääröjä.
+No, en...
+Selvä! Kerään kirjakääröt ensin
+ja saan palkinnon.
+@256
+Oliko professori Akagane aina noin energinen?
+@257
+Isä on arkeologi, joten tällaisissa paikoissa
+hän muuttuu luonnostaan energiseksi.
+Shuri... Sen sijaan meidän pitää kiirehtiä perään.
+Totta.
+@258
+He näyttävät väsyneiltä...
+@259
+Kierrä tuonne...
+@260
+Mitä, eikö sinulla ole vielä yhtään kirjakääröä?
+Kiirehdi, tai muut keräävät ne ensin.
+@261
+Oho, vihdoin yksi. Paljon on vielä edessä.
+@262
+Ohhoh, sait toisenkin kirjakäärön. Ei hassumpaa.
+@263
+Ohhohhoh, sait vihdoin kolmannenkin
+kirjakäärön. Enää vähän.
+@264
+Mitä! Että kaltaisesi poika keräsi kaikki kirjakääröt.
+Olet sidottu Medabotteihisi vahvalla siteellä...
+No, valmistelen palkinnon heti.
+Jee!
+Anna minulle neljä kirjakääröä.
+@265
+Hmm hmm, aitoja kirjakääröjä tosiaan.
+Mitähän saan?
+Heh, itse asiassa näihin kirjakääröihin
+kirjoitettu sisältö on "Kuka on ninja?" -kisan palkinto.
+Mitä! Niinkö?
+Tosin vain minä osaan lukea sen.
+...Luen sen.
+Musta kirjakäärö: "C9FCAF6"
+Sininen kirjakäärö: "81A38FA"
+Keltainen kirjakäärö: "365F38C"
+Punainen kirjakäärö: "30511F5"
+Mieti itse, mitä tämä teksti tarkoittaa.
+Ja tämä on minulta lahja.
+@266
+Vau, mitali!
+Kiitos paljon.
+No niin, sitten...
+@267
+Kaikki teitte parhaanne. Kiitos vaivannäöstä.
+Shinobick-puiston avajaisten ensimmäisen
+"Kuka on ninja?" -kisan voittaja on... Tenryou {BUF03}!
+@268
+Tähän päättyy tämänkertainen vetonaula!
+Kotimatkalla varovasti, kaikki.
+Kotiin asti ollaan Shinobickissa!
+@269
+Ja nyt, hyvästi!
+@270
+Kotimatkalla varovasti sinäkin.
+Selvä, kiitos paljon.
+@271
+Ennen lähtöä taidan käydä tervehtimässä Koujia, Karinia
+ja neljää kuningasta.
+@272
+Ratkaisit koodin salaisuuden? Juuri sitä voittajalta odotin.
+@273
+Mitä, unohditko kirjakääröjen sisällön?
+Ei voi mitään, kerron sen uudelleen.
+Musta kirjakäärö: "C9FCAF6"
+Sininen kirjakäärö: "81A38FA"
+Keltainen kirjakäärö: "365F38C"
+Punainen kirjakäärö: "30511F5"
+Ai niin, annan sinulle vihjeen.
+"9:n jälkeen tulee A", "A:n jälkeen tulee B"
+"A.B.C.D.E.F"
+Loput saat miettiä itse.
+@274
+Kun olemme täällä, kävisitkö tervehtimässä muita?
+@278
+Kerroitko jo Koujille ja Karinille?
+@279
+Kun kisa loppui, kaikki hiljeni yhtäkkiä.
+On jo päivällisaika.
+{BUF03}, onnittelut voitosta.
+Häh?
+Mikä ilme!
+Kuin sanoisin harvoin "onnittelut".
+Ei se sitä ole. Säikähdin vain,
+kun sanoit sen noin erikseen.
+Hmph! En välitä sinusta, {BUF03}!
+Arikaaa!
+@280
+Mikä teitä kahta vaivaa?
+@281
+Ei mikään! {BUF03} on idiootti!
+Voi voi, olettepa läheisiä♥
+Uuh~ Kariiin...
+En tiedä, mitä tapahtui, mutta Arika,
+anna hänelle jo anteeksi.
+On tullut aika pimeää. Lähdetään kotiin.
+Niin.
+Voi että, ei voi mitään.
+@282
+Älä itke, vaan lähdetään kotiin, {BUF03}.
+@283
+Tsemppiä! Huomenna tapahtuu varmasti jotain hyvää.
+Joo, yritän.
+@284
+...Heh, olipa hauska keskustelu.
+Voi sinua~
+@285
+Kuule! Jotain hyvää tapahtuu vielä!
+Tsempataan, jooko!
+Joo, yritän.
+@286
+Älä itke! Olet poika!
+Joo, anteeksi...
+@287
+Voi voi, sinulla ei ole yhtään onnea~
+.....
+@288
+Jos et masennu, vaan mietit rauhassa, keksit
+varmasti hyvän idean. Jaksa!
+Joo, yritän.
+@289
+Kun nukut kotona hyvin, kaikki varmasti järjestyy.
+Joo, varmasti.
+@290
+Älä masennu noin. Minähän olen tässä, eikö, eikö?
+Joo, yritän.
+@291
+Voi voi, hän suuttui~
+Uuuuh...
+@292
+Shiratama, kannan sittenkin puolet.
+@293
+Ei hätää! Naen vuoksi...!
+@294
+Hnngh!
+@295
+Hop!
+@296
+Oho?
+@297
+Ooooooo....
+Taasko!?
+Kyaaaa...
+@298
+No, {BUF03} ja Arika, nähdään.
+{BUF03}, Arika, näkemiin.
+Kouji, Karin, nähdään!
+Heippa~
+@299
+No, {BUF03}, nähdään.
+Joo, nähdään.
+@300
+Minäkin menen kotiin. Olen ihan poikki.
+@301
+Olen kotona!
+@302
+Hau hau
+Olen kotona, Salty.
+Tervetuloa kotiin, {BUF03}. Laitan heti ruokaa,
+joten pese ensin kädet.
+Selvä~
+@303
+Nyt syödään.
+@304
+{BUF03}, missä kävit tänään?
+Kävin Arikan ja muiden kanssa Shinobick-puistossa.
+Oho, siinä uudistetussa huvipuistossa. Hienoa.
+Isäkin olisi halunnut mennä.
+Mennään sitten ensi kerralla kaikki yhdessä:
+äiti, isä, {BUF03} ja Salty.
+Hyvä! Äiti on kyllä fiksu, loistava idea.
+Hihhih♥
+@305
+Kiitos ruoasta!
+{BUF03}, vie lautaset kunnolla pois.
+Selvä~
+@306
+{BUF03}, älä valvo, vaan mene aikaisin nukkumaan.
+@307
+Joo. Hyvää yötä, isä ja äiti.
+Hyvää yötä, {BUF03}.
+@308
+Häh?
+@309
+Mitä!?
+@310
+Ötökkä♪ ötökkä♪ Koujille ötökkä♪
+"Mitä puhut, {BUF03}?" "Mitä puhut, {BUF03}?"
+@311
+Hihihih...
+@312
+Miksi Koujeja on kaksi!?
+"En minäkään" "En minäkään"
+"oikein tiedä" "oikein tiedä"
+"Torkahdin hetkeksi" "Torkahdin hetkeksi"
+"ja yhtäkkiä näin kävi" "ja yhtäkkiä näin kävi"
+@313
+"Mutta kuule" "Mutta kuule"
+"ihan minun näköiseni" "ihan minun näköiseni"
+"Mennään!" "Mennään!"
+@314
+"Seis!" "Seis!"
+@315
+Hmm, näin en erota, kumpi on ninja.
+Niin! Tällä keinolla voisin ehkä tunnistaa oikean.
+@316
+Kysy muilta
+Näytä ötökkä
+Kiusaa häntä
+@317
+Joku, joka tuntee Koujin paremmin?
+Kysytään Karinilta.
+@318
+Karin, tulisitko hetkeksi?
+Mikä on?
+@319
+Kas, Koujeja on kaksi.
+Joo. Tiedätkö, kumpi on oikea Kouji?
+Molemmat näyttävät ihan Koujilta.
+@320
+"Karin, sinäkin..." "Karin, sinäkin..."
+Niin arvelinkin.
+Anteeksi, {BUF03}.
+@321
+Etsitään ötökkä, jota Kouji inhoaa.
+Siitä hänet tunnistaa.
+@322
+Oikea Kouji on rikas, joten
+hän antaisi minulle ainakin Smilodonadin osat.
+@323
+"Ei se, että olen rikas," "Ei se, että olen rikas,"
+@324
+"ole minun vikani!" "ole minun vikani!"
+Sama reaktio!
+Nyt en tiedä yhtään paremmin, kumpi on oikea...
+Ei auta. Etsitään ulkoa jotain, mikä säikäyttää Koujin.
+@325
+Kumpi on oikea?
+@327
+Kouu-jiii~♪
+@330
+"Mitä nyt, ällöttävää" "Mitä nyt, ällöttävää"
+Arvaa mikä tämä on!
+Ö.........!!!!!
+@331
+Uwaaaaaaah!!!!

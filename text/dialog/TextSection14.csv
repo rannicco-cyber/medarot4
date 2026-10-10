@@ -1,92 +1,92 @@
 ﻿Index[#version],Pointer[#version|],Original,Translated
-000,0x3fdd58,こ-んか-いの- らっき-<CD>メダロットは-<CF><*01>,
-001,0x3fdd5a,このおみくじは 時間切れで-す<CD>もういちど ひきなおしてくださいな<*04>,
-002,0x3fdd5c,このおみくじの ゆうこう<CD>時間は あと <&BUF0F>で-す<*04>,
-003,0x3fdd5e,まぁまあかな <*02>,"It was so-so, I guess.<*02>"
-004,0x3fdd60,こんなもんかな<*02>,
-005,0x3fdd62,ふう あぶなかった<*02>,
-006,0x3fdd64,あとちょっとだったのに...<*02>,
-007,0x3fdd66,なんだかなあ<*02>,
-008,0x3fdd68,<SFF>こんなもんかな<CD>左院パ-ツを<CD>なんだかなあ<*02>,
-009,0x3fdd6a,<SFF>このおみくじは 時間切れで-す<CD>もういちど ひきなおしてくださいな<*04>,
-010,0x3fdd6c,<SFF>このおみくじの ゆうこう<CD>時間は あと <&BUF0F>で-す<*04>,
-011,0x3fdd6e,こんかいのしんさいんは<CD>このかたがたです<*02>,
-012,0x3fdd9a,このかたがたです<*02>,
-013,0x3fdd9c,「男は貝ためよリ体力だ!」の<CD>アレキサンダさん<*02>,
-014,0x3fdd9e,「ハデハデな ものが いいのよ」と<CD>ビショウネンさん<*02>,
-015,0x3fdda0,「バランスこそ ちからなリ!」の<CD>ブルドッグさん<*02>,
-016,0x3fdda2,「やっぱリかわいくなくっちゃ」の<CD>しらたまさん<*02>,
-017,0x3fdda4,...でおおくリいたします<*02>,
-018,0x3fdda6,それではしんさに<CD>うつリたいとおもいます<*02>,
-019,0x3fdda8,うつリたいとおもいます<*02>,
-020,0x3fddaa,それではつぎにまいリましょう<*02>,
-021,0x3fddac,<&BUF10>人目の メダロットの しょうかい<*02>,
-022,0x3fddae,<&BUF11>さんの<*02>,
-023,0x3fddb0,「<&BUF12>」です<*02>,
-024,0x3fddb2,それでは しんさいんの みなさん<CD>点数のほうを おねがいします!<*02>,
-025,0x3fddb4,点数のほうを おねがいします!<*02>,
-026,0x3fddb6,<&BUF10>点! <&BUF11>点! <&BUF12>点!<*04>,
-027,0x3fddb8,合計 <&BUF10>点です!<*02>,
-028,0x3fddba,よって しょうしゃは...!<*02>,
-029,0x3fddbc,<&BUF10>さんの<*02>,
-030,0x3fddbe,「<&BUF11>」です!<*02>,
-031,0x3fddc0,おめでとうございます!<*02>,
-032,0x3fddc2,みなさん おまたせいたしましたぁ!<*03>,
-033,0x3fddc4,<SFF><&BUF10><*04>,
-034,0x3fddc6,<SFF><&BUF11><*04>,
-035,0x3fddc8,それでは みなさま 次のしんさで<CD>お会いしましょう!<CD><CF><D1>ミス.ちまきでした~!,
-036,0x3fddca,わたくし ミス.ちまきが<CD>おおくリする ミスコンの<CD><CF><D1>はじまリであリます!,
-037,0x3fddcc,く--っ! かんどうだっ!<CD>これぞ 男の中の男!!,
-038,0x3fddda,男気に あふれる フォルム<CD>あつい たましいを かんじるぜ!,
-039,0x3fdddc,わるくは ないが<CD>男の たましいが かんじられん!,
-040,0x3fddde,ふん 本当に やる気が あるのか?<CD>出直して来いっ!!,
-041,0x3fdde0,なっ 何だ これはっ!!<CD>ふざけるな! こんなものが<CD><CF><D1>男と言えるかっ!!,
-042,0x3fdde2,んまあ! ぬぁんて うつくしさ!!<CD>ああ~ん さ.い.こ.うっ♥,
-043,0x3fdde4,あら~ ス.テ.キ♥<CD>スキに なっちゃいそう♥,
-044,0x3fdde6,うう~ん もうっ! だからぁ<CD>そうじゃないのよねぇ~,
-045,0x3fdde8,やだわぁ~ それで<CD>うつくしいつもリぃ?,
-046,0x3fddea,まっ 何よ それ! ヒドイわぁ!<CD>かがみ 貝たこと あるのぉ?,
-047,0x3fddec,シンプル それでいて 力づよい<CD>...きゅうきょくの バランスだ!,
-048,0x3fddee,むだな部分が はぶかれた 体に<CD>やどる かれんな心...じつに いい,
-049,0x3fddf0,もっと シェイプアップすベきだな<CD>バランスが いまいちだ,
-050,0x3fddf2,ふむ どうやら きみと わたしの<CD>もとめる うつくしさは ちがうようだ,
-051,0x3fddf4,はっきリ言って しゅみを うたがうね,
-052,0x3fddf6,すっ...すばらしいっ!<CD>これぞ「び」! しびれちゃう♥,
-053,0x3fddf8,なるほどね キミの<CD>言いたいことも 分からなくはない,
-054,0x3fddfa,...フッ あまいな そんなことでは<CD>わたしの心は つかめないよ,
-055,0x3fddfc,ディテ-ルに こだわってね<CD>もっと こう...,
-056,0x3fddfe,ちがうっ! これは わたしの<CD>もとめる うつくしさでは ないっ!!,
-057,0x3fde00,メダロットは ほねぐみである<CD>ティンペットに 4つのパ-ツと<CF>1つのメダルを<CD>そうちゃくすれば かんせいする,"A medarot is completed by combining four parts and a medal onto the frame, called a tinpet."
-058,0x3fde3a,メダロットどうしを たたかわせる<CD>ロボトルは メダロットを<CF>租み立てる だんかいから<CD>はじまっていると 言っていい,"It could be said that robattles, where medarots fight one another, begin from the moment they're assembled."
-059,0x3fde3c,さまざまなしゅるいの パ-ツや<CD>メダルの せいしつを知リ<CF>それを せいす者こそが<CD>しんのメダロッタ-<CF>「メダマスタ-」なのだ!<*02>,"The one who knows the different parts and natures of the medals and masters them is a true medarotter, the <f02>Medamaster<f00>!"
-060,0x3fde3e,ふぇ~~~!!<CD>まけちゃった~~<*02>,
-061,0x3fde5a,<SFF>おみくじ町<CD>ぼくと ゆかいな なかまたちの町<*02>,
-062,0x3fde5c,<SFF>しぜん公園1<CD>メダスピ-ドと メダロ-ドが できる<*02>,
-063,0x3fde5e,<SFF>しぜん公園2<CD>キャンプ場が あるよ<*02>,
-064,0x3fde60,<SFF>シンラそうぞうむら<CD>子どもたちと メダロットの むら<*02>,
-065,0x3fde62,<SFF>シンラしょうてんがい<CD>いろんな お店が ならんでる<*02>,
-066,0x3fde64,<SFF>トラニシ学底<CD>何だか 近よリがたい ふんいき<*02>,
-067,0x3fde66,<SFF>メダロポリス1<CD>おなじみの メダロッタ-ズが ある<*02>,
-068,0x3fde68,<SFF>メダロポリス2<CD>えき前広場は カップルの 場所♥<*02>,
-069,0x3fde6a,<SFF>メダロポリス3<CD>お金持ちが かよう 花園学園が ある<*02>,
-070,0x3fde6c,<SFF>メダロポリス4<CD>メダロット社と 言えば ここ!<*02>,
-071,0x3fde6e,<SFF>おどろ山.左<CD>しぜんと きけんは となリあわせ!<*02>,
-072,0x3fde70,<SFF>おどろ山.右<CD>メダロ-ドレ-ス場が できたんだ<*02>,
-073,0x3fde72,<SFF>おどろ山.ちゅうおう<CD>つリばしの 下は だんがいぜっペき!<*02>,
-074,0x3fde74,<SFF>サザンカ町<CD>町の北には メダロット道場が ある<*02>,
-075,0x3fde76,<SFF>カメヤマ小学校<CD>リんたろうたちが かよう学校<*02>,
-076,0x3fde78,<SFF>シノビックパ-ク<CD>ここの にんじゃたちって ほんもの?<*02>,
-077,0x3fde7a,<SFF>はっくつげんば<CD>ここで メダルが はっくつ される<*02>,
-078,0x3fde7c,<SFF>カラサワギオアシス<CD>ホテルと メダバ-ド場が ある<*02>,
-079,0x3fde7e,<SFF>ジャクナン小学校<CD>うつくしいものしか 入れない学校<*02>,
-080,0x3fde80,<SFF>ウミネコかいがん<CD>「夏だ! 海だ!」と 言えば ここ!<*02>,
-081,0x3fde82,<SFF>リュウトウ町<CD>リュウトウ学園が そびえ立つ<*02>,
-082,0x3fde84,<SFF>ぬかるみのどうくつ<CD>ジトジト ジトジト...<*02>,
-083,0x3fde86,<SFF>しょうにゅうどう<CD>とがった 岩には 気をつけよう<*02>,
-084,0x3fde88,<SFF>さばく<CD>さばくは のどが かわくし あついね<*02>,
-085,0x3fde8a,<SFF>おんせんのどうくつ<CD>まだまだ つづくよ 山道は...<*02>,
-086,0x3fde8c,<SFF>?????<CD>まだいったことのない場所だ<*02>,
-087,0x3fde8e,<FINAL>,
+000,0x3fdd58,こ-んか-いの- らっき-<CD>メダロットは-<CF><*01>,Tämänkertainen onnen<D3>Medabotti on...<D3><*01>
+001,0x3fdd5a,このおみくじは 時間切れで-す<CD>もういちど ひきなおしてくださいな<*04>,Ennustuksen aika loppui.<D3>Nostakaa uusi lappu!<*04>
+002,0x3fdd5c,このおみくじの ゆうこう<CD>時間は あと <&BUF0F>で-す<*04>,Tämä ennustus on voimassa<D3>vielä <&BUF0F><*04>
+003,0x3fdd5e,まぁまあかな <*02>,Kohtalaista<*02>
+004,0x3fdd60,こんなもんかな<*02>,Tällaista kai<*02>
+005,0x3fdd62,ふう あぶなかった<*02>,"Huh, täpärä tilanne<*02>"
+006,0x3fdd64,あとちょっとだったのに...<*02>,Ihan vähän puuttui...<*02>
+007,0x3fdd66,なんだかなあ<*02>,En tiedä...<*02>
+008,0x3fdd68,<SFF>こんなもんかな<CD>左院パ-ツを<CD>なんだかなあ<*02>,<SFF>Tällaista kai. Vasen käsi...<D3>En tiedä...<*02>
+009,0x3fdd6a,<SFF>このおみくじは 時間切れで-す<CD>もういちど ひきなおしてくださいな<*04>,<SFF>Ennustuksen aika loppui.<D3>Nostakaa uusi lappu!<*04>
+010,0x3fdd6c,<SFF>このおみくじの ゆうこう<CD>時間は あと <&BUF0F>で-す<*04>,<SFF>Tämä ennustus on voimassa<D3>vielä <&BUF0F><*04>
+011,0x3fdd6e,こんかいのしんさいんは<CD>このかたがたです<*02>,Tämänkertaiset tuomarit<D3>ovat nämä henkilöt<*02>
+012,0x3fdd9a,このかたがたです<*02>,ovat nämä henkilöt<*02>
+013,0x3fdd9c,「男は貝ためよリ体力だ!」の<CD>アレキサンダさん<*02>,"""Mies on kuntoa, ei näköä!""<D3>Alexander<*02>"
+014,0x3fdd9e,「ハデハデな ものが いいのよ」と<CD>ビショウネンさん<*02>,"""Koreat jutut ovat parhaita""<D3>Bishounen<*02>"
+015,0x3fdda0,「バランスこそ ちからなリ!」の<CD>ブルドッグさん<*02>,"""Tasapaino on voimaa!""<D3>Bulldog<*02>"
+016,0x3fdda2,「やっぱリかわいくなくっちゃ」の<CD>しらたまさん<*02>,"""Pitää olla söpö!""<D3>Shiratama<*02>"
+017,0x3fdda4,...でおおくリいたします<*02>,...siinä tuomaristomme<*02>
+018,0x3fdda6,それではしんさに<CD>うつリたいとおもいます<*02>,Siirrytään sitten<D3>arvioimaan Medabotit<*02>
+019,0x3fdda8,うつリたいとおもいます<*02>,arvioimaan Medabotit<*02>
+020,0x3fddaa,それではつぎにまいリましょう<*02>,Siirrytään seuraavaan<*02>
+021,0x3fddac,<&BUF10>人目の メダロットの しょうかい<*02>,<&BUF10><#w10>. Medabotin esittely<*02>
+022,0x3fddae,<&BUF11>さんの<*02>,<&BUF11>:n Medabotti<*02>
+023,0x3fddb0,「<&BUF12>」です<*02>,"""<&BUF12>""!<*02>"
+024,0x3fddb2,それでは しんさいんの みなさん<CD>点数のほうを おねがいします!<*02>,"Tuomarit, olkaa hyvät<D3>ja antakaa pisteenne!<*02>"
+025,0x3fddb4,点数のほうを おねがいします!<*02>,ja antakaa pisteenne!<*02>
+026,0x3fddb6,<&BUF10>点! <&BUF11>点! <&BUF12>点!<*04>,<&BUF10><#w15> p! <&BUF11><#w15> p! <&BUF12><#w15> p!<*04>
+027,0x3fddb8,合計 <&BUF10>点です!<*02>,Yhteensä <&BUF10><#w15> pistettä!<*02>
+028,0x3fddba,よって しょうしゃは...!<*02>,Joten voittaja on...!<*02>
+029,0x3fddbc,<&BUF10>さんの<*02>,<&BUF10>:n<*02>
+030,0x3fddbe,「<&BUF11>」です!<*02>,"""<&BUF11>""!<*02>"
+031,0x3fddc0,おめでとうございます!<*02>,Onnittelut!<*02>
+032,0x3fddc2,みなさん おまたせいたしましたぁ!<*03>,"Kiitos odotuksesta, kaikki!<*03>"
+033,0x3fddc4,<SFF><&BUF10><*04>,<SFF><&BUF10><*04>
+034,0x3fddc6,<SFF><&BUF11><*04>,<SFF><&BUF11><*04>
+035,0x3fddc8,それでは みなさま 次のしんさで<CD>お会いしましょう!<CD><CF><D1>ミス.ちまきでした~!,"Nähdään taas seuraavassa<D3>kilpailussa, hyvät ystävät!<D3>Tässä oli neiti Chimaki~!"
+036,0x3fddca,わたくし ミス.ちまきが<CD>おおくリする ミスコンの<CD><CF><D1>はじまリであリます!,Neiti Chimakin juontama<D3>missikisa alkaa nyt!
+037,0x3fddcc,く--っ! かんどうだっ!<CD>これぞ 男の中の男!!,Kuuh! Liikuttavaa!<D3>Tämä on miesten mies!!
+038,0x3fddda,男気に あふれる フォルム<CD>あつい たましいを かんじるぜ!,Miehekäs muoto!<D3>Tunnen kuuman sielun!
+039,0x3fdddc,わるくは ないが<CD>男の たましいが かんじられん!,"Ei huono, mutta miehen<D3>sielua en tunne!"
+040,0x3fddde,ふん 本当に やる気が あるのか?<CD>出直して来いっ!!,"Hmph, yritätkö edes?<D3>Tule uudestaan!!"
+041,0x3fdde0,なっ 何だ これはっ!!<CD>ふざけるな! こんなものが<CD><CF><D1>男と言えるかっ!!,Mi-mitä tämä on!!<D3>Älä pelleile! Tätäkö muka<D3>kutsutaan mieheksi!!
+042,0x3fdde2,んまあ! ぬぁんて うつくしさ!!<CD>ああ~ん さ.い.こ.うっ♥,Voi! Mikä kauneus!!<D3>Aah~ ih-a-na♥
+043,0x3fdde4,あら~ ス.テ.キ♥<CD>スキに なっちゃいそう♥,Kas~ i-ha-na♥<D3>Taidan rakastua♥
+044,0x3fdde6,うう~ん もうっ! だからぁ<CD>そうじゃないのよねぇ~,Uuh~ voi että! Kun<D3>ei se mene noin~
+045,0x3fdde8,やだわぁ~ それで<CD>うつくしいつもリぃ?,Iik~ ja tuotako<D3>sinä pidät kauniina?
+046,0x3fddea,まっ 何よ それ! ヒドイわぁ!<CD>かがみ 貝たこと あるのぉ?,Mitä tuo on! Kamalaa!<D3>Oletko katsonut peiliin?
+047,0x3fddec,シンプル それでいて 力づよい<CD>...きゅうきょくの バランスだ!,"Yksinkertainen, silti vahva...<D3>huipputasapaino!"
+048,0x3fddee,むだな部分が はぶかれた 体に<CD>やどる かれんな心...じつに いい,Karsitussa kehossa asuu<D3>sievä sydän... hienoa
+049,0x3fddf0,もっと シェイプアップすベきだな<CD>バランスが いまいちだ,"Kiinteytä vähän,<D3>tasapaino ontuu"
+050,0x3fddf2,ふむ どうやら きみと わたしの<CD>もとめる うつくしさは ちがうようだ,"Hmm, etsimme näemmä<D3>erilaista kauneutta"
+051,0x3fddf4,はっきリ言って しゅみを うたがうね,Suoraan sanottuna<D3>epäilen makuasi
+052,0x3fddf6,すっ...すばらしいっ!<CD>これぞ「び」! しびれちゃう♥,"Uu... upeaa! Tämä on<D3>""kauneutta""! Sähköistä♥"
+053,0x3fddf8,なるほどね キミの<CD>言いたいことも 分からなくはない,"Vai niin, ymmärrän<D3>kyllä mitä tarkoitat"
+054,0x3fddfa,...フッ あまいな そんなことでは<CD>わたしの心は つかめないよ,"...Heh, et noin helpolla<D3>voita sydäntäni"
+055,0x3fddfc,ディテ-ルに こだわってね<CD>もっと こう...,"Panosta yksityiskohtiin,<D3>vähän enemmän näin..."
+056,0x3fddfe,ちがうっ! これは わたしの<CD>もとめる うつくしさでは ないっ!!,Väärin! Tämä ei ole<D3>etsimääni kauneutta!!
+057,0x3fde00,メダロットは ほねぐみである<CD>ティンペットに 4つのパ-ツと<CF>1つのメダルを<CD>そうちゃくすれば かんせいする,"Medabotti valmistuu, kun<D3>tinpettirunkoon kiinnitetään<D3>4 osaa ja<D3>1 mitali"
+058,0x3fde3a,メダロットどうしを たたかわせる<CD>ロボトルは メダロットを<CF>租み立てる だんかいから<CD>はじまっていると 言っていい,Medabottien välinen<D3>robottelu alkaa jo<D3>Medabotin<D3>kokoamisvaiheesta
+059,0x3fde3c,さまざまなしゅるいの パ-ツや<CD>メダルの せいしつを知リ<CF>それを せいす者こそが<CD>しんのメダロッタ-<CF>「メダマスタ-」なのだ!<*02>,"Joka tuntee osien ja<D3>mitalien ominaisuudet<D3>ja hallitsee ne, on<D3>todellinen medabottaaja,<D3>""Medamestari""!<*02>"
+060,0x3fde3e,ふぇ~~~!!<CD>まけちゃった~~<*02>,Hyyy~~~!!<D3>Hävisin~~<*02>
+061,0x3fde5a,<SFF>おみくじ町<CD>ぼくと ゆかいな なかまたちの町<*02>,<SFF>Omikuji<D3>Minun ja kavereideni kaupunki<*02>
+062,0x3fde5c,<SFF>しぜん公園1<CD>メダスピ-ドと メダロ-ドが できる<*02>,<SFF>Luonnonpuisto 1<D3>Medaspeed ja Medaroad täällä<*02>
+063,0x3fde5e,<SFF>しぜん公園2<CD>キャンプ場が あるよ<*02>,<SFF>Luonnonpuisto 2<D3>Täällä on leirintäalue<*02>
+064,0x3fde60,<SFF>シンラそうぞうむら<CD>子どもたちと メダロットの むら<*02>,<SFF>Shinran luomiskylä<D3>Lasten ja Medabottien kylä<*02>
+065,0x3fde62,<SFF>シンラしょうてんがい<CD>いろんな お店が ならんでる<*02>,<SFF>Shinran ostoskatu<D3>Kaikenlaisia kauppoja<*02>
+066,0x3fde64,<SFF>トラニシ学底<CD>何だか 近よリがたい ふんいき<*02>,<SFF>Toranishi-akatemia<D3>Jotenkin luotaantyöntävä<*02>
+067,0x3fde66,<SFF>メダロポリス1<CD>おなじみの メダロッタ-ズが ある<*02>,<SFF>Medaropolis 1<D3>Tuttu Medabottaajat-kauppa<*02>
+068,0x3fde68,<SFF>メダロポリス2<CD>えき前広場は カップルの 場所♥<*02>,<SFF>Medaropolis 2<D3>Aukio on parien paikka♥<*02>
+069,0x3fde6a,<SFF>メダロポリス3<CD>お金持ちが かよう 花園学園が ある<*02>,<SFF>Medaropolis 3<D3>Rikkaiden Hanazono-akatemia<*02>
+070,0x3fde6c,<SFF>メダロポリス4<CD>メダロット社と 言えば ここ!<*02>,<SFF>Medaropolis 4<D3>Medabottiyhtiön koti!<*02>
+071,0x3fde6e,<SFF>おどろ山.左<CD>しぜんと きけんは となリあわせ!<*02>,"<SFF>Odoro-vuori, vasen<D3>Luonto ja vaara käsi kädessä!<*02>"
+072,0x3fde70,<SFF>おどろ山.右<CD>メダロ-ドレ-ス場が できたんだ<*02>,"<SFF>Odoro-vuori, oikea<D3>Tänne tuli Medaroad-rata<*02>"
+073,0x3fde72,<SFF>おどろ山.ちゅうおう<CD>つリばしの 下は だんがいぜっペき!<*02>,"<SFF>Odoro-vuori, keskusta<D3>Riippusillan alla jyrkänne!<*02>"
+074,0x3fde74,<SFF>サザンカ町<CD>町の北には メダロット道場が ある<*02>,<SFF>Sazanka<D3>Pohjoisessa on Medabottidojo<*02>
+075,0x3fde76,<SFF>カメヤマ小学校<CD>リんたろうたちが かよう学校<*02>,<SFF>Kameyaman ala-aste<D3>Rintaroun ja muiden koulu<*02>
+076,0x3fde78,<SFF>シノビックパ-ク<CD>ここの にんじゃたちって ほんもの?<*02>,<SFF>Shinobick-puisto<D3>Ovatko ninjat täällä aitoja?<*02>
+077,0x3fde7a,<SFF>はっくつげんば<CD>ここで メダルが はっくつ される<*02>,<SFF>Kaivauspaikka<D3>Täältä kaivetaan mitaleja<*02>
+078,0x3fde7c,<SFF>カラサワギオアシス<CD>ホテルと メダバ-ド場が ある<*02>,<SFF>Karasawagin keidas<D3>Hotelli ja Medabird-rata<*02>
+079,0x3fde7e,<SFF>ジャクナン小学校<CD>うつくしいものしか 入れない学校<*02>,<SFF>Jakunanin ala-aste<D3>Koulu vain kauniille<*02>
+080,0x3fde80,<SFF>ウミネコかいがん<CD>「夏だ! 海だ!」と 言えば ここ!<*02>,"<SFF>Umineko-ranta<D3>""Kesä! Meri!"" - täällä!<*02>"
+081,0x3fde82,<SFF>リュウトウ町<CD>リュウトウ学園が そびえ立つ<*02>,<SFF>Ryuutou<D3>Ryuutou-akatemia on täällä<*02>
+082,0x3fde84,<SFF>ぬかるみのどうくつ<CD>ジトジト ジトジト...<*02>,<SFF>Mutaluola<D3>Litsis lätsis...<*02>
+083,0x3fde86,<SFF>しょうにゅうどう<CD>とがった 岩には 気をつけよう<*02>,<SFF>Tippukiviluola<D3>Varo teräviä kiviä<*02>
+084,0x3fde88,<SFF>さばく<CD>さばくは のどが かわくし あついね<*02>,<SFF>Aavikko<D3>Aavikolla on kuuma ja jano<*02>
+085,0x3fde8a,<SFF>おんせんのどうくつ<CD>まだまだ つづくよ 山道は...<*02>,<SFF>Kuumien lähteiden luola<D3>Vuoripolku jatkuu yhä...<*02>
+086,0x3fde8c,<SFF>?????<CD>まだいったことのない場所だ<*02>,"<SFF>?????<D3>Paikka, jossa en ole käynyt<*02>"
+087,0x3fde8e,<FINAL>,<FINAL>
 088,0x3fdd70,@0x3fdd6e,@0x3fdd6e
 089,0x3fdd72,@0x3fdd6e,@0x3fdd6e
 090,0x3fdd74,@0x3fdd6e,@0x3fdd6e

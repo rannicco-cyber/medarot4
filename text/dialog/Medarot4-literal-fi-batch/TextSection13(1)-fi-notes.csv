@@ -1,0 +1,10 @@
+﻿Index,Notes
+001,[LOC] Attack-area terminology is technical; polish after confirming exact battle-grid terminology.
+006,[LOC] ”poistoefektit” = かいじょけい; verify the game mechanic term.
+014,[LOC] いんぺい = conceal/hide; use established Finnish status/action term.
+019,[LOC] Sentence is mechanically precise but long; natural UI wording can be chosen later.
+035,[LOC] とくしゅかくとう = special melee; align with established attack terminology.
+046,[LOC] カン!カン!カン! is an onomatopoeic battle-end cue; Finnish sound effect can be chosen.
+049,[LOC] ふぅ あぶないところだった is a casual character reaction.
+050,[LOC] Casual victory reaction can be made more characterful.
+051,[LOC] Repetition ”らくしょう らくしょう” is stylistic; Finnish can preserve the repetition.

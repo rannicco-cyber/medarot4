@@ -1,105 +1,105 @@
 ﻿Index[#version],Pointer[#version|],Original,Translated
-000,0x1221ba,<SFF>ソ-ド攻撃<CD>スピ-ドの はやい かくとう攻撃<*04>,<SFF><f02>Sword<f00>: <f01>A high speed melee attack.<*04>
-001,0x1221bc,<SFF>ハンマ-攻撃<CD>スピ-ドの はやい かくとう攻撃<*04>,<SFF><f02>Hammer<f00>: <f01>A high speed melee attack.<*04>
-002,0x1221be,<SFF>ふういんぶき攻撃     (コンボ)<CD>「ふういんかいじょ」で 使用できる<*04>,
-003,0x1221c0,<SFF>ライフル攻撃<CD>スピ-ドの はやい しゃげき攻撃<*04>,<SFF><f02>Rifle<f00>: <f01>A high speed ranged attack.<*04>
-004,0x1221c2,<SFF>ガトリング攻撃<CD>スピ-ドの はやい しゃげき攻撃<*04>,<SFF><f02>Gatling<f00>: <f01>A high speed ranged attack.<*04>
-005,0x1221c4,<SFF>こくいんぶき攻撃     (コンボ)<CD>「こくいんふか」で 使用できる<*04>,
-006,0x1221c6,<SFF>レ-ザ-攻撃<CD>いリょくが 2ばいになる<*04>,<SFF><f02>Laser<f00>: <f01>An attack with double power.<*04>
-007,0x1221c8,<SFF>ビ-ム攻撃<CD>いリょくが 2ばいになる<*04>,<SFF><f02>Beam<f00>: <f01>An attack with double power.<*04>
-008,0x1221ca,<SFF>ミサイル攻撃<CD>ぜったいヒットと かんつうダメ-ジ<*04>,<SFF><f02>Missile<f00>: <f01>A piercing attack.<D3>It never misses.<*04>
-009,0x1221cc,<SFF>ナパ-ム攻撃<CD>ぜったいヒットと かんつうダメ-ジ<*04>,<SFF><f02>Napalm<f00>: <f01>A piercing attack.<D3>It never misses.<*04>
-010,0x1221ce,<SFF>ブレイク攻撃<CD>せいこうが 2ばいになる<*04>,<SFF><f02>Break<f00>: <f01>Has double the usual success rate.<*04>
-011,0x1221d0,<SFF>プレス攻撃<CD>せいこうが 2ばいになる<*04>,<SFF><f02>Press<f00>: <f01>Has double the usual success rate.<*04>
-012,0x1221d2,<SFF>デストロイ攻撃    (ダイレクト)<CD>せなかを むけた てきを はかいする<*04>,<SFF><f02>Destroy (Direct)<f00>:<f01>Destroy a part if target is cooling down.<*04>
-013,0x1221d4,<SFF>サクリファイス攻撃  (ダイレクト)<CD>パ-ツを ぎせいにして 大ダメ-ジ<*04>,<SFF><f02>Sacrifice (Direct)<f00>: <f01>Sacrifice this part for massive damage.<*04>
-014,0x1221d6,<SFF>タイムアタック攻撃<CD>じかんが すぎるほど 攻撃力アップ<*04>,
-015,0x1221d8,<SFF>スタティック攻撃   (ダイレクト)<CD>そうこうが 1/4になる<*04>,
-016,0x1221da,<SFF>バグ攻撃<CD>行動の せいこうリつを 下げる<*04>,<SFF><f02>Bug<f00>: <f01>Decreases target's success rate. <*04>
-017,0x1221dc,<SFF>ウィルス攻撃<CD>行動の せいこうリつを 下げる<*04>,<SFF><f02>Virus<f00>: <f01>Decreases target's success rate. <*04>
-018,0x1221de,<SFF>ウェ-ブ攻撃<CD>じゅんび時間を ながくする<*04>,<SFF><f02>Wave<f00>: <f01>Slows opponent's preparation time.<*04>
-019,0x1221e0,<SFF>ホ-ルド攻撃<CD>じゅんび時間を ながくする<*04>,<SFF><f02>Hold<f00>: <f01>Slows opponent's preparation time.<*04>
-020,0x1221e2,<SFF>ファイヤ-攻撃<CD>じゅんび中も ダメ-ジをあたえる<*04>,<SFF><f02>Fire<f00>: <f01>Deals passive damage as time passes.<*04>
-021,0x1221e4,<SFF>メルト攻撃<CD>じゅんび中も ダメ-ジをあたえる<*04>,<SFF><f02>Melt<f00>: <f01>Deals passive damage as time passes.<*04>
-022,0x1221e6,<SFF>サンダ-攻撃<CD>あいての 動きを ストップさせる<*04>,<SFF><f02>Thunder<f00>: <f01>Stops your opponent from moving.<*04>
-023,0x1221e8,<SFF>フリ-ズ攻撃<CD>あいての 動きを ストップさせる<*04>,<SFF><f02>Freeze<f00>: <f01>Stops your opponent from moving.<*04>
-024,0x1221ea,<SFF>カウントダウン攻撃  (ダイレクト)<CD>カウントが 0になると きのうていし<*04>,<SFF><f02>Countdown<f00>:<f01> Target will shutdown when timer reaches 0.<*04>
-025,0x1221ec,<SFF>ホ-ムシック攻撃   (ダイレクト)<CD>時々 行動せずに 引きかえす<*04>,<SFF><f02>Homesick (Direct)<f00>:<f01> Target sometimes retreats mid-action.<*04>
-026,0x1221ee,<SFF>カウントアタック攻撃<CD>かいすうが ふえるほど 攻撃力アップ<*04>,
-027,0x1221f0,<SFF>アサッシン攻撃    (ダイレクト)<CD>ぜったいに クリティカルする<*04>,
-028,0x1221f2,<SFF>ぼうぎょ行動     (アクティブ)<CD>みかたの メダロットを えんごする<*04>,<SFF><f02>Defend<f00>: <f01>Protect your allies.<*04>
-029,0x1221f4,<SFF>かんぜんぼうぎょ行動 (アクティブ)<CD>みかたヘの 攻撃を ブロックする<*04>,<SFF><f02>Perfect Defense<f00>: <f01>Block all attacks aimed at your allies.<*04>
-030,0x1221f6,<SFF>みまんぼうぎょ行動  (アクティブ)<CD>よわい攻撃を ブロックする<*04>,<SFF><f02>Lesser Defense<f00>: <f01>Block weak attacks aimed at your allies.<*04>
-031,0x1221f8,<SFF>アンチエア攻撃<CD>ひこうメダロットに 大ダメ-ジ<*04>,<SFF><f02>Anti-Air<f00>: <f01>Does massive damage to flying Medarots.<*04>
-032,0x1221fa,<SFF>アンチシ-攻撃<CD>せんすいメダロットに 大ダメ-ジ<*04>,<SFF><f02>Anti-Sea<f00>: <f01>Does massive damage to aquatic Medarots.<*04>
-033,0x1221fc,<SFF>さくてき行動<CD>みかたの 攻撃を あてやすくする<*04>,<SFF><f02>Scan<f00>: <f01>Your allies' attacks will hit more easily.<*04>
-034,0x1221fe,<SFF>いんペい行動<CD>てきの 攻撃を よけやすくなる<*04>,<SFF><f02>Conceal<f00>: <f01>Your enemies' attacks are easier to avoid.<*04>
-035,0x122200,<SFF>きゅうしゅう行動   (アクティブ)<CD>全ての タ-ゲットを きゅうしゅう<*04>,
-036,0x122202,<SFF>かくとうトラップ行動  (トラップ)<CD>「なぐる.がむしゃら」攻撃にダメ-ジ<*04>,<SFF><f02>Fighting Trap<f00>: <f01>Damages a target before they do a melee attack<*04>
-037,0x122204,<SFF>しゃげきトラップ行動  (トラップ)<CD>「うつ.ねらいうち」攻撃にダメ-ジ<*04>,<SFF><f02>Shooting Trap<f00>: <f01>Damages a target before they do a shot attack.<*04>
-038,0x122206,<SFF>フォ-スプラント行動  (トラップ)<CD>行動するたびに フォ-スアップ<*04>,<SFF><f02>Force Plant<f00>: <f01>Your Medaforce charges each time you act.<*04>
-039,0x122208,<SFF>さくてきクリア行動   (トラップ)<CD>さくてきの こうかを ぼうがいする<*04>,<SFF><f02>Search Clear<f00>: <f01>Disrupts a search effect.<*04>
-040,0x12220a,<SFF>いんペいクリア行動   (トラップ)<CD>いんペいの こうかを ぼうがいする<*04>,<SFF><f02>Conceal Clear<f00>: <f01>Disrupts a conceal effect.<*04>
-041,0x12220c,<SFF>たんぱつクリア行動   (トラップ)<CD>攻撃を 1回だけ ふせぐ<*04>,<SFF><f02>Single-Shot Clear<f00>: <f01>Protects against a single shot.<*04>
-042,0x12220e,<SFF>ファ-ストエイド行動  (トラップ)<CD>こわれたパ-ツを ふっかつさせる<*04>,<SFF><f02>First Aid<f00>: <f01>Repairs a broken part.<*04>
-043,0x122210,<SFF>クロス攻撃セット行動  (トラップ)<CD>「クロス攻撃」を セットする<*04>,<SFF><f02>Cross Attack Set<f00>: <f01>Sets <f02>Cross Attack<f00>.<*04>
-044,0x122212,<SFF>クロス攻撃ファイア行動A (コンボ)<CD>「クロス攻撃」で 1体を攻撃<*04>,
-045,0x122214,<SFF>クロス攻撃ファイア行動B (コンボ)<CD>「クロス攻撃」で 全パ-ツを攻撃<*04>,
-046,0x122216,<SFF>クロス攻撃ファイア行動C (コンボ)<CD>「クロス攻撃」で 全体を攻撃<*04>,
-047,0x122218,<SFF>マイナス症状クリア行動<CD>マイナス症状を かいじょする<*04>,<SFF><f02>Ailment Clear<f00>: <f01>Removes negative status effects.<*04>
-048,0x12221a,<SFF>トラップクリア行動   (トラップ)<CD>「トラップ」を はかいする<*04>,<SFF><f02>Trap Clear<f00>: <f01>Destroys a <f02>trap<f00>.<*04>
-049,0x12221c,<SFF>フォ-スせいぎょ行動<CD>「メダフォ-ス」を 使えなくする<*04>,<SFF><f02>Force Seal<f00>: <f01>Prevents <f02>Medaforce<f00> usage.<*04>
-050,0x12221e,<SFF>かいふく行動<CD>ダメ-ジをうけたパ-ツを かいふく<*04>,<SFF><f02>Restore<f00>: <f01>Restores a damaged part.<*04>
-051,0x122220,<SFF>ふっかつ行動<CD>きのうていしパ-ツを ふっかつさせる<*04>,<SFF><f02>Repairs<f00>: <f01>Repairs a destroyed part.<*04>
-052,0x122222,<SFF>そせい行動<CD>たおれた みかたを ふっかつさせる<*04>,<SFF><f02>Resuscitation<f00>: <f01>Repair a fallen ally.<*04>
-053,0x122224,<SFF>レベルドレイン行動<CD>てきの レベルを うばいとる<*04>,<SFF><f02>Level Drain<f00>: <f01>Drains an opponent's level.<*04>
-054,0x122226,<SFF>かんぜんむこう行動  (アクティブ)<CD>全ての 攻撃を むこうにする<*04>,<SFF><f02>Perfect Disable<f00>: <f01>Nullify all attacks.<*04>
-055,0x122228,<SFF>かご行動       (アクティブ)<CD>みかたの 1たいを きょうかする<*04>,
-056,0x12222a,<SFF>たいせいはかい行動<CD>「えんご」「かまえ」を はかいする<*04>,<SFF><f02>Stance Disable<f00>: <f01>Nullify <f02>Stance<f00> and <f02>Defend<f00> skills.<*04>
-057,0x12222c,<SFF>こうがく むこう行動   (そうび)<CD>「レ-ザ-」「ビ-ム」を ブロック<*04>,<SFF><f02>Optics Disable (Passive)<f00>: <f01>Nullify <f02>Laser<f00> and <f02>Beam<f00> attacks.<*04>
-058,0x12222e,<SFF>かやく むこう行動    (そうび)<CD>「ミサイル」「ナパ-ム」を ブロック<*04>,<SFF><f02>Explosive Disable (Passive)<f00>: <f01>Nullify <f02>Missile<f00> & <f02>Napalm<f00> attacks.<*04>
-059,0x122230,<SFF>じゅうリょく むこう行動 (そうび)<CD>「ブレイク」「プレス」を ブロック<*04>,<SFF><f02>Gravity Disable (Passive)<f00>: <f01>Nullify <f02>Break<f00> and <f02>Press<f00> attacks.<*04>
-060,0x122232,<SFF>症状クリア        (そうび)<CD>全ての 症状が つかない<*04>,<SFF><f02>Symptom Clear (Passive)<f00>: <f01>Clears all symptoms.<*04>
-061,0x122234,<SFF>けいぞくリペア行動<CD>じゅんび中も ダメ-ジをかいふく<*04>,<SFF><f02>Continuous Restore<f00>: <f01>Restores armor during preparation.<*04>
-062,0x122236,<SFF>ダメ-ジげんしょう行動(アクティブ)<CD>うけるダメ-ジを ヘらす<*04>,<SFF><f02>Damage Reduction<f00>: <f01>Reduces damage taken.<*04>
-063,0x122238,<SFF>はんしゃ行動     (アクティブ)<CD>あいての 攻撃を はじきかえす<*04>,<SFF><f02>Reflect<f00>: <f01>Repels enemy attacks.<*04>
-064,0x12223a,<SFF>はんげき行動     (アクティブ)<CD>つよい攻撃だけを はじきかえす<*04>,<SFF><f02>Counterattack<f00>: <f01>Reflects only strong attacks.<*04>
-065,0x12223c,<SFF>じゅうリょくせいぎょ   (そうび)<CD>じゅんび時間を いっていにする<*04>,<SFF><f02>Gravity Control (Passive)<f00>: <f01>Makes preparation time consistent.<*04>
-066,0x12223e,<SFF>てきえい かんち     (そうび)<CD>タ-ゲットセット と せいのうアップ<*04>,<SFF><f02>Enemy Detection (Passive)<f00>: <f01>Increases melee attack power and adds <f02>Enemy<D3>Detection<f00> effect.<*04>
-067,0x122240,<SFF>ちょくぜんせんたく    (そうび)<CD>タ-ゲットクリア と せいのうアップ<*04>,
-068,0x122242,<SFF>じこしゅうふく      (そうび)<CD>じどうてきに ダメ-ジを かいふく<*04>,
-069,0x122244,<SFF>きゅうそくチャ-ジ行動<CD>じゅんび時間を ゼロにする<*04>,<SFF><f02>Rapid Charge<f00>: <f01>Preparation time is reduced to zero.<*04>
-070,0x122246,<SFF>ほじょチャ-ジ行動<CD>じゅんび時間を みじかくする<*04>,<SFF><f02>Auxiliary Charge<f00>: <f01>Shorten preparation time.<*04>
-071,0x122248,<SFF>じょうじチャ-ジ     (そうび)<CD>じゅんび時間が みじかくなる<*04>,<SFF><f02>Continuous Charge (Passive):<D3><f00><f01>Shorten preparation time.<*04>
-072,0x12224a,<SFF>チャ-ジドレイン行動<CD>じゅんび時間を うばいとる<*04>,<SFF><f02>Charge Drain<f00>: <f01>Drains preparation time from your opponent.<*04>
-073,0x12224c,<SFF>てんとう行動<CD>ころばせて めいれいを わすれさせる<*04>,<SFF><f02>Fall<f00>: <f01>The opponent falls and forgets their command.<*04>
-074,0x12224e,<SFF>フォ-スアップ行動<CD>メダフォ-スを ふやす<*04>,<SFF><f02>Force Up<f00>: <f01>Increases Medaforce.<*04>
-075,0x122250,<SFF>ヘんか行動<CD>ベつのパ-ツに ヘんかする<*04>,<SFF><f02>Change<f00>: <f01>Change to a different part.<*04>
-076,0x122252,<SFF>ヘんか(そくど)行動<CD>「スピ-ド」のパ-ツに ヘんかする<*04>,<SFF><f02>Change (Speed)<f00>: <f01>Change to a <f02>Speed<f00> part.<*04>
-077,0x122254,<SFF>ヘんか(いリょく)行動<CD>「いリょく」のパ-ツに ヘんかする<*04>,<SFF><f02>Change (Power)<f00>: <f01>Change to a <f02>Power<f00> part.<*04>
-078,0x122256,<SFF>ヘんか(症状)行動<CD>「症状」のパ-ツに ヘんかする<*04>,<SFF><f02>Change (Ailment)<f00>: <f01>Change to an <f02>Ailment-Afflicting<f00> part.<*04>
-079,0x122258,<SFF>ヘんか(えんご)行動<CD>「えんご」パ-ツに ヘんかする<*04>,<SFF><f02>Change (Defense)<f00>: <f01>Change to a <f02>Defense<f00> part.<*04>
-080,0x12225a,<SFF>ヘんか(かいふく)行動<CD>「かいふく」パ-ツに ヘんかする<*04>,<SFF><f02>Change (Restore)<f00>: <f01>Change to a <f02>Restore<f00> part.<*04>
-081,0x12225c,<SFF>ヘんか(しえん)行動<CD>「ぼうがい」パ-ツに ヘんかする<*04>,<SFF><f02>Change (Support)<f00>: <f01>Change to a <f02>Disrupt <f00>part.<*04>
-082,0x12225e,<SFF>ふういんかいじょ行動<CD>「ふういんぶき」を セットする<*04>,
-083,0x122260,<SFF>ちけいこうか行動<CD>フィ-ルドイベントを はっせいさせる<*04>,
-084,0x122262,<SFF>プラス症状クリア行動<CD>プラス症状を かいじょする<*04>,<SFF><f02>Buff Clear<f00>: <f01>Clears positive effects.<*04>
-085,0x122264,<SFF>使用ふのう行動<CD>パ-ツが 使えなくなる<*04>,<SFF><f02>Disabled<f00>: <f01>Parts are made unusable.<*04>
-086,0x122266,<SFF>こんらん行動<CD>攻撃の あいてを きめられない<*04>,<SFF><f02>Confusion<f00>: <f01>Your opponent randomly chooses a target.<*04>
-087,0x122268,<SFF>回数ドレイン行動<CD>頭パ-ツの 回数を うばいとる<*04>,<SFF><f02>Ammo Drain<f00>: <f01>Drains head part ammo.<*04>
-088,0x12226a,<SFF>かいひふのう行動<CD>かいひを できなくする<*04>,<SFF><f02>Staggered<f00>: <f01>Makes avoiding attacks impossible.<*04>
-089,0x12226c,<SFF>ぼうぎょふのう行動<CD>ぼうぎょを できなくする<*04>,<SFF><f02>Vulnerable<f00>: <f01>Makes defending against attacks impossible.<*04>
-090,0x12226e,<SFF>フォ-スドレイン行動<CD>メダフォ-スを うばいとる<*04>,<SFF><f02>Force Drain<f00>: <f01>Drains the opponent's Medaforce.<*04>
-091,0x122270,<SFF>こくいんふか行動<CD>「こくいんぶき」を セットする<*04>,
-092,0x122272,<SFF>行動ゆうはつ行動<CD>おなじパ-ツを むリやリ 使わせる<*04>,
-093,0x122274,<SFF>ひこうメダロット<CD>「さばく」「アリじごく」に つよい<*04>,<SFF><f02>Flying Medarot<f00>: <f01>Strong in <f02>desert<f00> and <f02>antlion trap<f00> terrains.<*04>
-094,0x122284,<SFF>ふゆうメダロット<CD>どのフィ-ルドも とくい<*04>,<SFF><f02>Float Medarot<f00>: <f01>Comfortable in any terrains.<*04>
-095,0x122286,<SFF>たきゃくメダロット<CD>「さんち」「かざん」に つよい<*04>,<SFF><f02>Multi-Leg Medarot<f00>: <f01>Strong in <f02>mountain<f00> and <f02>volcano<f00> terrains.<*04>
-096,0x122288,<SFF>にきゃくメダロット<CD>「しんリん」「ジャングル」に つよい<*04>,<SFF><f02>Bipedal Medarot<f00>: <f01>Strong in <f02>forest<f00> and <f02>jungle<f00> terrains.<*04>
-097,0x12228a,<SFF>くるまメダロット<CD>「まちなか」「スタジアム」に つよい<*04>,<SFF><f02>Vehicle Medarot<f00>: <f01>Strong in <f02>downtown<f00> and <f02>stadium <f00>terrains.<*04>
-098,0x12228c,<SFF>せんしゃメダロット<CD>フィ-ルドに えいきょうされない<*04>,<SFF><f02>Tank Medarot<f00>: <f01>Not affected by the terrain.<*04>
-099,0x12228e,<SFF>せんすいメダロット<CD>「すいちゅう」「ひょうが」に つよい<*04>,<SFF><f02>Diving Medarot<f00>: <f01>Strong in <f02>underwater<f00> and <f02>glacial<f00> terrains.<*04>
-100,0x122290,<FINAL>,
+000,0x1221ba,<SFF>ソ-ド攻撃<CD>スピ-ドの はやい かくとう攻撃<*04>,<SFF>Miekkaisku<D3>Nopea lähitaisteluisku<*04>
+001,0x1221bc,<SFF>ハンマ-攻撃<CD>スピ-ドの はやい かくとう攻撃<*04>,<SFF>Vasaraisku<D3>Nopea lähitaisteluisku<*04>
+002,0x1221be,<SFF>ふういんぶき攻撃     (コンボ)<CD>「ふういんかいじょ」で 使用できる<*04>,"<SFF>Sinettiase-isku (Kombo)<D3>Vaatii ""sinetin avauksen""<*04>"
+003,0x1221c0,<SFF>ライフル攻撃<CD>スピ-ドの はやい しゃげき攻撃<*04>,<SFF>Kivääri-isku<D3>Nopea ampumisisku<*04>
+004,0x1221c2,<SFF>ガトリング攻撃<CD>スピ-ドの はやい しゃげき攻撃<*04>,<SFF>Gatling-isku<D3>Nopea ampumisisku<*04>
+005,0x1221c4,<SFF>こくいんぶき攻撃     (コンボ)<CD>「こくいんふか」で 使用できる<*04>,"<SFF>Kaiverrusase-isku (Kombo)<D3>Vaatii ""kaiverruksen""<*04>"
+006,0x1221c6,<SFF>レ-ザ-攻撃<CD>いリょくが 2ばいになる<*04>,<SFF>Laserisku<D3>Teho kaksinkertaistuu<*04>
+007,0x1221c8,<SFF>ビ-ム攻撃<CD>いリょくが 2ばいになる<*04>,<SFF>Sädeisku<D3>Teho kaksinkertaistuu<*04>
+008,0x1221ca,<SFF>ミサイル攻撃<CD>ぜったいヒットと かんつうダメ-ジ<*04>,<SFF>Ohjusisku<D3>Osuu aina ja läpäisee<*04>
+009,0x1221cc,<SFF>ナパ-ム攻撃<CD>ぜったいヒットと かんつうダメ-ジ<*04>,<SFF>Napalmisku<D3>Osuu aina ja läpäisee<*04>
+010,0x1221ce,<SFF>ブレイク攻撃<CD>せいこうが 2ばいになる<*04>,<SFF>Murtoisku<D3>Onnistuminen tuplaantuu<*04>
+011,0x1221d0,<SFF>プレス攻撃<CD>せいこうが 2ばいになる<*04>,<SFF>Puristusisku<D3>Onnistuminen tuplaantuu<*04>
+012,0x1221d2,<SFF>デストロイ攻撃    (ダイレクト)<CD>せなかを むけた てきを はかいする<*04>,<SFF>Tuhoisku (Suora)<D3>Tuhoaa selin olevan vihollisen<*04>
+013,0x1221d4,<SFF>サクリファイス攻撃  (ダイレクト)<CD>パ-ツを ぎせいにして 大ダメ-ジ<*04>,<SFF>Uhrausisku (Suora)<D3>Uhraa osan: suuri vahinko<*04>
+014,0x1221d6,<SFF>タイムアタック攻撃<CD>じかんが すぎるほど 攻撃力アップ<*04>,<SFF>Aikaisku<D3>Voima kasvaa ajan kuluessa<*04>
+015,0x1221d8,<SFF>スタティック攻撃   (ダイレクト)<CD>そうこうが 1/4になる<*04>,<SFF>Staattinen isku (Suora)<D3>Panssari laskee neljännekseen<*04>
+016,0x1221da,<SFF>バグ攻撃<CD>行動の せいこうリつを 下げる<*04>,<SFF>Bugi-isku<D3>Heikentää onnistumista<*04>
+017,0x1221dc,<SFF>ウィルス攻撃<CD>行動の せいこうリつを 下げる<*04>,<SFF>Virusisku<D3>Heikentää onnistumista<*04>
+018,0x1221de,<SFF>ウェ-ブ攻撃<CD>じゅんび時間を ながくする<*04>,<SFF>Aaltoisku<D3>Pidentää valmisteluaikaa<*04>
+019,0x1221e0,<SFF>ホ-ルド攻撃<CD>じゅんび時間を ながくする<*04>,<SFF>Pitoisku<D3>Pidentää valmisteluaikaa<*04>
+020,0x1221e2,<SFF>ファイヤ-攻撃<CD>じゅんび中も ダメ-ジをあたえる<*04>,<SFF>Tuli-isku<D3>Vahinkoa myös valmistellessa<*04>
+021,0x1221e4,<SFF>メルト攻撃<CD>じゅんび中も ダメ-ジをあたえる<*04>,<SFF>Sulatusisku<D3>Vahinkoa myös valmistellessa<*04>
+022,0x1221e6,<SFF>サンダ-攻撃<CD>あいての 動きを ストップさせる<*04>,<SFF>Ukkosisku<D3>Pysäyttää vastustajan<*04>
+023,0x1221e8,<SFF>フリ-ズ攻撃<CD>あいての 動きを ストップさせる<*04>,<SFF>Jäädytysisku<D3>Pysäyttää vastustajan<*04>
+024,0x1221ea,<SFF>カウントダウン攻撃  (ダイレクト)<CD>カウントが 0になると きのうていし<*04>,<SFF>Laskentaisku (Suora)<D3>Nollassa toiminta lakkaa<*04>
+025,0x1221ec,<SFF>ホ-ムシック攻撃   (ダイレクト)<CD>時々 行動せずに 引きかえす<*04>,<SFF>Koti-ikäväisku (Suora)<D3>Välillä palaa toimimatta<*04>
+026,0x1221ee,<SFF>カウントアタック攻撃<CD>かいすうが ふえるほど 攻撃力アップ<*04>,<SFF>Laskuri-isku<D3>Voima kasvaa kerta kerralta<*04>
+027,0x1221f0,<SFF>アサッシン攻撃    (ダイレクト)<CD>ぜったいに クリティカルする<*04>,<SFF>Salamurhaisku (Suora)<D3>Osuu aina kriittisesti<*04>
+028,0x1221f2,<SFF>ぼうぎょ行動     (アクティブ)<CD>みかたの メダロットを えんごする<*04>,<SFF>Puolustus (Aktiivi)<D3>Suojaa liittolaista Medabottia<*04>
+029,0x1221f4,<SFF>かんぜんぼうぎょ行動 (アクティブ)<CD>みかたヘの 攻撃を ブロックする<*04>,<SFF>Täysi puolustus (Aktiivi)<D3>Torjuu liittolaisiin osuvat iskut<*04>
+030,0x1221f6,<SFF>みまんぼうぎょ行動  (アクティブ)<CD>よわい攻撃を ブロックする<*04>,<SFF>Osapuolustus (Aktiivi)<D3>Torjuu heikot iskut<*04>
+031,0x1221f8,<SFF>アンチエア攻撃<CD>ひこうメダロットに 大ダメ-ジ<*04>,<SFF>Ilmatorjuntaisku<D3>Suuri vahinko lentäville<*04>
+032,0x1221fa,<SFF>アンチシ-攻撃<CD>せんすいメダロットに 大ダメ-ジ<*04>,<SFF>Merentorjuntaisku<D3>Suuri vahinko sukeltaville<*04>
+033,0x1221fc,<SFF>さくてき行動<CD>みかたの 攻撃を あてやすくする<*04>,<SFF>Havainto<D3>Liittolaiset osuvat helpommin<*04>
+034,0x1221fe,<SFF>いんペい行動<CD>てきの 攻撃を よけやすくなる<*04>,<SFF>Naamiointi<D3>Iskuja on helpompi väistää<*04>
+035,0x122200,<SFF>きゅうしゅう行動   (アクティブ)<CD>全ての タ-ゲットを きゅうしゅう<*04>,<SFF>Imu (Aktiivi)<D3>Vetää kohteet puoleensa<*04>
+036,0x122202,<SFF>かくとうトラップ行動  (トラップ)<CD>「なぐる.がむしゃら」攻撃にダメ-ジ<*04>,<SFF>Lähitaisteluansa (Ansa)<D3>Osuu lyöjiin ja raivoajiin<*04>
+037,0x122204,<SFF>しゃげきトラップ行動  (トラップ)<CD>「うつ.ねらいうち」攻撃にダメ-ジ<*04>,<SFF>Ampumisansa (Ansa)<D3>Osuu ampujiin ja tähtääjiin<*04>
+038,0x122206,<SFF>フォ-スプラント行動  (トラップ)<CD>行動するたびに フォ-スアップ<*04>,<SFF>Voimaistutus (Ansa)<D3>Medavoima kasvaa joka teolla<*04>
+039,0x122208,<SFF>さくてきクリア行動   (トラップ)<CD>さくてきの こうかを ぼうがいする<*04>,<SFF>Havainnon purku (Ansa)<D3>Häiritsee havaintoa<*04>
+040,0x12220a,<SFF>いんペいクリア行動   (トラップ)<CD>いんペいの こうかを ぼうがいする<*04>,<SFF>Naamioinnin purku (Ansa)<D3>Häiritsee naamiointia<*04>
+041,0x12220c,<SFF>たんぱつクリア行動   (トラップ)<CD>攻撃を 1回だけ ふせぐ<*04>,<SFF>Kertaesto (Ansa)<D3>Torjuu yhden iskun<*04>
+042,0x12220e,<SFF>ファ-ストエイド行動  (トラップ)<CD>こわれたパ-ツを ふっかつさせる<*04>,<SFF>Ensiapu (Ansa)<D3>Korjaa rikkoutuneen osan<*04>
+043,0x122210,<SFF>クロス攻撃セット行動  (トラップ)<CD>「クロス攻撃」を セットする<*04>,"<SFF>Ristiasetus (Ansa)<D3>Asettaa ""ristihyökkäyksen""<*04>"
+044,0x122212,<SFF>クロス攻撃ファイア行動A (コンボ)<CD>「クロス攻撃」で 1体を攻撃<*04>,"<SFF>Ristituli A (Kombo)<D3>""Ristihyökkäys"" yhteen<*04>"
+045,0x122214,<SFF>クロス攻撃ファイア行動B (コンボ)<CD>「クロス攻撃」で 全パ-ツを攻撃<*04>,"<SFF>Ristituli B (Kombo)<D3>""Ristihyökkäys"" kaikkiin osiin<*04>"
+046,0x122216,<SFF>クロス攻撃ファイア行動C (コンボ)<CD>「クロス攻撃」で 全体を攻撃<*04>,"<SFF>Ristituli C (Kombo)<D3>""Ristihyökkäys"" kaikkiin<*04>"
+047,0x122218,<SFF>マイナス症状クリア行動<CD>マイナス症状を かいじょする<*04>,<SFF>Haittatilan poisto<D3>Poistaa haittatilat<*04>
+048,0x12221a,<SFF>トラップクリア行動   (トラップ)<CD>「トラップ」を はかいする<*04>,"<SFF>Ansanpurku (Ansa)<D3>Tuhoaa ""ansat""<*04>"
+049,0x12221c,<SFF>フォ-スせいぎょ行動<CD>「メダフォ-ス」を 使えなくする<*04>,"<SFF>Voimanhallinta<D3>Estää ""Medavoiman"" käytön<*04>"
+050,0x12221e,<SFF>かいふく行動<CD>ダメ-ジをうけたパ-ツを かいふく<*04>,<SFF>Korjaus<D3>Korjaa vaurioituneet osat<*04>
+051,0x122220,<SFF>ふっかつ行動<CD>きのうていしパ-ツを ふっかつさせる<*04>,<SFF>Elvytys<D3>Korjaa toimimattoman osan<*04>
+052,0x122222,<SFF>そせい行動<CD>たおれた みかたを ふっかつさせる<*04>,<SFF>Henkiinherätys<D3>Herättää kaatuneen ystävän<*04>
+053,0x122224,<SFF>レベルドレイン行動<CD>てきの レベルを うばいとる<*04>,<SFF>Tasoimu<D3>Vie vihollisen tason<*04>
+054,0x122226,<SFF>かんぜんむこう行動  (アクティブ)<CD>全ての 攻撃を むこうにする<*04>,<SFF>Täysmitätöinti (Aktiivi)<D3>Mitätöi kaikki iskut<*04>
+055,0x122228,<SFF>かご行動       (アクティブ)<CD>みかたの 1たいを きょうかする<*04>,<SFF>Suojelus (Aktiivi)<D3>Vahvistaa yhtä liittolaista<*04>
+056,0x12222a,<SFF>たいせいはかい行動<CD>「えんご」「かまえ」を はかいする<*04>,"<SFF>Asennon murto<D3>Murtaa ""suojan"" ja ""valmiuden""<*04>"
+057,0x12222c,<SFF>こうがく むこう行動   (そうび)<CD>「レ-ザ-」「ビ-ム」を ブロック<*04>,<SFF>Optinen suoja (Varuste)<D3>Torjuu laserin ja säteen<*04>
+058,0x12222e,<SFF>かやく むこう行動    (そうび)<CD>「ミサイル」「ナパ-ム」を ブロック<*04>,<SFF>Räjähdesuoja (Varuste)<D3>Torjuu ohjukset ja napalmin<*04>
+059,0x122230,<SFF>じゅうリょく むこう行動 (そうび)<CD>「ブレイク」「プレス」を ブロック<*04>,<SFF>Painovoimasuoja (Varuste)<D3>Torjuu murron ja puristuksen<*04>
+060,0x122232,<SFF>症状クリア        (そうび)<CD>全ての 症状が つかない<*04>,<SFF>Tilasuoja (Varuste)<D3>Mitkään tilat eivät tartu<*04>
+061,0x122234,<SFF>けいぞくリペア行動<CD>じゅんび中も ダメ-ジをかいふく<*04>,<SFF>Jatkuva korjaus<D3>Korjaa myös valmistellessa<*04>
+062,0x122236,<SFF>ダメ-ジげんしょう行動(アクティブ)<CD>うけるダメ-ジを ヘらす<*04>,<SFF>Vahingonvähennys (Aktiivi)<D3>Vähentää saatua vahinkoa<*04>
+063,0x122238,<SFF>はんしゃ行動     (アクティブ)<CD>あいての 攻撃を はじきかえす<*04>,<SFF>Heijastus (Aktiivi)<D3>Kimmottaa vastustajan iskut<*04>
+064,0x12223a,<SFF>はんげき行動     (アクティブ)<CD>つよい攻撃だけを はじきかえす<*04>,<SFF>Vastaisku (Aktiivi)<D3>Kimmottaa vain vahvat iskut<*04>
+065,0x12223c,<SFF>じゅうリょくせいぎょ   (そうび)<CD>じゅんび時間を いっていにする<*04>,<SFF>Painovoimahallinta (Varuste)<D3>Vakioi valmisteluajan<*04>
+066,0x12223e,<SFF>てきえい かんち     (そうび)<CD>タ-ゲットセット と せいのうアップ<*04>,<SFF>Vihollishavainto (Varuste)<D3>Kohteen lukitus ja tehonlisäys<*04>
+067,0x122240,<SFF>ちょくぜんせんたく    (そうび)<CD>タ-ゲットクリア と せいのうアップ<*04>,"<SFF>Pikavalinta (Varuste)<D3>Kohteen vapautus, tehonlisäys<*04>"
+068,0x122242,<SFF>じこしゅうふく      (そうび)<CD>じどうてきに ダメ-ジを かいふく<*04>,<SFF>Itsekorjaus (Varuste)<D3>Korjaa vahingot itsestään<*04>
+069,0x122244,<SFF>きゅうそくチャ-ジ行動<CD>じゅんび時間を ゼロにする<*04>,<SFF>Pikalataus<D3>Valmisteluaika nollaan<*04>
+070,0x122246,<SFF>ほじょチャ-ジ行動<CD>じゅんび時間を みじかくする<*04>,<SFF>Apulataus<D3>Lyhentää valmisteluaikaa<*04>
+071,0x122248,<SFF>じょうじチャ-ジ     (そうび)<CD>じゅんび時間が みじかくなる<*04>,<SFF>Jatkuva lataus (Varuste)<D3>Valmisteluaika lyhenee<*04>
+072,0x12224a,<SFF>チャ-ジドレイン行動<CD>じゅんび時間を うばいとる<*04>,<SFF>Latausimu<D3>Vie valmisteluaikaa<*04>
+073,0x12224c,<SFF>てんとう行動<CD>ころばせて めいれいを わすれさせる<*04>,"<SFF>Kaato<D3>Kaataa, käsky unohtuu<*04>"
+074,0x12224e,<SFF>フォ-スアップ行動<CD>メダフォ-スを ふやす<*04>,<SFF>Voimannosto<D3>Kasvattaa Medavoimaa<*04>
+075,0x122250,<SFF>ヘんか行動<CD>ベつのパ-ツに ヘんかする<*04>,<SFF>Muutos<D3>Muuttuu toiseksi osaksi<*04>
+076,0x122252,<SFF>ヘんか(そくど)行動<CD>「スピ-ド」のパ-ツに ヘんかする<*04>,"<SFF>Muutos (nopeus)<D3>Muuttuu ""nopeus""-osaksi<*04>"
+077,0x122254,<SFF>ヘんか(いリょく)行動<CD>「いリょく」のパ-ツに ヘんかする<*04>,"<SFF>Muutos (teho)<D3>Muuttuu ""teho""-osaksi<*04>"
+078,0x122256,<SFF>ヘんか(症状)行動<CD>「症状」のパ-ツに ヘんかする<*04>,"<SFF>Muutos (tila)<D3>Muuttuu ""tila""-osaksi<*04>"
+079,0x122258,<SFF>ヘんか(えんご)行動<CD>「えんご」パ-ツに ヘんかする<*04>,"<SFF>Muutos (suoja)<D3>Muuttuu ""suoja""-osaksi<*04>"
+080,0x12225a,<SFF>ヘんか(かいふく)行動<CD>「かいふく」パ-ツに ヘんかする<*04>,"<SFF>Muutos (korjaus)<D3>Muuttuu ""korjaus""-osaksi<*04>"
+081,0x12225c,<SFF>ヘんか(しえん)行動<CD>「ぼうがい」パ-ツに ヘんかする<*04>,"<SFF>Muutos (tuki)<D3>Muuttuu ""häirintä""-osaksi<*04>"
+082,0x12225e,<SFF>ふういんかいじょ行動<CD>「ふういんぶき」を セットする<*04>,"<SFF>Sinetin avaus<D3>Asettaa ""sinettiaseen""<*04>"
+083,0x122260,<SFF>ちけいこうか行動<CD>フィ-ルドイベントを はっせいさせる<*04>,<SFF>Maastovaikutus<D3>Laukaisee kenttätapahtuman<*04>
+084,0x122262,<SFF>プラス症状クリア行動<CD>プラス症状を かいじょする<*04>,<SFF>Etutilan poisto<D3>Poistaa etutilat<*04>
+085,0x122264,<SFF>使用ふのう行動<CD>パ-ツが 使えなくなる<*04>,<SFF>Käyttökielto<D3>Osia ei voi käyttää<*04>
+086,0x122266,<SFF>こんらん行動<CD>攻撃の あいてを きめられない<*04>,<SFF>Sekavuus<D3>Iskun kohdetta ei voi valita<*04>
+087,0x122268,<SFF>回数ドレイン行動<CD>頭パ-ツの 回数を うばいとる<*04>,<SFF>Kertaimu<D3>Vie pääosan käyttökertoja<*04>
+088,0x12226a,<SFF>かいひふのう行動<CD>かいひを できなくする<*04>,<SFF>Väistökielto<D3>Estää väistämisen<*04>
+089,0x12226c,<SFF>ぼうぎょふのう行動<CD>ぼうぎょを できなくする<*04>,<SFF>Puolustuskielto<D3>Estää puolustamisen<*04>
+090,0x12226e,<SFF>フォ-スドレイン行動<CD>メダフォ-スを うばいとる<*04>,<SFF>Voimaimu<D3>Vie Medavoimaa<*04>
+091,0x122270,<SFF>こくいんふか行動<CD>「こくいんぶき」を セットする<*04>,"<SFF>Kaiverrus<D3>Asettaa ""kaiverrusaseen""<*04>"
+092,0x122272,<SFF>行動ゆうはつ行動<CD>おなじパ-ツを むリやリ 使わせる<*04>,<SFF>Pakotus<D3>Sama osa on pakko käyttää<*04>
+093,0x122274,<SFF>ひこうメダロット<CD>「さばく」「アリじごく」に つよい<*04>,"<SFF>Lento-Medabotti<D3>Vahva: Aavikko, Hiekkakuoppa<*04>"
+094,0x122284,<SFF>ふゆうメダロット<CD>どのフィ-ルドも とくい<*04>,<SFF>Leijunta-Medabotti<D3>Hyvä kaikilla kentillä<*04>
+095,0x122286,<SFF>たきゃくメダロット<CD>「さんち」「かざん」に つよい<*04>,"<SFF>Monijalka-Medabotti<D3>Vahva: Vuoristo, Tulivuori<*04>"
+096,0x122288,<SFF>にきゃくメダロット<CD>「しんリん」「ジャングル」に つよい<*04>,"<SFF>Kaksijalka-Medabotti<D3>Vahva: Metsä, Viidakko<*04>"
+097,0x12228a,<SFF>くるまメダロット<CD>「まちなか」「スタジアム」に つよい<*04>,"<SFF>Ajoneuvo-Medabotti<D3>Vahva: Kaupunki, Stadion<*04>"
+098,0x12228c,<SFF>せんしゃメダロット<CD>フィ-ルドに えいきょうされない<*04>,<SFF>Tankki-Medabotti<D3>Kenttä ei vaikuta siihen<*04>
+099,0x12228e,<SFF>せんすいメダロット<CD>「すいちゅう」「ひょうが」に つよい<*04>,"<SFF>Sukellus-Medabotti<D3>Vahva: Vesi, Jäätikkö<*04>"
+100,0x122290,<FINAL>,<FINAL>
 101,0x122276,@0x122274,@0x122274
 102,0x122278,@0x122274,@0x122274
 103,0x12227a,@0x122274,@0x122274

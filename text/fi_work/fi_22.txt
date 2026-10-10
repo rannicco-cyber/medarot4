@@ -1,0 +1,845 @@
+@000
+Kiitos, olipa hyvää~!
+Mene ajoissa nukkumaan.
+Joo! Olen tänään ihan poikki.
+Väsyttikö yöpyminen Koujin luona noin paljon?
+(Säps!!)
+Ai, tuota, Kouji on niin energinen,
+että pelkkä katsominen väsyttää, tai jotain.
+? No, ihan sama. Nukkumaan ajoissa!
+J-jooo!
+@001
+Menen tänään nukkumaan.
+@002
+Huh~ olipa täpärällä...
+Mikä oli täpärällä?
+@003
+{BUF03}, isä ei sano mitään,
+mutta jos olet mies, älä ainakaan huolestuta äitiä.
+Ymmärräthän?
+J-joo.
+No, hyvää yötä.
+Hyvää yötä, isä...
+@004
+Isää ei voi huijata...
+Joka tapauksessa huomenna on iso päivä, joten nukkumaan ajoissa.
+@005
+(Tällä Medabotilla on samoja maneereja
+kuin hänen tekemillään... ei, liiankin samoja.)
+@006
+Professori, saitteko jotain selville?
+@007
+Retort, menisitkö Sazankaan?
+Haluan, että tutkit jotain...
+Mitä tarkoitatte?
+Tutkin parhaillaan neljää kuningasta, jotka ilmestyivät yhtäkkiä ilmansuuntien kouluihin
+ja laajentavat valtaansa...
+Sinähän löysit tämän?
+Kyllä.
+Tässä Medabotissa on jotain, mikä vaivaa minua.
+Se voi liittyä neljän kuninkaan ilmestymiseen...
+@008
+Selvä, mennään!
+@009
+"Usao-kahvila"?
+@010
+Mitä sinä teet? Nyt ei ole sen aika.
+@011
+...Joo, totta.
+@012
+{BUF03}~~~!
+@013
+Häh? Missä Kouji on?
+@014
+Sinä olit niin hidas, että hän meni jo edeltä.
+Voi sitä, aina hän ryntää yksin eteenpäin.
+@015
+Mutta kun sinä myöhästyit...
+A-anteeksi...
+No, ei se mitään. Mennään mekin.
+Mennään.
+Huh... pitkä matka edessä~
+@016
+.........
+@017
+Tästä eteenpäin on kuulemma "Sazankan dojo".
+Mutta silti, se Koujin mainitsema
+"Genbun Kokuen", kuka hän oikein on?
+Muiden kaupunkien ottaminen omaan valtaansa
+ei ole tavallisen koululaisen juttu, eihän?
+@018
+Sen saa ehkä selville, kun kiipeää tämän rinteen...
+@019
+Tuntuu kuin olisin nähnyt jotain aivan uskomatonta...
+Kuvittelet vain...
+Hei~ pitääkö tämä ihan oikeasti kiivetä?
+Olen huolissani Karinista, ja lisäksi
+kukaan ei tiedä, mitä Kouji tekee yksin...
+Voi että, inhoan mäkiä!
+@020
+Matkaa riittää~ Voisikohan se vähän lyhentyä?
+Ei nyt sentään...
+@021
+Väsyttää~ Hei, {BUF03}, kanna minua reppuselässä~
+Älä vaadi mahdottomia...
+@022
+En jaksa enää kävellä~
+Kas niin, Arika, huippu on jo lähellä.
+Vedä minua!
+Häh?
+Reppuselkä ei tarvitse, vedä vain kädestä!
+...Ei auta...
+Helppoa, helppoa♥
+@023
+U...uuh...
+Mikä hätänä? Oletko kunnossa?
+...Hah! Nyt ei ole aikaa tällaiseen.
+@024
+Minun... minun on mentävä...
+@025
+Hmm... ei onnistu...
+@026
+Ei kannata rasittaa itseään.
+Pelkästään ostoksille pitää kävellä kaupunkiin asti,
+ja kaartilaiset käskevät "hae leipää"...
+.........
+Hän taisi uupua.
+@027
+Vai niin, dojolla ei tietenkään ole lähikauppaa.
+Lepään hetken ja jatkan, joten älkää välittäkö...
+Pitääkö tätä mäkeä siis rampata joka ostoksella?
+Minä en kestäisi tällaista.
+Mutta meidän pitää jatkaa... Yritetään jaksaa.
+@028
+Huh huh, vihdoin perillä...
+Olen ihan poikki~
+@029
+Ah! Portti!
+Ei! Se meni kiinni!
+@030
+Mitä? Keitä te olette?
+T-tuota... haluaisimme jatkaa eteenpäin,
+mutta emme löydä muuta tietä,
+joten päästäisittekö meidät läpi?
+Hmph! Joka aamu dojon portti suljetaan tiettyyn aikaan.
+Joka ei ehdi ajoissa, ei pääse tästä portista!
+Se on sääntö!
+@031
+Mutta emme ole tämän dojon väkeä,
+eikä muuta tietä ole, joten ei auta! Päästä läpi!
+@032
+A-Arika, rauhoitu!
+@033
+Ei kuulu minulle.
+Ulkopuolinen tai ei, heikolle ei ole tietä!
+Heikolle? Sinäpä tuomitset!
+@034
+Jos niin luulet, mitä jos koettelet, olenko heikko?
+@035
+A-Arika!
+@036
+Hiljaa!
+@037
+Hoo, olet hyvin itsevarma.
+Hauskaa. En tiedä kuka olet, mutta jos voitat minut,
+tämän Sazankan dojon portin vartijan, niin voita vain!
+@038
+...Mutta! Jos me voitamme, päästät meidät läpi!
+Hmph! Hyvä on. Jos voitat minut, pääset läpi.
+(Aah aah...)
+@039
+Selvä sitten. {BUF03}, tsemppiä!
+@040
+Häääh!?
+Luonnollinen jatko, eikö? Etkö katsonut?
+Tuota...
+@041
+Tiedäthän! Jos häviät tässä,
+emme pelasta Karinia!
+@042
+Poika, minä, judon 2. dan, annan sinun valita
+lajin. Otan vastaan minkä tahansa kilpailun!
+@043
+R-robottelu!
+(...Tai siis, millään muulla en voittaisi ikinä!)
+Robottelu...? Hyvä on, sitten aloitetaan!
+@044
+Jee!
+@045
+V-voitin...
+@046
+Lupaus on lupaus! Päästä meidät läpi!
+En uskonut, että minä häviäisin... Ei auta, menkää!
+@047
+Jee! Mennään, {BUF03}!
+Pitää etsiä myös edeltä mennyt Kouji.
+Hehheh...
+@048
+Onkohan tämä oikotie?
+Mutta nyt pitää etsiä paikka, jossa voi vaihtaa vaatteet...
+@049
+Onpa järeä portti. Tästä ei pääse ilman avainta.
+@050
+{BUF03}!
+@051
+Kouji!
+@052
+Emme tiedä, mitä täällä on, joten älä mene yksin~
+Sori, en vain pysty pidättelemään itseäni.
+Löysitkö uloskäynnin?
+Joo, Kameyamaan pääsee vain ylemmän portin kautta,
+mutta se on lukossa, enkä tiedä miten sen saa auki...
+Vai niin.
+Älä sano "vai niin".
+Näin emme pääse eteenpäin.
+@053
+Hmm, niin.
+@054
+Täällä näyttää olevan aika laajaa, tutkitaanko jaetusti?
+Kenellä on avain, milloin portti avautuu ja niin edelleen.
+Tehdään niin.
+Minä tutkin oikeanpuoleisen rakennuksen.
+Kouji, vasen!
+Selvä!
+@055
+{BUF03}, sinä keskimmäisen! Selvä?
+Joo, selvä.
+@056
+Arikalla näyttää olevan vielä paljon virtaa.
+@057
+Jätetään tämä puoli Arikalle.
+@058
+Jätetään tämä puoli Koujille.
+@059
+Täällä vahva on hyvä ja heikko on paha!
+Jos haluat menestyä, tule vahvaksi! Meidän Kokuen-kaartiimme
+ei heikkoja kaivata! Ymmärrättekö?
+@060
+...Sitten seuraava!
+@061
+O-olkaa hyvä...
+Haluatko tulla vahvaksi?
+K-kyllä.
+Haluatko elää ylellisesti?
+K-kyllä.
+Voita minut sitten! Yksi robotteluottelu!
+@062
+Kas niin, tule!
+Uwaaaaaah!!
+@063
+Aaah...
+Heikolle ei ole tietä! 10 kierrosta kentän ympäri!
+Hiiii~
+@064
+Tämänpäiväinen opetus päättyy tähän!
+Jos haluatte hyvän elämän, tulkaa vahvoiksi! Ymmärrättekö?
+@065
+(...Melkoinen paikka. Huolettaa Hanazonon puolesta.)
+@066
+Olen Sazankan dojon mestari Shioka Raizou, niin on!!!!
+@067
+O-onpa kova ääni...
+Häh? Tuo ääni kuulosti jotenkin tutulta...
+@068
+Kouji! Saitko jotain selville?
+Täällä on kolme asuntolaa,
+ja huone määräytyy robottelutaitojen mukaan.
+Kokuenin kaarti on vallannut "Matsu-asuntolan".
+Lisäksi on "Take-asuntola" ja "Ume-asuntola".
+Entä miten portin saa auki?
+Kun Matsu-asuntolan väki menee kuumille lähteille,
+ylempi portti aukeaa. Jos käytämme sen hetken...
+JUOKSE NOPEAMMIN!
+@069
+Mitä?
+@070
+E-en jaksa enää... saanko le...vätä...
+EI. MESTARI KÄSKI: "EI LEPOA."
+JUOKSE...
+@071
+Uwaah!
+@072
+H-hei! Tuo Medabotti...!
+Se hyökkäsi ihmisen kimppuun!? Kamalaa! Se pitää pysäyttää!
+@073
+...Huh, säikähdin!
+Pidetäänkö täällä ihmisiä vastaan hyökkääviä Medabotteja?
+Mitä täällä oikein on meneillään...
+Oletko kunnossa? Satutitko itsesi?
+Turhaan sekaannuit.
+Täkäläiset Medabotit on
+säädetty niin, etteivät ne voi juuri vahingoittaa ihmisiä,
+joten olisit vain jättänyt minut rauhaan.
+Hei! Mikä tuo puhetapa on!
+@074
+Mikä hätänä? Mikä meteli tämä on!?
+Ah! Arika! Asia on niin, että...
+@075
+Häh? Häh?
+@076
+Meidät on piiritetty!?
+@077
+Hei, mitä tämä tarkoittaa!
+KAPINALLINEN HAVAITTU...
+@078
+Mitä nämä ovat!
+Karmivaa...
+@079
+Sanoinhan. Meidät lähetetään varmasti kellariin.
+@080
+Sitä en anna tapahtua!
+Vastustaminen on turhaa.
+Lukumäärässä emme voita niitä, joten satutat vain itsesi.
+Älä naurata...
+@081
+Totta... Ennen kuin tiedämme, mitä nämä Medabotit ovat,
+ei kannata tehdä mitään hätiköityä.
+Sinäkö sanot noin...!
+@082
+VASTARINTA SATUTTAA...
+En pidä tästä, mutta tällä kertaa
+taitaa olla viisainta pysyä kiltisti.
+@083
+SISÄÄN.
+@084
+Aijai~
+Auts...
+Kohdella tyttöä noin rajusti,
+mestarin kasvatus on huonoa!
+Tilanne on toivoton. Suunnitelma meni pilalle...
+@085
+Mitä sinä mutiset?
+Sanoin, että tilanne on toivoton.
+Täältä ei ole mitään keinoa paeta.
+Kuulehan nyt!
+Sinähän käskit meidän olla vastustamatta Medabotteja?
+Kun niin kävi, mitään ei ole tehtävissä.
+Hei, eikö noilla Medaboteilla ole "Medabotin 3 lakia"?
+On kyllä... mutta ne on luultavasti puoliksi nukutettu.
+? Mitä tarkoitat?
+Niiden puhe oli oudon kankeaa, eikö?
+Ne ovat luultavasti ihmisen termein hypnoosissa,
+jotta ne tottelisivat mestarinsa käskyjä uskollisesti...
+Sellaistako voi tehdä! En ole kuullutkaan!
+Jos se on totta, sitä ei voi antaa anteeksi!
+En tiedä... tämä on vain arvaus.
+Mutta jos ne ovat puoliunessa,
+se selittäisi, miksi "Medabotin 3 lakia" ei toimi kunnolla.
+Kuka sellaista tekisi...
+Neljä kuningasta liittyvät tähän varmasti.
+Neljä kuningasta?
+Mitä ne ovat?
+Ettekö tiedä mitään?
+Kameyaman "Genbun Kokuen" on pohjoisen kuningas, yksi neljästä.
+Eli lännessä, idässä ja etelässä on muitakin?
+@086
+Hei! Kerro meille niistä neljästä kuninkaasta!
+Se "Genbun Kokuen" sieppasi Karinin!
+............
+...Nielaus.
+Otan muistiinpanot esiin.
+Selvä, kerron. Tämä on kai jonkinlainen kohtalo.
+Neljän kuninkaan nimeä käyttävät ilmestyivät kaupunkeihin idässä, lännessä, etelässä ja pohjoisessa
+aika hiljattain, vasta noin 3 kuukautta sitten.
+Nyt he yrittävät laajentaa valtaansa omien kaupunkiensa ulkopuolelle.
+Tämäkin kaupunki on Kokuenin vallan alla.
+Siksikö he kurottivat Hanazono-akatemiaan asti!
+Mutta eivätkö kaupunkilaiset vastustaneet?
+Vastustivat kyllä, mutta loputtomasti
+virtaaville Medabottisotilaille he eivät mahtaneet mitään.
+Luovuttivatko he sitten?
+...Liberties ei ole vielä luovuttanut.
+Mikä Liberties?
+Neljää kuningasta vastustamaan perustettu
+vallankumousryhmä "Liberties".
+Libertiesin jäsenet ovat hajallaan eri puolilla
+ja pitävät salaa yhteyttä... mutta
+Mikä hätänä?
+Libertiesin johtaja jäi kiinni.
+Kuulin, että hänet on vangittu jonnekin tähän dojoon,
+ja olen etsinyt johtajan olinpaikkaa täältä.
+Mutta jäinkin itse kiinni, ja tässä sitä ollaan.
+Olet siis Libertiesin jäsen?
+Vai niin, me siis sekaannuimme turhaan.
+Ensin pitää keksiä keino päästä täältä pois~
+Mahdotonta. Sotilaat vartioivat tiukasti.
+...Huoh.
+@087
+Joku tulee!
+@088
+Kuka sinä olet?
+@089
+Ah! Sinä olet se poika!
+Tuttusi?
+@090
+Mikä tämä on?
+Avain.
+Ei kai peli saa loppua tähän?
+Kuka sinä olet?
+Saat vielä tietää.
+@091
+Odota! Kerro nimesi!
+@092
+...Mizuchi.
+Minä olen {BUF03}! Kiitos, Mizuchi!
+...Heh.
+@093
+Hei, {BUF03}, kuka tuo oli?
+@094
+Hän sammutti tulta yhdessä kanssamme Odoro-vuorella!
+Silloin en ehtinyt edes kiittää.
+@095
+Onko hänkin Libertiesistä?
+Ei ole, hän ei ole jäsen.
+...En pidä hänestä.
+@096
+Kouji! Hän pelasti meidät!
+Miksi epäilet häntä!
+Mutta... ulkona oli paljon vartijoita, eikö?
+Miten hän pääsi tänne asti?
+@097
+Älä sinäkin, Arika.
+Ehkä juuri nyt on turvallista!
+Sinä olet kyllä toivoton "kaverihullu"~
+"Kaverihullu"??
+Epäilisit edes vähän.
+No, se on ehkä sinun hyvä puolesi.
+No, joka tapauksessa häivytään täältä nopeasti.
+@098
+Jee, lukko aukesi!
+@099
+Tutkitaan ensin oma alueeni. Se oli alempi rakennus.
+@100
+Kas niin, paetaan nopeasti.
+@101
+Mikä hätänä? Saithan avaimen?
+@102
+Kukahan hän on? Hän ei ole Sazankasta.
+@103
+Eiväthän ne oudot Medabotit ole täällä?
+Jos ne tulevat, sinä hoidat ne.
+@104
+Ei hätää, Arika. Niitä ei näy.
+Oikeasti? Huh.
+@105
+Tämän asuntolan väki näyttää olevan kaikki poissa.
+Entä Medabottivartijat?
+Kaikki nukkuvat syvässä unessa... miksiköhän?
+@106
+Onnekasta!
+Tekikö se Mizuchi sen?
+Jos niin, se oli taidokasta.
+Mutta minne täkäläiset menivät?
+Luultavasti "Sazankan kuumille lähteille".
+Huono juttu, menetimme tilaisuuden päästä portista!
+Jossain täytyy olla paikka, jossa johtaja ja muut jäsenet
+ovat vankeina! Etsin muualta!
+@107
+Mennään mekin nyt ulos.
+@108
+Kas niin, mennään mekin.
+E-en minä mitenkään pelkää!
+@109
+Pitää keksiä toinen keino päästä portista.
+Hmm, minua kiinnostaa myös se, mitä poika
+kertoi Libertiesin johtajasta.
+Jos heidänkin tavoitteensa on kukistaa neljä kuningasta,
+voimme varmasti toimia yhdessä!
+Emme kyllä tiedä, montako Libertiesiä on.
+Tällä kertaa ei jaeta alueita, vaan tutkitaan mielen mukaan.
+Jos selviää jotain, tavataan urheilukentän keskellä olevan patsaan edessä.
+Kokoonnutaan ennen kuin Matsu-asuntolan väki palaa.
+Nyt vartiointikin on harvaa.
+@110
+No, mitä minä tutkisin?
+@111
+Mennään sinne, minne emme äsken päässeet.
+@112
+Jossain on varmasti vielä tutkimattomia paikkoja.
+@113
+Nopeasti! Onhan vielä käymättömiä paikkoja?
+@114
+Tutkimattomiakin paikkoja on. Mennään.
+@115
+Tutkivatkohan nuo kaksi paikkansa kunnolla?
+@116
+No niin, mennäänkö käymättömiin paikkoihin?
+@117
+Niin~ Mentäisiinkö uusiin paikkoihin~?
+@118
+Mennään♪ Tutkittavaa on vielä varmasti.
+@119
+Mennäänkö sinne, missä nuo tutkivat? Ihan sama.
+@120
+Jotenkin... pimeää. Mikä paikka tämä on...
+@121
+? Sisältä kuuluu ääniä?
+@122
+...Eli siis... robo.
+Robo?
+@123
+Tämä dojo kuuluu Kokuenille, robo.
+Eli se kuuluu myös meille Roborobo-jengille, robo.
+Meillä on sopimus Kokuenin kanssa, robo.
+Pidä se hyvin mielessä, robo!
+Petturit rangaistaan, robo!
+Sinä olet Libertiesistä, robo?
+E-en ole! Minä...
+Ah! Se on äskeinen poika!
+Turha teeskennellä, robo!
+Miksi sitten olit sellaiseen aikaan sellaisessa paikassa, robo!?
+Mitä sinä nuuskit salaa, robo?
+Kuljin vain sattumalta ohi!
+Turha väitellä, robo!
+Saat meidän tyylistämme rangaistuksen, robo!
+@124
+Seis! Roborobo-jengi!
+@125
+M-mitä... miksi sinä olet täällä, robo!?
+Minä tässä kysyn! Varautukaa, Roborobo-jengi!!
+@126
+Robooo!!
+Ilmoitetaan Shiokaralle, robooo!
+@127
+Onko Roborobo-pomo Shiokara täällä?
+Roborobo-pomojen pitäisi olla yhä Select-joukkojen vankeina...
+En kuullut uutisia vankilapaosta...?
+Tämä menee yhä sekavammaksi.
+@128
+Pelastit minut taas.
+Olin vähällä joutua takaisin kellariin.
+...Kiitos.
+Häh? Ai, ei se mitään.
+Roborobo-jengin kurittaminen on arkipäivää.
+Roborobo-jengi, vai...
+? Tiedätkö jotain?
+Se kummallinen joukko käyttää neljän kuninkaan valtaa kilpenä
+ja tekee mitä haluaa kaikkialla.
+Ilman pomoja Roborobo-jengi ei toimi,
+mutta jos pomot ovat liitossa neljän kuninkaan kanssa, se on hankalaa.
+Mutta miten he karkasivat tällä kertaa...?
+Ai niin! Odoro-vuoren Roborobo-jengi
+etsi kai "morsianehdokkaita",
+liittyykö se neljään kuninkaaseen?
+Kokuen on käskenyt alaisiaan
+keräämään "morsianehdokkaita" kaikkialta.
+Hän luulee voivansa tehdä mitä haluaa!
+Sitten myös Kokuenin alaisten sieppaama Karin!?
+Jos Kokuen on noin hullu tyyppi,
+Karin pitää pelastaa nopeasti...
+Entä jos hänestä on oikeasti jo tehty Kokuenin morsian...
+@129
+...Kamalaa!
+@130
+Hei! Hei! Hei! Mitä teen? Mitä teen? Mitä pitäisi tehdä??
+Rauhoitu nyt! Jos haluat kerätä tietoa,
+voit palata kerran Sazankan kaupunkiin.
+Mutta eikö portti ole nyt kiinni, joten ulos ei pääse?
+Ihan meidän kesken...
+tutki urheilukentän keskellä olevaa patsasta.
+...No niin! Minulla on kiire, nähdään!
+@131
+"Ensimmäisen mestarin patsas"
+@132
+"Ensimmäisen mestarin patsas"
+Tuota, se poika puhui jostain tämän lähistöltä...
+@133
+Löytyi, avain!
+@137
+Odotetaan sitten muita.
+@138
+Kiitos odotuksesta♪
+@139
+Odotitko?
+@140
+No? Saitko tietoja?
+Kaikki pelkäävät kaartia, eikä kukaan suostunut puhumaan.
+Sori, tietoja ei ole.
+Entä {BUF03}?
+Roborobo-pomo Shiokara on kuulemma täällä...
+@141
+Mitääh!? Mitä tuo on!!
+Karkasivatko he vankilasta!?
+No, kyse on Select-joukoista.
+Silti on kummallista, ettei siitä ole uutisoitu.
+Vakava ongelma.
+Entä muuta?
+...Ja Roborobo-jengi on neljän kuninkaan alaisena, ja tuota...
+Odoro-vuorella "morsianehdokkaita" etsinyt Roborobo-jengikin
+toimi kuulemma Kokuenin käskystä.
+Karinin sieppauskin oli Kokuenin "morsianehdokas"-juttu...
+Ehkä hän on jo nyt...
+@142
+E-I K-Ä-Y!!!!
+Minä en ikinäääää hyväksy sitä!!!!
+@143
+Kouji, rauhoitu nyt~
+Sinä kaadoit öljyä tuleen.
+Huh huh, puuh puuh...
+...No, seuraavaksi minun keräämäni tiedot.
+Eniten tietoa tässä Sazankan kaupungissa on nyt
+tietysti Kokuen-kaartilla.
+Totta... niin varmaan.
+Mutta Matsu-asuntolan kaartilaisethan
+menivät kuumille lähteille? Tietojen kerääminen...
+Mutta kuunnelkaa ja hämmästykää: Sazankan dojon lisäksi
+on toinenkin paikka, jossa Kokuen-kaarti kokoontuu.
+Sazankan kaupungin pelisali on sellainen.
+Oikeasti!?
+Totta kai! Palataan siis Sazankan kaupunkiin.
+Niin...
+Ilman tietoja emme pääse nyt etenemään.
+Ah! Mutta Sazankan portti
+on lukittu!
+@144
+Löysin muuten äsken tuolta tämän.
+@145
+Sehän on avain!
+Sillä saa kuulemma alemman portin auki.
+Kerro tuollaiset heti!!
+@146
+Sinne he siis olivat piilottaneet portin avaimen.
+@147
+Ajatus on sama kuin tavallisessa kodissa.
+@148
+Kun pääsemme ulos, asia on selvä! Mennään!
+Uooooooooh!!
+@149
+Kuuluipa hyvä ääni~
+Onkohan Kouji kunnossa?
+@150
+Ilman avainta ei päässyt läpi, ja olimme pulassa...
+Onkohan Kouji kunnossa.
+Avataan lukko nopeasti.
+@151
+A-avaa portti nopeasti...
+Kouji, oletko kunnossa?
+Näytänkö kunnossa olevalta?
+Sori, et kyllä näytä ihan kunnossa olevalta.
+Vai niin... heh, hauskaa.
+Tästä ei tule mitään.
+@152
+Ovi on lukossa.
+@153
+Lukko aukesi!
+@154
+Uooooooooh!!
+@155
+Onkohan hän kunnossa?
+Varmaan on?
+Jos minut siepattaisiin, huolestuisitko noin paljon?
+(Saattaisin huolestua sieppaajasta.)
+Ajattelitko juuri jotain outoa?
+Mitä? En tietenkään!
+(Miten hän tietää?)
+Olen sentään lapsuudenystäväsi♪
+(Siis miten hän tietää?)
+Mennään. Pelisali on Sazankan vasemmassa alakulmassa.
+@157
+T-täällä...
+Hää? Onko teillä asiaa meille Kokuen-kaartilaisille?
+Ei mitäään!
+@158
+Onkohan Kouji jo sisällä?
+Eikö? Hän meni edeltä.
+Kunpa hän ei olisi joutunut vaikeuksiin...
+@159#kabuto
+Tuo ääni... Koujin Exise!?
+Kiirehditään!
+@159#kuwagata
+Tuo ääni... Koujin Unitris!?
+Kiirehditään!
+@160
+Kouji!!
+@161
+No niin! Kerrot meille kaiken, mitä tiedät!!
+Hehe, onpa sisukas, vai mitä!
+@162
+No, mitäs tehdään?
+Hihi, valinnanvaraa riittää...
+@163
+Ugh...
+@164
+R-robotellaan!!
+@165
+.........
+Hauskaa! Ulos siitä!!
+@166
+(Tästä tuli melkoinen juttu...)
+@167
+Haastatte meidät riitaan, onpa teillä otsaa.
+Mutta älkää luulko pääsevänne helpolla!
+Minä tässä sanon! Mennään!!
+@168
+Riittääkö!
+Tsk.
+Hmph!
+...Mutta jos me kutsumme,
+apuvoimia tulee lisää ja lisää.
+Otellaan, kunnes olette murskana!
+Senkin likainen!
+Hmph, entä sitten?
+"Kilpailussa ei ole mieltä, ellei voita"
+on Kokuenin periaate.
+!!
+Sellaista se on. No, jatketaan reippaasti.
+@169
+Te siellä! Mitä te teette!
+@170
+Hups! Select-joukot!
+Ne tulevat tänne!
+@171
+Pelastuimmeko...? Tavallaan.
+@172
+Saimme ilmoituksen tappelevista lapsista,
+joten tulimme paikalle!
+Te olette ne ongelmalapset!?
+@173
+Häh?
+@174
+Mitä?
+@175
+Hm?
+Teidät rangaistaan!
+Tulkaa mukaan Select-osastolle!
+Mitääh!?
+@176
+Te olette ne, jotka notkuvat pelisalissa
+ja häiritsevät lähiseudun asukkaita!
+@177
+Älä naurata! Meidän kimppuumme hyökättiin,
+jouduimme vain mukaan! Missä sinun silmäsi ovat!!
+@178
+Niin! Älä puhu roskaa!
+R-rauhoittukaa nyt... molemmat.
+@179
+Sano sinäkin jotain!
+@180
+Niin, {BUF03}! Ei tässä pidä olla hiljaa!
+@181
+Kerrassaan, olette niin kiihtyneitä, ettei teitä voi käsitellä.
+Jäähdytelkää päitänne täällä hetken!
+@182
+Ah! Senkin!
+@183
+Nyt ei ole aikaa istuskella!
+Tee jotain, {BUF03}!
+Helppo sanoa...
+@184
+Ahem, ulos siitä, te.
+Mitä nyt?
+Ensin sisään, sitten ulos...
+Mitä väliä, jos meitä käsketään ulos, mennään heti.
+Niin.
+Täällä istuminen ei auta mitään.
+@185
+Häh? Kirara!
+Tulin katsomaan, koska Hikaru yksin huoletti...
+Rajua menoa.
+Mitä!? Onko Hikarukin Sazankassa?
+On, tutkimassa neljää kuningasta.
+Sellaista siis.
+Muuten, nappasin yhden metelin aiheuttajista.
+Etkö halunnut kysyä häneltä jotain?
+Totta kai!
+Mennään sitten ulos.
+Medabottini vahtivat häntä.
+@186
+Kiraran Medabotit...
+@187
+Kishaaaaaaaaaaaah!!
+@188
+Hiiiiiiiiiiiih! A-auttakaa!!
+Arvasin, God Emperor...
+Ja vielä kolme...
+@189
+Vastaa sitten kysymyksiin! Missä Karin on!!
+Ja kerro myös Libertiesin johtajan olinpaikka.
+S-senkin joukolla kimppuun käyvät pelkurit!
+Sanoo se, joka teki äsken samaa...
+Juuri niin!
+Jos ymmärrät asemasi, vastaa.
+Jos et vastaa kiltisti, sinulle käy huonosti♥
+Tsk... hmph! Kerron sitten.
+Hanazonosta tuotu tyttö on nyt Kameyamassa.
+Libertiesin johtaja ei ole enää täällä!
+Onko se totta?
+Totta! Robo-robo-tyypit veivät hänet muualle.
+Täälläkin Roborobo-jengi...
+Sekin on Kokuenin käsky.
+Enempää en tiedä!
+@190
+Hän ei taida valehdella. Minäkin tutkin
+Libertiesiä tähän kaupunkiin tultuani, mutta johtajaa en löytänyt.
+Kerroin jo näin paljon, joten riittää jo, eikö? Eikö?
+@191
+Niin hän sanoo. Mitä teemme?
+Kishaaaaaaaaah!!
+Hiiiiiiiih!
+@192
+...Riittää jo, eikö?
+Niin, tuskin hänellä on enempää tietoa.
+Odota, vielä yksi asia!
+@193
+Missä on avain Sazankan dojon takaiseen porttiin!
+Kuumille lähteille vievän portin avain!? Se on mestarilla!
+Mestari pitää sitä aina mukanaan! Riittääkö!?
+Onko muuta tietä?
+Ei ole! Ja vaikka olisi, en tiedä! Totta!!
+@194
+Näyttää olevan totta.
+Athos! Riittää jo.
+@195
+Voi, hän karkasi...
+Antaa olla, tuollaiset tyypit.
+@196
+Palatkaa, Athos! Porthos! Aramis!
+@197
+Kirara, onko sinulla tietoa neljästä kuninkaasta?
+Minä ja Hikaru aloitimme tutkimukset vasta tänään...
+Varmuutta ei ole, mutta neljää kuningasta ohjaa taustalla
+joku salaperäinen henkilö, se on selvää.
+Ohjaa taustalla...?
+Eihän tavallinen koululainen voi vallata kaupunkeja.
+Ja jos Medabottiprofessorin vaisto on oikeassa,
+se voi olla joku, jonka professori tuntee.
+Kukahan se on?
+Joka tapauksessa se ei auta meitä nyt.
+Niin, ensin pitää jotenkin päästä dojon toiselle puolelle...
+@198
+...Toivo ei ole aivan mennyt.
+Mitä, oikeasti!?
+Tässä kaupungissa on tietäjä, jolla on yhteys alamaailman tietoihin.
+Hän voi tietää jotain, vaikken voi luvata.
+Missä hän on?
+Vähän oikealle...
+Karin, odota minua!!
+@199
+.........
+.........
+.........
+@200
+Tuota, missä se olikaan?
+Ai, niin. Liike nimeltä "Usao-kahvila".
+@201
+No, minä jatkan tutkimuksia.
+Pidäthän huolta Karinin asiasta.
+Luota minuun. Moikka, bai bai♥
+@202
+Mennään sitten katsomaan!
+Mennään. Kouji varmaan odottaa.
+@203
+{BUF03}! Olitpa hidas!!
+@204
+Hidas... Missä sinä itse olit, Kouji?
+No... tuota... niin, se!
+Odotin teitä liikkeen edessä, kun kohtasin jotain tuntematonta.
+Mitä tuo on?
+@205
+No, ihan sama. Tämä on se "Usao-kahvila"?
+Mennään nopeasti sisään.
+@206
+M-minä odotan täällä!
+@207
+Mikä hätänä, Kouji?
+E-ei mikään.

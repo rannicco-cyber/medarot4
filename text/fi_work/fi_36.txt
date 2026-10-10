@@ -1,0 +1,852 @@
+@000
+...Eli syylliset olitte siis te?
+Tällä kertaa ei ole erehdystä?
+Syylliset? Mistähän mahdatte puhua?
+Älä esitä tyhmää! Te ryöstitte raunioita
+löytääksenne Fuyuun-kiven!
+Ohohohoo! Neiti Shuri sitä toivoo.
+Joka löytää "maailman kauneimman asian",
+saa palkkion.
+Shuri... sehän on etelän kuningas!
+Hän ei ole mikään, jota kaltaisenne saavat
+kutsua pelkällä nimellä! Neiti Shurin
+tarjoama palkkio on peräti
+1000000¥! Roborobo-jengissä en ansaitsisi sitä
+koko elämässäni! Nyt voin ostaa merkkilaukkuja ja kenkiä
+mielin määrin! Ohohohoo!
+Raha sokaisi hänet...
+Surume on aina tykännyt kimaltavista jutuista.
+Taitaa olla aika yksinäinen ihminen.
+Hiljaa siellä!
+Olette sata vuotta liian nuoria puhumaan minulle noin!
+@001
+Robooo...
+No niin, antaudu!
+@002
+Hei, lapset! Mitä te teette?
+@003
+Ai! Professori!
+@004
+M-mitä te olette?
+Ohohohoo! Minä olen Roborobo-jengin kaunis
+naispomo Surume! Ja sinusta tulee
+meidän panttivankimme!
+Roborobo roborobo
+@005
+Ohohohohohoo! Tulkaapa vain lähemmäs,
+niin en vastaa, mitä tälle ihmiselle tapahtuu!
+@006
+Hitto!
+Raukkamaista!
+Raukkamaista? Ohhohhoo! Vähän myöhäistä!
+Niin kauan kuin meillä on panttivanki, on turha
+yrittää napata minua! Ja tietenkin, jos ilmoitatte
+Select-joukoille, tälle ihmiselle käy huonosti!
+@007
+Hei siellä!!
+Et pääse karkuun!
+@008
+Hmm... Vaikka seuraisin nyt, siitä ei ole hyötyä,
+ellen keksi keinoa pelastaa professori Akaganea.
+...Arikan kanssa tavattiin kai
+"juoksuhiekkaluolassa". Kerätään tietoa
+ja odotetaan sisällä.
+@009
+"Hiekkaputouksen" hiekka kimaltelee, se on tosi kaunis.
+@010
+Hei, onko totta, että luolassa kummittelee?
+@011
+Aave ilmestyy kuulemma usein tämän yläpuolelle.
+@012
+Fuyuunin kuuluisin nähtävyys. Kannatti tulla kaukaa.
+@013
+Tässä luolassa kuulemma kummittelee.
+Mitä jos saan kuvaan oikean aaveen??
+@014
+"Hiekkaputouksen" oikea puoli on kuulemma aavepaikka.
+@015
+Jos hiekkaa virtaa näin paljon,
+eikö luola täyty hiekalla jossain vaiheessa?
+@016
+Hei, tiesitkö? Tämän luolan oikealla puolella
+sattui ennen onnettomuus, ja siitä asti täällä on kummitellut.
+@017
+Hiekkaputouksen oikealle puolelle
+ei mene kukaan.
+@018
+Medabottini lyö aaveet pihalle!
+Mutta harjoitellaan ensin!
+@019
+Voi tätä lasta,
+miksi hän haluaa nähdä aaveen?
+@020
+Hei, mennään~ vain vähän aikaa~
+@021
+Ei! En todellakaan halua nähdä aavetta.
+@022
+Kuulin huhun, että tässä luolassa kummittelee,
+joten tutkin asiaa! Mutta oikeasti pelottaa niin, etten
+uskalla mennä perälle tutkimaan!
+@023
+Vaara! Älkää menkö aidan sisäpuolelle.
+@024
+Häh? Kyltin takana lukee jotain.
+"Medarot 3" myynnissä! Kabuto- ja Kuwagata-versiot
+@025
+"Aavekierros" Aavepaikka: hiekkaputous
+@027
+Saisinkohan kuulla jotain, mistä olisi
+apua Roborobo-jengin nappaamisessa?
+@028
+Ennen kuin Kouji ja muut tulevat,
+kerätään tietoa.
+@029
+"Hiekkaputouksen" aave... Sitä voisi ehkä käyttää
+Roborobo-jengin nappaamiseen. Kysellään vielä.
+@030
+Okei, tietoa on kertynyt jo paljon, joten
+odotetaan nyt Arikaa ja muita.
+@031
+Kun Odoro-vuorella näkyi "jätä tänne" -aave,
+se oli Medabotti... Kanin Yanagin
+tekosia. Olisiko nytkin...
+@032
+Hän pääsi karkuun...
+Se tyyppi vaati, että panttivangin saa takaisin
+vain vaihtamalla sen "maailman kauneimpaan asiaan".
+Mieletön ehto.
+Ilman panttivangin pelastamista emme voi tehdä mitään.
+Jos saisimme Surumen säikähtämään, voisimme
+pelastaa hänet siinä tilaisuudessa.
+Säikähtämään, vai...
+@033
+Niin! Napataan aave!
+Häh!?
+Mitä sinä puhut?
+Tässä luolassa kuulemma kummittelee.
+Aave voisi säikäyttää Surumen!
+Kuule, {BUF03}. Aavetta ei voi napata,
+siksi se on aave.
+Jos se on aito.
+Mitä tarkoitat?
+Kouji, etkö muista? Kun aiemmin
+oli se "aavehässäkkä".
+............
+Niin, sellainenkin oli.
+Juuri niin! Varmasti tämäkin aave.
+Vai niin. Yritetään napata se.
+Mitä nyt! Te kaksi ymmärrätte toisianne keskenänne!
+Arika, älä murjota!
+Ratkaistaan se yhdessä.
+Niin niin!
+Jotenkin inhottavaa!
+Mutta eikö aaveet yleensä ilmesty yöllä?
+Odotammeko iltaan asti?
+Luolassahan on pimeää päivälläkin.
+Ja yöllä täällä ei ole ihmisiä... Eli kaikki
+ovat nähneet aaveen päivällä, eikö?
+Hmm...
+"Aavejahti"... Kuulostaa hauskalta! Tehdään se!
+Viritetään sitten ansa sinne, missä aave ilmestyy.
+Tiedätkö, missä se on?
+On yksi paikka, jota kaikki pelkäävät
+aaveen takia eivätkä mene lähelle.
+Eli odotetaan siellä! Mennään!
+@034
+H-hei, odottakaa!
+@035
+Akaganen pelastamiseksi on napattava aave.
+@036
+Roborobot tulevat pian. Luolan perälle!
+@037
+{BUF03}, eikö sinusta ole viime aikoina tullut
+luonteeltaan vähän Arikan kaltainen?
+Häh! Ei, sinä vain kuvittelet, Kouji.
+@038
+Tässäkö kohtaa se aave ilmestyy?
+Joo, kuulemma "hiekkaputouksen" oikealla.
+@039
+Voi että! Mitä sinä siellä teet, Kouji!
+@040
+Hei hei, tehän itse lähditte omin päin.
+No, löytyikö aave?
+Ei vielä. Etsi sinäkin, Kouji.
+@041
+!!!!!!!!!!
+Mikä hätänä, Arika?
+@042
+Tapahtuiko jotain?
+@043
+T-tuossa juuri...
+@044
+{BUF03}! Sinun takanasi!
+@045
+Eihän siellä ole mitään?
+Ai! Arika, näitkö sinä kenties aaveen?
+(Nyök nyök nyök)
+Hitto sitä aavetta! Älä piileskele, tule esiin!
+@046
+!!!!!
+!!!!!
+!!!!!
+@047
+Siinä se on, aave! {BUF03}, nappaa se!
+@048
+Kouji, se meni sinne!
+@049
+{BUF03}!!
+@050
+Arika!!
+@051
+Kouji!!
+@052
+Hitto! Onpa nopea tyyppi!
+Nykyisillä voimillamme sitä on vaikea napata.
+Laitetaan Medabotteihin osat aaveen nappaamiseen
+ja palataan.
+@053
+Mitä nyt, {BUF03}? Ovatko osat jo valmiina?
+@054
+Tarvittavat osat pitää hankkia.
+Tuota, tarvitaan havainto-osia,
+sitten naamiointiosia, joilla piiloudumme,
+ja ansaosia aaveen pyydystämiseen...
+Ei, Arika. Minusta riittää
+yksi pitkä naru.
+Pitkä naru?
+Eikö sinulla ole?
+Turvaköysi kyllä on.
+@055
+Miksi sinulla on sellainen?
+@056
+Ajattelin, että ehkä kaivan vaarallisissakin paikoissa.
+........
+Se kelpaa.
+@057
+Tulkaa molemmat vähän ylemmäs.
+@061
+Kouji, ota tästä päästä kiinni ja mene tuonne.
+@062
+Näinkö?
+Kun annan merkin, vedä.
+@063
+Arika, piiloudu johonkin
+sopivaan paikkaan.
+En päästä kuvaustilaisuutta käsistäni!
+@064
+Hyi! Jokin välähti juuri!
+(Se tuli!)
+@065
+Uu-uu-uu-uuu...
+@066
+Nyt, Kouji!
+@067
+Medabotti!?
+Kuten arvelinkin!
+@068
+Nä-it-te...
+@069
+Hä-vi-sim-me...
+Se oli sittenkin Medabotti!
+Aina sama kaava.
+Että nappasit sen noin yksinkertaisella keinolla.
+Helppoa! Väärennetyllä aaveellahan on jalat, eikö?
+...Siis, oliko se ainoa syy?
+Joo!
+Mitä sinä oikein ajattelet!
+Nämä jäivät kiinni vain, koska niiden jaloissa sattui olemaan ketju,
+mutta tavallinen leijuntamalli ei olisi jäänyt köyteen!
+Ai! Totta.
+"Ai!" muka...
+Olen niin äimänä, etten saa sanaa suustani...
+U-uuh...
+@070
+Hei te! Miksi matkitte aaveita
+ja pelottelitte ihmisiä!?
+Teillä oli varmaan jokin syy?
+I-hmi-siä tu-lee pal-jon
+ja ne jät-tää ros-kat ja läh-tee.
+Me o-lem-me pu-las-sa...
+Vai niin. Turisteista on kyllä harmia.
+Ymmärrän tunteenne, mutta tuolla tavalla se ei ratkea!
+Eikö kannattaisi pyytää Select-joukkoja
+valvomaan roskia kunnolla?
+Sen ne osaavat, eikö?
+...Eli pyydämme, että asiaa valvotaan, jotta
+roskia ei jää, vaikka ihmisiä tulisi.
+Kii-tos♥
+Mutta sitä ennen, voisitteko auttaa meitä vähän?
+?????
+Itse asiassa... kuisk kuisk...
+Hy-vä on...
+@071
+Okei, nyt pitää vain houkutella Roborobot tänne.
+Ja pelastetaan professori Akagane.
+...Mutta ensin ne pitää löytää.
+Okei, minä etsin ne!
+@072
+Ai, Kouji!
+...Pärjääköhän hän?
+@073
+Mahtaako Roborobo-jengi tulla kiltisti houkuttimeen?
+@074
+Kas, {BUF03}. Sain ne houkuteltua.
+Häh, oikeasti!?
+Joo. Väijytään luolan perällä!
+@075
+Okei! Menen minäkin luolan perälle väijymään.
+@076
+Kohta niiden pitäisi tulla.
+@077
+Ohohohoo! Löysinpä teidät! Täällä te olittekin.
+Onko "maailman kaunein asia" valmiina?
+Mikä Surumen mielestä on
+"maailman kaunein asia"?
+Jalokivi! Se loiste, se huikea
+kauneus! Kun annan "maailman kauneimman
+jalokiven" Shurille, saan
+bonuksen!
+...Jos sellaisen löytää, eikö sen myyminen olisi nopeampaa...?
+@078
+Hys! {BUF03}! Älä puhu turhia!
+Tiedättekö tämän tarinan? Se kertoo kaivajamiehistä.
+@079
+M-mitä nyt yhtäkkiä?
+Ne miehet etsivät "maailman kauneinta jalokiveä"
+ja kaivoivat maata päivästä toiseen. Mutta... tragedia
+iski eräänä päivänä yhtäkkiä. Holtittomasti kaivaneet
+miehet jäivät sortuneiden kivien ja maan alle
+ja menettivät henkensä... Heidän sielunsa etsivät
+yhä näkemätöntä jalokiveä ja harhailevat öisin...
+P-pelottaa, robo....
+M-mitä sitten?
+Kuulemma se tapahtui juuri täällä kaivauspaikalla...
+Kuulkaa, vieläkin kuuluu niiden miesten ääni...
+@080
+Uu-uu-uu-uuuuuu---
+@081
+Iiiiiiik!!
+Robooooo!!!!
+@083
+Mitä! Medabotti!?
+Ahahaha, menit halpaan!!
+@084
+Kiiiiiiih!! Tätä en anna anteeksi!
+@085
+Antaudutko?
+Ei ikinäää!
+@086
+Te siellä! Tulkaa esiin!
+Roborobo roborobo
+@087
+Loppuun asti raukkamaista...!
+Ohhohhoo! Kätyreitä on muitakin!
+Jos näkee yhden, niitä on 30...
+@088
+M-mitä nyt?
+"Raunioryöstäjä", antaudu kiltisti!
+@089
+Hitsi! Tässä tilanteessa... perääntykää!
+Robooo!!
+@090
+Seis!
+@091
+Kävin ilmoittamassa Tokkurille.
+Hehe, lopulta saimme teiltä apua...
+Mutta pelastitte meidät, Tokkuri.
+Hmph! Olisimme pärjänneet itsekin!
+Olet ankara, Kouji.
+@092
+Niin! Lupasit kertoa
+Roborobo-pomojen vankilapaosta.
+Itse asiassa Roborobo-jengi ei karannut vankilasta.
+Mitä tarkoitat?
+Select-joukkojahan pyörittää
+Medabottiyhtiö... Ja Medabottiyhtiöltä tuli jostain syystä
+pyyntö vapauttaa Roborobo-pomot.
+@093
+Mitä!? Medabottiyhtiöltä?
+Kyllä. Se oli Medabottiyhtiön johdon päätös,
+joten yksityiskohtia ei kerrottu,
+mutta heitä haluttiin käyttää jossain projektissa.
+Miksi he sitten tekevät taas pahojaan ulkona?
+Taisivat karata.
+Miksei siitä tullut uutisia?
+Medabottiyhtiö vastaa kysyttäessä vain,
+että "sellaista ei ole tapahtunut".
+Mitä! Miten voi olla!
+...Haistan juonen.
+Medabottiyhtiössä voi olla vakooja.
+Sellainen tapaus oli ennenkin.
+Kyllä... sekin on mahdollista. Siksi etsimme
+Roborobo-pomoja salaa, ettei
+toimintamme paljastu.
+Vakooja Medabottiyhtiössä...
+Vai niin. Nyt vihdoin ymmärrän,
+miksei paosta ollut uutisia!
+Aikuisten asioita, vai? Minä en ymmärrä!
+No no, Kouji...
+Olen pahoillani vaivasta.
+No, meidän täytyy tästä...
+@094
+Muuten, Tokkuri, minulla on pyyntö turisteista.
+@095
+Vai niin... "Raunioryöstäjä" täytti ajatukseni niin,
+etten huomannut. Teimme täkäläisille
+Medaboteille vääryyttä.
+Eli...
+Kyllä, tiukennamme roskien
+valvontaa. Ja Medabottien
+asuinalueelle asetamme pääsykiellon.
+Kyllä! Kiitos paljon!
+Puramme myös tiesulun, joten tästä lähtien
+voitte kulkea vapaasti. ...Näkemiin.
+@096
+Huh, asia taisi ratketa?
+Nyt voimme huoletta...
+@097
+Entä professori Akagane?
+@098
+Niin muuten...
+Hei, lapset! Täällä on jotain kiinnostavaa!
+@099
+Voi sitä äijää!
+Mennään katsomaan!
+@100
+Katsokaa! Hiekka valuu kuin vesiputous.
+@101
+Tällaisissa paikoissa on yleensä piilossa jokin salaisuus.
+Mutta sinne on pääsy kielletty?
+Kyaa!
+@102
+Mitä nyt? Arika!
+T-tuossa juuri... t-tuolla on a-aave...!
+Aave? Sehän juttu on jo käsitelty?
+Mutta mutta, siellä oli! Tuolla! Oikeasti!
+Hm? Missä?
+@103
+Uwaa! A-aave!
+@104
+Mitä puhut, {BUF03}, sinäkin...
+Totta se on! Siellä oli!
+E-ei kai aave ole... aito!?
+Brrrrr...!
+Mitä te pelkäätte? Ei sellaisia ole olemassakaan!
+@105
+Vau!
+@106
+Uwaah!
+@107
+Älä säikyttele!
+Ahaha, ahahahaha!
+@108
+Aave... Sitä voisi kannattaa tutkia.
+@109
+Hiekka valuu suoraan tämän luolan yläpuolelta.
+Sieltä käsin... Mennään katsomaan!
+@110
+Ai! Professori!
+{BUF03}, seurataan häntä. Jos hänet jättää
+yksin, ei tiedä, mitä hän tekee.
+Mikä vaiva.
+Professori sanoi äsken "luolan
+yläpuolelta". Mennään!
+@111
+Tulin etsimään professori Akaganea, mutta
+en voi vastustaa aarrearkkua edessäni~~...
+@112
+Professoria pitää etsiä "hiekkaputouksen" yltä.
+@114
+Onpa nopea setä. Ovatko kaikki
+arkeologit tuollaisia?
+@115
+Mitä tämä on! Miksi Screws on täällä?
+@116
+Mitäs nyt? Onko jokin syy, miksemme saisi tulla?
+@117
+Hmph, tulitte varmaan vain aarteiden perässä.
+@118
+Ole hiljaa! Ei kuulu sinulle!!
+@119
+Mitä!!
+@120
+Mitäs itse!!
+@121
+Mitäs nyt? Onko jokin syy, miksemme saisi tulla?
+Hmph, tulitte varmaan vain aarteiden perässä.
+Ole hiljaa! Ei kuulu sinulle!!
+Mitä!!
+Mitäs itse!!
+@122
+Hyii!
+@123
+Tytöt ovat pelottavia...
+@124
+Jos menen puhumaan, joudun minäkin sotkuun.
+@125
+Hei! Mitä sinä lusmuilet! Jatka,
+kunnes löydät aarteen!
+Pelottavaa. Nyt ei kannata mennä lähelle.
+@126
+Voi että, pomo teettää kovasti töitä...
+Haha, olen kuullut samanlaisen repliikin ennenkin.
+@127#kabuto
+Vaatteet likaantuvat.
+@127#kuwagata
+Vaatteet likaantuivat.
+@128
+Kuten arvelinkin! Katsokaa! Hiekka virtaa kuin vesiputous.
+Hiekkaputous virtaa täältä tuohon luolaan.
+Professori, se on vaarallista. Sinne on pääsy kielletty...
+@129
+Vartijoina olleet Select-joukot ovat poissa.
+Taisivat mennä Roborobo-jengin perään.
+No no, tulkaa tekin tänne.
+Mitä sanotte? Upeaa, eikö?
+Professori, se on vaarallista!
+Ei hätää, ei hätää! Tämä on pikkujuttu!
+@130
+...Oho!
+@131
+P-professori!
+@132
+Waaaah!!
+@133
+{BUF03}!!
+...Uwaa!
+@134
+Hei...!!
+@135
+Hyaaa!
+Waaah!
+@136
+Uwaah!
+Kyaaa!
+@137
+Rutis.
+@138
+Missä tämä...?
+@139
+Kya! Tuolla!
+@140
+? Avaruusolento... vai?
+@141
+Tämä hologrammi on
+käynyt tuhansia vuosia? Ikiliikkuja?
+Näkemämme avaruusolennot olivat huolettomia, kömpelöitä
+ja hälisijöitä... mutta niitä ei voi vihata. Ja ennen kaikkea,
+ilman niitä emme olisi koskaan tavanneet
+Medabotteja. Mietin vain, mistä niillä
+on taito tehdä jotain näin upeaa.
+Pääsemmeköhän me ihmisetkin joskus niiden tasolle?
+...Entä jos avaruusolennot olivatkin tulevaisuuden ihmisiä!
+..........(Jos niin olisi, se olisi vähän ikävää.)
+Jätetään tämä hologrammi tällaiseksi.
+Siitä voi olla hyötyä turistien karkottamisessa.
+Hei hei, kun kerran olemme täällä, katsellaanko vähän?
+Joo, pitää myös keksiä, miten täältä pääsee ulos.
+@142
+Upeaa, että tällainen paikka on vielä jäljellä!
+Skuuppi!
+@143
+Tuota, Arika... pitäisi keksiä, miten täältä pääsee ulos...
+@144
+Medabottiyhtiön tekniikallakaan
+tällaista ei vielä pystyttäisi tekemään.
+Professori ja Nae ilahtuisivat varmasti, jos näkisivät tämän.
+@145
+Tällä koneellako se aave heijastettiin...
+Kokeilisinko käyttää sitä? Tuota, klik.
+@146
+Mikähän? Tämä lattia näyttää erilaiselta?
+@147
+Vihdoinkin löysin sen!
+@148
+Eihän tämä vain ole... "Fuyuun-kivi"!?
+Fuyuun-kivi... maailman kaunein jalokivi,
+josta olen uneksinut.
+"Maailman kaunein"... Surumekin
+sanoi niin.
+@149
+Jätetään tämä tällaiseksi.
+Mutta professori, tätä kiveähän etsiessänne
+palasitte Afrikasta?
+Halusin nähdä erään ihmisen ilahtuvan, ja
+halusin antaa hänelle tämän maailman kauneimman kiven lahjaksi.
+Mutta muutin mieleni. Se loistaa varmasti
+juuri siksi, että se on tässä paikassa. Siksi jätän sen rauhaan.
+Vai niin...
+No, eiköhän lähdetä kotiin.
+Ai, mutta emme ole löytäneet keinoa päästä täältä ulos.
+Siinä tapauksessa kaikki on varmasti hyvin.
+@150
+Tutkin tätä äsken vähän. Tämä näyttää olevan kone,
+jolla siirrytään hetkessä täältä
+johonkin toiseen paikkaan. Eli kun tätä näin...
+@151
+Kas, nyt pitäisi päästä ulos.
+@152
+Häh, odottakaa, professori!
+@153
+Mahtavaa! Pääsimme todella ulos!
+Mahtavaa. Avaruusolentojen tekniikkaa, totisesti.
+Professori Akagane, mitä aiot nyt?
+Haluan poiketa yhdessä paikassa Japanissa, joten
+suuntaan sinne. Tapaamme varmasti vielä.
+Selvä! Nähdään taas!
+@154
+Muinaista teknologiaa... Jos antaisin tällaisen
+lelun, ilahtuisiko se hölmö isä... heh.
+@155
+"Aavekierros", vai? Voi sentään.
+@156
+Matkatoimistot tekevät kaikesta myyntivaltin.
+{BUF03}, mennään etelään! Karin odottaa!
+Mennään!
+@157
+Vau! Vau! Vau!
+@158
+Hups, olin taas vähällä pudota.
+@159
+Hiekan peitossa on jokin laatikko. Avaisinko sen?
+@160
+Ai, tämä on miestyypin tinpetti!
+@161
+Mikä valtava aavikko! Onko edessä oikeasti kaupunki?
+@162
+Huh huh...... En enää tiedä, missä on oikea ja vasen.
+@163
+Huh... umpikuja.
+@164
+Hmm, hiekkaa silmänkantamattomiin.
+@165
+Puut näyttävät trooppisilta. Ovatko ne palmuja?
+@166
+Huh huh huh... Ku...uma... vettä...
+@167
+Voi ei! Minä vihaaaan aurinkoa!!
+@168
+Huh huh huh
+@169
+Tässä... kuumuudessa
+Minirattikin... sammui...
+@170
+Puuh puuh puuh
+@171
+Hhh hhh hhh
+Huh huh, en jaksa enää kävellä!
+Kuuma...
+M-miksi tällaisessa paikassa on aavikko...
+Ja Odoro-vuori ja tippukiviluola...
+Miksi vähän Medaropolisista poistuttaessa käy näin...
+@172
+{BUF03}, käy katsomassa tuo kyltti.
+Minäkö?
+Nopeasti...
+@173
+"Edessä keidas Karasawa..." ...Loput ovat haalistuneet.
+@174
+Keidas!
+Pelastuimme...
+Joka tapauksessa vettä! Vettä!
+@175
+Minäkin... taidan mennä...
+@176
+"Edessä keidas..." Loput eivät tosiaan erotu.
+@177
+Hiekassa on märät uimahousut. Tutkitaanko?
+@178
+Eiiii!! Ne näyttävät ihan juuri riisutuilta,
+niin märät ne ovat! En todellakaan tutki niitä!!
+Tutkitaanko juuri riisutut uimahousut?
+@179
+Huh, pelastuin.
+@180
+Minähän ne uimahousut
+joudun tutkimaan! En ikinä!!
+Tutkitaanko limaiset uimahousut?
+@182
+Ei! Märkien lisäksi niissä on hiekkaa,
+ne ovat tahmeat!!
+Tutkitaanko tahmeat uimahousut?
+@184
+Uuh~ julmuri~ paholainen~!!
+@185
+Mitä? Uimahousuista löytyi Medalia.
+Uuh, mutta tämäkin näyttää haisevan.
+Otetaanko haiseva Medalia?
+@186
+Häh? Tähän asti ja nyt et ota? Voi sentään.
+@187
+Joo joo, ymmärrän kyllä...
+@188
+"Asennus"-Medalia, mutta ei olisi tarvinnut
+asentaa sitä uimahousuihin...
+@189
+Navan kohdalta kangas on löystynyt. Uimahousujen
+nauha oli varmaan tiukka, eikä se irronnut helposti!
+@190
+Osallistuisinko minäkin Medabird-kisaan?
+@191
+Me häviäisimme korkeintaan ensimmäisellä kierroksella.
+Niinkö...?
+@192
+Jos minä osallistuisin, voittaisin varmasti.
+@193
+Älä puhu mahdottomia.
+@194
+Minä voittaisin suosikki Tamaonkin
+käden käänteessä.
+@195
+Mutta minähän se lennän...
+@196
+Vaikka mestari osallistuisi, ei voittoa tule.
+@197
+Älä kommentoi ennen kuin olen edes puhunut!!
+@198
+Minäkin haluaisin lentää tyylikkäästi Medabirdissä♥
+@199
+Kas, voitit 1. kierroksen. Onnea seuraavaan♥
+@200
+Kas, voitit toisenkin kierroksen! Hyvä!
+Pyytäisinkö nimikirjoituksen jo nyt?
+@201
+Pääsit finaaliin asti, upeaa!
+Hei hei, mikä sinun nimesi on?
+T-tuota, Tenryou. Tenryou {BUF03}.
+{BUF03}, vai. Voita turnaus♥
+@202
+Onnea finaaliin♥
+@203
+Voi mestari, aina pelkkää puhetta!
+@204
+Hihi, mestarini taisi ihastua sinuun♥
+@205
+Onnea loppuihin otteluihin.
+@206
+Vihdoin finaali. Odotan innolla,
+kumpi voittaa♥
+@207
+Minäkin haluan joskus saada lento-osat ja
+osallistua Medabird-kisaan!
+@208
+Älä puhu minulle, mene
+hakemaan oma Medabottisi.
+@209
+Medabirdissä tärkeintä on medabottaajan ja Medabotin
+sydänten yhteys! Muista se.
+@210
+Älä herpaannu loppuun asti! Medabird jatkuu kotiin asti!
+@211
+On ihanaa nähdä Medabird näin läheltä♥
+@212
+Läheltä katsottuna Medabird on vaikuttavampi.
+@213
+Äskeisen ottelun poika... Kouji, oliko se?
+Hän on tosi söpö♥ Ai, onko hän ystäväsi?
+@214
+Voi voi, Kouji hävisi.
+@215
+Paikan varaaminen on joka vuosi minun tehtäväni.
+@216
+Kukahan seuraavaan otteluun osallistuu?
+@217
+Mestari... taasko "söpöjen poikien etsintää"?
+@218
+Suosikki Tamao on kyllä vahva.
+@219
+Medabirdissä tyylikkäintä ei ole laskeutuminen,
+vaan lento, jonka näkee täältä!
+@220
+Se 1. kierroksen tyttö on ihan tyyppiäni♥
+("Äskeinen"...
+tarkoittaako hän Arikaa!?)
+@221
+Hei, eikö Arikan ottelu ala jo~!
+(O-onpa hän innokas...)
+@222
+Senkin! Miksi voitit Arikan~!
+M-m-mitä? Onko se minun vikani?
+@223
+En halua palata "aavikolle" vähään aikaan.
+@224
+Tämä... ei ole mikään keidas vaan...
+Lomakohde pikemminkin. Onpa vilkasta.
+Sama se! Vettä! Vettä!
+@225
+Ai, odota, Kouji. Tulen minäkin etsimään!
+@226
+Miksi yksi mehupullo maksaa noin paljon!
+Tämä on silti Karasawagi-keitaan halvin!
+Anna edes 300¥:lla!
+Älä höpsi! Ei käy mitenkään!
+Blaa blaa
+Arikalle on nyt turha puhua. Mennään muualle.
+@227
+Onpa vilkas paikka. Onkohan juhlat?
+Täällä järjestetään pian Medabird-kilpailu.
+@228
+Medaprize 200¥ kerta
+Ai, Medaprize-kone. Kokeilisinko vähän?
+@229
+Okei, nyt osuu!
+@231
+Ai, minulla ei ole 200¥!
+@232
+Uusi osa olisi voinut osua...
+@233
+Voi ei! Minäkin haluaisin mennä katsomaan Medabirdiä!
+@234
+Olisin halunnut nähdä Medabird-kilpailun.
+@235
+Älä puhu minulle kesken pelin!
+@236
+Medabird-kilpailu? Ei kiinnosta. Pelit ovat
+paljon hauskempia!
+@237
+Hei! Ei saa tulla sisään luvatta!!!!
+@238
+Vau! A-anteeksi.
+@239
+Voi voi, onpa kiltti poika, kun juttelee
+tällaiselle vanhukselle. Laitetaanpa televisio päälle.
+@240
+Uminekossa surffaus on nyt valtava buumi!!
+Surffaus tarkoittaa Uminekoa...
+@241
+Robotteluuu...
+@242
+Henkesi on minun!!
+Röyhkeää! Lyön sinut takaisin!
+Tämä ninjanäyttelijä on viides.
+Olen ollut tämän ohjelman suuri fani
+ensimmäisestä asti. Television ninja ei vanhene, mutta minä
+vanhenen vain. Onpa haikeaa~...
+@243
+Hups, puhuin tylsiä. Kiitos, että kuuntelit koko ajan.
+@244
+Poika, ota halutessasi tuon laatikon
+sisältö. Tällaiselle vanhukselle siitä ei ole hyötyä.
+Kiitos, mummo.
+@245
+No, ota vain, älä ujostele.
+@246
+Katsotaanko telkkaria yhdessä?
+@247
+Mikä lapsi, penkoo tavaroita välittämättä minusta!
+@248
+Hei! Mikä lapsi, kun penkoo heti toisen huoneessa
+tavaroita! Tuollaiselle lapselle en sitä anna!
+@249
+Lapselle, joka ei kuuntele toisia, en sitä anna!
+@250
+Mummo, saanko oikeasti ottaa tämän?
+Lapsen ei tarvitse sellaisesta välittää.
+Käytä sitä huolella.
+Joo, kiitos, mummo.
+@251
+Ota tästä! Ninjataito: hämähäkinseitti!!
+Röyhkeää! Vaihtotekniikka!!
+@252
+Tervetuloa Karasawagi-hotelliin.
+Täällä on osakauppa ja pelihalli, joten viihtykää♥

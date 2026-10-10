@@ -1,0 +1,896 @@
+@000
+Seuraavaksi harjoittelemme Medabirdiä
+joen rannalla "luonnonpuiston" perällä.
+Menkää sinne ripeästi.
+@001
+Älkää tekään myöhästykö.
+@002
+No niin, {BUF03}. Kiirehditään mekin.
+@004
+Karin ei näytä vieläkään löytyneen.
+Ei. Vaikka Arika ja Kouji etsivät ahkerasti...
+Älä nyt noin masennu. Minäkin etsin.
+Mutta Hikaru, sinullahan on töitä...
+Ei se mitään, ei minulla ole erityistä tekemistä.
+@005
+(Hahaha, ihme ettei häntä ole tällä menolla jo erotettu.)
+@006
+Hei, {BUF03}. Robotellaanko vähän?
+@007
+Onko kiire? No, ei voi mitään.
+@008
+No, aloitetaan.
+@009
+(Milloinkohan Hikaru oikein käy koulussa?)
+@010
+Hau hau.
+Salty, olen kotona.
+@011
+Oo, {BUF03}. Etkö kokeilisi monivalintavisaa?
+@012
+Yritä parhaasi ja tavoittele korkeita pisteitä.
+@013
+Kerro minulle, kun haluat visailla.
+@014
+Mitä täällä tekisin? Mennään "luonnonpuistoon".
+@015
+Nyt on tunti käynnissä, joten ei ole aikaa poiketa tänne.
+Jos tulen, tulen vasta tunnin jälkeen.
+@016
+Koulu ei ole vielä loppunut. Minun täytyy
+mennä heti "luonnonpuistoon".
+@017
+Medabird oli kai puiston vasemman puolen joella?
+@018
+"Luonnonpuiston leirintäalue"
+@019
+eulaatnirieL notsiupnonnouL????
+Ai, se luetaan toisin päin!
+@020
+"Pystykyltti" sivulta on "vaakakyltti"! Hehe.
+@021
+Kyyy~~~~...
+@022
+Ei yhtään hauska.
+@023
+Ei olisi tarvinnut lyödä...
+@024
+Sivulta ei pysty lukemaan.
+@030
+Mennään tapaamaan Medaropolisissa asuvaa Koujia!
+...Mitä minä oikein puhun? Mennään nopeasti "luonnonpuistoon".
+@031
+Edessä on kai Odoro-vuori ja Kameyaman koulu?
+Ei tarvitse mennä sinne nyt. Mennään nopeasti "luonnonpuistoon".
+@032
+Odottavatkohan Arika ja Kouji jo raunioiden sisäänkäynnillä?
+Minunkin täytyy kiirehtiä raunioille!
+@033
+Minulla ei ole nyt mitään asiaa Odoro-vuorelle.
+@034
+"Luonnonpuisto" oli kai kaupungin vasemmalla puolella?
+@035
+Käydään ensin kotona valmistautumassa raunioille.
+@036
+Ennen Jakunaniin lähtöä käydään kotona syömässä.
+@037
+Shinraan meneminen kesken tunnin on mahdotonta.
+@038
+Arika odottaa, joten en mene nyt Shinraan.
+@039
+Kerronko ennätyksesi ja voittosi Medabirdissä, piip?
+@040
+Draiviradan paras tulos, piip.
+@041
+Muiden kuin Draiviradan voitot yhteensä, piip.
+@042
+Haluatko tietää Medabird-voittosi, piip?
+@043
+Lyhyen, keskipitkän ja pitkän radan voitot yhteensä, piip.
+@044
+Mahtavaa, piip! Yli 15 voittoa, piip! Tässä sinulle lahja, piip.
+@045
+Mahtavaa, piip! Yli 30 voittoa, piip!
+Tavalliset radat taitavat jo kyllästyttää, piip.
+Lisään uuden Draiviradan, joten haasta se, piip.
+@046
+Mahtavaa, piip! Yli 45 voittoa, piip!
+Tässä sinulle lahja, piip.
+@047
+Mahtavaa, piip! Ennätysmäärä voittoja, piip!
+Tässä sinulle lahja, piip.
+@048
+Haasta taas, piip.
+@049
+Harjoittelisinko Medabirdiä?
+@050
+Tuota, mitä rataa harjoittelisin?
+@051
+Lyhyt rata
+Keskipitkä rata
+Pitkä rata
+@053
+Lyhyt rata
+Keskipitkä rata
+Pitkä rata
+Draivirata
+@054
+Tuo oli aika hyvä, piip. Tässä lahja, piip.
+@055
+No, tällaista.
+@056
+Minulla ei ole 3 Medabottia koottuna.
+@057
+Mikä sinulla kesti, {BUF03}? Olitpa hidas.
+@058
+{BUF03}! Näytä sille opettajalle!
+@059
+"Luonnonpuiston" perällä onkin leirintäalue.
+@060
+Mitähän Medabirdissä oikein tehdään?
+@061
+Onnea, Tenryou.
+@062
+Amazake kantaa kameraa mukanaan tunnillakin.
+@063
+Voiko Medabirdiä pelata ilman lentomallia?
+@064
+Mitähän nyt tehdään?
+@065
+Myöhässä, Tenryou. Asetu nopeasti riviin.
+@066
+Kaikki näyttävät olevan paikalla. Aloitetaan sitten
+Medabirdin selitys.
+@067
+Medabirdissä 3 Medabottia muodostavat ryhmän,
+joka lennättää kumppanisi ilmaan.
+Ota vauhtia A-napilla ja hyppää painamalla B-nappia.
+Jos lennätetty Medabotti laskeutuu saarelle, onnistuit.
+Jos kumppanisi on lentotyyppiä,
+se voi ohjaimen ylös- ja alasnapeilla nousta tai laskea 3 kertaa,
+mutta pisteet laskevat, joten sitä kannattaa välttää.
+@068
+No niin, pyydetään heti jotakuta kokeilemaan.
+@069
+...Tenryou, kokeile sinä.
+Häh, minäkö?
+Mikä hätänä? Eikö itseluottamus riitä?
+E-ei todellakaan! Minä kokeilen!
+Kokoa siis 3 Medabottia.
+Lennätettävä Medabotti on aina kumppanisi, joten
+ota se huomioon Medabotteja kootessasi.
+Kerro minulle, kun olet valmis.
+@070
+Hihi, joko pelästyit?
+Mitä sinä teet, {BUF03}! Pane jo toimeksi!
+@072
+Mitä tuo asu oikein tarkoittaa?
+Lopeta tuollainen ja valmistaudu Medabirdiin!
+@073
+Ovatko Medabottisi valmiina?
+@074
+Valmistaudu nopeasti.
+@075
+Tenryou, Medabird pelataan 3 Medabotin ryhmissä.
+Kokoa 3 Medabottia, joissa on mitali.
+@076
+Tenryou, näytä minulle, mihin pystyt.
+@077
+{BUF03}! Anna palaa!
+Aloittakaa!
+Medabotti, siirto!
+@078
+Vaikka onnistuit tällä kertaa, älä tuudittaudu.
+@079
+Vaikka osaisit käsitellä Medabotteja,
+se ei riitä.
+@080
+Tämän päivän tunti päättyy tähän. Pidän tämän
+harjoituspaikan avoinna, joten harjoitelkaa
+täällä ahkerasti.
+@081
+Eikö se opettaja pidä sinua, {BUF03},
+ihan arkkivihollisenaan? Inhottavaa!
+Mutta opettaja on oikeassa. Minun pitää yrittää lisää.
+@082
+Mitä, {BUF03}? Asetutko opettajan puolelle?
+Oletko kenties ihastunut opettaja Ryuukoon?
+Ei kyse ole tykkäämisestä. Hän innostaa minua.
+Hmph, outoa~
+@083
+Hei {BUF03}, seuraavaksi on Omikujin eteläpuoli, eikö?
+Etelässähän ovat muinaiset Fuyuun-rauniot!
+Nyt mitalikaivausbuumin takia se on kuuluisa nähtävyys,
+mutta löytyykö sieltä oikeasti mitaleja?
+Arika...
+Tiedän kyllä! Karinin etsiminen
+on etusijalla!
+Mutta katsos, varmuuden vuoksi pitää varustautua!
+Tavataan raunioiden sisäänkäynnillä!
+Minä ilmoitan Koujille,
+joten odota siellä, kun olet valmis. Älä myöhästy!
+@084
+Hänellä on täysi piknikmeininki.
+Menen minäkin kotiin valmistautumaan.
+@085
+{BUF03}! Mene sinäkin nopeasti kotiin
+valmistautumaan Fuyuunin retkeen!
+@086
+Kun olet syönyt, tavataan Omikujin eteläpuolella.
+Älä myöhästy, {BUF03}.
+@087
+Kas, {BUF03}. Tervetuloa.
+@088
+Ai? {BUF03}, etkö lähtenytkään Arikan kanssa?
+Arika lähti jo aikoja sitten.
+Voi ei! Myöhästyn!
+@089
+Tervetuloa kotiin, {BUF03}. Menetkö taas leikkimään?
+@090
+Mennään nopeasti tapaamispaikalle.
+@091
+Olen kotona~
+@092
+Oletko lähdössä jonnekin, {BUF03}?
+@093
+Joo, muinaisille raunioille. Arika ja Kouji tulevat mukaan.
+Kas, piknik kavereiden kanssa.
+Äiti tekee sinulle voileipiä.
+Äiti, ei tämä ole mikään piknik...
+Ja minun pitää jo lähteä!
+@094
+Odota vähän! Teen ne heti.
+@095
+Kop kop kop... Pulputi pulputi...
+.........
+@096
+Anteeksi äiti! Minulla ei ole aikaa, en voi odottaa!
+@097
+Hmph! Minä teen ne vaikka väkisin!
+@098
+Ei kannata vielä palata Omikujiin.
+@099
+Olit myöhässä. Arika on vihainen.
+@100
+Mitä tapahtui? Poikkesitteko jonnekin?
+@101
+Myöhässäää!
+@102
+Anteeksi, anteeksi.
+Rangaistus viimeiselle! Ottele kanssani!
+@103
+Ei, tuota...
+Ei vielä! Minä olen vielä jäljellä!
+@104
+Voi sentään.
+@105
+{BUF03}~!
+@106
+(Ei kai vain...)
+@107
+Tässä! Eväät.
+@108
+Heippa♥
+@109
+Unohditko eväät, {BUF03}?
+Ahahahaa!
+@110
+No, hahaha...
+Heh, äidin rakkaudella tehdyt eväät.
+@111
+Entä sinun evääsi, Kouji?
+Minun eväät teki Karakuchien oma kokki.
+Voi että, rikas mikä rikas!
+@112
+Ei se ole minun vikani!
+Niinkin sen voi sanoa...
+No niin, nyt kun lämmittely on tehty,
+lähdetään!
+Joo.
+@113
+Kaikki on muuttunut niin täysin,
+että tämä oli muka se "leijuva linnake Fuyuun"...
+Uskomatonta.
+Medabottiprofessorin kilpailija, professori Hebereke,
+nosti maan alla nukkuneet muinaiset
+Fuyuun-rauniot, ja me ja Medabotit
+saimme ne jotenkin laskeutumaan tänne.
+Se oli silloin rankkaa.
+Todellakin. Ihme, että kaikki selvisivät ehjinä.
+Nyt Fuyuun on vajonnut puoliksi
+maan sisään.
+Fuyuunhan leijui "Fuyuun-kiveksi" kutsutun
+ihmeellisen kiven avulla. Mutta kun se jossain vaiheessa
+katosi, sanotaan, että siitä
+seurasi maankuoren liikkeitä.
+Kuka nyt veisi Fuyuun-kiven...
+Onpa olemassa julmia ihmisiä!
+(Haha... taisin olla minä.)
+Sen jälkeen täältä on kaivettu monenlaisia
+raunioita, ja nyt tämä on suosittu nähtävyys.
+Mennään, mennään!
+@114
+Ai! Arika!
+@115
+Ei vähän kuljeskelu meitä eroon saa.
+Törmätään taas kaivauspaikalla!
+@116
+Molemmat lähtivät...
+No, minäkin kai etenen omaan tahtiini.
+Voivatkohan Fuyuunin Medabotit hyvin?
+@117
+Tervetuloa Fuyuun-raunioille. Ostaisitko
+sinäkin jotain?
+@118
+Fuyuun-keksi
+Fuyuun-mehu
+Fuyuun-kivi
+@119
+Riisikeksin päälle laitetaan kinkkua,
+paprikaa ja sardellia, juustoa päälle ja mikroon.
+Eikö tuo ole pizza?
+Laatikko maksaa 3500¥.
+Hää~ kallista!
+@120
+Talon ylpeys, sekamehu, 300¥ lasi.
+@121
+Tässä, älä läikytä.
+@122
+Nam, otetaaan~~
+@123
+Haa~ olipa hyvää♪
+@124
+Ei ole rahaa. Harmi.
+@125
+Mitä! "Fuyuun-kivi"!?
+"Kaivauspaikan" kivestä kauniisti
+hiottu koru, 600¥.
+(Väärennös siis.)
+@126
+Muuten, takana olevalla "kaivauspaikalla" kaktuksen
+lähelle on kuulemma haudattu jotain hyvää♥
+@127
+Muistaakseni matkamuistomyymälän
+myyjä sanoi, että kaktuksen alla on jotain...
+Ai! Medabotin osa!
+@128
+Miksi täällä on näin paljon roskia?
+Ihmisillä on aivan liian huonot tavat.
+Omat roskansa nyt pitää itse hoitaa!
+@129
+Eikö roskia ole viime aikoina ollut vähän vähemmän?
+Kuulemma jotkut Select-joukot ovat ahertaneet.
+Ihmisetkin tekevät joskus hyvää.
+@130
+Tämä on rauhallinen ja mukava paikka.
+@131
+Mitä nyt, juuri kun oli kivaa. Älä häiritse.
+@132
+Äsken tuo Medabotti heitti roskikseen
+jotain kimaltelevaa, mutta oliko se...?
+@133
+Se oli siis Medalia! Hitsi, olisi pitänyt poimia se ensin!
+@134
+Haa~ liika lepäily nukuttaa... zzz~
+@135
+Häh? Oliko tuo... Roborobo-jengi?
+@136
+Siellä tuntuu olevan jotain. Tarkistetaan se.
+@137
+Oliko tuossa juuri Roborobo-jengi?
+@139
+Eikö täällä ole viime aikoina ollut kamalasti roskia?
+@140
+Eikö täällä ole viime aikoina ollut vähemmän roskia?
+@141
+Häh? Roskien seassa kiiltää jotain. Tämähän on Medalia!
+@142
+Pestään se myöhemmin kunnolla.
+@143
+Hei, mitä teet?
+Keräämme roskia.
+Roskia? Miksi?
+Turistit roskaavat
+minne sattuu, ja se on ongelma...
+Vai niin... Vuosi sitten täällä
+oli pelkkiä Medabotteja.
+Kyllä... Siitä lähtien, kun "mitalikaivausbuumin" takia
+tänne alkoi tulla kaikenlaisia, roskat ovat lisääntyneet.
+Sepä... ikävää.
+Pahimpia ovat oudoissa kypärissä
+kulkevat otukset.
+Oudoissa kypärissä?
+@144
+Niin, esimerkiksi tuon näköiset...
+@145
+Roskat heitetään maahan, robo!
+@146
+Siinä olette, Roborobot! Valmistautukaa!!
+Robo!?
+@147
+Robooo!!
+@148
+Ai, odota!!
+@149
+Robooooo!!
+@150
+Huh... ansiostanne yksi on siivottu.
+Kuulkaa, Roborobo-jengikin on sentään ihmisiä...
+Anteeksi? Mitä?
+...No, olkoon...
+Joka tapauksessa Roborobo-jengi tekee pahojaan täälläkin.
+Jos näkee yhden, niitä on varmasti 30 lisää!
+Kun näen niitä, hoidan ne!
+@151
+Vaikka kuinka poimii, roskia vain riittää...
+@152
+Siihen verrattuna, kun keräsin yksin,
+roskia on paljon vähemmän. Kunpa tämä jatkuisi.
+@153
+Ai! Tuolla on aarrearkku!
+Sivulta sen ehkä ylettää.
+@154
+Ai! Tuolla on aarrearkku!
+Vauhdilla sen ehkä yltää.
+@155
+Pitkälle lentääkseen pitää kyllä ottaa vauhtia.
+@158
+Mitä, syrjähyppy!? Mitä sinä puhut, me olemme
+ihan oikea isä ja tytär!
+@159
+Joskus on ihan ok leikkiä iskän kanssa, vai mitä?
+@160
+Voi isi, sinulla ei ole yhtään kuntoa.
+@161
+Joskus pitää viettää aikaa perheen kanssa.
+@162
+Jee jee♪ Isi, juokse kilpaa kanssani!
+@163
+Täällä tunnustaneista pareista tulee onnellisia♥
+Voi, kuinka romanttista♥
+@164
+Ooootteeko valmiiii...
+Eeei vieeelä...
+1...2...3...
+@165
+Täältä minua ei ikinä löydetä.
+@166
+Leikimme piilosta, älä puhu minulle!
+@167
+Älä enää puhu minulle!
+@168
+Mitä? Haluatko sinäkin leikkiä piilosta?
+@169
+Hmph! Joka ikinen on pariskunta.
+En ole kateellinen!
+@170
+Tämä oli "leijuvan linnakkeen Fuyuunin" ohjaamo.
+Nyt se on ihan rapistunut, lasten leikkipaikka.
+@172
+Mums mums... Mitä? Haluatko sinäkin herkkuja?
+@173
+Fuyuun-linnake, lähtöön!!
+...Ei se tietenkään liiku.
+@174
+Ei se enää liiku.
+@175
+Tämä on kaikkien aukio. Leikitään kaikki sovussa.
+@176
+Fuyuunin aukio on iso. Väsyin juostessa.
+Nyt robotellaan!
+@177
+Okei, juostaan taas!
+@178
+"Kaivauspaikalle" tuolla edessä on nyt
+pääsy kielletty.
+@179
+Kielto purettiin, joten "kaivauspaikalla" voi leikkiä.
+@180
+Ilman näitä kiviä ja aitoja täällä voisi pelata pesäpalloa.
+@181
+Voi ei! Missä täällä on vessa!
+@182
+Ugh! Kun ponnistan, taas...
+@183
+Mitä sinä teet?
+@184
+Eeeeeeei mitään!! En tosiaankaan piilottele mitään!!
+@185
+Fuyuun, Fuyuun, krapulaa~
+@186
+Hiljaa!
+@187
+Minäkin haluaisin juosta kilpaa ja leikkiä kaikkien kanssa.
+Sanoitko jotain?
+@188
+En, en sanonut mitään.
+@189
+Tässä, kulta, ruoka on valmis. Syö paljon♥
+@190
+Hei sinä, "lähdetäänkö kahville?"
+Häh, oletko kenties Libertiesistä?
+Kyllä, olen kuullut johtajalta urotöistäsi.
+Tämä on Libertiesin lahja sinulle.
+@191
+Jatketaan ponnisteluja Medabottien hyväksi!
+@192
+Robotellaanko?
+@193
+No, jatka samaan malliin.
+@194
+Täältä tullaaan!
+@195
+Robotellaan taas.
+@196
+"Juoksuhiekkaluola"
+@197
+Partioin epäilyttävien henkilöiden varalta!
+@198
+En enää koskaan anna Roborobojen tehdä pahojaan!
+@199
+Päällikön käskystä
+vartioin kaivauspaikkaa!
+@200
+Nyt valvon raunioryöstäjien lisäksi
+roskaamista!
+@201
+Näin kuumalla partioida ulkona...
+Voi ei! Haluaisin tehdä töitä ilmastoidussa huoneessa!
+@202
+Vaikka tapaus ratkesi, on silti kuuma...
+@203
+Mitä sitten, jos lintsaan? On kuuma, ei sille mitään voi.
+...näin on, herra!
+@204
+Roborobojen jahtaaminen päivästä toiseen väsyttää.
+...näin on, herra!
+@205
+Arika on energinen. Hän juoksi hurjaa vauhtia.
+@206
+Kouji, oikeastaan tuolla edessä...
+@207
+Mitä, ei pääse eteenpäin!? Entä sitten Karin?
+Älä minulta kysy...
+Ei auta, minä menen puhumaan heille!
+{BUF03}, etsi Arika!
+Joo, selvä.
+@208
+Mitä nyt? Löytyikö Arika?
+@209
+Miksi täällä on ansakuoppa?
+@210
+Nyt on pääsy kielletty!
+@211
+Odotan Roborobo-jengiä!
+Kroo kroo...
+Hän nukkuu seisaaltaan. Ei ihme, jos heitä
+pidetään epäluotettavina.
+@212
+Tästä ei pääse eteenpäin!
+Häh, miksi?
+Koska se on käsky!
+Mikä on syynä?
+Käsky on käsky!
+Mutta siis...
+Niin on, herra! Niin on!
+Blaa blaa!
+Niin on, herra! Niin on!
+Blaa blaa!
+Nalkun nalkun...
+@213
+Huh, jotenkin minun on päästävä tästä eteenpäin.
+Kysytään neuvoa Koujilta ja Arikalta.
+@214
+Käskyn vuoksi en päästä läpi!
+@215
+Häh, miksi~? Äskenhän täällä sai vielä käydä!
+Kaivaminen on nyt kielletty!
+@216
+Mitä ihmettä!
+Arika, eihän meillä ole mitään asiaa
+kaivauspaikalle...
+@217
+Niin, mutta tämä on jotenkin inhottavaa!
+No, olkoon.
+Mennään jo eteenpäin!
+@218
+Mitä tarkoitat, ettei pääse läpi!
+Hei, Kouji~
+Meidän on päästävä tästä nopeasti eteenpäin!
+Hän ei kuuntele yhtään.
+@219
+Hei hei, Arika?
+Kerro nyt kunnolla syy!
+@220
+Vau! Hän on niin vihainen, ettei kuule takaa.
+@221
+Hei, mitä tarkoittaa, ettei pääse läpi!
+Meidän on päästävä eteenpäin! Päästä meidät läpi!
+Rauhoittukaa nyt molemmat...
+@222
+Ei tässä voi rauhoittua, {BUF03}!!
+Select-joukot vain toistavat, että "tästä ei pääse"!
+@223
+Ai, päällikkö Tokkuri. Päivää.
+@224
+Päivää, {BUF03}.
+Tuota, mistä tässä on kyse?
+Viime aikoina on ilmestynyt "raunioryöstäjä",
+joten olemme tiukentaneet vartiointia.
+"Raunioryöstäjä"!?
+Luvaton kaivaminen on kielletty.
+Jos kaikki kaivaisivat mistä sattuu, arvokkaat
+rauniot voisivat vaurioitua, ja pahimmassa tapauksessa maanvyöry
+voisi aiheuttaa suuren onnettomuuden.
+Mutta viime aikoina jotkut ovat näköjään
+kaivaneet laittomasti sääntöjä uhmaten. Onnettomuuksien ehkäisemiseksi
+olemme väliaikaisesti kieltäneet
+kaiken kaivamisen. Pääsykielto tänne on myös
+epäilyttävän henkilön paljastamiseksi.
+@225
+Muuten, näin äsken Roborobo-jengin. Voisiko olla...
+@226
+...Ai! Nyt muistin! Aioin kysyä
+Tokkurilta, kun tapaan hänet! Tokkuri! Emme kuulleet uutisista,
+että Roborobo-jengin pomot karkasivat!
+Niin! Näimme Roborobo-pomot Shiokaran ja Salamin!
+Selitäpä, mistä on kyse!
+Hups!
+@227
+Ah, tuota...
+@228
+Eikö "raunioryöstökin" ole
+Roborobo-pomojen työtä!?
+Niin! Ette halua lehtiin otsikkoa "taas karkasivat",
+joten salailette totuutta! Aikuiset ovat ihan surkeita!!
+@229
+Olipa pulmallista...
+Hei, te kaksi! Tokkuri on ihan pulassa!
+@230
+Mitä! Halusit itsekin tietää!
+Ja meillä on oikeus tietää!
+Niin! Tämän takia Karinin asiaa ei voi
+jättää Select-joukoille!
+Kouji, nyt menit liian pitkälle!!
+@231
+Mitä, {BUF03}! Kyllä sinäkin ajattelet niin!
+Ugh...
+Voi, olettepa ankaria.
+Mutta en päästä teitä läpi!
+@232
+Ennen kuin raunioryöstäjä löytyy, en päästä
+ketään tästä läpi. On liian myöhäistä,
+jos raunioryöstäjä aiheuttaa suuren onnettomuuden! Ja Karinia
+etsivät myös Select-joukkojen jäsenet eri puolilla.
+Kysyn sitten: edistyykö Karinin etsintä!?
+@233
+Se...
+Select-joukkojen varassa Karin ei löydy!
+Päästä läpi!
+En päästä! Ihmisten turvallisuuden suojeleminen
+on meidän Select-joukkojen tehtävä!
+Jättäkää Karinin asia meille!
+.......
+.......
+@234
+(Jännittää...)
+Hmph, selvä sitten! Eli jos sen "raunioryöstäjän"
+sitoo ja tuo tänne, kaikki on hyvin?
+Tehdään se! Mennään!
+@235
+Ai! Kouji!
+@236
+"Raunioryöstäjän" jahti! Kuulostaa hauskalta.
+Jätetään Roborobo-pomojen vankilapako
+siihen asti sikseen.
+@237
+Mennään mekin, {BUF03}!
+@238
+Arika!
+Olen pahoillani, {BUF03}.
+Kunpa olisimme tehokkaampia...
+Älä välitä, Tokkuri. Me varmasti
+löydämme sen raunioryöstäjän ja annamme sille opetuksen!
+@239
+Voi voi... Luottaisitte meihinkin edes vähän.
+@240
+Joo, tehdään se!
+@241
+Hyvä on, mutta Kouji, vatsasi kurnii.
+Ugh...
+Ahaha!
+Kieltämättä on nälkä. Syödään lounasta.
+Kannatetaaan!
+@242
+(Katsotaanpa, mihin pystytte.)
+@243
+Kiitos ruoasta! Olipa hyvää!
+@244
+Niin minustakin!
+Maha täynnä.
+@245
+Hei, täällä on aika laajaa, joten jaetaan etsintä!
+...Ja kun löydätte vihjeen, tavataan
+edessä olevassa "juoksuhiekkaluolassa"!
+@246
+Okei! Minä menen oikealle!
+Minä sitten vasemmalle! Mennään!
+@247
+...Entä minä?
+@248
+Mikä sinä olet! Lopeta!
+@249
+Mitä? Aukion keskeltä kuului huuto!
+@250
+Aukiolta kuuluu huuto. Pitää mennä auttamaan!
+@252
+Anna ne herkut, robo!
+Mitä sinä teet? Lopeta!
+@253
+Hahahahahaa!
+@254
+Tuo ääni... Retort!
+Hyp!
+@255
+Väriä ruokapöytään, estetään yhdessä näpistely...
+@256
+Mestarivaras Retort! Raunioryöstäjä olitkin sinä!?
+Olet pidätetty!
+@259
+Raunioryöstäjä onkin mestarivaras Retort!
+Skuuppi!
+@260
+O-odota hetki! Se ei pidä paikkaansa!
+Hiljaa! Turha väitellä!
+@261
+H-hei! Sillä välin kun tässä pelleillään, Roborobot...
+Emme mene halpaan! Olet pidätetty!!
+@262
+Ugh! Ei auta...
+@263
+Seis siinä!
+@264
+Odota vähän!
+@266
+Mitä!?
+Joku meni juuri ohi!
+Mitä!
+@267
+Tuonne päin!
+@268
+Seurataan, Kouji. En usko, että Retort
+olisi "raunioryöstäjä"!
+Niin, Hikaru... siis Retort on riesa,
+mutta siihen se jää!
+@269
+...Sekin on totta...
+Okei! Seurataan tuota tyyppiä!
+En päästä skuuppia karkuun!
+@270
+Minäkin menen!
+@271
+Sinäkö!? Epäilinkin sinua. Oletko raunioryöstäjä?
+@272
+En mitään, vain...
+Vain?
+Se oli tiellä, joten nappasin sen.
+@273
+Robooo...
+Nappasit sen meille! Kiitos, Mizuchi!
+Raunioita ryöstää tämän porukka.
+Puhutpa oudon itsevarmasti.
+Etkö sinäkin ole sotkeutunut tähän jotenkin?
+Heh, kukapa tietää? Ainakaan minä en pidä
+näiden tavoista.
+@274
+Odota! Mitä aiot tehdä sille Roborobolle?
+Vien sen niiden Select-joukkojen luo.
+@275
+Ärsyttävä tyyppi.
+@276
+Älä sano noin, Kouji. Mizuchihan on
+auttanut meitä!
+Juuri se ärsyttää. Hän ilmestyy joka paikkaan,
+auttaa vähän ja häipyy. Tosi epäilyttävää.
+Totta... Hän tuntuu tietävän, mitä
+me teemme.
+Liian epäluuloisia te molemmat. Joka tapauksessa nyt
+on tärkeintä löytää "raunioryöstäjä", eikö?
+No, totta. Mennään!
+@277
+Tuota...
+Hmm, voisiko tämä kivi olla...
+Haloo~
+Tätä kannattaa varmaankin tutkia.
+Voi sentään.
+@278
+Mitä sinä täällä teet?
+@279
+Ai, {BUF03}. Kouji löysi
+"raunioryöstäjän". Tämä on iso skuuppi!
+@280
+Mitä te kaksi täällä teette?
+@281
+{BUF03}! Jos seisot tuossa, meidät huomataan!
+@282
+Hups, mitä nyt?
+@284
+Kas, {BUF03}.
+@285
+Katso tuonne.
+@286
+Hmm hmm, hmm hmm.
+@287
+Tämän kiven koostumus...
+@288
+Kas, todella kiinnostavaa.
+@289
+Nyt jäät kiinni, "raunioryöstäjä"! Valmistaudu!
+@290
+Uwaah!
+Rytinääää!
+@291
+Et pääse enää pakoon! Valmistaudu!
+@292
+Skuuppi!
+@293
+Mitä? Mitä?
+"Raunioryöstäjä", tunnusta kiltisti!
+O-odottakaa vähän. Mistä puhutte? En ymmärrä yhtään.
+@294
+Odota, Kouji, kuunnellaan! Ei ole todisteita,
+että tämä setä on "raunioryöstäjä"!
+.........Sekin on totta. Okei, kuunnellaan.
+@295
+...Huh. Kerronko siis itsestäni?
+Olen arkeologian auktoriteetti, Professor Akagane.
+Voitte kutsua minua professori Akaganeksi.
+Kierrän maailmaa ja tutkin avaruusolentojen
+jättämiä raunioita. Nyt kuulin
+"leijuvan linnakkeen Fuyuunin" kivestä ja
+palasin Afrikasta.
+Vai niin, Afrikasta.
+Japani on muuttunut paljon sinä aikana, kun olin poissa.
+Tänne pääseminen oli vaikeaa.
+Mutta "leijuvan linnakkeen Fuyuunin"
+Fuyuun-kiveä ei kuulemma enää ole?
+@296
+Kyllä, sen tiedän. Mutta vaistoni sanoo,
+että täällä nukkuu vielä löytämättömiä Fuyuun-kiviä.
+Vai niin. Siksi sinä siis ryöstit täkäläisiä raunioita?
+@297
+Väärin! En minä ryöstä raunioita!
+Enhän minä vahingoittaisi arvokkaita aarteita!
+Oikea arkeologi ei tosiaan tekisi niin.
+@298
+Epäilettekö yhä?
+No kun ei ole todisteita!
+Kun olet kerran auktoriteetti, sinulla on kai jotain?
+Nykylapset ovat kovin epäluuloisia.
+@299
+Joku tulee!
+@300
+Neiti Surume teettää kovasti töitä, robo...
+Roborobo-jengi!
+@301
+Robo!?
+@303#kabuto
+Täältä tullaaan!
+@303#kuwagata
+Perään!
+@304
+Mikä tuo otus on?
+@305
+Se on Roborobo-jengi. Se on vaarallinen, joten professori,
+pysykää täällä.
+@306
+Minä kaivan vielä vähän täällä.
+@307#kabuto
+Nyt olet nurkassa, Roborobo-jengi!
+@307#kuwagata
+Roborobo-jengi, valmistaudu!
+@308
+Roborobo-jengi, ette pääse pakoon. Antautukaa!
+@309
+Kiih~ Kirotut kakarat! Aiotteko taas
+sotkea suunnitelmamme!

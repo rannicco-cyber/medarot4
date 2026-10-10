@@ -1,256 +1,256 @@
 ﻿Index[#version],Pointer[#version|],Original,Translated
-000,0x160cf0,<SFF>マスコット型メダロット<CD>ふうせんごと てきを 大ばくはつ!<*04>,
-001,0x160cf2,<SFF>プテラノドン型メダロット<CD>セレクトスリ-の リ-ダ-だ<*04>,
-002,0x160cf4,<SFF>ワシ型メダロット<CD>しっぷうどとうの ミサイル攻撃!<*04>,
-003,0x160cf6,<SFF>タカ型メダロット<CD>しっぷうどとうの ナパ-ム攻撃!<*04>,
-004,0x160cf8,<SFF>ツバメ型メダロット<CD>つばめは こそこそ にげまわる<*04>,
-005,0x160cfa,<SFF>フクロウ型メダロット<CD>ほうふなちしきで びょうきを なおす<*04>,
-006,0x160cfc,<SFF>カラス型メダロット<CD>ひかリものには めが ないぞ<*04>,
-007,0x160cfe,<SFF>セミ型メダロット<CD>てきを ふせいで きいろい ブレイク<*04>,
-008,0x160d00,<SFF>とのさまバッタ型メダロット<CD>まげは ちょんまげよリ えらい!<*04>,
-009,0x160d02,<SFF>ヒヨコ型メダロット<CD>さいしょの うちは よわくても...<*04>,
-010,0x160d04,<SFF>トランプ「ジャック」型メダロット<CD>うつ うつ うつ かんがえない!<*04>,
-011,0x160d06,<SFF>クジャク型メダロット<CD>ゴ-ジャスに しせんを くぎづけ!<*04>,
-012,0x160d08,<SFF>セイレ-ン型メダロット<CD>みわくの うたで こころを しずめる<*04>,
-013,0x160d0a,<SFF>カナリア型メダロット<CD>わたしが あなたの みがわリになるわ<*04>,
-014,0x160d0c,<SFF>ピクシ-型メダロット<CD>いたずらずきな かいふくやさん<*04>,
-015,0x160d0e,<SFF>か型メダロット<CD>あなたの じゅうてん すっちゃうわよ<*04>,
-016,0x160d10,<SFF>ライチョウ型メダロット<CD>いきを ひそめて さむさに たえる<*04>,
-017,0x160d12,<SFF>もくせい型メダロット<CD>すいその うみで ひとおよぎ<*04>,
-018,0x160d14,<SFF>ツル型メダロット<CD>つるの おんがえし<*04>,
-019,0x160d16,<SFF>ダンスフラワ-型メダロット<CD>ク-ルさが おとこのこに だいにんき<*04>,
-020,0x160d18,<SFF>ムササビ型メダロット<CD>木から とびおリ すばやく 木ヘ<*04>,
-021,0x160d1a,<SFF>いせエビ型メダロット<CD>いせいよく かくとう はねのける!<*04>,
-022,0x160d1c,<SFF>マンボウ型メダロット<CD>それイヤ あれイヤ それもイヤ<*04>,
-023,0x160d1e,<SFF>ついせきポッド型メダロット<CD>あしおと しのばし てきを キャッチ<*04>,
-024,0x160d20,<SFF>しにがみ型メダロット<CD>ひかリを ふうじる あんさつしゃ<*04>,
-025,0x160d22,<SFF>キュ-ピッド型メダロット<CD>あいのメダフォ-ス さかせましょう!<*04>,
-026,0x160d24,<SFF>かヘん型メダロット<CD>こいつ つけると はやすぎ!<*04>,
-027,0x160d26,<SFF>プチデビル型メダロット<CD>パぎょうで まとめる プチデビル<*04>,
-028,0x160d28,<SFF>ガ-ゴイル型メダロット<CD>石のごとく たえ しょうリの ざヘ<*04>,
-029,0x160d2a,<SFF>まじょ型メダロット<CD>フ-ドの おくで ちみつな けいさん<*04>,
-030,0x160d2c,<SFF>スピナ-型メダロット<CD>けいごの スペシャリスト<*04>,
-031,0x160d2e,<SFF>バンシ-型メダロット<CD>はやく かえらないと たベちゃうわよ<*04>,
-032,0x160d30,<SFF>かせい型メダロット<CD>タコタコ プリティ-♥<*04>,
-033,0x160d32,<SFF>ヘいき型メダロット<CD>女なら まよわず これを つかえ!<*04>,
-034,0x160d34,<SFF>オジギソウ型メダロット<CD>攻撃を うけると しなだれます<*04>,
-035,0x160d36,<SFF>さんようちゅう型メダロット<CD>てきに とリつき 口から しんにゅう<*04>,
-036,0x160d38,<SFF>マンモス型メダロット<CD>さんちでは ぜつめつの ききに...<*04>,
-037,0x160d3a,<SFF>うちゅうたんさ型メダロット<CD>かくれた てきを てっていちょうさ!<*04>,
-038,0x160d3c,<SFF>ハエトリソウ型メダロット<CD>どこでも トラップ しかけるシャ-!<*04>,
-039,0x160d3e,<SFF>ハムスタ-型メダロット<CD>ちょっと かぶリつく ジャンガリアン<*04>,
-040,0x160d40,<SFF>ケルベロス型メダロット<CD>かむ かむ がむしゃら!<*04>,
-041,0x160d42,<SFF>デュラハン型メダロット<CD>くびなし きしの おとおリだ<*04>,
-042,0x160d44,<SFF>ダニ型メダロット<CD>ふとんかんそうきも ヘっちゃら!<*04>,
-043,0x160d46,<SFF>シラミ型メダロット<CD>ミサイル攻撃も もぐって かいひ!<*04>,
-044,0x160d48,<SFF>ノミ型メダロット<CD>きょういの ジャンプで つきぬける!<*04>,
-045,0x160d4a,<SFF>こじか型メダロット<CD>こぶリの つのが チャ-ムポイント<*04>,
-046,0x160d4c,<SFF>ホウセンカ型メダロット<CD>ふれたら はじけて 大ダメ-ジ!<*04>,
-047,0x160d4e,<SFF>ドリア-ド型メダロット<CD>しょくぶつの ちからを アップ!<*04>,
-048,0x160d50,<SFF>コオロギ型メダロット<CD>ちょうおんぱで フォ-スせいぎょ!<*04>,
-049,0x160d52,<SFF>ちきゅう型メダロット<CD>いだいなる ちきゅうの ちから!<*04>,
-050,0x160d54,<SFF>クワガタムシ型メダロット<CD>「ここうの さむらい」とも いうな<*04>,
-051,0x160d56,<SFF>カブトムシ型メダロット<CD>どんなてきでも かかってきやがれ!<*04>,
-052,0x160d58,<SFF>サ-ベルタイガ-型メダロット<CD>カブト型メダロットの ライバル<*04>,
-053,0x160d5a,<SFF>キングライオン型メダロット<CD>クワガタ型メダロットの ライバル<*04>,
-054,0x160d5c,<SFF>カブトムシ型メダロット<CD>けいリょう型の カブトだ!<*04>,
-055,0x160d5e,<SFF>ヘラクレスオオカブトムシ型メダロット<CD>じゅうリょう型の カブトだ!<*04>,
-056,0x160d60,<SFF>カミキリムシ型メダロット<CD>コンセプトは 「たおせ クワガタ!」<*04>,
-057,0x160d62,<SFF>タマムシ型メダロット<CD>コンセプトは 「たおせ カブト!」<*04>,
-058,0x160d64,<SFF>ティラノサウルス型メダロット<CD>セレクトスリ-の たいちょうだ!<*04>,
-059,0x160d66,<SFF>ばんちょう型メダロット<CD>よわきを たすけ つよきを くじく!<*04>,
-060,0x160d68,<SFF>イヌ型メダロット<CD>こいきな しゃげき やろう<*04>,
-061,0x160d6a,<SFF>エイリアン型メダロット<CD>ヘんげんじざいの なんたいボディ<*04>,
-062,0x160d6c,<SFF>ヴェロキラプトル型メダロット<CD>ねらった えものは にがさない!<*04>,
-063,0x160d6e,<SFF>エリマキトカゲ型メダロット<CD>あわてて いえに かえリたくなる!<*04>,
-064,0x160d70,<SFF>クワガタムシ型メダロット<CD>クワガタ型メダロットの ダ-クサイド<*04>,
-065,0x160d72,<SFF>ひこうき型メダロット<CD>「かぜのつばさ」で マップいどう!<*04>,
-066,0x160d74,<SFF>プログラマ-型メダロット<CD>みためはプログラマ- じつはハッカ-<*04>,
-067,0x160d76,<SFF>きリん型メダロット<CD>4体の せいじゅうを とういつする<*04>,
-068,0x160d78,<SFF>トランプ「キング」型メダロット<CD>変形すると むてきの そうこうに!<*04>,
-069,0x160d7a,<SFF>クワガタムシ型メダロット<CD>たいおうぼうぎょの エキスパ-ト!<*04>,
-070,0x160d7c,<SFF>トラ型メダロット<CD>たいおうぼうぎょの スタンダ-ド!<*04>,
-071,0x160d7e,<SFF>チ-タ-型メダロット<CD>こうそくの ハンマ-攻撃!<*04>,
-072,0x160d80,<SFF>オオカミ型メダロット<CD>イヌが やせいに もどった オオカミ<*04>,
-073,0x160d82,<SFF>きかんしゃ型メダロット<CD>「ミニハンドル」で こうそくいどう!<*04>,
-074,0x160d84,<SFF>カブトムシ型メダロット<CD>きょうリょく攻撃の エキスパ-ト!<*04>,
-075,0x160d86,<SFF>ライオン型メダロット<CD>きょうリょく攻撃の スタンダ-ド!<*04>,
-076,0x160d88,<SFF>カブトムシ型メダロット<CD>カブト型メダロットの ダ-クサイド<*04>,
-077,0x160d8a,<SFF>げんぶ型メダロット<CD>こうてつの よろいの せいじゅう<*04>,
-078,0x160d8c,<SFF>バッファロ-型メダロット<CD>きょうリょくパワ-で てきを はかい<*04>,
-079,0x160d8e,<SFF>せいリゅう型メダロット<CD>ふっかつと そせいの せいじゅう<*04>,
-080,0x160d90,<SFF>ふね型メダロット<CD>「せんぼうきょう」で 水に もぐる!<*04>,
-081,0x160d92,<SFF>グ-ル型メダロット<CD>じめんを もぐって てきの うしろヘ<*04>,
-082,0x160d94,<SFF>セ-ラ-型メダロット<CD>カブトと クワガタを サポ-トするわ<*04>,
-083,0x160d96,<SFF>ナ-ス型メダロット<CD>せんじょうを かけぬける ナ-スです<*04>,
-084,0x160d98,<SFF>ネコ型メダロット<CD>アタシは 動くけど あんたは ダメ!<*04>,
-085,0x160d9a,<SFF>ヴァルキュリア型メダロット<CD>カブトと クワガタの しんサポ-トよ<*04>,
-086,0x160d9c,<SFF>バニ-型メダロット<CD>ふしぎな ジュ-スで パワ-アップ!<*04>,
-087,0x160d9e,<SFF>しょくぶつさいばい型メダロット<CD>ふリそそぐ 攻撃から まもリます<*04>,
-088,0x160da0,<SFF>かんこうガイド型メダロット<CD>あれちを つきすすむ かんこうガイド<*04>,
-089,0x160da2,<SFF>みこ型メダロット<CD>おごそかな かみの つかい<*04>,
-090,0x160da4,<SFF>メイド型メダロット<CD>ごしゅじんさまのために がんばリます<*04>,
-091,0x160da6,<SFF>ロ-タス型メダロット<CD>しんぴの ベ-ルは すベてを ふせぐ<*04>,
-092,0x160da8,<SFF>てんとうむし型メダロット<CD>7つの ほしを あやつる おとめよ<*04>,
-093,0x160daa,<SFF>たいよう型メダロット<CD>あれくるう ひかリの パワ-!<*04>,
-094,0x160dac,<SFF>つき型メダロット<CD>おだやかなる ひかリの パワ-<*04>,
-095,0x160dae,<SFF>すいせい型メダロット<CD>76ねんに 1どの きょうい!<*04>,
-096,0x160db0,<SFF>てんのうせい型メダロット<CD>てんじょうよリの あおき いかづち<*04>,
-097,0x160db2,<SFF>かいおうせい型メダロット<CD>しんかいよリの あおき うずまき<*04>,
-098,0x160db4,<SFF>めいおうせい型メダロット<CD>めいかいよリの はかいの いぶき<*04>,
-099,0x160db6,<SFF>すざく型メダロット<CD>ひとを まどわす ふしの せいじゅう<*04>,
-100,0x160db8,<SFF>ヒョウ型メダロット<CD>くらやみを かけぬける かリうど<*04>,
-101,0x160dba,<SFF>ねこむすめ型メダロット<CD>ネコパンチで おしおきにゅん!<*04>,
-102,0x160dbc,<SFF>びゃっこ型メダロット<CD>あまかける おんそくの せいじゅう<*04>,
-103,0x160dbe,<SFF>がくえんアイドル型メダロット<CD>うらのかおも がくえん だいひょう♥<*04>,
-104,0x160dc0,<SFF>バイク型メダロット<CD>レフェリ- ふリきリ かっとばす!<*04>,
-105,0x160dc2,<SFF>どぼくさぎょう型メダロット<CD>じんそく ていねいが うリっす<*04>,
-106,0x160dc4,<SFF>かぶき型メダロット<CD>かみを ふリふリ フィ-ルドまう!<*04>,
-107,0x160dc6,<SFF>こもリ型メダロット<CD>やんちゃな こどもの ほけんです<*04>,
-108,0x160dc8,<SFF>キリン型メダロット<CD>あたリを みまわすには さいてき!<*04>,
-109,0x160dca,<SFF>ラクダ型メダロット<CD>あつさに たえて さばくを いそぐ<*04>,
-110,0x160dcc,<SFF>いちリんしゃ型メダロット<CD>ひとこぎ いっぽ ふたこぎ に-ほ<*04>,
-111,0x160dce,<SFF>せんぷうき型メダロット<CD>ビュ-ンと ひとっとばし!<*04>,
-112,0x160dd0,<SFF>ムカデ型メダロット<CD>てきに のしかかリ おしつぶすぞ<*04>,
-113,0x160dd2,<SFF>けむし型メダロット<CD>きれいな からだの いっぽ てまえ<*04>,
-114,0x160dd4,<SFF>パトカ-型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,
-115,0x160dd6,<SFF>レスキュ-しゃ型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,
-116,0x160dd8,<SFF>しょうぼうしゃ型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,
-117,0x160dda,<SFF>ザリガニ型メダロット<CD>変形すれば さいそくの メダロットさ<*04>,
-118,0x160ddc,<SFF>イモムシ型メダロット<CD>きれいな からだの いっぽ てまえ<*04>,
-119,0x160dde,<SFF>きんせい型メダロット<CD>かがやける ゆうぐれの おとめよ<*04>,
-120,0x160de0,<SFF>ブラキオサウルス型メダロット<CD>セレクトスリ-の しれいとう!<*04>,
-121,0x160de2,<SFF>カメ型メダロット<CD>きょういの 3れんレ-ザ-!<*04>,
-122,0x160de4,<SFF>カブトガニ型メダロット<CD>ぼうぎょリょくでは にほんいち!<*04>,
-123,0x160de6,<SFF>ステゴザウルス型メダロット<CD>れんけい攻撃の あにき!<*04>,
-124,0x160de8,<SFF>トリケラトプス型メダロット<CD>れんけい攻撃の おとうと!<*04>,
-125,0x160dea,<SFF>レンジ型メダロット<CD>くすぶってても だいばくはつ!<*04>,
-126,0x160dec,<SFF>ミシン型メダロット<CD>どんなものでも ししゅうしちゃう<*04>,
-127,0x160dee,<SFF>ダンゴムシ型メダロット<CD>あるていどなら はじきかえす カラ<*04>,
-128,0x160df0,<SFF>ミミズ型メダロット<CD>あいての はたけを くいちらかすぞ<*04>,
-129,0x160df2,<SFF>どせい型メダロット<CD>まわリを とリまく ぼうぎょの かベ<*04>,
-130,0x160df4,<SFF>クジラ型メダロット<CD>小エビを のみこみ しおを ふくじら<*04>,
-131,0x160df6,<SFF>アメ-バ型メダロット<CD>あなた からだに のみこまれるれ-ん<*04>,
-132,0x160df8,<SFF>イソギンチャク型メダロット<CD>すいついたらはなさないわよん<*04>,
-133,0x160dfa,<SFF>アザラシ型メダロット<CD>オウッ オウッ....オウッ オウッ<*04>,
-134,0x160dfc,<SFF>ナマズ型メダロット<CD>じしんを よちして ことなきを える<*04>,
-135,0x160dfe,<SFF>ウナギ型メダロット<CD>スタミナばつぐん モリモリけんこう!<*04>,
-136,0x160e00,<SFF>クロノサウルス型メダロット<CD>セレクト隊の せんすいメンバ-?<*04>,
-137,0x160e02,<SFF>ウ-パ-ル-パ-型メダロット<CD>貝ていると いしきが とおくなるロル<*04>,
-138,0x160e04,<SFF>ブラックバス型メダロット<CD>どんなパ-ツも はかいしまくるヤ-<*04>,
-139,0x160e06,<SFF>アノマロカリス型メダロット<CD>すベての パ-ツで てきを ほかく!<*04>,
-140,0x160e08,<SFF>ハルキゲニア型メダロット<CD>きみょうな くみあわせで ほんろうゲ<*04>,
-141,0x160e0a,<SFF>タガメ型メダロット<CD>ほら そらだって とベるんです<*04>,
-142,0x160e0c,<SFF>アメンボ型メダロット<CD>なんと そらだって とベるんです<*04>,
-143,0x160e0e,<SFF>タツノオトシゴ型メダロット<CD>貝よ! きゅうきょくの しんか!<*04>,
-144,0x160e10,<SFF>コイ型メダロット<CD>貝よ! きゅうきょくの しんか!<*04>,
-145,0x160e12,<SFF>イルカ型メダロット<CD>けがした メダロットは いるか?<*04>,
-146,0x160e14,<SFF>きんぎょ型メダロット<CD>わたし きれい...?<*04>,
-147,0x160e16,<SFF>トランプ「クイ-ン」型メダロット<CD>なぐる なぐる なぐる うけてみよ!<*04>,
-148,0x160e18,<SFF>アヒル型メダロット<CD>みにくくないもんっ!<*04>,
-149,0x160e1a,<SFF>すいせい型メダロット<CD>たいようの ひかリ さんさん<*04>,
-150,0x160e1c,<SFF>トランプ「エ-ス」型メダロット<CD>ふふふっ おろかものめ...<*04>,
-151,0x160e1e,<SFF>きゅうかんちょう型メダロット<CD>きゅうかんちょうでも オウムがえし!<*04>,
-152,0x160e20,<SFF>ワイバ-ン型メダロット<CD>かぜよ あらしよっ!<*04>,
-153,0x160e22,<SFF>ト-スタ-型メダロット<CD>いろんな あつさの やけまっせ-<*04>,
-154,0x160e24,<SFF>カモメ型メダロット<CD>すいヘいさんっ♥<*04>,
-155,0x160e26,<SFF>ふうしゃ型メダロット<CD>とびますっ とびますっ<*04>,
-156,0x160e28,<SFF>ワニチドリ型メダロット<CD>おこったら こわいんだから<*04>,
-157,0x160e2a,<SFF>キノコ型メダロット<CD>出るぞ 出るぞっ ほうしが 出るぞっ<*04>,
-158,0x160e2c,<SFF>インキュバス型メダロット<CD>ふぬけに なるがいい<*04>,
-159,0x160e2e,<SFF>じゃぐち型メダロット<CD>すベて あらいながしてやるっ!<*04>,
-160,0x160e30,<SFF>じゅじゅつし型メダロット<CD>うしなわれた こくいんを ふっかつ!<*04>,
-161,0x160e32,<SFF>キノコ型メダロット<CD>まわる まわるよ かさが まわるよっ<*04>,
-162,0x160e34,<SFF>タロットカ-ド型メダロット<CD>さあ わたくしの てのうえで おどれ<*04>,
-163,0x160e36,<SFF>しんかん型メダロット<CD>ふういんを ときます<*04>,
-164,0x160e38,<SFF>はいごれい型メダロット<CD>うしろの しょうめん だ-れっ?<*04>,
-165,0x160e3a,<SFF>ウツボカズラ型メダロット<CD>どっからでも かかってこいっ!<*04>,
-166,0x160e3c,<SFF>コアラ型メダロット<CD>なかには ミサイルが た-っぷリっ<*04>,
-167,0x160e3e,<SFF>ケンタウロス型メダロット<CD>リンゴも ミカンも これ 1ぽんさ!<*04>,
-168,0x160e40,<SFF>テレビ型メダロット<CD>さあ みんな ちゅうもく ちゅうもく<*04>,
-169,0x160e42,<SFF>マング-ス型メダロット<CD>そ-ら つかまえたぞ それそれっ<*04>,
-170,0x160e44,<SFF>ヤモリ型メダロット<CD>ペろん すペろん きょろんっ<*04>,
-171,0x160e46,<SFF>スキュラ型メダロット<CD>ひとの じゃまを してるんだよっ<*04>,
-172,0x160e48,<SFF>コクワガタムシ型メダロット<CD>こつぶでも ピリリで ござるよ<*04>,
-173,0x160e4a,<SFF>コカブトムシ型メダロット<CD>ひとを チビって いうなあっ!!<*04>,
-174,0x160e4c,<SFF>フランケン型メダロット<CD>ああして「ド-ン」こうして「ド-ン」<*04>,
-175,0x160e4e,<SFF>かがみ型メダロット<CD>ほら...うしろに たってる<*04>,
-176,0x160e50,<SFF>かみ型メダロット<CD>おまえたちは わたしの てのなかだ<*04>,
-177,0x160e52,<SFF>アリジゴク型メダロット<CD>きらわれものと はかない いのち<*04>,
-178,0x160e54,<SFF>ゆきやま きゅうじょけん型メダロット<CD>やまでの きゅうじょは おまかせっ<*04>,
-179,0x160e56,<SFF>ゴキブリ型メダロット<CD>どこに いっても きらわれものロボ<*04>,
-180,0x160e58,<SFF>ティンペット型メダロット<CD>そんなに 貝つめちゃ いやんっ♥<*04>,
-181,0x160e5a,<SFF>かいなん きゅうじょけん型メダロット<CD>うみでの きゅうじょは おまかせっ<*04>,
-182,0x160e5c,<SFF>せいきし型メダロット<CD>ふういんされし でんせつの きし<*04>,
-183,0x160e5e,<SFF>オオクワガタムシ型メダロット<CD>あまかける あおき のこぎリ!<*04>,
-184,0x160e60,<SFF>だいあくま型メダロット<CD>ちからを ひめし さいしゅうヘいき<*04>,
-185,0x160e62,<SFF>オオカブトムシ型メダロット<CD>ちをかける あかき とさか!<*04>,
-186,0x160e64,<SFF>パンダ型メダロット<CD>パンダ サンダ- アカパンダ-<*04>,
-187,0x160e66,<SFF>トルネ-ド型メダロット<CD>ながびいても いいのかしら?<*04>,
-188,0x160e68,<SFF>デビル型メダロット<CD>みんな きらい...<*04>,
-189,0x160e6a,<SFF>だいてんし型メダロット<CD>さいしゅうヘいきの よくせいしゃ<*04>,
-190,0x160e6c,<SFF>あんこくきし型メダロット<CD>ちからを うしなった あんこく きし<*04>,
-191,0x160e6e,<SFF>パンダ型メダロット<CD>ころぶまでを カウントダウン!<*04>,
-192,0x160e70,<SFF>ダチョウ型メダロット<CD>おら! おら! どきやがれ!<*04>,
-193,0x160e72,<SFF>カモ型メダロット<CD>おいしく おめしあがリくださいっ!<*04>,
-194,0x160e74,<SFF>かていきょうし型メダロット<CD>さあ ロボトルの じかんですわよっ<*04>,
-195,0x160e76,<SFF>そうじき型メダロット<CD>ぜんぶ すいあげて ポイッです<*04>,
-196,0x160e78,<SFF>トナカイ型メダロット<CD>おじいちゃんの かわリにっと<*04>,
-197,0x160e7a,<SFF>カツオノエボシ型メダロット<CD>かいめんには 頭しか 出てないんです<*04>,
-198,0x160e7c,<SFF>ヒドラ型メダロット<CD>なまはんかな こうげきでは たおれん<*04>,
-199,0x160e7e,<SFF>ベヒ-モス型メダロット<CD>フィ-ルドを ゆるがす こどう!<*04>,
-200,0x160e80,<SFF>だるま型メダロット<CD>ころんでも ただでは おきんわい!<*04>,
-201,0x160e82,<SFF>ロケットはっしゃだい型メダロット<CD>はっしゃ じゅんび かんリょうです!<*04>,
-202,0x160e84,<SFF>ナマコ型メダロット<CD>ねらっても いいっすよ<*04>,
-203,0x160e86,<SFF>カタツムリ型メダロット<CD>カラの中には 3つの ちから!<*04>,
-204,0x160e88,<SFF>アルラウネ型メダロット<CD>いらっしゃい やみうちにして あげる<*04>,
-205,0x160e8a,<SFF>れいぞうこ型メダロット<CD>さむっ いや まもリますけどね<*04>,
-206,0x160e8c,<SFF>リヴァイアサン型メダロット<CD>すベてを のみこむ あらなみよ!<*04>,
-207,0x160e8e,<SFF>シ-ラカンス型メダロット<CD>せかいきろく こうしん中!<*04>,
-208,0x160e90,<SFF>ラッコ型メダロット<CD>これ おきにいリの いわ♥<*04>,
-209,0x160e92,<SFF>せんたくき型メダロット<CD>あんた ちょっと よごれてない?<*04>,
-210,0x160e94,<SFF>ミジンコ型メダロット<CD>こうごうせいでも したいな-っ<*04>,
-211,0x160e96,<SFF>クマ型メダロット<CD>アンジェラと チェルシ-はどこ?<*04>,
-212,0x160e98,<SFF>ゴ-スト型メダロット<CD>あんまリ いたくしないで♥<*04>,
-213,0x160e9a,<SFF>どぐう型メダロット<CD>こんかい パワ-アップしてます<*04>,
-214,0x160e9c,<SFF>ラスボス型メダロット<CD>めざめよ さいきょうの はかいヘいき<*04>,
-215,0x160e9e,<SFF>とうぎゅうし型メダロット<CD>かてると おもうなら かかってきな!<*04>,
-216,0x160ea0,<SFF>タコ型メダロット<CD>おやまの あかだいしょうカネ!<*04>,
-217,0x160ea2,<SFF>ヘビ型メダロット<CD>おやまの あおだいしょうマク!<*04>,
-218,0x160ea4,<SFF>フラワ-型メダロット<CD>こうそくレ-ザ- ピ-!!<*04>,
-219,0x160ea6,<SFF>にんじゃ型メダロット<CD>シノビックパ-クで ボクと あくしゅ<*04>,
-220,0x160ea8,<SFF>むしゃ型メダロット<CD>むかしの パ-ツは いさぎよいじゃ!<*04>,
-221,0x160eaa,<SFF>イヌ型メダロット<CD>どんな パ-ツも あなだらけさ!<*04>,
-222,0x160eac,<SFF>デビル型メダロット<CD>にくを きリさき ほねを たつ!!<*04>,
-223,0x160eae,<SFF>くのいち型メダロット<CD>シノビックパ-クで キミと あくしゅ<*04>,
-224,0x160eb0,<SFF>こまいぬ型メダロット<CD>じんじゃの まもリがみですワン!<*04>,
-225,0x160eb2,<SFF>ペンギン型メダロット<CD>北が こいしいペンペン...<*04>,
-226,0x160eb4,<SFF>コウモリ型メダロット<CD>どうくつは あたまに きをつけロボ<*04>,
-227,0x160eb6,<SFF>エンジェル型メダロット<CD>がんそ いやらしけい...ですわ<*04>,
-228,0x160eb8,<SFF>ナイトメア型メダロット<CD>たのしいユメを みさせルヨ ルヨ<*04>,
-229,0x160eba,<SFF>スペクタ-型メダロット<CD>え-? よけたら いかんですわ-<*04>,
-230,0x160ebc,<SFF>たいじ型メダロット<CD>ないたら たいヘんでちゅよ<*04>,
-231,0x160ebe,<SFF>カメレオン型メダロット<CD>かくれるのは おてのものさ<*04>,
-232,0x160ec0,<SFF>カニ型メダロット<CD>ての ちがいは きのうの ちがい-<*04>,
-233,0x160ec2,<SFF>ウサギ型メダロット<CD>あああっ じっ じかんが ないぃっ!<*04>,
-234,0x160ec4,<SFF>デビル型メダロット<CD>デビルガ オオイト カゲ ウスイ..<*04>,
-235,0x160ec6,<SFF>メデュ-サ型メダロット<CD>ぼうや うしろむいてね う.し.ろ♥<*04>,
-236,0x160ec8,<SFF>サキュバス型メダロット<CD>おね~さんが もらって あ.げ.る♥<*04>,
-237,0x160eca,<SFF>めがみ型メダロット<CD>ふたたび フィ-ルドに まいもどれ!<*04>,
-238,0x160ecc,<SFF>ナイト型メダロット<CD>いのちに かえても おまもリします!<*04>,
-239,0x160ece,<SFF>ジャック.オ-.ランタン型メダロット<CD>え-? かまえたら いかんですわ-<*04>,
-240,0x160ed0,<SFF>ゴ-レム型メダロット<CD>こころ やさしく みも うつくしく<*04>,
-241,0x160ed2,<SFF>タマゴ型メダロット<CD>なにが でるでしょう?<*04>,
-242,0x160ed4,<SFF>ゆきだるま型メダロット<CD>あっつい とこじゃ とけちゃいますよ<*04>,
-243,0x160ed6,<SFF>オオカミウオ型メダロット<CD>かみついて しびれさせるっす<*04>,
-244,0x160ed8,<SFF>マ-メイド型メダロット<CD>パ-ツの かいふくは おまかせよ<*04>,
-245,0x160eda,<SFF>ほたる型メダロット<CD>きれいな みずを まもるわ<*04>,
-246,0x160edc,<SFF>そんごくう型メダロット<CD>スピ-ド モンキ-だキ-ッ!<*04>,
-247,0x160ede,<SFF>ちょはっかい型メダロット<CD>じみちに あしもとを かためるブ-!<*04>,
-248,0x160ee0,<SFF>さごじょう型メダロット<CD>あしを ひっぱリ たこなぐるッパ!<*04>,
-249,0x160ee2,<SFF>しんせんぐみ型メダロット<CD>いちげきひっさつの やいば!<*04>,
-250,0x160ee4,<SFF>ベんけい型メダロット<CD>せっしゃは ガンジョ-で ごわすっ!<*04>,
-251,0x160ee6,<SFF>ここにメダロットのせつめいをかく<*04>,
+000,0x160cf0,<SFF>マスコット型メダロット<CD>ふうせんごと てきを 大ばくはつ!<*04>,<SFF>Maskottimalli<D3>Pallo räjähtää vihollisineen!<*04>
+001,0x160cf2,<SFF>プテラノドン型メダロット<CD>セレクトスリ-の リ-ダ-だ<*04>,<SFF>Pteranodonmalli<D3>Select Threen johtaja<*04>
+002,0x160cf4,<SFF>ワシ型メダロット<CD>しっぷうどとうの ミサイル攻撃!<*04>,<SFF>Kotkamalli<D3>Rajua ohjustulta!<*04>
+003,0x160cf6,<SFF>タカ型メダロット<CD>しっぷうどとうの ナパ-ム攻撃!<*04>,<SFF>Haukkamalli<D3>Rajua napalmtulta!<*04>
+004,0x160cf8,<SFF>ツバメ型メダロット<CD>つばめは こそこそ にげまわる<*04>,<SFF>Pääskymalli<D3>Pääsky pakoilee salaa<*04>
+005,0x160cfa,<SFF>フクロウ型メダロット<CD>ほうふなちしきで びょうきを なおす<*04>,<SFF>Pöllömalli<D3>Parantaa laajalla tiedollaan<*04>
+006,0x160cfc,<SFF>カラス型メダロット<CD>ひかリものには めが ないぞ<*04>,<SFF>Varismalli<D3>Kiiltävä on sen heikkous<*04>
+007,0x160cfe,<SFF>セミ型メダロット<CD>てきを ふせいで きいろい ブレイク<*04>,<SFF>Kaskasmalli<D3>Torjuu ja murtaa keltaisena<*04>
+008,0x160d00,<SFF>とのさまバッタ型メダロット<CD>まげは ちょんまげよリ えらい!<*04>,<SFF>Kuninkaansirkkamalli<D3>Nuttura on kunnian merkki!<*04>
+009,0x160d02,<SFF>ヒヨコ型メダロット<CD>さいしょの うちは よわくても...<*04>,"<SFF>Tipumalli<D3>Alussa heikko, mutta...<*04>"
+010,0x160d04,<SFF>トランプ「ジャック」型メダロット<CD>うつ うつ うつ かんがえない!<*04>,"<SFF>""Jätkä""-korttimalli<D3>Ampuu, ampuu, ampuu, ei mieti!<*04>"
+011,0x160d06,<SFF>クジャク型メダロット<CD>ゴ-ジャスに しせんを くぎづけ!<*04>,<SFF>Riikinkukkomalli<D3>Upeus vangitsee katseet!<*04>
+012,0x160d08,<SFF>セイレ-ン型メダロット<CD>みわくの うたで こころを しずめる<*04>,<SFF>Seireenimalli<D3>Lumoava laulu rauhoittaa<*04>
+013,0x160d0a,<SFF>カナリア型メダロット<CD>わたしが あなたの みがわリになるわ<*04>,<SFF>Kanarialintumalli<D3>Olen sinun sijaisuhrisi<*04>
+014,0x160d0c,<SFF>ピクシ-型メダロット<CD>いたずらずきな かいふくやさん<*04>,<SFF>Keijukaismalli<D3>Kepposteleva korjaaja<*04>
+015,0x160d0e,<SFF>か型メダロット<CD>あなたの じゅうてん すっちゃうわよ<*04>,<SFF>Hyttysmalli<D3>Imen latauksesi pois<*04>
+016,0x160d10,<SFF>ライチョウ型メダロット<CD>いきを ひそめて さむさに たえる<*04>,<SFF>Riekkomalli<D3>Kestää kylmää hiljaa<*04>
+017,0x160d12,<SFF>もくせい型メダロット<CD>すいその うみで ひとおよぎ<*04>,<SFF>Jupitermalli<D3>Uinti vetymeressä<*04>
+018,0x160d14,<SFF>ツル型メダロット<CD>つるの おんがえし<*04>,<SFF>Kurkimalli<D3>Kurjen kiitollisuus<*04>
+019,0x160d16,<SFF>ダンスフラワ-型メダロット<CD>ク-ルさが おとこのこに だいにんき<*04>,<SFF>Tanssikukkamalli<D3>Cooliudellaan poikien suosikki<*04>
+020,0x160d18,<SFF>ムササビ型メダロット<CD>木から とびおリ すばやく 木ヘ<*04>,"<SFF>Liito-oravamalli<D3>Puusta alas, nopeasti ylös<*04>"
+021,0x160d1a,<SFF>いせエビ型メダロット<CD>いせいよく かくとう はねのける!<*04>,<SFF>Langustimalli<D3>Torjuu rohkeasti lähi-iskut!<*04>
+022,0x160d1c,<SFF>マンボウ型メダロット<CD>それイヤ あれイヤ それもイヤ<*04>,"<SFF>Möhkäkalamalli<D3>Tuo ei, tuo ei, eikä tuokaan<*04>"
+023,0x160d1e,<SFF>ついせきポッド型メダロット<CD>あしおと しのばし てきを キャッチ<*04>,<SFF>Seurantasondimalli<D3>Hiipii ja nappaa vihollisen<*04>
+024,0x160d20,<SFF>しにがみ型メダロット<CD>ひかリを ふうじる あんさつしゃ<*04>,<SFF>Viikatemiesmalli<D3>Valon sinetöivä salamurhaaja<*04>
+025,0x160d22,<SFF>キュ-ピッド型メダロット<CD>あいのメダフォ-ス さかせましょう!<*04>,<SFF>Amorimalli<D3>Rakkauden Medavoima kukkii!<*04>
+026,0x160d24,<SFF>かヘん型メダロット<CD>こいつ つけると はやすぎ!<*04>,<SFF>Terälehtimalli<D3>Tämä tekee liian nopeaksi!<*04>
+027,0x160d26,<SFF>プチデビル型メダロット<CD>パぎょうで まとめる プチデビル<*04>,"<SFF>Pikkupirumalli<D3>Pikkupiru, kaikki P:llä<*04>"
+028,0x160d28,<SFF>ガ-ゴイル型メダロット<CD>石のごとく たえ しょうリの ざヘ<*04>,<SFF>Gargoilimalli<D3>Kestää kuin kivi ja voittaa<*04>
+029,0x160d2a,<SFF>まじょ型メダロット<CD>フ-ドの おくで ちみつな けいさん<*04>,<SFF>Noitamalli<D3>Tarkat laskelmat hupun alla<*04>
+030,0x160d2c,<SFF>スピナ-型メダロット<CD>けいごの スペシャリスト<*04>,<SFF>Spinnermalli<D3>Saattajien asiantuntija<*04>
+031,0x160d2e,<SFF>バンシ-型メダロット<CD>はやく かえらないと たベちゃうわよ<*04>,"<SFF>Banshee-malli<D3>Tule pian kotiin, tai syön sinut<*04>"
+032,0x160d30,<SFF>かせい型メダロット<CD>タコタコ プリティ-♥<*04>,<SFF>Marsmalli<D3>Mustekala-söpöliini♥<*04>
+033,0x160d32,<SFF>ヘいき型メダロット<CD>女なら まよわず これを つかえ!<*04>,"<SFF>Asemalli<D3>Naiset, käyttäkää tätä!<*04>"
+034,0x160d34,<SFF>オジギソウ型メダロット<CD>攻撃を うけると しなだれます<*04>,"<SFF>Häveliäsmalli<D3>Nuutuu, kun siihen iskee<*04>"
+035,0x160d36,<SFF>さんようちゅう型メダロット<CD>てきに とリつき 口から しんにゅう<*04>,<SFF>Trilobiittimalli<D3>Tarttuu ja tunkeutuu suusta<*04>
+036,0x160d38,<SFF>マンモス型メダロット<CD>さんちでは ぜつめつの ききに...<*04>,<SFF>Mammuttimalli<D3>Vuoristossa uhanalainen...<*04>
+037,0x160d3a,<SFF>うちゅうたんさ型メダロット<CD>かくれた てきを てっていちょうさ!<*04>,<SFF>Avaruusluotainmalli<D3>Tutkii piilevät viholliset!<*04>
+038,0x160d3c,<SFF>ハエトリソウ型メダロット<CD>どこでも トラップ しかけるシャ-!<*04>,"<SFF>Kärpäsloukkumalli<D3>Ansa minne vain, shaa!<*04>"
+039,0x160d3e,<SFF>ハムスタ-型メダロット<CD>ちょっと かぶリつく ジャンガリアン<*04>,<SFF>Hamsterimalli<D3>Näykkivä kääpiöhamsteri<*04>
+040,0x160d40,<SFF>ケルベロス型メダロット<CD>かむ かむ がむしゃら!<*04>,"<SFF>Kerberosmalli<D3>Purree, purree, raivoaa!<*04>"
+041,0x160d42,<SFF>デュラハン型メダロット<CD>くびなし きしの おとおリだ<*04>,<SFF>Dullahan-malli<D3>Päätön ritari saapuu<*04>
+042,0x160d44,<SFF>ダニ型メダロット<CD>ふとんかんそうきも ヘっちゃら!<*04>,<SFF>Punkkimalli<D3>Peittojen tuuletus ei haittaa!<*04>
+043,0x160d46,<SFF>シラミ型メダロット<CD>ミサイル攻撃も もぐって かいひ!<*04>,<SFF>Täimalli<D3>Sukeltaa ohjuksiltakin!<*04>
+044,0x160d48,<SFF>ノミ型メダロット<CD>きょういの ジャンプで つきぬける!<*04>,<SFF>Kirppumalli<D3>Läpäisee huimalla hypyllä!<*04>
+045,0x160d4a,<SFF>こじか型メダロット<CD>こぶリの つのが チャ-ムポイント<*04>,<SFF>Peurankaurismalli<D3>Viehättävät pikkusarvet<*04>
+046,0x160d4c,<SFF>ホウセンカ型メダロット<CD>ふれたら はじけて 大ダメ-ジ!<*04>,<SFF>Balsamimalli<D3>Kosketus poksauttaa!<*04>
+047,0x160d4e,<SFF>ドリア-ド型メダロット<CD>しょくぶつの ちからを アップ!<*04>,<SFF>Dryadimalli<D3>Vahvistaa kasvien voimaa!<*04>
+048,0x160d50,<SFF>コオロギ型メダロット<CD>ちょうおんぱで フォ-スせいぎょ!<*04>,<SFF>Sirkkamalli<D3>Ultraäänellä voimanhallintaa!<*04>
+049,0x160d52,<SFF>ちきゅう型メダロット<CD>いだいなる ちきゅうの ちから!<*04>,<SFF>Maapallomalli<D3>Mahtavan maapallon voima!<*04>
+050,0x160d54,<SFF>クワガタムシ型メダロット<CD>「ここうの さむらい」とも いうな<*04>,"<SFF>Kuwagata-malli<D3>""Yksinäinen samurai""<*04>"
+051,0x160d56,<SFF>カブトムシ型メダロット<CD>どんなてきでも かかってきやがれ!<*04>,"<SFF>Kabuto-malli<D3>Tule vain, kuka tahansa!<*04>"
+052,0x160d58,<SFF>サ-ベルタイガ-型メダロット<CD>カブト型メダロットの ライバル<*04>,<SFF>Sapelihammastiikerimalli<D3>Kabuto-mallin kilpailija<*04>
+053,0x160d5a,<SFF>キングライオン型メダロット<CD>クワガタ型メダロットの ライバル<*04>,<SFF>Leijonakuningasmalli<D3>Kuwagata-mallin kilpailija<*04>
+054,0x160d5c,<SFF>カブトムシ型メダロット<CD>けいリょう型の カブトだ!<*04>,<SFF>Kabuto-malli<D3>Kevyt Kabuto!<*04>
+055,0x160d5e,<SFF>ヘラクレスオオカブトムシ型メダロット<CD>じゅうリょう型の カブトだ!<*04>,<SFF>Herkuleskuoriaismalli<D3>Raskas Kabuto!<*04>
+056,0x160d60,<SFF>カミキリムシ型メダロット<CD>コンセプトは 「たおせ クワガタ!」<*04>,"<SFF>Sarvijäärämalli<D3>Konsepti: ""Kaada Kuwagata!""<*04>"
+057,0x160d62,<SFF>タマムシ型メダロット<CD>コンセプトは 「たおせ カブト!」<*04>,"<SFF>Jalokuoriaismalli<D3>Konsepti: ""Kaada Kabuto!""<*04>"
+058,0x160d64,<SFF>ティラノサウルス型メダロット<CD>セレクトスリ-の たいちょうだ!<*04>,<SFF>Tyrannosaurusmalli<D3>Select Threen kapteeni!<*04>
+059,0x160d66,<SFF>ばんちょう型メダロット<CD>よわきを たすけ つよきを くじく!<*04>,<SFF>Jengipomomalli<D3>Heikkojen puolustaja!<*04>
+060,0x160d68,<SFF>イヌ型メダロット<CD>こいきな しゃげき やろう<*04>,<SFF>Koiramalli<D3>Tyylikäs ampuja<*04>
+061,0x160d6a,<SFF>エイリアン型メダロット<CD>ヘんげんじざいの なんたいボディ<*04>,<SFF>Muukalaismalli<D3>Muuntuva pehmeä keho<*04>
+062,0x160d6c,<SFF>ヴェロキラプトル型メダロット<CD>ねらった えものは にがさない!<*04>,<SFF>Velociraptormalli<D3>Saalis ei pääse karkuun!<*04>
+063,0x160d6e,<SFF>エリマキトカゲ型メダロット<CD>あわてて いえに かえリたくなる!<*04>,<SFF>Kaulurilisko-malli<D3>Saa kiireesti koti-ikävän!<*04>
+064,0x160d70,<SFF>クワガタムシ型メダロット<CD>クワガタ型メダロットの ダ-クサイド<*04>,<SFF>Kuwagata-malli<D3>Kuwagata-mallin pimeä puoli<*04>
+065,0x160d72,<SFF>ひこうき型メダロット<CD>「かぜのつばさ」で マップいどう!<*04>,"<SFF>Lentokonemalli<D3>""Tuulen siivillä"" kartalla!<*04>"
+066,0x160d74,<SFF>プログラマ-型メダロット<CD>みためはプログラマ- じつはハッカ-<*04>,"<SFF>Ohjelmoijamalli<D3>Ohjelmoija, oikeasti hakkeri<*04>"
+067,0x160d76,<SFF>きリん型メダロット<CD>4体の せいじゅうを とういつする<*04>,<SFF>Kirin-malli<D3>Yhdistää 4 pyhää petoa<*04>
+068,0x160d78,<SFF>トランプ「キング」型メダロット<CD>変形すると むてきの そうこうに!<*04>,"<SFF>""Kuningas""-korttimalli<D3>Muuntuneena voittamaton!<*04>"
+069,0x160d7a,<SFF>クワガタムシ型メダロット<CD>たいおうぼうぎょの エキスパ-ト!<*04>,<SFF>Kuwagata-malli<D3>Vastapuolustuksen mestari!<*04>
+070,0x160d7c,<SFF>トラ型メダロット<CD>たいおうぼうぎょの スタンダ-ド!<*04>,<SFF>Tiikerimalli<D3>Vastapuolustuksen perusmalli!<*04>
+071,0x160d7e,<SFF>チ-タ-型メダロット<CD>こうそくの ハンマ-攻撃!<*04>,<SFF>Gepardimalli<D3>Nopea vasaraisku!<*04>
+072,0x160d80,<SFF>オオカミ型メダロット<CD>イヌが やせいに もどった オオカミ<*04>,<SFF>Susimalli<D3>Villin luontonsa löytänyt koira<*04>
+073,0x160d82,<SFF>きかんしゃ型メダロット<CD>「ミニハンドル」で こうそくいどう!<*04>,"<SFF>Veturimalli<D3>""Minirattilla"" nopeasti!<*04>"
+074,0x160d84,<SFF>カブトムシ型メダロット<CD>きょうリょく攻撃の エキスパ-ト!<*04>,<SFF>Kabuto-malli<D3>Voimaiskujen asiantuntija!<*04>
+075,0x160d86,<SFF>ライオン型メダロット<CD>きょうリょく攻撃の スタンダ-ド!<*04>,<SFF>Leijonamalli<D3>Voimaiskujen perusmalli!<*04>
+076,0x160d88,<SFF>カブトムシ型メダロット<CD>カブト型メダロットの ダ-クサイド<*04>,<SFF>Kabuto-malli<D3>Kabuto-mallin pimeä puoli<*04>
+077,0x160d8a,<SFF>げんぶ型メダロット<CD>こうてつの よろいの せいじゅう<*04>,<SFF>Genbu-malli<D3>Teräspanssarin pyhä peto<*04>
+078,0x160d8c,<SFF>バッファロ-型メダロット<CD>きょうリょくパワ-で てきを はかい<*04>,<SFF>Puhvelimalli<D3>Murskaa vihollisen voimalla<*04>
+079,0x160d8e,<SFF>せいリゅう型メダロット<CD>ふっかつと そせいの せいじゅう<*04>,<SFF>Seiryuu-malli<D3>Elvytyksen pyhä peto<*04>
+080,0x160d90,<SFF>ふね型メダロット<CD>「せんぼうきょう」で 水に もぐる!<*04>,"<SFF>Laivamalli<D3>""Periskoopilla"" veden alle!<*04>"
+081,0x160d92,<SFF>グ-ル型メダロット<CD>じめんを もぐって てきの うしろヘ<*04>,<SFF>Ghoul-malli<D3>Maan alta vihollisen taakse<*04>
+082,0x160d94,<SFF>セ-ラ-型メダロット<CD>カブトと クワガタを サポ-トするわ<*04>,<SFF>Merimiesasumalli<D3>Tuen Kabutoa ja Kuwagataa<*04>
+083,0x160d96,<SFF>ナ-ス型メダロット<CD>せんじょうを かけぬける ナ-スです<*04>,<SFF>Hoitajamalli<D3>Kentän halki kiitävä hoitaja<*04>
+084,0x160d98,<SFF>ネコ型メダロット<CD>アタシは 動くけど あんたは ダメ!<*04>,"<SFF>Kissamalli<D3>Minä liikun, mutta sinä et!<*04>"
+085,0x160d9a,<SFF>ヴァルキュリア型メダロット<CD>カブトと クワガタの しんサポ-トよ<*04>,<SFF>Valkyyriamalli<D3>Kabuton ja Kuwagatan tuki<*04>
+086,0x160d9c,<SFF>バニ-型メダロット<CD>ふしぎな ジュ-スで パワ-アップ!<*04>,"<SFF>Pupumalli<D3>Outoa mehua, voimaa lisää!<*04>"
+087,0x160d9e,<SFF>しょくぶつさいばい型メダロット<CD>ふリそそぐ 攻撃から まもリます<*04>,<SFF>Kasvinviljelymalli<D3>Suojaa iskusateelta<*04>
+088,0x160da0,<SFF>かんこうガイド型メダロット<CD>あれちを つきすすむ かんこうガイド<*04>,<SFF>Matkaoppaamalli<D3>Joutomaan halki kulkeva opas<*04>
+089,0x160da2,<SFF>みこ型メダロット<CD>おごそかな かみの つかい<*04>,<SFF>Miko-malli<D3>Jumalten arvokas lähetti<*04>
+090,0x160da4,<SFF>メイド型メダロット<CD>ごしゅじんさまのために がんばリます<*04>,<SFF>Piikamalli<D3>Parhaani isäntäni hyväksi<*04>
+091,0x160da6,<SFF>ロ-タス型メダロット<CD>しんぴの ベ-ルは すベてを ふせぐ<*04>,<SFF>Lootusmalli<D3>Mystinen huntu torjuu kaiken<*04>
+092,0x160da8,<SFF>てんとうむし型メダロット<CD>7つの ほしを あやつる おとめよ<*04>,<SFF>Leppäkerttumalli<D3>7 tähden neito<*04>
+093,0x160daa,<SFF>たいよう型メダロット<CD>あれくるう ひかリの パワ-!<*04>,<SFF>Aurinkomalli<D3>Raivoavan valon voima!<*04>
+094,0x160dac,<SFF>つき型メダロット<CD>おだやかなる ひかリの パワ-<*04>,<SFF>Kuumalli<D3>Tyynen valon voima<*04>
+095,0x160dae,<SFF>すいせい型メダロット<CD>76ねんに 1どの きょうい!<*04>,<SFF>Komeettamalli<D3>Ihme kerran 76 vuodessa!<*04>
+096,0x160db0,<SFF>てんのうせい型メダロット<CD>てんじょうよリの あおき いかづち<*04>,<SFF>Uranusmalli<D3>Taivaan sininen salama<*04>
+097,0x160db2,<SFF>かいおうせい型メダロット<CD>しんかいよリの あおき うずまき<*04>,<SFF>Neptunusmalli<D3>Syvyyksien sininen pyörre<*04>
+098,0x160db4,<SFF>めいおうせい型メダロット<CD>めいかいよリの はかいの いぶき<*04>,<SFF>Plutomalli<D3>Manalan tuhon henkäys<*04>
+099,0x160db6,<SFF>すざく型メダロット<CD>ひとを まどわす ふしの せいじゅう<*04>,<SFF>Suzaku-malli<D3>Harhauttava kuolematon peto<*04>
+100,0x160db8,<SFF>ヒョウ型メダロット<CD>くらやみを かけぬける かリうど<*04>,<SFF>Leopardimalli<D3>Pimeyden nopea metsästäjä<*04>
+101,0x160dba,<SFF>ねこむすめ型メダロット<CD>ネコパンチで おしおきにゅん!<*04>,"<SFF>Kissatyttömalli<D3>Kissapaukku, nyan!<*04>"
+102,0x160dbc,<SFF>びゃっこ型メダロット<CD>あまかける おんそくの せいじゅう<*04>,<SFF>Byakko-malli<D3>Äänennopea taivaan peto<*04>
+103,0x160dbe,<SFF>がくえんアイドル型メダロット<CD>うらのかおも がくえん だいひょう♥<*04>,<SFF>Kouluidolimalli<D3>Koulun edustaja myös salaa♥<*04>
+104,0x160dc0,<SFF>バイク型メダロット<CD>レフェリ- ふリきリ かっとばす!<*04>,<SFF>Moottoripyörämalli<D3>Jättää tuomarin taakseen!<*04>
+105,0x160dc2,<SFF>どぼくさぎょう型メダロット<CD>じんそく ていねいが うリっす<*04>,"<SFF>Rakennusmiesmalli<D3>Nopeus ja huolellisuus, siinä se<*04>"
+106,0x160dc4,<SFF>かぶき型メダロット<CD>かみを ふリふリ フィ-ルドまう!<*04>,<SFF>Kabuki-malli<D3>Heiluttaa hiuksiaan kentällä!<*04>
+107,0x160dc6,<SFF>こもリ型メダロット<CD>やんちゃな こどもの ほけんです<*04>,<SFF>Lastenhoitajamalli<D3>Vilkkaiden lasten turva<*04>
+108,0x160dc8,<SFF>キリン型メダロット<CD>あたリを みまわすには さいてき!<*04>,<SFF>Kirahvimalli<D3>Tähystää ympärilleen!<*04>
+109,0x160dca,<SFF>ラクダ型メダロット<CD>あつさに たえて さばくを いそぐ<*04>,<SFF>Kamelimalli<D3>Kestää kuumuuden ja kiirehtii<*04>
+110,0x160dcc,<SFF>いちリんしゃ型メダロット<CD>ひとこぎ いっぽ ふたこぎ に-ほ<*04>,"<SFF>Yksipyörämalli<D3>Polkaisu, askel, polkaisu...<*04>"
+111,0x160dce,<SFF>せんぷうき型メダロット<CD>ビュ-ンと ひとっとばし!<*04>,"<SFF>Tuuletinmalli<D3>Huiskis, ja menoksi!<*04>"
+112,0x160dd0,<SFF>ムカデ型メダロット<CD>てきに のしかかリ おしつぶすぞ<*04>,<SFF>Tuhatjalkaismalli<D3>Käy päälle ja murskaa<*04>
+113,0x160dd2,<SFF>けむし型メダロット<CD>きれいな からだの いっぽ てまえ<*04>,<SFF>Karvatoukkamalli<D3>Askel kauniiseen kehoon<*04>
+114,0x160dd4,<SFF>パトカ-型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,<SFF>Poliisiautomalli<D3>Select-joukkojen uutuus!<*04>
+115,0x160dd6,<SFF>レスキュ-しゃ型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,<SFF>Pelastusautomalli<D3>Select-joukkojen uutuus!<*04>
+116,0x160dd8,<SFF>しょうぼうしゃ型メダロット<CD>セレクト隊の しんがたメダロット!<*04>,<SFF>Paloautomalli<D3>Select-joukkojen uutuus!<*04>
+117,0x160dda,<SFF>ザリガニ型メダロット<CD>変形すれば さいそくの メダロットさ<*04>,<SFF>Rapumalli<D3>Muuntuneena nopein Medabotti<*04>
+118,0x160ddc,<SFF>イモムシ型メダロット<CD>きれいな からだの いっぽ てまえ<*04>,<SFF>Toukkamalli<D3>Askel kauniiseen kehoon<*04>
+119,0x160dde,<SFF>きんせい型メダロット<CD>かがやける ゆうぐれの おとめよ<*04>,<SFF>Venusmalli<D3>Loistavan iltahämärän neito<*04>
+120,0x160de0,<SFF>ブラキオサウルス型メダロット<CD>セレクトスリ-の しれいとう!<*04>,<SFF>Brachiosaurusmalli<D3>Select Threen komentaja!<*04>
+121,0x160de2,<SFF>カメ型メダロット<CD>きょういの 3れんレ-ザ-!<*04>,<SFF>Kilpikonnamalli<D3>Huikea kolmoislaser!<*04>
+122,0x160de4,<SFF>カブトガニ型メダロット<CD>ぼうぎょリょくでは にほんいち!<*04>,<SFF>Kilpirapumalli<D3>Japanin paras puolustus!<*04>
+123,0x160de6,<SFF>ステゴザウルス型メダロット<CD>れんけい攻撃の あにき!<*04>,<SFF>Stegosaurusmalli<D3>Yhteisiskujen isoveli!<*04>
+124,0x160de8,<SFF>トリケラトプス型メダロット<CD>れんけい攻撃の おとうと!<*04>,<SFF>Triceratopsmalli<D3>Yhteisiskujen pikkuveli!<*04>
+125,0x160dea,<SFF>レンジ型メダロット<CD>くすぶってても だいばくはつ!<*04>,"<SFF>Mikroaaltomalli<D3>Kytevä, sitten iso räjähdys!<*04>"
+126,0x160dec,<SFF>ミシン型メダロット<CD>どんなものでも ししゅうしちゃう<*04>,<SFF>Ompelukonemalli<D3>Kirjailee mitä tahansa<*04>
+127,0x160dee,<SFF>ダンゴムシ型メダロット<CD>あるていどなら はじきかえす カラ<*04>,"<SFF>Kierisiiramalli<D3>Kuori, joka kimmottaa iskuja<*04>"
+128,0x160df0,<SFF>ミミズ型メダロット<CD>あいての はたけを くいちらかすぞ<*04>,<SFF>Kastematomalli<D3>Tuhoaa vastustajan pellot<*04>
+129,0x160df2,<SFF>どせい型メダロット<CD>まわリを とリまく ぼうぎょの かベ<*04>,<SFF>Saturnusmalli<D3>Ympäröivä puolustusmuuri<*04>
+130,0x160df4,<SFF>クジラ型メダロット<CD>小エビを のみこみ しおを ふくじら<*04>,"<SFF>Valasmalli<D3>Nielee katkat, puhaltaa vettä<*04>"
+131,0x160df6,<SFF>アメ-バ型メダロット<CD>あなた からだに のみこまれるれ-ん<*04>,<SFF>Ameebamalli<D3>Nielaisen sinut kehooni~<*04>
+132,0x160df8,<SFF>イソギンチャク型メダロット<CD>すいついたらはなさないわよん<*04>,"<SFF>Merivuokkomalli<D3>Kun tartun, en päästä~<*04>"
+133,0x160dfa,<SFF>アザラシ型メダロット<CD>オウッ オウッ....オウッ オウッ<*04>,<SFF>Hyljemalli<D3>Öuh öuh....öuh öuh<*04>
+134,0x160dfc,<SFF>ナマズ型メダロット<CD>じしんを よちして ことなきを える<*04>,<SFF>Monnimalli<D3>Aistii maanjäristykset<*04>
+135,0x160dfe,<SFF>ウナギ型メダロット<CD>スタミナばつぐん モリモリけんこう!<*04>,<SFF>Ankeriasmalli<D3>Huippukunto ja terveys!<*04>
+136,0x160e00,<SFF>クロノサウルス型メダロット<CD>セレクト隊の せんすいメンバ-?<*04>,<SFF>Kronosaurusmalli<D3>Select-joukkojen sukeltaja?<*04>
+137,0x160e02,<SFF>ウ-パ-ル-パ-型メダロット<CD>貝ていると いしきが とおくなるロル<*04>,<SFF>Aksolotlimalli<D3>Katsoja menettää tajunnan<*04>
+138,0x160e04,<SFF>ブラックバス型メダロット<CD>どんなパ-ツも はかいしまくるヤ-<*04>,<SFF>Bassimalli<D3>Tuhoaa minkä osan vain!<*04>
+139,0x160e06,<SFF>アノマロカリス型メダロット<CD>すベての パ-ツで てきを ほかく!<*04>,<SFF>Anomalocarismalli<D3>Nappaa kaikilla osilla!<*04>
+140,0x160e08,<SFF>ハルキゲニア型メダロット<CD>きみょうな くみあわせで ほんろうゲ<*04>,<SFF>Hallucigeniamalli<D3>Oudot yhdistelmät hämäävät<*04>
+141,0x160e0a,<SFF>タガメ型メダロット<CD>ほら そらだって とベるんです<*04>,"<SFF>Jättiludemalli<D3>Katso, se lentääkin<*04>"
+142,0x160e0c,<SFF>アメンボ型メダロット<CD>なんと そらだって とベるんです<*04>,"<SFF>Vesimittarimalli<D3>Uskomatonta, se lentää<*04>"
+143,0x160e0e,<SFF>タツノオトシゴ型メダロット<CD>貝よ! きゅうきょくの しんか!<*04>,<SFF>Merihevosmalli<D3>Katso! Lopullinen evoluutio!<*04>
+144,0x160e10,<SFF>コイ型メダロット<CD>貝よ! きゅうきょくの しんか!<*04>,<SFF>Karppimalli<D3>Katso! Lopullinen evoluutio!<*04>
+145,0x160e12,<SFF>イルカ型メダロット<CD>けがした メダロットは いるか?<*04>,<SFF>Delfiinimalli<D3>Onko loukkaantuneita?<*04>
+146,0x160e14,<SFF>きんぎょ型メダロット<CD>わたし きれい...?<*04>,<SFF>Kultakalamalli<D3>Olenko kaunis...?<*04>
+147,0x160e16,<SFF>トランプ「クイ-ン」型メダロット<CD>なぐる なぐる なぐる うけてみよ!<*04>,"<SFF>""Kuningatar""-korttimalli<D3>Lyö, lyö, lyö, ota tästä!<*04>"
+148,0x160e18,<SFF>アヒル型メダロット<CD>みにくくないもんっ!<*04>,<SFF>Ankkamalli<D3>En ole ruma!<*04>
+149,0x160e1a,<SFF>すいせい型メダロット<CD>たいようの ひかリ さんさん<*04>,<SFF>Merkuriusmalli<D3>Auringon valo hehkuu<*04>
+150,0x160e1c,<SFF>トランプ「エ-ス」型メダロット<CD>ふふふっ おろかものめ...<*04>,"<SFF>""Ässä""-korttimalli<D3>Hehheh, senkin hölmö...<*04>"
+151,0x160e1e,<SFF>きゅうかんちょう型メダロット<CD>きゅうかんちょうでも オウムがえし!<*04>,<SFF>Mainalintumalli<D3>Matkii kuin papukaija!<*04>
+152,0x160e20,<SFF>ワイバ-ン型メダロット<CD>かぜよ あらしよっ!<*04>,<SFF>Wyvernmalli<D3>Tuuli ja myrsky!<*04>
+153,0x160e22,<SFF>ト-スタ-型メダロット<CD>いろんな あつさの やけまっせ-<*04>,<SFF>Leivänpaahdinmalli<D3>Paahdan monella asteella<*04>
+154,0x160e24,<SFF>カモメ型メダロット<CD>すいヘいさんっ♥<*04>,<SFF>Lokkimalli<D3>Merimies♥<*04>
+155,0x160e26,<SFF>ふうしゃ型メダロット<CD>とびますっ とびますっ<*04>,"<SFF>Tuulimyllymalli<D3>Lennetään, lennetään<*04>"
+156,0x160e28,<SFF>ワニチドリ型メダロット<CD>おこったら こわいんだから<*04>,<SFF>Krokotiililintumalli<D3>Suuttuneena pelottava<*04>
+157,0x160e2a,<SFF>キノコ型メダロット<CD>出るぞ 出るぞっ ほうしが 出るぞっ<*04>,"<SFF>Sienimalli<D3>Itiöt tulevat, tulevat!<*04>"
+158,0x160e2c,<SFF>インキュバス型メダロット<CD>ふぬけに なるがいい<*04>,<SFF>Inkubusmalli<D3>Velttoudu siis<*04>
+159,0x160e2e,<SFF>じゃぐち型メダロット<CD>すベて あらいながしてやるっ!<*04>,<SFF>Hanamalli<D3>Huuhdon kaiken pois!<*04>
+160,0x160e30,<SFF>じゅじゅつし型メダロット<CD>うしなわれた こくいんを ふっかつ!<*04>,<SFF>Loitsijamalli<D3>Kadonnut kaiverrus palaa!<*04>
+161,0x160e32,<SFF>キノコ型メダロット<CD>まわる まわるよ かさが まわるよっ<*04>,"<SFF>Sienimalli<D3>Lakki pyörii, pyörii!<*04>"
+162,0x160e34,<SFF>タロットカ-ド型メダロット<CD>さあ わたくしの てのうえで おどれ<*04>,<SFF>Tarot-korttimalli<D3>Tanssi kämmenelläni<*04>
+163,0x160e36,<SFF>しんかん型メダロット<CD>ふういんを ときます<*04>,<SFF>Ylipappimalli<D3>Puran sinetin<*04>
+164,0x160e38,<SFF>はいごれい型メダロット<CD>うしろの しょうめん だ-れっ?<*04>,<SFF>Takahenkimalli<D3>Kuka seisoo takanasi?<*04>
+165,0x160e3a,<SFF>ウツボカズラ型メダロット<CD>どっからでも かかってこいっ!<*04>,<SFF>Kannukasvimalli<D3>Tule mistä tahansa!<*04>
+166,0x160e3c,<SFF>コアラ型メダロット<CD>なかには ミサイルが た-っぷリっ<*04>,<SFF>Koalamalli<D3>Sisällä on paljon ohjuksia<*04>
+167,0x160e3e,<SFF>ケンタウロス型メダロット<CD>リンゴも ミカンも これ 1ぽんさ!<*04>,<SFF>Kentaurimalli<D3>Omenat ja mandariinit!<*04>
+168,0x160e40,<SFF>テレビ型メダロット<CD>さあ みんな ちゅうもく ちゅうもく<*04>,"<SFF>Televisiomalli<D3>Kaikki, huomio, huomio!<*04>"
+169,0x160e42,<SFF>マング-ス型メダロット<CD>そ-ら つかまえたぞ それそれっ<*04>,"<SFF>Mungomalli<D3>Nappasin sinut, kas niin!<*04>"
+170,0x160e44,<SFF>ヤモリ型メダロット<CD>ペろん すペろん きょろんっ<*04>,"<SFF>Gekkomalli<D3>Nuolaisu, lipsahdus, vilkaisu<*04>"
+171,0x160e46,<SFF>スキュラ型メダロット<CD>ひとの じゃまを してるんだよっ<*04>,<SFF>Skyllamalli<D3>Olen kaikkien tiellä<*04>
+172,0x160e48,<SFF>コクワガタムシ型メダロット<CD>こつぶでも ピリリで ござるよ<*04>,<SFF>Pikkukuwagata-malli<D3>Pieni mutta pippurinen<*04>
+173,0x160e4a,<SFF>コカブトムシ型メダロット<CD>ひとを チビって いうなあっ!!<*04>,<SFF>Pikkukabuto-malli<D3>Älä sano minua pätkäksi!!<*04>
+174,0x160e4c,<SFF>フランケン型メダロット<CD>ああして「ド-ン」こうして「ド-ン」<*04>,"<SFF>Frankenmalli<D3>Tuolla ""PAM"", täällä ""PAM""<*04>"
+175,0x160e4e,<SFF>かがみ型メダロット<CD>ほら...うしろに たってる<*04>,<SFF>Peilimalli<D3>Katso... se on takanasi<*04>
+176,0x160e50,<SFF>かみ型メダロット<CD>おまえたちは わたしの てのなかだ<*04>,<SFF>Jumalmalli<D3>Olette kämmenelläni<*04>
+177,0x160e52,<SFF>アリジゴク型メダロット<CD>きらわれものと はかない いのち<*04>,<SFF>Muurahaisleijonamalli<D3>Inhottu ja hauras elämä<*04>
+178,0x160e54,<SFF>ゆきやま きゅうじょけん型メダロット<CD>やまでの きゅうじょは おまかせっ<*04>,<SFF>Vuoripelastuskoiramalli<D3>Vuoripelastus hallussa!<*04>
+179,0x160e56,<SFF>ゴキブリ型メダロット<CD>どこに いっても きらわれものロボ<*04>,"<SFF>Torakkamalli<D3>Inhottu kaikkialla, robo<*04>"
+180,0x160e58,<SFF>ティンペット型メダロット<CD>そんなに 貝つめちゃ いやんっ♥<*04>,<SFF>Tinpettimalli<D3>Älä tuijota noin♥<*04>
+181,0x160e5a,<SFF>かいなん きゅうじょけん型メダロット<CD>うみでの きゅうじょは おまかせっ<*04>,<SFF>Meripelastuskoiramalli<D3>Meripelastus hallussa!<*04>
+182,0x160e5c,<SFF>せいきし型メダロット<CD>ふういんされし でんせつの きし<*04>,<SFF>Pyhä ritari -malli<D3>Sinetöity tarujen ritari<*04>
+183,0x160e5e,<SFF>オオクワガタムシ型メダロット<CD>あまかける あおき のこぎリ!<*04>,<SFF>Isokuwagata-malli<D3>Taivaan sininen saha!<*04>
+184,0x160e60,<SFF>だいあくま型メダロット<CD>ちからを ひめし さいしゅうヘいき<*04>,<SFF>Arkkidemonimalli<D3>Voimaa kätkevä viimeinen ase<*04>
+185,0x160e62,<SFF>オオカブトムシ型メダロット<CD>ちをかける あかき とさか!<*04>,<SFF>Isokabuto-malli<D3>Maata kiitävä punainen harja!<*04>
+186,0x160e64,<SFF>パンダ型メダロット<CD>パンダ サンダ- アカパンダ-<*04>,"<SFF>Pandamalli<D3>Panda, salama, punapanda<*04>"
+187,0x160e66,<SFF>トルネ-ド型メダロット<CD>ながびいても いいのかしら?<*04>,<SFF>Tornadomalli<D3>Saako tämä venyä?<*04>
+188,0x160e68,<SFF>デビル型メダロット<CD>みんな きらい...<*04>,<SFF>Paholaismalli<D3>Inhoan kaikkia...<*04>
+189,0x160e6a,<SFF>だいてんし型メダロット<CD>さいしゅうヘいきの よくせいしゃ<*04>,<SFF>Arkkienkelimalli<D3>Viimeisen aseen hillitsijä<*04>
+190,0x160e6c,<SFF>あんこくきし型メダロット<CD>ちからを うしなった あんこく きし<*04>,<SFF>Pimeä ritari -malli<D3>Voimansa menettänyt ritari<*04>
+191,0x160e6e,<SFF>パンダ型メダロット<CD>ころぶまでを カウントダウン!<*04>,<SFF>Pandamalli<D3>Lähtölaskenta kaatumiseen!<*04>
+192,0x160e70,<SFF>ダチョウ型メダロット<CD>おら! おら! どきやがれ!<*04>,<SFF>Strutsimalli<D3>Hei! Hei! Pois tieltä!<*04>
+193,0x160e72,<SFF>カモ型メダロット<CD>おいしく おめしあがリくださいっ!<*04>,<SFF>Sorsamalli<D3>Hyvää ruokahalua!<*04>
+194,0x160e74,<SFF>かていきょうし型メダロット<CD>さあ ロボトルの じかんですわよっ<*04>,<SFF>Kotiopettajamalli<D3>Robotteluaika alkaa!<*04>
+195,0x160e76,<SFF>そうじき型メダロット<CD>ぜんぶ すいあげて ポイッです<*04>,<SFF>Pölynimurimalli<D3>Imee kaiken ja heittää pois<*04>
+196,0x160e78,<SFF>トナカイ型メダロット<CD>おじいちゃんの かわリにっと<*04>,<SFF>Poromalli<D3>Ukin puolesta<*04>
+197,0x160e7a,<SFF>カツオノエボシ型メダロット<CD>かいめんには 頭しか 出てないんです<*04>,<SFF>Meduusamalli<D3>Pinnalla näkyy vain pää<*04>
+198,0x160e7c,<SFF>ヒドラ型メダロット<CD>なまはんかな こうげきでは たおれん<*04>,<SFF>Hydramalli<D3>Puolittainen isku ei kaada<*04>
+199,0x160e7e,<SFF>ベヒ-モス型メダロット<CD>フィ-ルドを ゆるがす こどう!<*04>,<SFF>Behemotmalli<D3>Kenttää ravisteleva syke!<*04>
+200,0x160e80,<SFF>だるま型メダロット<CD>ころんでも ただでは おきんわい!<*04>,<SFF>Darumamalli<D3>Kaaduttuani nousen vahvana!<*04>
+201,0x160e82,<SFF>ロケットはっしゃだい型メダロット<CD>はっしゃ じゅんび かんリょうです!<*04>,<SFF>Laukaisualustamalli<D3>Laukaisuvalmius saavutettu!<*04>
+202,0x160e84,<SFF>ナマコ型メダロット<CD>ねらっても いいっすよ<*04>,<SFF>Merimakkaramalli<D3>Tähtää vain<*04>
+203,0x160e86,<SFF>カタツムリ型メダロット<CD>カラの中には 3つの ちから!<*04>,<SFF>Etanamalli<D3>Kuoressa on 3 voimaa!<*04>
+204,0x160e88,<SFF>アルラウネ型メダロット<CD>いらっしゃい やみうちにして あげる<*04>,"<SFF>Alraunemalli<D3>Tervetuloa, yllätän sinut<*04>"
+205,0x160e8a,<SFF>れいぞうこ型メダロット<CD>さむっ いや まもリますけどね<*04>,<SFF>Jääkaappimalli<D3>Kylmä! Mutta suojaan kyllä<*04>
+206,0x160e8c,<SFF>リヴァイアサン型メダロット<CD>すベてを のみこむ あらなみよ!<*04>,<SFF>Leviathanmalli<D3>Kaiken nielevät hyökyaallot!<*04>
+207,0x160e8e,<SFF>シ-ラカンス型メダロット<CD>せかいきろく こうしん中!<*04>,<SFF>Kelakanttimalli<D3>Maailmanennätys tekeillä!<*04>
+208,0x160e90,<SFF>ラッコ型メダロット<CD>これ おきにいリの いわ♥<*04>,<SFF>Merisaukkomalli<D3>Tämä on lempikiveni♥<*04>
+209,0x160e92,<SFF>せんたくき型メダロット<CD>あんた ちょっと よごれてない?<*04>,<SFF>Pesukonemalli<D3>Etkö ole vähän likainen?<*04>
+210,0x160e94,<SFF>ミジンコ型メダロット<CD>こうごうせいでも したいな-っ<*04>,<SFF>Vesikirppumalli<D3>Haluaisin yhteyttää<*04>
+211,0x160e96,<SFF>クマ型メダロット<CD>アンジェラと チェルシ-はどこ?<*04>,<SFF>Karhumalli<D3>Missä Angela ja Chelsea ovat?<*04>
+212,0x160e98,<SFF>ゴ-スト型メダロット<CD>あんまリ いたくしないで♥<*04>,<SFF>Aavemalli<D3>Älä satuta liikaa♥<*04>
+213,0x160e9a,<SFF>どぐう型メダロット<CD>こんかい パワ-アップしてます<*04>,<SFF>Dogumalli<D3>Tällä kertaa tehostettu<*04>
+214,0x160e9c,<SFF>ラスボス型メダロット<CD>めざめよ さいきょうの はかいヘいき<*04>,"<SFF>Loppupomomalli<D3>Heräjä, vahvin tuhoase<*04>"
+215,0x160e9e,<SFF>とうぎゅうし型メダロット<CD>かてると おもうなら かかってきな!<*04>,"<SFF>Härkätaistelijamalli<D3>Tule, jos luulet voittavasi!<*04>"
+216,0x160ea0,<SFF>タコ型メダロット<CD>おやまの あかだいしょうカネ!<*04>,"<SFF>Mustekalamalli<D3>Vuoren Akadaisho, kane!<*04>"
+217,0x160ea2,<SFF>ヘビ型メダロット<CD>おやまの あおだいしょうマク!<*04>,"<SFF>Käärmemalli<D3>Vuoren Aodaisho, maku!<*04>"
+218,0x160ea4,<SFF>フラワ-型メダロット<CD>こうそくレ-ザ- ピ-!!<*04>,"<SFF>Kukkamalli<D3>Nopea laser, piip!!<*04>"
+219,0x160ea6,<SFF>にんじゃ型メダロット<CD>シノビックパ-クで ボクと あくしゅ<*04>,<SFF>Ninjamalli<D3>Kättele minua Shinobickissa<*04>
+220,0x160ea8,<SFF>むしゃ型メダロット<CD>むかしの パ-ツは いさぎよいじゃ!<*04>,<SFF>Samuraimalli<D3>Vanhat osat ovat jaloja!<*04>
+221,0x160eaa,<SFF>イヌ型メダロット<CD>どんな パ-ツも あなだらけさ!<*04>,<SFF>Koiramalli<D3>Joka osa reikiä täyteen!<*04>
+222,0x160eac,<SFF>デビル型メダロット<CD>にくを きリさき ほねを たつ!!<*04>,"<SFF>Paholaismalli<D3>Viiltää lihan, katkoo luun!!<*04>"
+223,0x160eae,<SFF>くのいち型メダロット<CD>シノビックパ-クで キミと あくしゅ<*04>,<SFF>Kunoichi-malli<D3>Kättele minua Shinobickissa<*04>
+224,0x160eb0,<SFF>こまいぬ型メダロット<CD>じんじゃの まもリがみですワン!<*04>,"<SFF>Komainu-malli<D3>Pyhäkön suojelija, hau!<*04>"
+225,0x160eb2,<SFF>ペンギン型メダロット<CD>北が こいしいペンペン...<*04>,"<SFF>Pingviinimalli<D3>Ikävä pohjoiseen, pen pen...<*04>"
+226,0x160eb4,<SFF>コウモリ型メダロット<CD>どうくつは あたまに きをつけロボ<*04>,"<SFF>Lepakkomalli<D3>Varo päätä luolassa, robo<*04>"
+227,0x160eb6,<SFF>エンジェル型メダロット<CD>がんそ いやらしけい...ですわ<*04>,<SFF>Enkelimalli<D3>Alkuperäinen ilkeä... niin<*04>
+228,0x160eb8,<SFF>ナイトメア型メダロット<CD>たのしいユメを みさせルヨ ルヨ<*04>,"<SFF>Painajaismalli<D3>Näytän kivoja unia, ruyo<*04>"
+229,0x160eba,<SFF>スペクタ-型メダロット<CD>え-? よけたら いかんですわ-<*04>,<SFF>Spectermalli<D3>Hä? Ei saa väistää~<*04>
+230,0x160ebc,<SFF>たいじ型メダロット<CD>ないたら たいヘんでちゅよ<*04>,"<SFF>Vauvamalli<D3>Jos itket, tulee hätä<*04>"
+231,0x160ebe,<SFF>カメレオン型メダロット<CD>かくれるのは おてのものさ<*04>,<SFF>Kameleonttimalli<D3>Piiloutuminen on helppoa<*04>
+232,0x160ec0,<SFF>カニ型メダロット<CD>ての ちがいは きのうの ちがい-<*04>,"<SFF>Taskurapumalli<D3>Eri kädet, eri kyvyt<*04>"
+233,0x160ec2,<SFF>ウサギ型メダロット<CD>あああっ じっ じかんが ないぃっ!<*04>,<SFF>Jänismalli<D3>Aah! E-ei ole aikaa!<*04>
+234,0x160ec4,<SFF>デビル型メダロット<CD>デビルガ オオイト カゲ ウスイ..<*04>,"<SFF>Paholaismalli<D3>Paljon piruja, ohut varjo..<*04>"
+235,0x160ec6,<SFF>メデュ-サ型メダロット<CD>ぼうや うしろむいてね う.し.ろ♥<*04>,"<SFF>Medusamalli<D3>Poju, käännypä ympäri♥<*04>"
+236,0x160ec8,<SFF>サキュバス型メダロット<CD>おね~さんが もらって あ.げ.る♥<*04>,<SFF>Succubusmalli<D3>Isosisko ottaa sen♥<*04>
+237,0x160eca,<SFF>めがみ型メダロット<CD>ふたたび フィ-ルドに まいもどれ!<*04>,<SFF>Jumalatarmalli<D3>Palaa taas kentälle!<*04>
+238,0x160ecc,<SFF>ナイト型メダロット<CD>いのちに かえても おまもリします!<*04>,<SFF>Ritarimalli<D3>Suojelen henkeni uhalla!<*04>
+239,0x160ece,<SFF>ジャック.オ-.ランタン型メダロット<CD>え-? かまえたら いかんですわ-<*04>,<SFF>Kurpitsalyhtymalli<D3>Hä? Ei saa varautua~<*04>
+240,0x160ed0,<SFF>ゴ-レム型メダロット<CD>こころ やさしく みも うつくしく<*04>,"<SFF>Golemmalli<D3>Hellä sydän, kaunis olemus<*04>"
+241,0x160ed2,<SFF>タマゴ型メダロット<CD>なにが でるでしょう?<*04>,<SFF>Munamalli<D3>Mitähän sieltä tulee?<*04>
+242,0x160ed4,<SFF>ゆきだるま型メダロット<CD>あっつい とこじゃ とけちゃいますよ<*04>,<SFF>Lumiukkomalli<D3>Kuumassa sulan<*04>
+243,0x160ed6,<SFF>オオカミウオ型メダロット<CD>かみついて しびれさせるっす<*04>,<SFF>Merikissamalli<D3>Purren lamautan<*04>
+244,0x160ed8,<SFF>マ-メイド型メダロット<CD>パ-ツの かいふくは おまかせよ<*04>,<SFF>Merenneitomalli<D3>Osien korjaus hallussa<*04>
+245,0x160eda,<SFF>ほたる型メダロット<CD>きれいな みずを まもるわ<*04>,<SFF>Tulikärpäsmalli<D3>Suojelen puhdasta vettä<*04>
+246,0x160edc,<SFF>そんごくう型メダロット<CD>スピ-ド モンキ-だキ-ッ!<*04>,"<SFF>Sun Wukong -malli<D3>Vauhtiapina, kii!<*04>"
+247,0x160ede,<SFF>ちょはっかい型メダロット<CD>じみちに あしもとを かためるブ-!<*04>,"<SFF>Zhu Bajie -malli<D3>Varmistan jalansijan, röh!<*04>"
+248,0x160ee0,<SFF>さごじょう型メダロット<CD>あしを ひっぱリ たこなぐるッパ!<*04>,"<SFF>Sha Wujing -malli<D3>Jaloista kiinni, ja turpaan!<*04>"
+249,0x160ee2,<SFF>しんせんぐみ型メダロット<CD>いちげきひっさつの やいば!<*04>,<SFF>Shinsengumi-malli<D3>Tappava terä yhdellä iskulla!<*04>
+250,0x160ee4,<SFF>ベんけい型メダロット<CD>せっしゃは ガンジョ-で ごわすっ!<*04>,"<SFF>Benkei-malli<D3>Minä olen tukeva, tosiaan!<*04>"
+251,0x160ee6,<SFF>ここにメダロットのせつめいをかく<*04>,<SFF>Medabotin kuvaus tähän<*04>
 252,0x160ee8,@0x160ee6,@0x160ee6
 253,0x160eea,@0x160ee6,@0x160ee6
 254,0x160eec,@0x160ee6,@0x160ee6

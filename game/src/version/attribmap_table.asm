@@ -365,31 +365,31 @@ Attribmap00_E1::
 Attribmap00_F1::
   INCBIN "./build/attribmaps/00E1.map"
 Attribmap00_F2::
-  INCBIN "./build/attribmaps/00F2.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_F3::
-  INCBIN "./build/attribmaps/00F3.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_F4::
-  INCBIN "./build/attribmaps/00F4.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_F5::
-  INCBIN "./build/attribmaps/00F4.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_F6::
-  INCBIN "./build/attribmaps/00F2.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_F7::
-  INCBIN "./build/attribmaps/00F2.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_F8::
-  INCBIN "./build/attribmaps/00F2.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_F9::
-  INCBIN "./build/attribmaps/00F9.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_FA::
-  INCBIN "./build/attribmaps/00F9.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_FB::
-  INCBIN "./build/attribmaps/00F9.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_FC::
   INCBIN "./build/attribmaps/00FC.map"
 Attribmap00_FD::
-  INCBIN "./build/attribmaps/00F2.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_FE::
-  INCBIN "./build/attribmaps/00F2.map"
+  INCBIN "./build/attribmaps/B016.map"
 Attribmap00_FF::
   INCBIN "./build/attribmaps/00FF.map"
 AttribmapTable00Terminator::
@@ -1747,16 +1747,16 @@ AttribmapTable04::
   dw Attribmap04_52 ; 54 (04_54)
   dw Attribmap04_52 ; 55 (04_55)
   dw Attribmap04_52 ; 56 (04_56)
-  dw Attribmap04_52 ; 57 (04_57)
-  dw Attribmap04_52 ; 58 (04_58)
-  dw Attribmap04_52 ; 59 (04_59)
-  dw Attribmap04_52 ; 5A (04_5A)
-  dw Attribmap04_52 ; 5B (04_5B)
-  dw Attribmap04_52 ; 5C (04_5C)
-  dw Attribmap04_52 ; 5D (04_5D)
-  dw Attribmap04_52 ; 5E (04_5E)
-  dw Attribmap04_52 ; 5F (04_5F)
-  dw Attribmap04_52 ; 60 (04_60)
+  dw Attribmap04_57 ; 57 (04_57)
+  dw Attribmap04_57 ; 58 (04_58)
+  dw Attribmap04_57 ; 59 (04_59)
+  dw Attribmap04_57 ; 5A (04_5A)
+  dw Attribmap04_57 ; 5B (04_5B)
+  dw Attribmap04_57 ; 5C (04_5C)
+  dw Attribmap04_57 ; 5D (04_5D)
+  dw Attribmap04_57 ; 5E (04_5E)
+  dw Attribmap04_57 ; 5F (04_5F)
+  dw Attribmap04_57 ; 60 (04_60)
   dw Attribmap04_61 ; 61
   dw Attribmap04_61 ; 62 (04_62)
   dw Attribmap04_61 ; 63 (04_63)
@@ -1960,6 +1960,10 @@ Attribmap04_51::
   INCBIN "./build/attribmaps/0451.map"
 Attribmap04_52::
   INCBIN "./build/attribmaps/0452.map"
+; The ability screen (04_57 and the entries after it) shared 04_52 with the pop-up menus 04_52..04_56. The pop-up labels set the bank bit in 0452,
+; which broke the icons of the ability screen, so it gets an unmodified copy.
+Attribmap04_57::
+  INCBIN "./build/attribmaps/0457.map"
 Attribmap04_61::
   INCBIN "./build/attribmaps/0461.map"
 Attribmap04_71::

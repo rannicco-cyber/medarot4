@@ -28,6 +28,12 @@ Banked_\1::
   dw \1
   ENDM
 
+MACRO cbpointerto
+Banked_\1::
+  db BANK(\2)
+  dw \2
+  ENDM
+
 MACRO cbcall
   ld [W_CrossBankCallPassthroughA], a
   ld a, (Banked_\1 - CrossBankFunctionTable) / 3

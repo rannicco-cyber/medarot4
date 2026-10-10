@@ -1,0 +1,200 @@
+@000
+Miekkaisku\nNopea lähitaisteluisku
+@001
+Vasaraisku\nNopea lähitaisteluisku
+@002
+Sinettiase-isku (Kombo)\nVaatii "sinetin avauksen"
+@003
+Kivääri-isku\nNopea ampumisisku
+@004
+Gatling-isku\nNopea ampumisisku
+@005
+Kaiverrusase-isku (Kombo)\nVaatii "kaiverruksen"
+@006
+Laserisku\nTeho kaksinkertaistuu
+@007
+Sädeisku\nTeho kaksinkertaistuu
+@008
+Ohjusisku\nOsuu aina ja läpäisee
+@009
+Napalmisku\nOsuu aina ja läpäisee
+@010
+Murtoisku\nOnnistuminen tuplaantuu
+@011
+Puristusisku\nOnnistuminen tuplaantuu
+@012
+Tuhoisku (Suora)\nTuhoaa selin olevan vihollisen
+@013
+Uhrausisku (Suora)\nUhraa osan: suuri vahinko
+@014
+Aikaisku\nVoima kasvaa ajan kuluessa
+@015
+Staattinen isku (Suora)\nPanssari laskee neljännekseen
+@016
+Bugi-isku\nHeikentää onnistumista
+@017
+Virusisku\nHeikentää onnistumista
+@018
+Aaltoisku\nPidentää valmisteluaikaa
+@019
+Pitoisku\nPidentää valmisteluaikaa
+@020
+Tuli-isku\nVahinkoa myös valmistellessa
+@021
+Sulatusisku\nVahinkoa myös valmistellessa
+@022
+Ukkosisku\nPysäyttää vastustajan
+@023
+Jäädytysisku\nPysäyttää vastustajan
+@024
+Laskentaisku (Suora)\nNollassa toiminta lakkaa
+@025
+Koti-ikäväisku (Suora)\nVälillä palaa toimimatta
+@026
+Laskuri-isku\nVoima kasvaa kerta kerralta
+@027
+Salamurhaisku (Suora)\nOsuu aina kriittisesti
+@028
+Puolustus (Aktiivi)\nSuojaa liittolaista Medabottia
+@029
+Täysi puolustus (Aktiivi)\nTorjuu liittolaisiin osuvat iskut
+@030
+Osapuolustus (Aktiivi)\nTorjuu heikot iskut
+@031
+Ilmatorjuntaisku\nSuuri vahinko lentäville
+@032
+Merentorjuntaisku\nSuuri vahinko sukeltaville
+@033
+Havainto\nLiittolaiset osuvat helpommin
+@034
+Naamiointi\nIskuja on helpompi väistää
+@035
+Imu (Aktiivi)\nVetää kohteet puoleensa
+@036
+Lähitaisteluansa (Ansa)\nOsuu lyöjiin ja raivoajiin
+@037
+Ampumisansa (Ansa)\nOsuu ampujiin ja tähtääjiin
+@038
+Voimaistutus (Ansa)\nMedavoima kasvaa joka teolla
+@039
+Havainnon purku (Ansa)\nHäiritsee havaintoa
+@040
+Naamioinnin purku (Ansa)\nHäiritsee naamiointia
+@041
+Kertaesto (Ansa)\nTorjuu yhden iskun
+@042
+Ensiapu (Ansa)\nKorjaa rikkoutuneen osan
+@043
+Ristiasetus (Ansa)\nAsettaa "ristihyökkäyksen"
+@044
+Ristituli A (Kombo)\n"Ristihyökkäys" yhteen
+@045
+Ristituli B (Kombo)\n"Ristihyökkäys" kaikkiin osiin
+@046
+Ristituli C (Kombo)\n"Ristihyökkäys" kaikkiin
+@047
+Haittatilan poisto\nPoistaa haittatilat
+@048
+Ansanpurku (Ansa)\nTuhoaa "ansat"
+@049
+Voimanhallinta\nEstää "Medavoiman" käytön
+@050
+Korjaus\nKorjaa vaurioituneet osat
+@051
+Elvytys\nKorjaa toimimattoman osan
+@052
+Henkiinherätys\nHerättää kaatuneen ystävän
+@053
+Tasoimu\nVie vihollisen tason
+@054
+Täysmitätöinti (Aktiivi)\nMitätöi kaikki iskut
+@055
+Suojelus (Aktiivi)\nVahvistaa yhtä liittolaista
+@056
+Asennon murto\nMurtaa "suojan" ja "valmiuden"
+@057
+Optinen suoja (Varuste)\nTorjuu laserin ja säteen
+@058
+Räjähdesuoja (Varuste)\nTorjuu ohjukset ja napalmin
+@059
+Painovoimasuoja (Varuste)\nTorjuu murron ja puristuksen
+@060
+Tilasuoja (Varuste)\nMitkään tilat eivät tartu
+@061
+Jatkuva korjaus\nKorjaa myös valmistellessa
+@062
+Vahingonvähennys (Aktiivi)\nVähentää saatua vahinkoa
+@063
+Heijastus (Aktiivi)\nKimmottaa vastustajan iskut
+@064
+Vastaisku (Aktiivi)\nKimmottaa vain vahvat iskut
+@065
+Painovoimahallinta (Varuste)\nVakioi valmisteluajan
+@066
+Vihollishavainto (Varuste)\nKohteen lukitus ja tehonlisäys
+@067
+Pikavalinta (Varuste)\nKohteen vapautus, tehonlisäys
+@068
+Itsekorjaus (Varuste)\nKorjaa vahingot itsestään
+@069
+Pikalataus\nValmisteluaika nollaan
+@070
+Apulataus\nLyhentää valmisteluaikaa
+@071
+Jatkuva lataus (Varuste)\nValmisteluaika lyhenee
+@072
+Latausimu\nVie valmisteluaikaa
+@073
+Kaato\nKaataa, käsky unohtuu
+@074
+Voimannosto\nKasvattaa Medavoimaa
+@075
+Muutos\nMuuttuu toiseksi osaksi
+@076
+Muutos (nopeus)\nMuuttuu "nopeus"-osaksi
+@077
+Muutos (teho)\nMuuttuu "teho"-osaksi
+@078
+Muutos (tila)\nMuuttuu "tila"-osaksi
+@079
+Muutos (suoja)\nMuuttuu "suoja"-osaksi
+@080
+Muutos (korjaus)\nMuuttuu "korjaus"-osaksi
+@081
+Muutos (tuki)\nMuuttuu "häirintä"-osaksi
+@082
+Sinetin avaus\nAsettaa "sinettiaseen"
+@083
+Maastovaikutus\nLaukaisee kenttätapahtuman
+@084
+Etutilan poisto\nPoistaa etutilat
+@085
+Käyttökielto\nOsia ei voi käyttää
+@086
+Sekavuus\nIskun kohdetta ei voi valita
+@087
+Kertaimu\nVie pääosan käyttökertoja
+@088
+Väistökielto\nEstää väistämisen
+@089
+Puolustuskielto\nEstää puolustamisen
+@090
+Voimaimu\nVie Medavoimaa
+@091
+Kaiverrus\nAsettaa "kaiverrusaseen"
+@092
+Pakotus\nSama osa on pakko käyttää
+@093
+Lento-Medabotti\nVahva: Aavikko, Hiekkakuoppa
+@094
+Leijunta-Medabotti\nHyvä kaikilla kentillä
+@095
+Monijalka-Medabotti\nVahva: Vuoristo, Tulivuori
+@096
+Kaksijalka-Medabotti\nVahva: Metsä, Viidakko
+@097
+Ajoneuvo-Medabotti\nVahva: Kaupunki, Stadion
+@098
+Tankki-Medabotti\nKenttä ei vaikuta siihen
+@099
+Sukellus-Medabotti\nVahva: Vesi, Jäätikkö

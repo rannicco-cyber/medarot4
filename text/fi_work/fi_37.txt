@@ -1,0 +1,900 @@
+@000
+Mmmmh...
+Mikä hätänä, Kouji?
+Juomat ovat kalliita!
+...Häh?
+@001
+Yksi pullo maksaa 500¥.
+@002
+Mitä sitten? Sinähän olet rikas, Kouji.
+@003
+Olen sanonut, ettei rikkaus ole minun vikani!
+Joka tapauksessa en siedä, että tavaroita ostetaan
+kohtuuttomaan hintaan!
+Hmm...
+Mutta Kouji, sinullahan on jano? Minullakin on kurkku kuiva.
+Ei tässä voi hinnoista välittää.
+@004
+Tässä! Mehua!
+Vau! Kylmää!
+Kiitos, Arika!
+@005
+Tässä Koujillekin!
+Oolong-teetä?
+Joo, ajattelin, ettet sinä, Karakuchi, tykkää makeasta.
+Tiedätpä sinä!
+@006
+Tuota...
+@007
+Kiitti.
+@008
+Älä joka kerta nolostu, kun kiität, Kouji.
+@009
+O-ole hiljaa!
+Ai niin, ei tämä ollut tarjous. 350¥
+perin teiltä kyllä!
+@010
+Otatko rahaa~?
+Mutta onhan se parempi kuin täältä ostaminen?
+Totta. Tässä, 350¥.
+Kiitos kaupoista!
+@011
+Tässä, Arika.
+@012
+Kiitos kaupoista!
+Muuten, eikö täällä ole kaikki
+tosi kallista?
+Hmm, no tällaisessa paikassa sen kyllä ymmärtää.
+Kiskontaa, sanon minä, kiskontaa!
+Löytyisiköhän halvempi kauppa, jos etsii?
+Niin, etsitään vähän.
+No, aloitetaan tutkimusretki heti!
+@013
+Hei, {BUF03}, anna sinäkin 350¥.
+Tuota, itse asiassa... minulla ei ole nyt 350¥.
+@014
+Mitä, eikö sinulla ole edes 350¥?
+Tuota~ ahaha...
+"Ahaha..." muka.
+No, ei voi mitään, {BUF03},
+tarjoan sinun osuutesi.
+Muuten, eikö täällä ole kaikki
+tosi kallista?
+Hmm, no tällaisessa paikassa sen kyllä ymmärtää.
+Kiskontaa, sanon minä, kiskontaa!
+Löytyisiköhän halvempi kauppa, jos etsii?
+Niin, etsitään vähän.
+No, aloitetaan tutkimusretki heti!
+@015
+Täällä osatkin ovat kalliimpia kuin muualla!
+@016
+Mehu 350¥ pullo.
+Ostiko Arika mehun tältä pojalta?
+@017
+Kyl-mää mehua, 350¥ pullo.
+Hmm, mitähän tekisin?
+Ostetaanko mehu?
+@018
+Ei sittenkään nyt.
+@019
+No, otan yhden.
+Kiitos kaupoista!
+@020
+Mikä tämä pullossa oleva musta neste on?
+Kiinnostaa!
+@021
+Glug glug glug glug......
+Se, mitä juot, ei ole mehua.
+@022
+Mitä, eihän sinulla ole rahaa.
+@023
+Tällä keitaalla ei ole hotellin lisäksi yhtikäs mitään!
+@024
+Jos haluat kulkea tästä, näytä kulkulupa
+tai maksa.
+Häh, kulkulupa? Ei minulla sellaista ole~
+@025
+Mitä nyt, {BUF03}?
+@026
+Kouji. Tästä kulkeminen vaatii
+kulkuluvan tai tiemaksun.
+Paljonko tiemaksu on?
+500000¥.
+@027
+Älä puhu mahdottomia~
+Älä pelleile! Tässä tilanteessa
+menen vaikka väkisin!
+@028
+Kulkua ei sallita.
+@029
+Uwah!
+Kouji!
+@030
+Oletko kunnossa, Kouji?
+Joo, olen kunnossa.
+Mutta nämä Medabotit taas...!
+Joo, siltä näyttää. Joku ohjailee niitä.
+Neljän kuninkaan Medabotteja...!
+Tätä ei voi jättää tähän.
+Niin, tästäkään ei näytä pääsevän ohi.
+Keksitään toistaiseksi jokin muu keino.
+@031
+Tutkin minäkin jotain.
+@032
+Tästä eteenpäin kulku kielletty.
+@033
+Hnngh, hnngh, vielä kerran.
+@035
+Häh! Kuka sinä olet?
+Ai, anteeksi, en aikonut säikäyttää.
+Olen {BUF03}. Tenryou {BUF03}.
+Mitä sinä teit täällä?
+Minä olen beo Kyuu.
+Harjoittelin Medabird-kilpailua varten.
+Jos lennän kilpailussa hyvin, tunnustan ihastukselleni♥
+Vai niin. Kyuu halusi näyttää ihastukselleen
+olevansa siisti ja harjoitteli siksi. Kuka se ihastus on?
+Krokotiilivahtimallin Medabotti Humming, tosi söpö♥
+Vai niin. Toivottavasti onnistuu.
+Niin! Ole harjoitusvastustajani!
+Katso harjoitukseni tuloksia!
+Joo, sopii!
+Jee! Minä aloitan.
+@036
+...Ahaha, putosin.
+Tuota noin... no, nyt minä kokeilen lentää.
+@037
+Lennätkö? Lennätkö?
+@038
+Eikö Medabirdiä voikaan pelata yksin?
+@039
+Okei, mennään! Medabotti, siirto!
+@040
+Paljon on vielä opittavaa...
+.........Tällä tavalla ei kyllä vielä onnistu.
+Niinkö... Oletko taas vastustajani?
+Joo, sopii!
+@041
+Ahaha, minäkin putosin. Aika vaikeaa.
+Me tarvitsemme vielä paljon harjoitusta.
+Joo, siltä näyttää.
+Oletko taas vastustajani?
+Joo, sopii!
+@042
+Okei, harjoitellaan ahkerasti!
+@043
+Ensin pitää koota 3 Medabottia.
+@044
+Ai, {BUF03}! Harjoitteletko
+taas kanssani?
+@045
+Joo, harjoitellaan yhdessä!
+@046
+Jee! Olenkohan vähän parantunut?
+Joo, tällä menolla voitto on varma!
+@047
+Hmm, vielä on matkaa.
+Niin, harjoitellaan vielä ahkerammin!
+@048
+Anteeksi, nyt on kiire. Myöhemmin.
+@049
+Hei, {BUF03}, sinulla ei ole 3 Medabottia koottuna.
+@050
+Hei! Nimeni on Tamao Pilbaren.
+Olet Tenryou {BUF03}, eikö?
+Miten tiedät nimeni?
+Tenryou on turnausten ja Medalympialaisten voittaja.
+Medabottaajan kuuluu tietää se.
+Hehe, nolottaa.
+Halusin siis tarkistaa Tenryoun taidot ennen
+Medabird-kilpailua. Mitä sanot, pelataanko Medabirdiä?
+Joo! Sopii!
+@051
+No, minä aloitan!
+@052
+Medabotti, siirto!
+@053
+Drake, medamuutos!!
+@054
+Vähän kaukana lipusta? Tuo on noin 55 pistettä.
+@055
+No, Tenryoun vuoro.
+Joo! Medabotti, siirto!
+@056
+Kas, et ole hassumpi. Mutta kisassa ei käy näin.
+@057
+Robotteluturnauksen voittaja on siis vain tätä tasoa.
+@058
+Seuraavaksi Tenryoun...
+Mitä? Sinulla ei ole 3 Medabottia koottuna.
+Tämä kisa näyttää siirtyvän turnaukseen.
+@059
+Hehe, voitto ja Humming ovat minun.
+Humming... onko se se Medabotti, josta Kyuu puhui?
+Ai, se Kyuu. Tyhmä tyyppi.
+Voitosta on turha puhua, kun sillä ei ole mestaria,
+eikä se voi edes osallistua!
+Kyuu on siis kulkuri.
+Niin, en nähnyt sen medabottaajaa.
+Se on surkea kaikessa, joten sen medabottaaja hylkäsi sen.
+Vaikka se pääsisi mukaan, se ei ikinä voittaisi!
+No, odotan innolla varsinaista kisaa.
+@060
+{BUF03}, tapahtuiko jotain?
+(En voi kertoa, että vaikka se yrittää niin kovasti,
+kulkurimedabotit eivät voi osallistua...)
+Ei, ei mitään. No, harjoitellaan ahkerasti!
+J-joo...?
+@061
+{BUF03}! Hoida ilmoittautuminen nopeasti!
+Ilmoittautuminen?
+Medabird-kilpailuun ilmoittautuminen! Täällä
+järjestetään pian kilpailu!
+Sen tiedän, mutta miksi?
+Voittaja saa kulkuluvan! Sitten
+pääsee Jakunanin kaupunkiinkin! Kouji ja minä hoidimme
+sen jo aikoja sitten! ...Tässä! Ilmoittautumislomake!
+Hakemukseen kirjoitetaan medabottaajan nimi
+ja osallistuvan Medabotin nimi...
+Mitä nyt, {BUF03}? Kirjoita nopeasti.
+Ai, joo... tai siis, myöhemmin.
+Häh? Miksi?
+Joo, minulla on vähän mietittävää...
+Mitä se on? No, olkoon, mutta
+ilmoittaudu myöhemmin kunnolla!
+...No niin! Harjoittelemaan!
+Harjoittelemaan!
+@062
+Mennään tapaamaan Kyuuta. Jos minusta tulee sen mestari,
+Kyuukin voi osallistua kilpailuun!
+@063
+Kyuu!
+@064
+Ai! {BUF03}!
+@065
+Hei, Kyuu, tuota... tämä tulee yllättäen, mutta
+haluaisitko tulla minun Medabotikseni?
+Minäkö sinun, {BUF03}? M-miksi?
+Medabird-kilpailuun osallistuakseen pitää olla
+medabottaaja mukana. Siksi...
+@066
+.........
+K-Kyuu?
+...Tiedän kyllä, että vaikka harjoittelisin kuinka paljon,
+en voisi ikinä voittaa...
+Minä... minä olen damebotti, jonka mestarikin hylkäsi.
+@067
+E-ei se ole totta, Kyuu! Jos yrität, niin varmasti...!
+Sinäkin, {BUF03}, oikeasti
+tiedät, että olen surkea.
+(Ugh...)
+Ei se mitään, {BUF03}. En kaipaa sääliä.
+Humming oli minulle saavuttamaton kukka...
+@068
+Hölmö!!
+{BUF03}?
+Mitä hyötyä on luovuttaa ennen kuin edes yrität!
+Luovuttaminen tarkoittaa, että kaikki loppuu siihen!
+En kestä, että jokin loppuu ennen kuin se alkaa!
+@069
+Jos luovutat nyt, emme ole enää ystäviä
+emmekä mitään! S-sopiiko se sinulle!
+Välit ovat poikki!
+{BUF03}...
+@070
+Minä lähden oikeasti!
+@071
+M-minä lähden ihan oikeasti! Oikeasti ihan totta...!
+@072
+{BUF03}!
+@073
+Anteeksi, anteeksi, {BUF03}.
+Olin väärässä. Sanoit sen minun, jonka mestarikin
+hylkäsi, vuoksi!
+Jos minut... jos sinäkin, {BUF03},
+hylkäisit minut... nyyh nyyh
+@074
+Ei tarvitse itkeä, Kyuu. Kunhan ymmärrät,
+se riittää.
+Et siis lähdekään? Pysytkö ystävänäni?
+Tietysti!
+Jippiiii!!
+@075
+Hei, {BUF03}, harjoitellaan!
+En halua hävitä kenellekään!
+Joo, niin! Treenataan!
+@076
+{BUF03}!
+@077
+Menetkö ilmoittautumaan Medabirdiin?
+@078
+Hmm, harjoittelisinko vielä vähän ensin?
+Joo, treenataan!
+@079
+Joo, mennään, Kyuu!
+Joo!
+@080
+Tehdään parhaamme, {BUF03}.
+Tehdään, Kyuu.
+Medabotti, siirto!
+@081
+Vaihda Medakellon Medabotin valintaruudussa
+kumppanisi mitali "Time"-mitaliksi.
+@082
+Okei, mennään ilmoittautumaan Medabirdiin.
+@083
+Minä lentäisin vähän korkeammalle.
+@084
+Minäkin olin ennen Medabirdin kova kundi.
+@085
+Kas~ kokeilisinko minäkin pitkästä aikaa lentää~
+Rusahdus!
+Uuuh! Noidannuoli jalkaosassa...
+@086
+Lennä~ lennä lennä, Medabird
+Hep hep♪ (välihuuto)
+Mene~ mene mene, Medabird
+Hei hoi♪ (välihuuto)
+Kohti sataa pistettä suoraan~!
+Meda meda meda meda
+Me-da-bird!!
+Omaa tekoa...
+@087
+Eikö telkkari tullut tänne? Telkkari!
+@088
+Siisti, tuo vihreä puku! Mistähän sellaisen saa?
+@089
+Kyllä! Kyllä! Kyllääh!
+Heti seuraavaan otteluun!!
+@090
+Shuba shuba shubaan, Medabird GO!
+Sininen taivas, sininen meri~ Lennetään kauas, minne vain~♪
+Meda voooima (repliikki)
+Tänään taas draivi draivi Draivirata!
+Toinen säkeistö...?
+@091
+Medavoiman käyttö vähentää pisteitä,
+joten sitä ei kannata käyttää paljon.
+@092
+Jos ajattelee vain voittoa, lennätä vähän pitkäksi
+ja käytä Medavoimaa kerran lipun viereen. Se on paras.
+@093
+Muut kuin lentomallit eivät voi käyttää Medavoimaa,
+eivätkä ne yllä keskipitkällä radalla mitenkään.
+@094
+Lyhyellä radalla saa kai helpommin pisteitä, kun
+ottaa täysillä vauhtia ja putoaa tahallaan.
+@095
+No, robottelussa ja Medabirdissä
+auttaa lopulta vain harjoittelu.
+@096
+Ennen kilpailuun ilmoittautumista laitan
+{BUF15}:lle lento-osat.
+@097
+Medabirdiin tarvitaan 3 Medabottia. Kootaan ne.
+@098
+Medabird-kilpailuun siis. Ottelu alkaa pian,
+oletteko valmis?
+@099
+Ottelu alkaa pian, joten ilmoittautukaa ajoissa.
+@100
+Antakaa sitten hakemus, johon on kirjoitettu
+medabottaajan ja Medabotin nimi.
+Niin, sainhan Arikalta hakemuksen.
+Tuota, medabottaaja: "Tenryou {BUF03}"
+Käytettävä Medabotti: "{BUF15}"... noin.
+@101
+{BUF03}
+?
+Kiitos! Tehdään parhaamme!
+...Joo!
+@102
+H-Humming on tullut...
+Onnea molemmille.
+Humming kannustaa tutulla paikalla♥
+@103
+Tehdään parhaamme, {BUF15}.
+J-joo!
+Kas, löytyipä outo medabottaaja,
+joka haluaa sinun mestariksesi.
+@104
+Ja että se medabottaaja olikin Tenryou.
+No, ratkaistaan asia Medabirdissä. Eikö niin?
+Niin.
+No, odotan innolla otteluamme.
+No, meidän vahvimman kaksikon voitto
+on jo selvä!
+@105
+Onpa inhottava Medabotti. Voisiko olla, ettei siihen
+ole asennettu "Medabotin 3 lakia"?
+(Haha... onpa ilkeästi sanottu.)
+@106
+No niin, {BUF15}, lepää sinäkin
+Medakellossa, kunnes ottelu alkaa.
+Joo, selvä.
+@107
+Kiitos odotuksesta, piip! Medabird-kilpailu
+alkaa, piip!
+Robotteluliiton Chimaki ei pääse paikalle
+seuraavan työn takia, piip, joten tämän kisan juontaa
+kaikkien idoli Pii, piip!
+@108
+Ja nyt muutama sana järjestäjältä, Takasulta, piip.
+@109
+Ohohohoo! Hyvät paikalle saapuneet,
+mitä kuuluu?
+...? Tuntuu, että olen nähnyt hänet jossain...
+Totta...
+Minä olen Rumi Takasu, Karasawagi-hotellin
+omistaja! Medabird-kilpailun
+voittaja saa upean palkinnon.
+Odottakaa innolla! Ohohohohoo!
+Tuo nauru... tosiaan...
+@110
+Kiitos, Takasu, piip! Aloitetaan sitten
+Medabird-kilpailu heti, piip!
+1. kierroksen 1. ottelu: Amazake Arika vastaan
+Kamonanban, piip!
+Ai! Minun vuoroni!
+@111
+No niin, 1. ottelu. Ensin Amazake Arika,
+Medabird alkaa, piip!
+@112
+Mennään! Medabotti, siirto!
+@113
+1. ottelun voittaja on... Amazake Arika, piip!
+@114
+Ei minua yhtään harmita! Ei yhtään... buaaa!
+@115
+Onneksi olkoon, Arika.
+Ensimmäinen kierros läpäisty.
+@116
+Hihi, {BUF03} tai Kouji, en säästele teitä♥
+Seuraavaksi 1. kierroksen 2. ottelu: Tenryou {BUF03}
+vastaan Hayate, piip.
+@117
+Kas, {BUF03}:n vuoro.
+Onnea, {BUF03}.
+Joo!
+@118
+{BUF03}, jos häviät heti ensimmäisellä
+kierroksella, en anna anteeksi!
+@119
+Anna kaikkesi!
+@120
+Hei, olen Humming, krokotiilivahtimalli♥
+@121
+Osallistutko sinäkin kilpailuun? Onnea♥
+@122
+{BUF15} voitti! Onneksi olkoon♥
+@123
+{BUF15}, voititko toisenkin kierroksen?
+Mahtavaa, onnea seuraavaankin♥
+@124
+{BUF15} voittaa varmasti turnauksen.
+Hän on harjoitellut koko ajan! Onnea molemmille.
+@125
+{BUF15} on mahtava! Humming liikuttui♥
+@126
+Kun olet valmis, mene paikallesi, piip.
+@127
+Näytän minun ja Kaeden voiman!
+@128
+Pitää valmistella osat ja mennä paikalle.
+@129
+Ovatko molemmat valmiina, piip?
+@130
+Kun olet valmis, mene paikallesi, piip.
+@131
+{BUF03}, sinulla ei ole 3 Medabottia koottuna, piip.
+@132
+No niin, heti ensin
+{BUF03}, Medabird alkaa, piip!
+@133
+Medabotti, siirto!
+@134
+Tehdään parhaamme, {BUF15}.
+Joo, yritän parhaani.
+@135
+Ohoo! Tuo oli aika hyvä tulos, piip!
+Ottelu riippuu nyt seuraavana lentävästä Hayatesta, piip.
+@136
+Medabotti, siirto!
+@137
+Kaede! Anna palaa!
+Luota minuun, mestari!
+@138
+Harmi, piip. Putosi ihan vähän ennen maalia, piip.
+2. ottelun voittaja on Tenryou {BUF03}, piip!
+@139
+Hitto! Ensi kerralla voitan varmasti!
+@140
+Hienoa, {BUF03}!
+Jee! Ensimmäinen kierros läpäisty!
+@141
+Joo, kiitos.
+Mutta jos {BUF03} voittaa seuraavan ottelun,
+vastaan tulee Arika, eikö?
+Mitä!
+@142
+Totta! {BUF03} vastaan!
+No, minkäs teet. No niin, minun vuorooni
+on vielä vähän aikaa. Palaan hotellille.
+@143
+Minunkin pitää valmistella osat ennen seuraavaa ottelua.
+@144
+Niin! Pitää hakea {BUF15}
+järven toiselta puolelta.
+@145
+Voi ei! Se putosi järveen!
+Hävisin heti alussa.
+Höh.
+@146
+Seuraavaan otteluun on aikaa, piip. Lepäilkää, piip.
+@147
+Haetaan ensin {BUF15}.
+@148
+Onneksi olkoon, {BUF15}!
+Kiitos, {BUF03}. Se oli sinun ansiotasi.
+Hehe, mutta vasta ensimmäinen kierros on ohi.
+Tehdään parhaamme seuraavassakin ottelussa!
+@149
+Hei sinä, pelataanko pingistä?
+@150
+Täältä tulee♥
+@151
+Tilaisuus!
+@152
+Uwah!
+Hihi, vielä on opittavaa♥ Jos voitat minut,
+teen sinulle jotain kivaa♥
+(J-jotain kivaa... Kiinnostaa!)
+@153
+Voi harmi♥
+@154
+Hihi, pelataanko uudestaan?
+@157
+Whoa!
+@158
+Aukko!!
+@159
+Uwah!
+Parempi kuin äsken, mutta minulle et vielä pärjää.
+@161
+Kas, sinähän yrität kovasti♥ Hyvä on, vielä kerran?
+@164
+Hah!
+@165
+Ei hassumpi!
+@166
+Hyaa!!!!
+@167
+Voi ei, hävisin. No, ei voi mitään, tule tänne♥
+@168
+(Tum tum tum...)
+Tässä.
+@169
+Häh?
+Kas, ajattelitko jotain muuta? Hihi, olet varhaiskypsä♥
+Ei, en, tuota... Kiitos osasta.
+Hihi, mikä suloinen poika♥
+@170
+Pelataan taas joskus♥
+@172
+Mitä nyt, {BUF03}? Jos etsit Koujia, näin hänen
+menevän äsken yläkertaan.
+@173
+Tämä on neiti Rumin huone. Asiattomat poistukoot!
+@174
+Vau! Onpa raju~
+@175
+Mitä nyt, vähän tapaamaan, ei se ole iso juttu!
+Neiti Rumi ei tapaa ketään.
+Kouji, täälläkö sinä olit. Seuraava ottelu alkaa kohta.
+@176
+{BUF03}. Se Takasu-nainen
+jäi vain vaivaamaan.
+Joo, tuntuu, että olemme tavanneet hänet jossain.
+Hitto! Melkein muistan jo!
+Kouji, ottelu sitä paitsi...
+Ai niin. Jätetään tämä toistaiseksi.
+Hoidetaan ottelu nopeasti pois alta! Mennään!
+@177
+Eikö tuolla ole Arika? Pitää kertoa hänelle,
+että Koujin ottelu alkaa kohta.
+@178
+Ai, {BUF03}, oletko vielä täällä?
+Vielä täällä? Itsehän sinä...
+Jos et kiirehdi, Koujin ottelu alkaa!
+@179
+Kuuntelisit joskus...
+@180
+{BUF15}:lle ei ole koottu lento-osia.
+@181
+Medabirdiä varten pitää koota 3 Medabottia.
+@182
+Älä häviä tuollaiselle, {BUF03}!
+@183
+Olitpa myöhässä, {BUF03}!
+Koujin ottelu alkaa!
+@184
+No niin, 1. kierroksen 5. ottelu: Bunroku Touhouken
+vastaan Karakuchi Kouji, piip.
+Uooh! Vaikkei tämä ole robottelua, en häviä!
+Minä en ikinä häviä, näin on.
+Voitan turnauksen, näin on.
+Ensin Bunroku, Medabird alkaa, piip!
+@185
+Medabotti, siirto, näin on!
+@186
+5. ottelun voittaja on... Karakuchi Kouji, piip!
+@187
+Medabottaajan tie on ankara, näin on.
+@188
+Hienoa, Kouji!
+En häviä ennen kuin kohtaan {BUF03}:n!
+Kouji on kyllä tosi innoissaan.
+@189
+Medabird-kilpailu etenee vihdoin puoliväliin, piip.
+2. kierroksen 1. ottelu: Tenryou {BUF03} vastaan
+@190
+Kas, {BUF03}:n vuoro.
+@191
+...Roborobo-jengi, piip.
+@192
+Mitä! Mitä tämä tarkoittaa?
+Miksi Roborobo-jengi on täällä?
+Robooo! Miksi te olette täällä, robo?
+Sama kysymys sinulle. Mitä aiot nyt tehdä?
+Sitä ei tarvitse teille kertoa, robo.
+Aloitetaan Medabird, piip. Jutelkaa myöhemmin, piip!
+@193
+Heti kun {BUF03} voittaa ottelun, nappaan sinut!
+@195
+Emme tiedä mitään, robo.
+@196
+Valmistellaan osat ja mennään omalle paikalle.
+@197
+Oletteko valmiita, piip?
+@198
+Valmistautukaa nopeasti ja menkää paikoillenne, piip.
+@199
+Medabirdiin tarvitaan 3 Medabottia, piip. Kokoa ne, piip.
+@200
+No, aloitetaan, piip!
+Ensin Tenryou {BUF03},
+Medabird alkaa, piip!
+@202
+{BUF15}, voitetaan ja annetaan sille
+opetus!
+Joo, tehdään parhaamme!
+@203
+Ohooo!! Tenryou {BUF03}
+saa taas korkeat pisteet, piip! Mitä Roborobo-jengi tekee, piip!
+@204
+Näytetäänpä, robo.
+@205
+Medabotti, siirto, robo!
+@206
+Roborobo-jengin pisteet ovat... 48 pistettä, piip! Eli
+Tenryou {BUF03} voittaa, piip!
+Jee, voitin toisenkin kierroksen!
+Ro...
+Robooo!!
+@207
+Seis siinä!
+@208
+Odota!
+@209
+Haenkohan minäkin {BUF15}:n?
+@210
+Aah! Nämä pisteet näyttävät vähän tiukoilta, piip!
+Miten käy Roborobo-jengin, piip!
+Hehe, tuo on helppo voittaa, robo♥
+@212
+Tosi hyvä tulos, piip! Pisteet... yh... 98, piip!
+Häh!
+Mitä!
+Ei voi olla!
+@213
+Kylläpä se osaa~
+@214
+Seuraavana on suosikki Tamao Pilbarenin
+ottelu, piip.
+@215
+Tulin hakemaan sinua, {BUF15}.
+Ai, {BUF03}, kiitos.
+Jatketaan samaan malliin välierässäkin.
+Joo, tehdään yhdessä parhaamme!
+@216
+Pitää palata nopeasti, tai Koujin ottelu alkaa.
+@217
+{BUF03}! Odotan sinua
+finaalissa!
+@218
+Roborobo-jengin tyyppi pääsi lopulta karkuun.
+Niillä on hämmästyttävän nopeat jalat paetessa.
+@219
+Murskaan sinut kuten äskeisessä ottelussa!
+Hmph, en häviä sinulle.
+@220
+Medabotti, siirto!
+@221
+Drake, medamuutos!
+@222
+Näytetään voimamme.
+No niin, 2. kierroksen 2. ottelu: ensin Tamao Pilbaren,
+Medabird alkaa, piip!
+@223
+2. ottelun voittaja on... Tamao Pilbaren, piip!
+@224
+Hävisin täysin. Et ole hassumpi.
+Tavoitteeni on voittaa Tenryou. En voi hävitä
+tällaisessa paikassa.
+Mikä nenäkäs tyyppi.
+Hmph.
+@225
+Seuraavaksi 3. kierros: Amazake Arika vastaan
+Tenryou {BUF03}, piip.
+@226#kabuto
+{BUF03}, tänään otan tosissani!
+@226#kuwagata
+{BUF03}, en anna sinun voittaa!
+@227#kabuto
+Joo, tietenkin!
+@227#kuwagata
+En minäkään häviä!
+@228
+Voi että, en tiedä, kumpaa pitäisi kannustaa...
+@229
+Voittaja pääsee finaaliin, piip.
+@230
+Emme mekään ole voittaneet tänne asti turhaan.
+@231
+Vihdoin välierissä asti! Mahtavaa!
+@232
+Minne menet, {BUF03}!
+@233
+Pitää valmistautua nopeasti, tai Arika suuttuu.
+@234
+Valmistaudu nopeasti ja ottele kanssani!
+@235
+No, {BUF03}, oletko valmis?
+@236
+Voi {BUF03}, sinä sotket tahdin!
+@237
+Mitä nyt, {BUF03}? Sinulla ei ole 3 Medabottia koottuna!
+@238
+Joo, aloitetaan heti!
+No niin, 3. kierros, Medabird alkaa, piip!
+@240
+Medabotti, siirto!
+@241#kabuto
+Brass! Mennääään!
+@242
+Tämä on mahtavaa, piip! Vielä korkeammat pisteet kuin
+äskeisessä Medabirdissä, piip! Arikalla 62 pistettä, piip!
+@243
+Okei! Nyt on minun vuoroni!
+@244
+Tavalliseen tapaan voitamme varmasti. Tsemppiä!
+Joo, minullekin tulee jotenkin itseluottamusta!
+@245
+3. kierroksen voittaja on Tenryou {BUF03}, piip!
+@246
+Eli finaalissa ovat vastakkain Tenryou {BUF03}
+ja Tamao Pilbaren, piip!
+Odotettua, {BUF03}. Medaboteissa
+en tosiaan pärjää sinulle.
+Hehe, kiitos, Arika.
+Pidetään tässä tauko ennen finaalia, piip.
+No, tauon aikana ostan paljon filmiä♥
+@247
+Minäkin taidan kierrellä tauon aikana.
+@249
+3. ottelun voittaja on Amazake Arika, piip!
+Jee!
+@250
+Ei voi olla, että hävisin Arikalle.
+Älä nyt noin masennu. Älä huoli, minä
+hankin sen kulkuluvan.
+@251
+Voittaja on Tamao Pilbaren, piip!
+Voi ei, hävisin.
+Eli kulkulupaakaan ei saada.
+Entä sitten Karin!
+Kulkulupa jäi saamatta, ei voi mitään...
+Ei voi mitään...
+Mitä nyt teheeään!!!!
+@252
+Pidetään pieni tauko ennen finaalia, piip.
+@253
+Pääsimme vihdoin finaaliin asti.
+Pääsin tänne asti sinun ansiostasi, {BUF03}.
+Koska harjoittelit kanssani
+ja rupesit mestarikseni, minäkin jaksoin yrittää.
+{BUF15}...
+Okei! Parhaamme finaalissakin!
+@254
+Hmm, filmi 700¥ rulla... Tosi kallis, mutta
+jos en osta nyt ja filmi loppuu, se olisi kamalaa...
+@255
+Arika, pidä kiirettä, tai finaali alkaa.
+@256
+{BUF03}, ilman lentomallia Medabirdissä
+ei voi voittaa. Valitaan lentojalat tai osa, joka
+muuttuu lentomalliksi.
+Totta. Vaihdetaan osia.
+@257
+Jos voitamme tämän ottelun, voitamme turnauksen.
+Sekä {BUF15}:n että Karinin vuoksi
+tätä ottelua en voi missään nimessä hävitä!
+@258
+Lähdetäänkö, {BUF03}?
+@259
+Valmistaudutaan vielä vähän.
+@260
+Ensin pitää koota 3 Medabottia.
+@261
+Mennään, {BUF15}!
+Joo, {BUF03}!
+@262
+Voi että, Arika vitkutteli filmin ostamisessa,
+ja nyt aika on ihan lopussa!
+Minkäs teet! Toimittajalle filmin valinta
+on yhtä tärkeää kuin kolme ateriaa päivässä!
+@263
+Ai, {BUF03}. Ottelu ei ole vielä alkanut.
+Voitolla saa kulkuluvan. Anna palaa, {BUF03}!
+J-joo...
+(Voi sentään...)
+@264
+Odotettua Tenryoulta. Voitit tänne asti.
+Kuten ennustin.
+Se ei ole vain minun voimaani. {BUF15}
+ja kaikki muut kannustivat minua,
+siksi pääsin tänne asti.
+Heh, rohkaisua, vai...
+No, testataanpa heti sen tuloksia!
+@265
+No niin, vihdoin Medabird-kilpailun finaali:
+Tenryou {BUF03} vastaan Tamao Pilbaren,
+Medabird alkaa, piip!!
+@267
+Vihdoin finaali. Nyt on aika näyttää
+treenien tulokset. Tehdään parhaamme!
+Joo! Voitan ja tunnustan Hummingille!
+@268
+Ugh, odotettua Tenryoulta. Mutta en minäkään häviä!
+@270
+Mennään, Drake! Medamuutos!
+@271
+Mahtavaa, piip! Hyvä kohta! Tamaon pisteet ovat...
+@272
+N... 74 pistettä, piip! Eli turnauksen voittaja on
+Tenryou {BUF03}, piip!
+@273
+Miksi! Että minä häviän! Miksi en voi voittaa!
+@274
+Tamao...
+Ei ole hauskaa vain se, että kaikki menee niin kuin haluaa.
+Pikemminkin se, että kaikki ei aina mene niin kuin haluaa,
+saa yrittämään, eikö?
+Tietysti on kivempaa voittaa.
+...Tenryou
+Pelaatko kanssani Medabirdiä taas?
+Joo, tietysti!
+@275
+Oliko tuo muka tosissasi? Hmph, taisin
+yliarvioida sinut.
+@278
+Valitan, mutta tämän kisan voitan minä!
+@279
+Tamao Pilbarenin tulos oli 75 pistettä, piip!
+Eli...
+Voisiko olla...
+Medabird-kilpailun voittaja on Tamao Pilbaren, piip!!
+@280
+Voi ei, hävisin...
+@281
+No niin, sitten voittopalkinto, piip!

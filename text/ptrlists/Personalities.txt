@@ -3,10 +3,10 @@
 kabuto#24966
 kuwagata#24966
 Index[#version],Personality
-0,スピ-ド
-1,パワ-
-2,テクニック
-3,プロテクト
-4,リデュ-ス
-5,チェンジ
-6,ランダム
+0,Nopea
+1,Voima
+2,Taito
+3,Suoja
+4,Vähen
+5,Muuta
+6,Arpa

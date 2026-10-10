@@ -1,4 +1,5 @@
 INCLUDE "game/src/common/constants.asm"
+INCLUDE "game/src/common/macros.asm"
 
 SECTION "Text Mapping Functions", ROM0[$28E0]
 PutStringVariableLength::
@@ -15,40 +16,19 @@ PutStringVariableLength::
   jr PutStringVariableLength
 
 PutStringFixedLength::
+  ; a = field width in tiles, bc = string (terminated by $CB), hl = tilemap address.
+  ; The string is drawn with the VWF (patch/menu_vwf.asm).
+  ld d, a
+  call MenuVWFStringToRam ; the VWF code runs in another bank, strings in ROM are copied first
+  ld a, [W_CurrentBank]
   push af
-  ld d, 0
-
-.copyLoop
-  ld a, [bc]
-  cp $CB
-  jr z, .clearRemaining
-  di
-  push af
-  rst $20
+  ld a, BANK(MenuVWFDrawField)
+  call VWFLowBankswitch
+  call MenuVWFDrawField
   pop af
-  ld [hli], a
-  ei
-  inc bc
-  inc d
-  jr .copyLoop
+  jp VWFLowBankswitch
 
-.clearRemaining
-  pop af
-  sub d
-  ret z
-  ld b, a
-
-.clearLoop
-  xor a
-  di
-  push af
-  rst $20
-  pop af
-  ld [hli], a
-  ei
-  dec b
-  jr nz, .clearLoop
-  ret
+  padend $290E
 
 SECTION "Get Tile-Based Centring Offset", ROM0[$290E]
 GetTileBasedCentringOffset::

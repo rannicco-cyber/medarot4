@@ -3,78 +3,78 @@
 kabuto#30433
 kuwagata#30438
 Index[#version],Entry00
-0,プロロ-グ
+0,Prologi
 1,##=0
 2,##=0
 3,##=0
 4,M.R.4
 5,FANTASIA
-6,エレクティヴサブジェクト
-7,インディケイト
-8,エクスプレイン
-9,オン ライン
+6,ElectSubj
+7,Indicate
+8,Explain
+9,On Line
 10,STORM CLOUD
 11,SELECTION
-12,ロボトルファイト!
-13,レッツ ロボトルダンス
+12,Robottelu!
+13,Robotanssi
 14,BEAT UP
 15,DARK NIGHT
 16,DO.OR.DIE
 17,WIN
 18,LOSE
-19,レベルアップ
-20,グロウアップ!
-21,タイムオ-バ-
-22,ゲ-ムオ-バ-
+19,Tasonnousu
+20,Kasvua!
+21,Aika loppui
+22,Peli ohi
 23,HAPPY LIFE
-24,WARM VILLAGE
-25,メダロポリス
-26,OH!かいもの
-27,メダロッタ-ズ
-28,アフタ-スク-ル
-29,メダロットカンパニ-
+24,WARM VILL.
+25,Medapolis
+26,OH! Ostos
+27,Bottaajat
+28,AfterSchool
+29,Medayhtiö
 30,INSTITUTE
-31,シンラのもリ
+31,Shinrametsä
 32,BELIEVING
-33,しれんのみち
+33,Koetustie
 34,VIOLENT MEN
-35,キッズ カウボ-イ
+35,Kids Cowboy
 36,ALWAYS IDLE
-37,ビュ-ティフル スペ-ス
-38,まなつのゆうわく
-39,サイバ-シティ-
-40,ゆめごころ
+37,BeautySpace
+38,Kesän lumo
+39,CyberCity
+40,Unelma
 41,MEMORIES
 42,MR MOON
 43,RED CAVERN
 44,DARK PLOT
-45,ピンチ!!
+45,Pulassa!!
 46,HALF SORROW
 47,I
-48,キュ-ト♥ガ-ル
-49,てんしのひとみ
-50,パッション.マン
+48,CuteGirl
+49,Enkelisilmä
+50,PassionMan
 51,CUNNING BOY
-52,かいとうレトルト
-53,クレイジ-.クレイジ-
-54,ロボロボだん
-55,セレクトたい
+52,Retortvaras
+53,Crazy.Crazy
+54,Roborobo
+55,Select
 56,THE4EMPEROR
-57,THE4EMPEROR2
-58,レヴォリュ-ショニスト
-59,サブゲ-ム タイトル
-60,レッツ プレイ!
+57,THE4EMPERO2
+58,Revolution
+59,Minipeli
+60,Pelataan!
 61,HAPPY
 62,SORRY!
-63,メダバ-ドコンテスト
-64,セイレツ!
-65,ダ-クロボトル
-66,スロットマシ-ン
-67,ラッキ-チャンス
-68,メダコンテスト
-69,クイズでゴ-!
-70,こたえは?
-71,パネルDEロボト-ル
-72,こイヌのワルツ?
-73,こわ-い
-74,おきがえちゅうヨ♥
+63,BirdKilpa
+64,Jonoon!
+65,Pimeä rob.
+66,Pelikone
+67,Onnenpotku
+68,Medakilpa
+69,Visa: Go!
+70,Vastaus?
+71,PaneeliRob
+72,Pentuvalssi
+73,Pelottavaa
+74,Vaihdossa!

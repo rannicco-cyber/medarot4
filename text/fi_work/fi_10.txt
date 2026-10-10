@@ -1,0 +1,46 @@
+@000
+Täydet pisteet? Hatunnosto!
+@001
+Erikoispalkinnoksi saat tämän
+@002
+"{BUF09}"
+@003
+Sinä se osaat
+@006
+"{BUF0A}"
+@007
+"{BUF0B}"
+@008
+"{BUF0C}"
+@009
+Kyllä {BUF03} vain osaa
+@010
+Huippupisteisiin et yltänyt
+@011
+Tule haastamaan uudestaan
+@012
++
+@013
+Voi voi, onpa surkeaa
+@014
+Hmm... vähän vielä
+@015
+Pitää yrittää enemmän
+@016
+Todelliset taitosi
+@017
+eivät kai ole tässä
+@018
+No, kai tämä riittää
+@019
+Kas kas! Sinähän
+@020
+olet opiskellut ahkerasti
+@021
+Että ymmärrät näin paljon...
+@022
+Mahtavaa!
+@023
+Mitä! Uskomatonta! Sinä
+@024
+olet minua parempi professori!

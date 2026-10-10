@@ -90,13 +90,23 @@ MedalNamingScreenInitState::
   call MedalNameEntryCountNameLength
   push af
   ld [W_NamingScreenEnteredTextLength], a
+  ; Terminate the name (normally done by the text entry state)
+  ld hl, W_NamingScreenEnteredTextBuffer
+  ld b, 0
+  ld c, a
+  add hl, bc
+  ld [hl], $CB
   pop af
   add a
   add a
   add a
   add $50
   ld [$C1E3], a
-  jp IncNamingScreenSubSubStateIndex
+  ; Name entry is skipped: the default medal name is used as is.
+  ; Jump straight to MedalNamingScreenCopyNameState (substate $A).
+  ld a, $0A
+  ld [W_NamingScreenSubSubStateIndex], a
+  ret
 
 MedalNamingScreenDrawScreenState::
   ld bc, $13

@@ -1,0 +1,881 @@
+@000
+Minä olen Ryutou-akatemian rehtori Orochi.
+Rehtori, minä olen Ginjoun...
+Olen kuullut saavutuksistanne.
+Erityisesti sinun tähänastiset loistavat
+saavutuksesi, Tenryou, ovat puheenaiheena koulussammekin.
+No, tuota...
+...No niin! Näyttäkää heti meille
+taitojanne!
+Taistelulava on heti huoneen ulkopuolella.
+Tulkaa sinne, kun olette valmiita!
+Odotan teitä!
+@001
+Hän vaikuttaa... aika innostuneelta...
+Kuin lapsi.
+Hihhih♥
+@002
+Hän taitaa pitää kovasti robottelusta.
+Hehe.
+.........
+@003
+Kun olette valmiita, menkää ulos.
+@004
+Minä olen aina valmis! Mennään!!
+@005
+Minäkin menen!
+@006
+Mennään mekin, {BUF03}.
+@007
+Ai, joo.
+@008
+...Selvä! Kun Medabottini ovat valmiina,
+menen minäkin!
+@009
+Lukossa... eikä luvatta kai saa mennä sisään.
+@011
+Tänne, {BUF03}!
+@012
+Kutsuimme teidät tänään ystävyysotteluun.
+Taitojenne arvoisesti olen valinnut koulumme
+parhaan medabottaajan. Näyttäkää hyvää robottelua!
+@013
+Ai, Mizuchi!
+Siinä hän on!
+Heh, enpä olekaan koskaan robotellut kanssasi.
+@014
+Olen jo kyllästynyt odottamaan.
+Häh?
+Otetaan kevyesti mittaa toisistamme.
+Heh, sitä minäkin haluan.
+@015
+Emme ole harjoitelleet tänne asti turhaan!
+Olkaa kilttejä meille.
+Hyvä, hyvä. Me poistumme sitten lavalta.
+Koulumme oppilaatkin ovat kerääntyneet
+katsomaan taisteluanne. He odottavat paljon!
+@016
+Vau, väkeä on tosi paljon. Jännittää...
+@017
+No niin! Aloittakaa!
+@018
+Teitä on pariton määrä, joten robottelemme kahdesti.
+Sopikaa keskenänne, ketkä osallistuvat.
+...Mutta! Turnauksen voittajan {BUF03}:n on
+osallistuttava molempiin otteluihin... Selvä?
+Päättää ihan omin päin. Ärsyttävää!
+Yhtä vastenmielinen tyyppi kuin aina.
+@019
+Älkää nyt, kumpikaan. Valitaan osallistujat.
+Meidät kutsuttiin tänne varta vasten.
+Niin! Karin on oikeassa...
+@020
+{BUF03}! Älä puolusta Karinia
+vain koska se on Karin!
+Sinä! Luuletko oikeasti, että siihen Mizuchiin
+voi luottaa!?
+Ai... ei... tuota...
+@021
+Minulla ei ole aikaa typeriin riitoihinne.
+Riittää. Minä päätän.
+Ensimmäisessä ottelussa {BUF03} ja kaksi tyttöä.
+Toisessa {BUF03}, poika ja keltapäinen tyttö.
+@022
+Hei, mikä tuo puhetapa on!? Mitä sinä meistä luulet?
+Niin! Miten kehtaat sanoa Karinia "keltapääksi"!!
+@023
+Ei saa riidellä! Rauhoittukaa, molemmat!
+@024
+Miten tässä voi rauhoittua!
+@025
+Niinpä!
+@026
+(Voi ei voi ei...)
+@027
+.........Ettekö ymmärrä, kun sanon, ettei saa?
+K...Karin?
+@028
+..................Minä suutun ihan tosissani.
+K-Karin...
+..................
+@029
+(Hän on vihainen... Karin on tosissaan vihainen...)
+@030
+N-noh... vitsihän se vain oli!
+E-emme me tällaisessa paikassa riitele, eihän? Eihän?
+@031
+N-niin, Karin. Ymmärrämme jo, eikö? Eikö?
+..................
+(Pelottaaaa!)
+@032
+...Aloitetaanko sitten?
+A-ah, joo...
+Ensin ottelevat {BUF03}, Arika ja minä, eikö?
+@033
+Robottelu alkaa♥
+@034
+Ei hassumpaa. Sitten seuraava.
+Minä ja Karin! Mennään!!
+@035
+Turnauksen voittajan maine ei ollut turha.
+Itse olet mahtava, Mizuchi!
+@036
+Olipa todella hieno ottelu! Upeaa!
+Sain sen ansiosta hyvää dataa!
+Dataa?
+Se on pieni harrastukseni. Kerään robotteludataa
+ja analysoin sitä.
+Rehtori oli ennen Medabottiyhtiön tutkija.
+Hee, hienoa!
+No niin, koska tulitte tänne asti, esittelen
+teille hieman koulua. Seuratkaa minua.
+@037
+Odotan taas hissin edessä. Muistakaa tulla.
+@038
+Me palaamme nyt.
+@039
+Eivätkö opettaja Ryuuko ja Mizuchi ole samanlaisia!
+Ihan yhtä ärsyttäviä molemmat!
+N-niinköhän...
+@040
+Mennään jo. Tämä on hyvä tilaisuus
+oppia tästä koulusta.
+Niinpä.
+Mennään.
+@041
+Siinä olette. Avaan oven.
+@042
+...Seuratkaa minua.
+@043
+Menkää ulos.
+@044
+Alakerran luokkaa ei yleensä näytetä kenellekään,
+mutta tällä kertaa rehtori antoi siihen erityisluvan.
+Rehtori odottaa varmaan sisällä, joten tulkaa tekin.
+@045
+Alakerran luokka on se paikka, johon emme äsken päässeet!
+Selvä, nyt tutkitaan!
+@046
+No, mennään mekin innokkaan Arikan perässä.
+@047
+Kouji ja Arika ovat suorapuheisia,
+joten pidetään huoli, ettei synny riitaa.
+...Riidat ovat pelottavia.
+@048
+(Minusta Karin on kaikkein pelottavin...)
+@049
+Lukossa.
+@050
+Kas, tulitte. Tänään on erityinen päivä,
+joten tutustukaa rauhassa.
+@051
+U...uskomatonta.
+@052
+Tämä on koulumme ylpeys, robottelun harjoituskenttä.
+Täällä voi oikean robottelun lisäksi
+robotella simulaattorin avulla virtuaalitilassa.
+Tällaisia tiloja ei ole yhdelläkään muulla koululla
+koko maailmassa!
+Mahtavaa...
+Voi ei, kuvaaminen kielletty! Harmittaa!
+@053
+Hahaha, älä nyt sano noin. Tätä paikkaa
+ei ole vielä julkistettu.
+Ja lisäksi haluaisin, että kokeilette tänään
+poikkeuksellisesti robottelua näissä tiloissa.
+Olette ensimmäiset muut kuin oppilaamme,
+jotka pääsevät kokeilemaan simulaattoria.
+Vau...
+@054
+...Ah, se onkin aika onnekasta♥
+Selvä! Kokeilen, ja samalla teen juttua!
+@055
+Selvä! Minäkin kokeilen!
+@056
+Tuota, minä...
+@057
+Kun kerran olemme täällä,
+kiertelen katselemassa.
+@058
+Ai! Karin, eksyt taas!
+@059
+Ei hätää. Minä menen hänen mukaansa.
+@060
+Ai...
+{BUF03}.
+@061
+Oletko koskaan kuullut mitalin ääntä?
+Mitalin... ääntä?
+Uskon, että mitaleilla on telepaattisia kykyjä.
+Jos Medabotin ja mestarin välille syntyy vahva "luottamus",
+mitali ja ihminen voisivat ehkä ymmärtää toisiaan
+telepatian avulla. Niin minä ajattelen.
+Tuota, mitä telepatia on?
+Se on kyky välittää tahtonsa toisille
+pelkästään ajattelemalla.
+Ei korvin kuultavana, vaan ääni kaikuu suoraan päässä.
+Oletko kuullut sellaista ääntä?
+@062
+(...Olen kuullut. God Emperor, Äiti-Medabotti... ja
+kumppanini ääni, joka huusi minua epätoivoisesti.
+Olen kuullut monta kertaa äänen,
+joka kaikuu suoraan päässäni.)
+........
+Eikö olisi upeaa, jos Medabottien kanssa
+voisi kommunikoida ilman ääntä tai Medakelloa?
+@063
+Ai, joo!
+...Tosin jos kaikki välittyisi, se olisi kiusallista.
+Hahaha, totta.
+@064
+Mutta sellainen aika voi olla jo aivan ovella.
+@065
+Minun esittelyni loppuu tähän. Kierrelkää
+vapaasti katselemassa.
+Selvä! Kiitos paljon!
+@066
+Jos ääntä tai Medakelloa ei tarvittaisi,
+Medabottien kanssa voisi ystävystyä vielä enemmän.
+Tämä koulu tähtää siihen... Aika hienoa.
+@067
+...Mutta voikohan Karinin jättää yksin?
+Hän osaa eksyä, vaikkei olisi paikkaa, mihin eksyä.
+{BUF03}! Kokeile sinäkin tätä!
+@068
+No, opettaja Ryuuko on hänen kanssaan, joten ei hätää.
+Kokeilen minäkin simulaattoria!
+@069
+Arika.
+Ah! Älä puhu minulle nyt! ...Tai siis,
+käytä vapaata simulaattoria! Muuten tässä ei ole järkeä!
+Ai, aivan.
+@070
+Voi että, miksi?
+@071
+Nyt! Mene! Uoooooh!!
+Hän on ihan täysin uppoutunut...
+@072
+Upeaa!
+Näin isossa voisi vaikka asua ihmisiä!
+...En usko, että asuu...
+@073
+Mitähän tuolla sisällä on?
+Ehkäpä! Onko se jonkun koti...
+...Ei ole...
+@074
+Tuota, tämä kytkin?
+@075
+Vastustaja on... Kouji!
+@076
+Saman vastustajan kanssa ei kai kannata robotella aina...
+@077
+Simulaattori, vai... Jos joskus tulen tänne uudestaan,
+haluan kokeilla sitä kunnolla.
+@079
+Vastustaja on... Arika!
+@082
+Kun kerran olen täällä, haluaisin kokeilla
+simulaattoria edes kerran.
+@083
+No niin, simulaattori on nyt kokeiltu. Seuraavaksi...
+@084
+...Mutta ilman henkilökorttia pääsen
+vain harvoihin paikkoihin. Mitähän tekisin...
+@085
+Karin ja opettaja Ryuuko! ...Minne menette?
+Opettaja Ryuuko lupasi näyttää
+muitakin huoneita.
+Entä Kouji ja Arika?
+He ovat uppoutuneet simulaattoriin.
+Entä sinä?
+Tuotaaa...
+...No, olkoon. Jos haluat mennä muihin kerroksiin,
+käytä tätä.
+@086
+Tällä pääset muihin kerroksiin.
+Kun avaat oven, vedä henkilökortti
+oven vieressä olevan laitteen läpi. Annan kortit kolmelle.
+Kiitos paljon!
+No niin.
+Näkemiin sitten♥
+@087
+Opettaja Ryuuko on Karinin kanssa, joten se on hyvä.
+...No, annan kortit Arikalle ja Koujille ja
+kiertelen sitten katselemassa!
+@088
+Voi ei! Hävisin taas!
+Ei vielä! Uudestaan!
+@089
+Ai! Odottakaa!
+@090
+Mitä nyt?
+Mikä on?
+@091
+Sain nämä opettaja Ryuukolta. Tässä teidän kortit.
+@092
+Oho! Henkilökortti.
+Tällä pääsee siis minne vain!
+En ole siitä varma...
+No sitten heti!
+Menettekö jonnekin?
+Jatkamme simulaatiota!
+Jep!
+@093
+Liikaa koukussa...
+Ei auta. Tutkin yksin.
+@094
+Kokeillaanpa simulaattoria.
+Tuota, vastustajaksi...
+@095
+Milky
+Retort Lady
+Hebereke
+Professori
+Lopeta
+@098
+Shimeta
+Rumi
+Mitsuo
+Shiokara
+Lopeta
+@101
+Retort
+Sakekasu
+Surume
+Salami
+Lopeta
+@104
+Liberties
+Orochi
+Nae
+Yukie
+Lopeta
+@106
+Kas, {BUF03}. Mitä pidät koulusta?
+Hienoja tiloja on niin paljon, että olen ihmeissäni.
+Hehheh, näytät viihtyvän.
+Niin! Robotellaanko?
+Häh! Rehtorin kanssa!?
+Mitä sanot? Hm?
+@107
+Taidan jättää väliin tällä kertaa.
+Vai niin... harmi.
+@108
+Hahaha, olet tosiaan vahva! Niin pitääkin!
+@109
+Mitä sanot? Otellaanko taas?
+@111
+Sitten aloitetaan!
+@112
+Olet tosiaan vahva.
+@113
+Ai? Hissiä ei voi käyttää ilman henkilökorttia.
+@114
+Kortit pitää antaa Arikalle ja Koujille!
+@115
+Rehtorilla on aina samat vaatteet päällä.
+Kuulemma hänellä on 10 samanlaista asua. Outo tyyppi.
+@116
+! Tällainen laite oli Toranishin koulussakin!
+Sitä kutsutaan "unioppimislaitteeksi", mutta
+mitä se oikein tekee? En ymmärtänyt sitä...
+@118
+Pääsenköhän sisään, jos työnnän henkilökortin tähän?
+@119
+Väärä kortti.
+@120
+Tämä kortti ei näytä kelpaavan tähän.
+@125
+Ilman korttia se ei aukea.
+@126
+Työnnän henkilökortin tähän...
+@127
+Jes! Se aukesi.
+@128
+Ai! Mizuchi!
+@129
+Mizuchi, täällähän sinä olet. Robottelun jälkeen
+lähdit jonnekin... Onko tämä sinun luokkasi?
+@130
+Tavallaan.
+Äskeinen robottelu oli hauska! Hei, Mizuchi,
+robotellaan ensi kerralla kahdestaan!
+Niinpä. Sekin voisi olla hauskaa.
+Jee!
+Hei, sinun kumppanisi on Brave Fire, eikö?
+Se on pelkkä hämäys.
+Häh? Mitä tarkoitat hämäyksellä...
+Ulos. Jos aiomme otella, robotellaan
+taistelulavalla.
+Ai, selvä!
+Tule.
+@131
+Oletko valmis?
+@132
+Älä anna minun odottaa liian kauan.
+@133
+Aloitetaan.
+@134
+Se oli varsin hauskaa.
+(Mizuchin kumppani oli tuntematon Medabotti...
+ja lisäksi Seiryuu...?)
+Mikä hätänä?
+E-ei mikään.
+Muuten, oletko päättänyt vastauksesi, {BUF03}?
+Siitä... haluaisin kysyä sinulta jotain. Saanko?
+Kysy pois.
+Mizuchi, sanoit vapauttavasi Medabotit "3 laista"
+ja rakentavasi "ihannemaailman".
+Mitä se tarkoittaa?
+Mitalit ovat avaruusolentojen tekemiä erinomaisia koneita.
+Koneita...!!
+Mutta Medabotit, sellaisista syistä kuin "emme halua
+satuttaa ihmisiä", tukahduttavat "rajoittimella" ja "3 lailla"
+upean voimansa. ...Eikö se ole naurettavaa?
+Vapautan Medabotit niistä kaikista ja
+otan mitalien voimasta irti 100 prosenttia.
+Sen jälkeen meidän ihmisten tarvitsee vain käyttää sitä voimaa.
+Eikö niin, {BUF03}?
+Se... se on väärin, Mizuchi!! Avaruusolennot jättivät
+Medabotit tänne ihmisten ystäviksi!
+Etkö ymmärrä? No, ajan mittaan muutat mielesi.
+...Joka tapauksessa autat suunnitelmassamme.
+@135
+Mizuchi!
+@136
+Mitä Mizuchi sanoo ja mitä minä ajattelen...
+ne ovat täysin erilaisia. Mutta voinko todella sanoa,
+että minä olen oikeassa ja Mizuchi väärässä?
+............
+Mitähän Arika, Kouji ja Karin ajattelevat?
+Haluaisin kysyä heiltä...
+Karin on opettaja Ryuukon kanssa, mutta en tiedä,
+missä he ovat.
+Ovatkohan Arika ja Kouji yhä harjoituskentällä?
+@138
+Kouji! ...Ai, olet jo tullut ulos.
+Oletko nähnyt Karinia? Etsin kaikkialta,
+mutta turhaan!
+@139
+Mitä!? Karinhan on opettaja Ryuukon...
+Teidän opettajanneko vei Karinin?
+Saamillamme henkilökorteilla pääsee vain
+1. tai 4. kerrokseen.
+Jos hänet on viety muualle, emme voi etsiä häntä...
+Mutta opettaja on hänen mukanaan, joten ei hätää...?
+@140
+Mutta miksi opettaja Ryuuko vei
+vain Karinin?
+@141
+Ai! Arika!
+Löytyikö Karin?
+Ei löytynyt.
+Etsitkö sinäkin Karinia, Arika?
+Kun lopetin simulaattorin ja tulin ulos, Kouji
+pysäytti minut ja pyysi auttamaan Karinin
+etsimisessä. Ja sinun mukaasi, {BUF03},
+opettaja Ryuuko vei Karinin, eikö?
+Ai, joo. Te kaksi olitte uppoutuneet simulaattoriin,
+ja minua pyydettiin antamaan teille kortit...
+Kertomatta edes minne? Mitä ihmettä...
+Etsitään vielä. Hän on ehkä palannut
+1. tai 4. kerrokseen.
+Niin.
+@142
+Kuten arvelin, he ovat loistavia koekaniineja.
+Ryuuko, vie suunnitelman mukaan
+lapset siihen huoneeseen.
+.........
+@143
+Mikä hätänä, Ryuuko?
+@144
+Haluan lopettaa tämän, isä.
+Etkö itse värvännyt neljän kuninkaan lapset?
+Mitä nyt yhtäkkiä? Et kai aio sanoa, että olet
+kiintynyt niihin lapsiin? Se ei ole sinun tapaistasi.
+Jos haluat lomaa, kuuntelen sinua myöhemmin.
+Joka tapauksessa toimi kuten tähänkin asti, niin kuin käsken.
+Luotan sinuun.
+........
+@145
+Hehehheh! Tutkimukseni on vain askeleen päässä!
+@146
+Minä ja Kouji etsimme 1. kerroksesta
+vielä kerran.
+{BUF03}, mene sinä edeltä tutkimaan 4. kerrosta.
+Tapaamispaikka on... katsotaanpa.
+@147
+3. kerroksessa oli tapaamiseen sopiva paikka, eikö?
+Ah, se paikka. Hissin edessä oleva ovi
+aukesi henkilökortilla, mutta sen takana olevat kolme ovea
+olivat kiinni, eikä sisemmäs päässyt...
+Juuri se! Tavataan siellä!
+Selvä.
+@148
+Jos Karinille tapahtuu taas jotain, minä...
+@149
+Ei hätää, Kouji! Opettaja Ryuuko ei ole sellainen,
+joka sieppaisi Karinin tehdäkseen pahaa.
+Voitko oikeasti sanoa noin varmasti? Se opettaja
+vei kylmästi tiedot Medakelloistamme!
+@150
+Opettaja Ryuukollakin on varmasti syynsä...!
+Joo joo, selvä. ...Sinä tosiaan et osaa
+epäillä ketään.
+No, jos mitään ei ole sattunut,
+hyvä niin. Etsitään Karinia.
+@151
+Jep! Mennään!!
+@152
+No niin, minä menen 4. kerrokseen!
+@153
+Täkäläiset vain kehuskelevat,
+eikä heistä ole apua...
+@154
+Sinähän olit menossa 4. kerrokseen! Mene jo!
+Tapaamispaikka on 3. kerros!
+@155
+Viime aikoina täällä on ollut paljon outoja tyyppejä.
+@156
+Hei, oletko nähnyt opettaja Ryuukoa?
+Opettaja Ryuukoa?
+Ai niin, täkäläiset oppilaat eivät tunne häntä.
+Tuota, hän on vähän tuimannäköinen nainen sinisessä hameessa.
+Ai, hän! Näin hänen lähtevän
+rehtorin huoneesta yksin.
+Oikeasti!? Kiitos!
+@157
+Selvä, mennään 3. kerrokseen!
+Arika ja Kouji ovat ehkä saaneet tietää jotain!
+@158
+Rehtori on välillä pelottava.
+@162
+Eivätkö he ole vielä täällä?
+@163
+Olitpa harvinaisen nopea, {BUF03}.
+Löytyikö Karin!?
+@164
+Tuosta päätellen ette kumpikaan
+löytäneet Karinia.
+Etkö sinäkään, {BUF03}?
+En...
+@165
+Ai! Opettaja Ryuuko!
+@166
+Missä Karin on!?
+.......
+Onko jokin vialla, opettaja?
+Ei mitään. Karin on turvassa. Vien teidät hänen luokseen.
+@167
+Ai! Odottakaa!
+@168
+Pidä kiirettä, {BUF03}!
+@169
+(...Opettaja Ryuuko vaikutti jotenkin oudolta...)
+@170
+Nyt ei ole aika kääntyä takaisin!
+@174
+Ei onnistu! Se ei aukea!
+@176
+...Tämä on laboratorio.
+@177
+Karin!
+@178
+Karin! Täälläkö sinä olit!
+...Minä toin hänet tänne.
+Opettaja, miksi...
+..............
+Opettaja...?
+@179
+En pysty tähän enää... En minä
+@180
+...pysty pettämään teitä... Menkää kotiin.
+Hoidan tämän...
+@181
+Petturi!
+@182
+Tuo ääni... Mizuchi!!
+Mistä se kuuluu!?
+@183
+Katon kaiuttimesta!
+Mitä aiot tehdä!?
+Näytän teille kokeen tulokset. Nouskaa lavalle.
+Lavalle?
+Se on tuolla päin. Mutta tämä on ansa, eikö?
+@184
+Ansa...? Opettaja Ryuuko, mitä tämä tarkoittaa?
+...........Minun on pysäytettävä se!
+@185
+Ai! Opettaja!
+@186
+Heh, meitä siis huijattiin.
+Kun kerran on aloittanut, on mentävä loppuun! Minä menen!
+@187
+Ai! Kouji!
+Epäilin sitä jo kauan, mutta se opettaja ja Mizuchi
+punoivat tosiaan jotain kamalaa.
+@188
+Mutta...
+Ei mitään muttia! Nyt taistellaan
+loppuun asti! Mennään, {BUF03}!
+@189
+Mizuchi...
+@190
+Mennään, {BUF03}. Jos se Mizuchi tekee
+väärin, meidän on pysäytettävä hänet.
+...Sitähän "ystävät" tekevät?
+Karin...
+Mennään.
+@191
+...Selvä, mennään!
+@192
+!!
+Kyaa!
+Kyah!
+Mitä!?
+@193
+Meidät on piiritetty!?
+Mitä tämä...?
+@194
+Resonanssijärjestelmä muuntaa aivoaallot
+radioaalloiksi, joten Medaboteille voi antaa käskyjä
+ilman Medakelloa.
+Tänään kokeilemme etäohjausta.
+@195
+Mizuchi, lopeta! Kokeet ovat turhia!
+Isä on... väärässä!
+@196
+Kuka on isä?
+@197
+...En tiedä?
+Hmph, menetitkö rohkeutesi, nyt kun olemme näin pitkällä?
+Tiedät kai, että tutkimuksen viimeistelyyn
+tarvitaan ehdottomasti näiden apua.
+Sitä varten me...
+@198
+Me? Mitä se tarkoittaa?
+@199
+Opettaja Ryuuko! Te ja Mizuchi...!
+@200
+.......
+Opettaja!
+Minun on pysäytettävä laitteet.
+Laitteet?
+@201
+Kuunnelkaa tarkkaan! "Resonanssiaallot", jotka
+hypnotisoivat ja ohjailevat Medabotteja, lähtevät
+neljästä huoneeseen sijoitetusta laitteesta.
+Jakautukaa ja tuhotkaa järjestelmä!
+Minä käytän pääjärjestelmää ja avaan suljetut ovet.
+Kiirehtikää!
+@202
+Ai! Opettaja!!
+@203
+{BUF03}! Meillä ei ole aikaa huolehtia opettajasta!
+@204
+Taas Medabotteja ilman 3 lakia...!
+Pelottavaa...
+Jakaudutaan ja robotellaan!
+@205
+...Huh.
+Eikö ole vielä liian aikaista levätä?
+@206
+Niitä tuli lisää!!
+@207
+Aina sama juttu, hyökätään ylivoimalla! Tylsää!
+Sama juttu? ...Niinkö luulet?
+@208
+Kouji, varo!!
+@209
+Hän käskee Medabotteja hyökkäämään meihin!
+...Melkein.
+@210
+Mizuchi!!
+Jos tottelette kiltisti, en anna
+näiden satuttaa teitä.
+E-ei tule kuuloonkaan!
+@211
+Niinpä! Kuka nyt sinua tottelisi!
+Entä sinä, {BUF03}?
+Tällä menolla ystäväsi loukkaantuvat.
+Mi...
+@212
+{BUF03}! Meistä ei tarvitse huolehtia!
+@213
+Niin! Tästä selvitään kyllä!
+@214
+Minäkin teen parhaani!
+@215
+Kaikki...
+Kaunista ystävyyttä. Mitä hyötyä siitä?
+Hyökkään!!
+@216
+Hän tuo varmasti taas monta lisää! Tällä menolla
+tästä ei tule mitään.
+Opettaja Ryuuko sanoi äsken, että tässä huoneessa on neljä
+järjestelmää. Tuhotaan ne! Silloin nämä Medabotit
+eivät enää ole Mizuchin marionetteja, eikö?
+Voiko häneen luottaa!?
+Se opettaja houkutteli meidät ansaan yhdessä Mizuchin kanssa!
+Niinpä! Tähänkin asti se opettaja on aina...!
+Ei ole aikaa epäröidä. Minä menen!
+@217
+Karin!?
+Mi... Karin!!
+@218
+Älkää päästäkö häntä karkuun!
+@219
+Karin! Kouji!
+@220
+Mitä sinä teet, {BUF03}! Järjestelmiä on neljä, eikö?
+Jätä tuo puoli heille. Me menemme tuonne!
+@221
+Arika!?
+@222
+Kyaa! Älkää tulko lähemmäs!
+Arika on vaarassa!?
+@223
+Kyaa! Päästäkää irti!
+@224
+Olen huolissani Karinista ja Koujistakin,
+mutta en voi jättää Arikaa!
+@225
+Ei onnistu... Se ei aukea millään.
+@226
+Hei, älkää koskeko minuun!!
+@227
+Voi ei!
+Te siellä! Joukolla tytön kimppuun, kuinka pelkurimaista!!
+@228
+{BUF03}...♥
+Minä olen teidän vastustajanne!!
+@229
+Gu...ga...ga
+@230
+Huh, huh... ugh.
+@231
+{BUF03}!
+@232
+......En halua.
+{BUF03}, mikä...
+Nyt riittää tällainen taistelu! En halua robotella
+ohjailtujen Medabottien kanssa! Tämä... ei ole robottelua!
+Ai...
+.......
+@233
+Kuule, {BUF03}, siksihän
+me teemme parhaamme, eikö?
+Niin oli professori Hebereken aikaankin.
+Ihmisiä, jotka käyttävät Medabotteja vain omaksi hyödykseen,
+olemme yrittäneet kovasti pysäyttää
+koko ajan, eikö?
+Siksi taistelemme, jotta tämä taistelu loppuisi.
+...Eikö niin?
+@234
+Arika... Sanotpa välillä fiksujakin.
+Sinä puhut aina yhden sanan liikaa!
+@235
+Ei olisi tarvinnut lyödä...
+@236
+Hmph!
+@237
+Ovi aukesi!
+@238
+Avasikohan opettaja Ryuuko oven meille?
+Mennään! Murskataan se järjestelmä,
+josta opettaja puhui! Minä ylös! Sinä alas!
+S-selvä!
+@239
+Selvä, mennään!
+Tuhotaan Medabotteja ohjaava laite!
+@240
+En voi palata nyt!
+@241
+Jätetään tämä puoli Arikalle!
+@242
+Tämän laitteen takia Medabotit...!
+...Selvä! Tuhoan sen!
+Tuota, millä osalla...
+@243
+Taas...!
+Gaaah!!
+@244
+Gu..guga...ga
+Mitä!? Jokin on vialla?
+@245
+Hups!
+@246
+Waa!
+Ga...ga
+@247
+(Aut...takaa...)
+@248
+Mi...tä?
+@249
+Ai...
+@250
+(Kuulin juuri päässäni selvästi "auttakaa"...)
+...........
+@251
+Ei saa masentua... Se Medabotti tuhosi varmasti
+tämän laitteen omasta tahdostaan...
+@252
+En saa hävitä! Kun yhdistämme voimamme,
+voitamme varmasti! ...Palataan muiden luo!
+@253
+Laite näyttää pysähtyneen.
+@265
+Ai! Siinä hän on! Hei!
+@266
+Onnistuitte kaikki! Huh, hyvä!
+@267
+Ei se mikään hyvä ollut! Meille kävi tosi kurjasti!
+Se Mizuchi-retku paljasti vihdoin todellisen luontonsa!
+@268
+Häh? Opettaja! Missä opettaja on!?
+Nyt kun mainitsit, en ole nähnyt häntä.
+En minäkään tiedä.
+Tuota, en oikein ymmärrä,
+mitä se Mizuchi ja se naisopettaja oikein ovat...
+@269
+Hmph, olisi ikävää, jos tämä loppuisi näin.
+Ensimmäinen vaihe läpäisty. Avasin ulko-oven.
+Jatkakaa.
+@270
+Mizuchi, mitä teit opettajalle!
+Pettureita on rangaistava.
+@271
+Eikö opettaja ole sinun siskosi!?
+Sama se. Kaikki suunnitelmani estäjät ovat vihollisia!!
+@272
+Näytä itsesi!
+@273
+Pelkuri!
+Jos haluat tavata minut, tule tänne asti.
+Tämä ei ole vielä mitään. Saatte maistaa
+todellista kauhua.
+Senkin...!!
+@274
+Ärsyttää, kun meitä pompotellaan
+noin selvästi!
+@275
+Mennään, kaikki. Ansa tai ei,
+meidän on pakko mennä!
+Totta kai!
+Minäkin teen parhaani.
+@276
+Lukossa.
+@280
+Kuulin juuri oven sulkeutuvan...
+Inhottavaa, totisesti.
+@281
+Suljin oven, jota käytitte tullessanne.
+Sen sijaan...
+@282
+avasin vasemman ja oikean oven. Päästäksenne
+pois kerroksesta teidän on painettava kahden laitteen
+kytkimiä yhtä aikaa. Yrittäkää parhaanne.
+Hän nauttii pelistään! Meille,
+joita pakotetaan mukaan, tämä on sietämätöntä!
+@283
+Meidän täytyy kai jakautua kahteen ryhmään.

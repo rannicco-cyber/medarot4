@@ -1,0 +1,861 @@
+@010
+Uwaa, mutaista!
+@011
+Älä välitä, mennään!
+@012
+Turha kääntyä nyt takaisin.
+@013
+M-minut jätettiin jälkeen,\nrobooo!
+@014
+Miksi kiusaat, robooo!?
+@015
+Ui ui, uimapulla♪
+@016
+Tästä ei pääse ilman lupaa, robo!
+Kenen lupaa?
+??? ...Kuka tietää?
+Vai niin. Me menemme sitten läpi.
+E-ei käy, robo!
+@017
+Iiik, robo!
+@018
+Ä-älä kiusaa, robooo!
+Enhän minä kiusaa...
+@019
+Hii! Iiik!
+Pyydän, robo! Älä kiusaa, robo!
+En minä kiusaa.
+Ah! Tiedän, robo!
+Annan edessä olevan aarteen, jos annat anteeksi, robo!
+Kun siis... hmm, no, olkoon.
+Otetaan, mitä saadaan!
+@020
+................
+@022
+Olin hölmö, kun odotin\njotain Roboroboilta...
+@029
+Tästä ei pääse ilman lupaa, robo!
+...Taasko?
+@030
+Kerron Sakekasulle, robooo!
+@031
+Tästä ei...
+Robotellaan nyt vain äkkiä.
+...Olet kärsimätön, robo.
+@032
+Näin siinä aina käy, robo...
+@033
+Ah! Uloskäynti!
+Vihdoin pääsemme ulos~
+@034
+Tervetuloa.
+@035
+Hakuma... mitä sinä teet?
+{BUF03}, tulit käymään.
+Teemme täällä töitä incognitona,
+jotta tästä tulisi parempi kylä asua.
+Vai niin. Keitä ovat "me"...?
+Byakuya tietysti myös.
+@036
+Byakuyaaa! Asiakas tuli!
+@037
+Ah! Sinä!
+Pitkästä aikaa.
+Mitä pidät uudestisyntyneestä Shinran luomiskylästä?
+Kaikki ovat sekaisin, kun te lähditte...
+Herra Hakuma sanoi: "Kun he luottavat minuun,
+heidän omatoimisuutensa ei kehity", joten hän päätti
+tukea kylää salaa täältä.
+Pitäkää siis salassa,
+että olemme täällä.
+T-tietysti! (Ihme, ettei tämä paljastu...)
+Hei! Robotellaanko pitkästä aikaa?
+...Mikä ettei. Muuten, kumman kanssa
+haluat robotella, minun vai herra Hakuman?
+@038
+Hakuma
+Byakuya
+En sittenkään
+@039
+Selvä. Odota hetki.
+@040
+Tästä tulee.
+@041
+Vaikuttavaa, {BUF03}.
+Olet yhtä vahva kuin ennenkin, Hakuma.
+Fufu... Tule taas käymään.
+@042
+Aloitetaan.
+@043
+...Olet hyvä.
+Byakuya, minä olen tässä vahtinut kauppaa.
+@044
+Ah, kyllä! Heti!
+@045
+Nähdään taas.
+Joo, nähdään.
+@046
+Ei sittenkään.
+Sinähän sen ehdotit! Olet vastuuton!
+A-anteeksi...
+@047
+Hei, {BUF03}. Robotellaanko taas?
+Mitähän tekisi?
+@048
+Hakuma!
+Byakuya!
+En sittenkään
+@049
+Aloitetaan.
+@050
+Tämä oli mukavaa vaihtelua. Kiitos.
+Joo! Tsemppiä, Hakuma!
+@051
+Selvä. Odota hetki.
+@052
+Fufu, en häviä.
+@053
+.........
+@054
+Byakuya alkoi harjoitella takahuoneessa.
+A-ai jaa...
+@055
+Vai niin...
+Tule käymään milloin vain.
+@056
+Vau!
+@057
+Vielä maalaisempaa kuin Omikuji...
+Myöhässä!
+@058
+Kouji...
+Olit jo täällä...
+Tietysti! Olen odottanut täällä viisi tuntia!!
+V-viisi tuntia!?
+Eikö se ole ennen aamunkoittoa...?
+Öh... n-no, kun saavuin tänne,
+oli ehkä vielä hämärää.
+Myönnä nyt vain...
+@059
+Ah! Katsokaa!
+@060
+Eikö peltoja kyntävät ole kaikki lapsia?
+Totta!
+@061
+Ei vain pelloilla, täällä on pelkkiä lapsia.
+Millainen kylä tämä oikein on...
+@062
+!? ...Miksi tuo pikkulapsi\nkantaa vesisankoa?
+@063
+Buaaa! Sattuuu!
+@064
+Oletko kunnossa!?
+Älkää auttako!
+@065
+Tässä kylässä tavoitellaan lasten omatoimisuutta.
+Täällä kaikki elävät omavaraisesti ilman aikuisten apua.
+...No niin, pääset kai itse ylös?
+K-kyllä...
+@066
+Mene hakemaan läikkynyt vesi uudestaan.
+Kyllä...
+@067
+Hei, eikö tuo ole liian julmaa?
+Noin pienelle tytölle!
+@068
+Se on täällä sääntö. Iällä ei ole väliä.
+...Ettekö tekin tulisi oppimaan kanssamme tähän kylään,
+miten eletään omin voimin?
+Tulkaa rakennukseen nimeltä "Shinran metsä" opiskelemaan
+herra Hakuman oppeja.
+@069
+"Hakuma"... Hei, tuota...
+Minä lähden tästä.
+@070
+Onpa pelottavaa.
+Rehellisesti sanottuna en halua sotkeutua tähän.
+Mutta se tyttö sanoi tosiaan "Hakuma".
+Hakumahan on lännen kuninkaan nimi? Jos niin...
+Lännen kuninkaasta ei ole vielä tarpeeksi tietoa.
+Tietoa pitää kerätä kunnolla!
+Ei auta kuin mennä.
+Niin. Sitten
+jaetaan tehtävät ja kerätään tietoa!
+@071
+Nyt ei voi kääntyä takaisin.
+@072
+Jos tähän koskee luvatta,\ntulee varmasti moitteita.
+@073
+Häh? En ole nähnyt sinua.\nOletko uusi oppilas?
+@074
+No? Oletko jo kotiutunut?
+@075
+Täällä on aika mukava asua. Ilmakin on puhdasta.
+Jos leikkipaikkoja olisi vähän enemmän, olisi täydellistä.
+@076
+Täällä aika tuntuu\nkulkevan hitaasti...
+@077
+Liittyisitkö sinäkin herra Hakuman faniklubiin?
+Häh!? Olen poika.
+Ai, oletko?
+...............
+@078
+Hakuman faniklubi ottaa\njäseniksi tyttöjä ja poikia!
+@079
+Herra Hakuman opit ovat mahtavia!
+Miten mahtavia?
+No, mahtavia!
+@080
+Täällä tytötkin tekevät peltotöitä,
+jotta voisimme elää aikuisiin turvautumatta.
+@081
+Uh, peltotyö käy selkään.
+@082
+Kas, uusi oppilas. Herra Hakuman opit leviävät,
+se on todiste. Kerrassaan hienoa!
+@083
+Täkäläiset opettajat ovat Toranishi-akatemiasta
+lähetettyjä Hakuma-kaartin jäseniä.
+@084
+Opi hyvin, leiki hyvin. Se on lapsen oikea tapa elää.
+Ja sen toteuttamiseksi herra Hakuma
+perusti tämän paikan.
+@085
+Hyvää päivää.
+Moi.
+Sano "hyvää päivää"! Joka ei osaa tervehtiä,
+ei kasva kunnon aikuiseksi!
+M-mitä ihmettä...
+@086
+Asuntolaan tullut uusi tyttö on söpö.
+Vähän outo.
+@087
+Hmm, ihanaa! Herra Hakuman opeissa
+ei ole yhtään vikaa!
+...Niinköhän.
+Niin on! Sanoi kuka mitä tahansa!
+@088
+Uwaa! M-mehiläinen!
+@089
+...Huh.
+@090
+Outoa! Kierrän samaa paikkaa ympyrää!
+Onko sinulla huono suuntavaisto?
+Aah! En ehdi sovittuun aikaan!
+@091
+Uwaa, en tajua! Mitä minun pitäisi tehdä!!!
+(Onkohan hänellä treffit sen tytön kanssa...?)
+Tuota...
+Hm, mitä?
+Alempana joku odotti.
+Mitä! Kiitos tiedosta! Lähden heti!
+@092
+T-tämä paikka...!? Tuntuu\ntutulta!!
+@093
+Aaaah!!! En tajua enää!
+Vakava tapaus...
+@094
+Shinran pojat metelöivät tuolla...
+Eikö heitä moitita, kun tulevat tänne?
+@095
+"Shinran metsän" oppilailta\npääsy tänne on kielletty.
+@096
+Nnh... En pääse sovittuun paikkaan ikinä!
+Sitten jään tähän paikoilleni!
+Onko täällä niin helppo eksyä?
+@097
+En liiku enää mihinkään!
+@098
+Täällä on aina eloisaa.
+@099
+Tämä on Toranishin auditorio.
+@100
+Kaksi kauppaa on kätevää.
+@101
+Tämä kaupunki on oudon muotoinen, eikö?
+Herra Hakuman mukaan se on suunniteltu
+fengshuin tai jonkin mukaan. En ymmärrä sitä.
+@102
+Ah! Pensaassa on joku!
+Mitä sinä! Minulla on kiire!
+Jätä minut rauhaan!
+Ei hän näytä kovin kiireiseltä...
+@103
+Roskaaminen kielletty!
+@104
+Tällä valvotaan koko\nakatemiaa.
+@105
+Iso näyttö...
+@106
+Ei mitään kiinnostavaa\nnäkyvissä.
+@107
+Tämä näyttö näyttää kalliilta.
+@108
+Hm? Mikä tämä on?
+Ah! Tämähän on!
+@109
+Täällä on paljon Hakuman\nkirjoittamia kirjoja...
+@110
+Paljon vaikean näköisiä\nkirjoja...
+@111
+Paljon sarjakuvia ja lehtiä.
+@112
+En tiedä mikä, mutta\nvaikuttava kone...
+@113
+Ruudulla lukee "Toranishi-\nakatemian tulevat linjaukset".
+@114
+Ah!!!
+@115
+Olen "Umpikujaukko". Pidätkö umpikujista?
+Häh? Umpikujista, siis teistä, jotka loppuvat?
+Vai pidät! Niinpä tietysti, niinpä!
+E-en oikeastaan...
+Elämässä törmää umpikujaan monesti.
+Umpikujat ovat täynnä ihmisten vaivaa, hikeä ja kyyneliä.
+Ahaa, vai niin...
+Siksi umpikujista pitävälle sinulle
+olen järjestänyt lahjoja. Niitä on viidessä paikassa. Jos löydät ne,
+ota ne vapaasti.
+@116
+Öh...
+@117
+Vielä 5! Tsemppiä!
+@118
+Vielä 4! Jaksaa!
+@119
+Vielä 3! Sisua!
+@120
+Vielä 2! Hep!
+@121
+Vielä 1! Hiiohoi!
+@122
+Hienoa... löysit ne kaikki! Saat erityisesti
+arvonimen "Umpikujaukko II"! Eikö ilahduta!
+Mitä tuo nyt on...
+Hm? Etkö halua? Ota sitten tämä.
+@123
+Umpikuja on elämäni!
+@124
+Ah! Maassa on kirjekuori!
+Sisällä on rahaa ja kirje...
+"Hyvin löydetty, siinä on umpikujien ystävä!
+Raha on taskurahaa, ota se.
+...Terveisin Umpikujaukko"
+No, otetaan se.
+@125
+Ah! Maassa on outo laatikko!
+Sisällä on osa ja kirje...
+"Hyvin löydetty, siinä on umpikujien ystävä!
+Osa on lahja, ota se.
+...Terveisin Umpikujaukko"
+No, otetaan se.
+@128
+Ah! Maassa on outo laatikko!
+Sisällä on osa ja kirje...
+"Hyvin löydetty, siinä on umpikujien ystävä!
+Osa on lahja, ota se."
+No, otetaan se.
+@129
+Täällä on yllättävän\npaljon tilaa.
+@130
+Kas, tuliko jo ikävä?
+Olet aika ikävöijä~♥
+E-en ole!
+Vitsi vain.
+Minä teen parhaani, joten tee sinäkin.
+Tiedän.
+Hyvä♪ Nähdään myöhemmin.
+@131
+Millainenkohan tyyppi\nHakuma on?
+@132
+Täällä on Shinran metsäkoulu.
+@133
+Kerätään vielä vähän\ntietoa tältä seudulta.
+@134
+Shinran lapset tekevät\nitse kaiken, mitä syövät.
+@135
+Omavaraisuus tekee lapsista\nkunnollisia ja itsenäisiä.
+@136
+Terve sielu terveessä ruumiissa!
+Tämä on työn iloa!
+Ö-öh...
+@137
+Keho on pääoma!\nTerveys ensin!
+@138
+Täällä on vain vihanneksia, joten lihaa ei juuri saa.
+Aah! Haluan grillilihaa!
+@139
+Haluan suolattua kieltä~!\nNoin 20 annosta!
+@140
+Täällä pulpetin ääressä opiskelun lisäksi
+urheilu ja pelit Medabottien kanssa
+ovat tärkeää oppimista.
+@141
+Aah, haluaisin minäkin\nostoskadulle.
+@142
+Herra Hakuma on kuulemma palannut.
+Onkohan se totta?
+@143
+Tässä lukee "Medabotin 3 lakia"... mutta
+ne on yliviivattu isolla ristillä...
+@144
+Tervetuloa.
+Ah... k-kiitos, tervetulin.
+(Vastaanotossakin on lapsi...)
+@145
+Kun herra Hakuma lähti täältä,
+oppilaita on tullut paljon vähemmän.
+@146
+Taas kokous...
+Miten kaikki jaksavat näin tylsää elämää?
+@147
+Herra Hakuman opit ovat ihania!
+Sinäkin ajattelet niin?
+Häh? No, tuota...
+Herra Hakuma on suuri...
+Hän kysyi, mutta ei kuunnellut vastausta...
+@148
+Peltotyö aamusta asti\nkäy voimille...
+@149
+"Medabotin 3 lakia"...
+Olisiko parempi ilman, kuten herra Hakuma sanoo...
+@150
+Täällä kasvavat\nvihannekset ovat hyviä.
+@151
+"Medabotin jalkaosien ja maaston yhteensopivuudesta"
+...Medabottikirja.
+@152
+Täällä on Medabottikirja.
+@153
+Häh, minnekähän panin sen kirjan?
+Aioin tutkia jalkaosien ja maaston
+yhteensopivuutta...
+@154
+Häh, minnekähän panin sen kirjan?
+Aioin tutkia jalkaosien ja maaston
+yhteensopivuutta...
+Tarkoitatko kenties pöydällä olevaa kirjaa?
+@155
+Häh? Siinäkö se oli!? ...Nolottaa...
+Mutta kiitos, kun kerroit. Saat tämän kiitokseksi.
+Pidä siitä huolta♥
+@156
+Mietin, missä maastossa\nSharin on vahva.
+@157
+Täällä elää aika mukavasti, kunhan noudattaa sääntöjä,
+joten mallioppilaille tämä on hyvä paikka.
+@158
+...ja siksi siis...
+@159
+Täällä opettajakin on lapsi!?
+@160
+Sinä siellä! Istu\näkkiä paikallesi.
+@161
+Häh? Öh...
+@162
+Medabottia kasvattavalle medabottaajalle
+kanssakäyminen Medabotin kanssa edistää paitsi Medabotin,
+myös medabottaajan omien aivojen kehitystä.
+Vaikutus on lapsilla suurempi kuin aikuisilla.
+Shinran luomiskylässä katkaisemme yhteyden aikuisiin ja
+annamme perusteellista opetusta luodaksemme
+parempia ihmisiä.
+(E-en ymmärrä, mutta tämä pelottaa...)
+Sinä siellä!
+@163
+K-kyllä!?
+Luettele "Medabotin 3 lakia"!
+"Medabotin 3 lakia"?
+T-tuota...
+Medabotti... "1. laki":
+ei saa tahallaan vahingoittaa ihmistä.
+"2. laki": se ei saa katsoa sivusta,
+kun ihminen on vaarassa.
+"3. laki": rikkomatta 1. ja 2. lakia
+se ei saa aiheuttaa toiselle Medabotille
+kohtalokasta vauriota.
+...Eikö niin?
+Hyvä. Tähän asti jokainen medabottaaja
+tietää sen itsestään selvästi.
+Medabotteja sitovista säännöistä
+vapautamme heidät! Ja rakennamme ihmisten ja Medabottien
+todellisen utopian!
+@164
+(Pelottavaa...)
+@165
+Johtajamme herra Hakuman opit ovat ehdottomia.
+Tämän päivän tunti päättyy tähän.
+Loput opiskellaan itse.
+@166
+H-hei, tuota... "Hakuma",\nonko hän se kuningas...
+@167
+Älä puhu hänestä noin tuttavallisesti!
+Sano "herra Hakuma"! Herra Hakuma on lännen kuningas
+ja tämän Shinran luomiskylän perustaja!
+Sinunlaisesi ei saa puhua hänestä noin!
+@168
+A-ai jaa...
+Kun ymmärsit, opiskele sinäkin!
+Tekemistä riittää varmasti!
+@169
+Tämä kantopulpetti on\naika tyylikäs.
+@170
+Älä häiritse toisten opiskelua!
+@171
+Kuka keksi ne turhat\nMedabotin 3 lakia!
+@172
+.................
+...Torkkuuko hän?
+@173
+Ah! Tunti loppui\nhuomaamatta!?
+@174
+Kun yrittää valvoa,
+alkaakin nukuttaa...
+Tuttu juttu.
+@175
+Toinen neljästä kuninkaasta, "Hakuma"...
+Toisin kuin Kokuenia, häntä näytetään
+kunnioittavan paljon. Millainen hän on?
+Hänen oppinsa on kai "Medabotin 3 lain" poistaminen,
+mutta miksi...
+@176
+En-kä-tu-le!
+En mene kokoukseen! Parempi ottaa päiväunet ulkona!
+@177
+Voi sentään...
+@178
+Kuka tuo oli?
+Yhteiselämässä aina joku
+on ongelmalapsi. Hankalaa...
+@179
+Ongelmalapsi, vai...
+@180
+Voisiko hän olla Libertiesin jäsen?
+Hmm, ei, jäsen yleensä toimisi huomaamattomasti...
+.........
+Turha miettiä. Selvitetään asia.
+@181
+(Ah! Tuolla! Se tyttö.)
+@182
+(Libertiesin tunnussana oli...)
+L... "Lähdetäänkö kahville?"
+@183
+Mitä tuo on?
+Yritätkö iskeä?
+@184
+Ai, ei, tämä...
+J-jos ei kiinnosta, ei se haittaa.
+@185
+Odota.
+@186
+Lähden mukaan. Oli muutenkin tylsää.
+...Minne mennään?
+@187
+Minne... (En ole miettinyt sitä~)
+Mitä~? Pyysit mukaan etkä miettinyt mitään?
+Ai, tuota... Vaikka kahvilaan.
+Pfft, hölmö!
+Eihän täällä sellaista paikkaa ole!
+Eikä ala-astelaisten kai pidä mennä kahdestaan kahvilaan?
+@188
+!!!! (Olen käynyt niissä ihan huoletta!)
+Ahaha, outo tyyppi! ...No, lähden mukaan.
+Et näytä tietävän tästä paikasta mitään,
+joten vien sinut lempipaikkaani.
+Se on täältä vasemmalla alhaalla sillan toisella puolella.
+@189
+...Etkö sinä viekään\nminua sinne?
+@190
+Kouji! Miten menee?
+Toistaiseksi ei kummoista tietoa.
+Vai niin...
+Odota... Karin! Pelastan sinut pian!
+@191
+Hei! Etsi sinäkin vihjeitä äkkiä!
+@192
+Hmhm, entä sitten?
+Arika, miten menee?
+@193
+Hei! Minulla on kiire, älä häiritse!
+Älä sinäkään laiskottele, vaan kerää tietoa!
+@194
+Minä vain juttelin...
+@198
+...ja Toranishi-akatemia\non sukupolvia herra Hakuman...
+@199
+Hmm... Kinokoa ei voi\njättää yksin.
+@200
+Tänne♥
+@201
+Tyttö menee omaa tahtiaan.
+@202
+Ai niin! Kuka sinä olet?\nMinä olen Maitake Kinoko.
+@203
+Olen Tenryou {BUF03}.
+Hmm, {BUF03}.
+Sano minua Kinokoksi. Hauska tavata!
+Ai, joo, hauska tavata.
+Tuota, muuten, tämä paikka...
+@204
+Aah! Tämä ärsyttää. Kaikki täällä ovat jotenkin outoja.
+Ei persoonallisuutta, sameat silmät, tylsää.
+Täällä on vain lapsia. Miksi?
+@205
+Vanhemmat tuovat lapsensa tänne itsenäistymään.
+Jotain sellaista kuin "lapsen omatoimisuuden herättämiseksi".
+Koko kylä on siis kuin koulu?
+No, jotain sinnepäin. Mutta täällä on pelkkiä sääntöjä.
+Vähänkin eri tavalla ajattelevia lapsia ei suvaita.
+Täällä ollessa omatoimisuuden sijaan lapsista tulee sellaisia,
+jotka eivät osaa mitään ilman sääntöjä.
+Sinä olet kuitenkin erilainen, Kinoko.
+Minäkö? Koska olen tällainen, saan usein rangaistuksia.
+Kuten "ulkonaliikkumiskiellon".
+@206
+...Olen jo tottunut!
+@207
+Sinulla on rankkaa...
+@208
+Hei, mennään seuraavaan paikkaan.
+Häh? Tuota...
+Täältä alas mentäessä on pieni ostoskatu.
+"Shinran metsän" oppilaiden
+ei oikeastaan pitäisi mennä sinne.
+Häh? Saako sinne mennä?
+Ei hätää, ei hätää!
+@209
+(Mitä minä oikein teen...)
+@210
+No niin, mennään!
+@211
+Oota ny!
+@212
+Roborobo-jengin tarhapomo Salami! Miksi sinä täällä!?
+Sopimaton seurustelu on kiellettyä, tiijätkö!
+@213
+E-ei käy, robo!
+@214
+Joten lähdemme tänään\naikaisin kotiin, robo.
+@215
+Hei! ...Te olette ihan surkeita!
+@216
+Sitten mä oon sun vastustaja!
+@217
+Mä en palaa Roborobo-jengiin! Herra Hakuman
+alaisena mä elän "Sara Mitsuona"!
+Sunkin pitää totella herra Hakumaa!
+Ja rakennetaan "Uusi Hakuman imperiumi"!
+Hakuma...
+Neljän kuninkaan "Byakkon Hakuma", alueen hallitsija.
+@218
+Taps taps, hyvä!
+Sä sait mut tosissaan! Nyt mä suutuin!
+@219
+Vaikka sä oot vahva, meitä on enemmän!
+Hakuman kätyreistä tulee siis pelkureita.
+Hän on aina ollut alhainen.
+Ei enää uhoa! Valmistaudu!
+@220
+(Paeta ei voi, kun Kinokokin on täällä. Hankalaa...)
+Voi että, ei auta.
+@221
+Teidän vuoronne!
+@222
+A-auts, robo!
+@223
+Perääntykää, robooo!!!!
+@224
+...!? Odottakaa, robo!!!
+@225
+Hei te! Ei saa karata!
+@226
+M-muistakaa tämä!!
+@227
+Kiitti, hyvää työtä♥
+@228
+...?
+Mitä tapahtui?
+No, "lähdetäänkö kahville?", eikö?
+.......Tuota......
+Etkö vieläkään tajua?
+@229
+!! ...Eli Kinoko, sinä olet Libertiesistä!?
+Shh, liian kovaa!
+...Siksihän sinä puhuit minulle, eikö?
+Oikein♥
+Nykyään ei edes ala-astelainen lankea sellaiseen iskuun!
+Ai, niinpä tietysti~ (..........)
+Ahaha! No, jos jotain tulee, puhu taas minulle.
+En tosin tiedä, voinko auttaa.
+@230
+...Tyttö on kuin taifuuni.
+Mutta että se saa jopa Salamin tottelemaan...
+"Byakkon Hakuma"... millainen hän on?
+@231
+Huh, huh.
+@232
+Tänne asti ne ei tuu perään.
+@233
+Mitä sä? Pois tieltä!
+Hmph, häviäjällä ei ole oikeutta suurennella.
+@234
+M-mä voin vielä taistella!
+Niinkö? Fufu, älä unohda noita sanoja.
+@235
+Tuota...
+@236
+Kun kerran olen täällä,\ntutkitaan ostoskatua.
+@237
+Hm? Tähän on kirjoitettu jotain.
+"Olen idolien ystävä, Idolipomo!
+Kuulin, että Hanazono-akatemian idoli Karin on kadoksissa,
+joten kiiruhdin Shinraan. Mutta itse Toranishi-akatemiaan
+en pääse sisään. Mitä teen...?"
+Miksi kirjoittaa tänne...
+@238
+Täynnä jäätelöä.
+@239
+Kasvot kopioimalla saisi\nnaamarin.
+@240
+Medabottien huoltotuotteita.
+"Kaikkeen likaan yksi pullo! Quick Medaro Cleaner!"
+@241
+Medabottien huoltotuotteita.
+"Kerran käytät, liike muuttuu! Kulumisen estävä Medaro Up!"
+@242
+Medabottien huoltotuotteita.
+"Kiristä veltto motivaatio! Silloin Ab Medabot!"
+@243
+Medabottien huoltotuotteita.
+"Siistin medabottaajan pakkotuote! Eagle Medaro Sunglasses!"
+@244
+T... tämähän on "Retort katsucurry-udon"!?
+Onko tämä valmisruokana myytävä katsucurry-udon, vai
+Retortin syömä katsucurry-udon...
+Uuh... tämä vain mutkistuu...
+@245
+Täysin tavallista ruokaa.
+...Tylsää.
+@246
+Erittäin järkevää ruokaa.
+...Tylsää.
+@247
+Ruokaa, jota on joka kaupassa.
+...Tylsää.
+@248
+Lehti.
+"Sieppaus yhä ratkaisematta"
+...Karin.
+@249
+Sanomalehti.
+"Medaropoliksen sieppaus yhä ratkaisematta"
+Hm? Tämä ei olekaan tämän päivän lehti.
+Kauankohan sitä pidetään täällä...
+@250
+Kirjoja.
+"Paljastus! Kaikki Marcosta", kirj. Touhouken Bunroku
+...Ostaakohan kukaan tuota?
+@251
+Hyvä, Comic BonBoniakin\nmyydään.
+@252
+Paljon pullomehuja.
+@253
+Jos ostaa, niin mieluiten\njotain kaupanpäällisen kera.
+@254
+Jääkaapissa on ketsuppia!?
+@255
+Jääkaapissa on majoneesia!?
+@256
+Siirretty yksin tällaiselle\nmaaseudulle. Huono tuuri.
+@257
+Hm? Tähän on kirjoitettu jotain.
+"Olen Idolipomo (2)! Haluan pelastaa
+Hanazono-akatemian idolin Karinin, mutta en pääse Toranishi-akatemiaan.
+Joten keksin! Piiloudun kaupan takana oleviin pensaisiin
+ja odotan, että joku pelastaa hänet! Jee! Olen nero!"
+@258
+Jos tämä olisi Omikujin kauppa, tässä Hikaru aina
+katsoo televisiota töiden sijaan.
+"Ei se mitään, ei minulla ole muuta tekemistä."
+Kuulostiko tuo häneltä?
+@259
+({BUF03}...)
+@260
+!?
+@261
+"Herra Hakumakin syö tätä!\nShinra-jäätelö myynnissä"
+@262
+Ah! Sisällä on paperi!
+Joku on unohtanut sen.
+@263
+Medabottien huoltotuotteita.
+"Medabotin reaktio paljon nopeampi! Medaro Magic!"
+@264
+Medabottien huoltotuotteita.
+"Meda Tigerinkin suosikki! Panssaria lisää Medaflex!"
+@265
+Medabottien huoltotuotteita.
+"Heikoille iskuille hyvästit! Voimaa! Medamax!"
+@266
+Medabottien huoltotuotteita.
+"Vahva! Upea! Siisti! Tarujen esine Medablade!"
+@267
+Pikanuudeleita.
+@268
+Kaikenlaisia makeisia.
+@269
+Leipää. Näyttää ihan leivältä.
+@270
+Täällä on paljon\nmyymättä jääneitä tuotteita.
+@271
+Kaikenlaisia lehtiä.
+@272
+Ai, sanomalehti.
+"Mestarivaras Retortin henkilöllisyys selviämässä!" ...vai niin.
+@273
+Paljon Medabotteihin\nliittyviä kirjoja.
+@274
+Viileää!
+@275
+Älä jätä jääkaapin ovea auki!
+@276
+................
+@277
+10 litran pullo!?
+En jaksa juoda noin paljon.
+@278
+"Select-mehu".
+En tarvitse.
+@279
+"Roborobo-mehu".
+En tarvitse.
+@280
+Tämä on Toranishi-\nakatemian sisäänkäynti.
+@281
+Viereinen kauppa...\non selvästi outo!
+@282
+Moro, poika! Ostaisitko jotain?
+(O-outo lapsi...) ...Mitä myyt?
+No, tämänkertainen suositus on...
+"Mister Uruchin luonnollisen kokoinen nukke"!!
+...En tarvitse.
+Vai niin... No, tule uudestaan, jos huvittaa.
+@283
+Moro! Tulit taas! Tämänkertainen suositus on...
+Hämmästy! "Arc Beetle!
+Haluan!!!!!
+...-mallin jäänaskali"!
+Mitä ihmettä...
+@284
+Moro! Tulit taas! Tämä on mahtava!
+Miehen sana pitää! "Päällikkö Tokkurin aito valokuva"!
+Retortin kuvan ottaisin, mutta tuota en tarvitse.
+Vai niin. Kaupanpäällisenä olisi ollut Medalia...
+Sittenkin haluan!!!
+Miehen sana pitää!
+Voi ei...
+@285
+Moro! Nyt myyn tosissani! Ja se on "God Emperor"!
+Haluaaan!!! Paljonko?
+50000 pesoliiraa.
+Minkä maan valuuttaa tuo on?
