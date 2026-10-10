@@ -19,7 +19,7 @@ The translation and engine modifications are a work in progress. The branch cont
 - Python 3.6 or newer, available as `python3`.
 - The [RGBDS toolchain](https://github.com/rednex/rgbds), version 0.7.0 or newer.
 
-The original ROM is not included in this repository. You must supply your own legally obtained copy. The upstream project also supports the Medarot 3 KUWAGATA ROM, but this branch's Finnish translation work primarily targets Medarot 4 KABUTO.
+The original ROM is not included in this repository. You must supply your own legally obtained copy. The upstream project also supports the Medarot 4 KUWAGATA ROM, but this branch's Finnish translation work primarily targets Medarot 4 KABUTO.
 
 ## Build the Finnish ROM
 
